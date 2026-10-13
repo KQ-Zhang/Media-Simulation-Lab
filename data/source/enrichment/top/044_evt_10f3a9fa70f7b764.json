@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_10f3a9fa70f7b764",
+  "verification_status": "partially_verified",
+  "confidence": "0.95",
+  "canonical_event_name": "湖南长沙浏阳市华盛烟花制造燃放有限公司“5·4”特别重大爆炸事故",
+  "factual_description": "2026年5月4日16时43分许，湖南省长沙市浏阳市官渡镇的浏阳市华盛烟花制造燃放有限公司车间发生特别重大爆炸事故。事故发生后，湖南省及长沙市启动应急预案，调派多支救援队伍及消防机器人进入现场开展搜救与抢险处置。受爆炸强大冲击影响，周边约500米范围内的民房门窗严重受损，官方划定了核心救援区与管控区并转移受威胁群众。随着搜救与摸排推进，伤亡人数逐渐上升，截至2026年5月8日12时，事故已造成37人死亡、61人受伤、1人失联。事故发生后，长沙市委副书记、市长陈博彰向遇难者及社会诚恳致歉；公安机关依法对涉事企业负责人采取控制措施；浏阳市烟花爆竹生产企业全面停产整顿。国务院随后成立事故调查组，开展全方位深入调查。",
+  "event_time": {
+    "start": "2026-05-04",
+    "end": "2026-05-08",
+    "precision": "day",
+    "evidence": "2026年5月4日16时43分许爆炸发生，第一轮摸排及后续搜救通报持续至5月8日12时"
+  },
+  "locations": [
+    "中国/湖南省/长沙市/浏阳市/官渡镇/浏阳市华盛烟花制造燃放有限公司"
+  ],
+  "aliases": [
+    "湖南浏阳烟花厂爆炸事故",
+    "浏阳华盛烟花厂爆炸事故",
+    "湖南长沙浏阳烟花厂爆炸事故",
+    "浏阳5·4特别重大爆炸事故"
+  ],
+  "retrieval_queries": [
+    "浏阳 华盛烟花 爆炸",
+    "浏阳 烟花厂 爆炸 2026",
+    "浏阳华盛烟花制造燃放有限公司",
+    "长沙 浏阳 烟花 37死",
+    "浏阳 烟花 21死 61伤",
+    "浏阳 烟花 26死 61伤",
+    "陈博彰 浏阳 烟花 爆炸"
+  ],
+  "must_match_facts": [
+    "涉事企业为浏阳市华盛烟花制造燃放有限公司",
+    "事故发生于2026年5月4日16时43分许",
+    "事故发生地点位于湖南省长沙市浏阳市官渡镇",
+    "最终通报造成至少37人死亡、61人受伤、1人失联",
+    "国务院成立事故调查组"
+  ],
+  "exclude_if": [
+    "2019年12月4日浏阳市碧溪烟花制造有限公司爆炸事故",
+    "其他年份或非华盛烟花制造燃放有限公司的爆炸事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "湖南浏阳烟花厂爆炸已致37人死亡1人失联",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvBmzmJhlgqegUJwlGjPyIWgk80Ioc6Rk_vJwbYD5bQ9wcbyCjPs4WGo3GIGEVwh1ryrgOiB4nrB6qGKORH1oMdmLjKn3snU7Rv6P8nmL2hDoHMJuFdIr3icUyaguWpC_CGTKfXtU6y1BApiaSRQfAdUZhw1GxED2kTQ==",
+      "publisher": "新华网",
+      "published_at": "2026-05-08"
+    },
+    {
+      "title": "国务院成立湖南浏阳烟花厂爆炸事故调查组",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyjzdSPeRIgnxtnhmManlRvLUQhbkXbhMT7bVoYyWZoh8Fi9w9rwRaMvZy8uRPWQvt7EzEr0s1MgnFQeWkh0Gsmtwca0GurLx4oJZxtbD6uWOdj6-LKdI5XGzXskcZBY-jYUBfN6A8wjwdhCQ3jsc2iTr6MIth2lRHir5Dm1r168g==",
+      "publisher": "新华网",
+      "published_at": "2026-05-08"
+    },
+    {
+      "title": "湖南浏阳烟花厂爆炸事故已致26死浏阳烟花爆竹生产企业全面停产整顿",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHocmtVnAXCV9-6wPBPaG7y8t2Lg8no753BI5rPA-gOEqyc4lMYZCL6Si8L4s47xfji1UOTg8HZ_rZWNfomQ4CWDcMeC9t3L5DRjuwGgMU9kSbt7tAIt1hf9mIJSkufroYofat8eOXvUw5tEBgxNWC9-3zw8fz6IAibpg==",
+      "publisher": "新华网",
+      "published_at": "2026-05-05"
+    }
+  ],
+  "uncertainties": [
+    "现有描述误将事故发生年份写为2023年（实际发生于2026年）",
+    "事故具体直接技术原因仍有待国务院调查组最终报告确认"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:58"
+}

@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_586761f428320695",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "浙江义乌老人恶意划伤小米SU7车辆事件",
+  "factual_description": "2026年5月18日，浙江省金华市义乌市的小米SU7车主周先生在准备用车时，习惯性绕车检查，发现车辆右后方出现多道深深的划痕。通过调取车辆哨兵模式监控录像，画面显示当天早上7时12分左右，一名老人手持尖锐物品靠近车辆，在车身右后侧持续划动。该行为造成车衣划破、底漆受损，维修店定损金额超过5000元。事发后周先生向公安机关报案，义乌警方已正式受理该案件。事件曝光后，针对车主停车位置及老人划车动机引发网络关注与讨论。",
+  "event_time": {
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "precision": "day",
+    "evidence": "媒体报道车主周先生于2026年5月18日早间发现车辆受损，车载哨兵模式监控记录的划车时间为当天早上7时12分左右。"
+  },
+  "locations": [
+    "中国/浙江省/金华市/义乌市"
+  ],
+  "aliases": [
+    "义乌老人恶意划车事件",
+    "义乌小米SU7被老人划伤事件",
+    "老人恶意划车被拍车主报警",
+    "金华义乌老人划车定损5000元事件"
+  ],
+  "retrieval_queries": [
+    "义乌 老人 划车 小米SU7",
+    "义乌 周先生 哨兵模式 老人 划车",
+    "老人恶意划车被拍车主报警",
+    "义乌 车衣 划车 定损5000",
+    "浙江金华义乌 老人 划车 监控"
+  ],
+  "must_match_facts": [
+    "事发地点位于浙江省金华市义乌市",
+    "被划受损车辆为小米SU7轿车，车主为周先生",
+    "老人划车全过程被车辆自带哨兵模式监控记录",
+    "受损包括车衣被划破及车漆损伤，定损金额超过5000元",
+    "车主报警后属地警方已受理案件"
+  ],
+  "exclude_if": [
+    "涉及湖南衡阳小学生坠楼砸坏宝马车事件",
+    "涉及新车交付天窗碎裂维权纠纷",
+    "非义乌地区或非哨兵模式记录的划车纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "小米SU7遭老人恶意划车定损5000 车主自证反遭质疑",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZkbkVQUQVPiPiCuiutPSKZd1oTl_dnP9HrYnBPDFrzvr_2yc5JXwKjVkdna2m8tLEQcTomFKjNpM6BJpOq0nwZEbMl2f6qW3z1MfEIbD4qpLQsIQbA1kwmglAkRIz2vGLTpeN-w==",
+      "publisher": "观察者网（风闻/猫头鹰科技）",
+      "published_at": "2026-05-20"
+    },
+    {
+      "title": "浙江一小米SU7被老人持尖锐物品划伤，哨兵模式拍下全程，车主：车衣被划破，已伤到车漆，定损高达5000元，警方已受理该案件",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs4iphP4bjweSUKBkZ6CLj9VUnmS138GNb1GwzPBEwIDcfHOVDjDGjBRAjjOI5HZcHotkuZxNcx2RaYPzQnA-CjcM8LKaXQVHCcuXoLwmoepVDSDD3HL61P4Km-6A53dDnJ1FoSlJpEz7r",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-05-19"
+    }
+  ],
+  "uncertainties": [
+    "涉案老人的具体身份背景及警方的最终处罚/调解赔偿结果未见后续通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:52"
+}

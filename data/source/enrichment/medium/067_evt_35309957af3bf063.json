@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_35309957af3bf063",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年广东315晚会曝光美宜佳门店售假烟及查处整改事件",
+  "factual_description": "2026年3月14日晚，‘2026广东3·15晚会’曝光美宜佳便利店在广州、佛山、东莞等多地门店存在销售假烟乱象，部分门店被查处后仍顶风售假。当晚起，广东省烟草专卖局联合有关职能部门连夜对曝光门店及全省美宜佳门店开展专项排查，并行政约谈美宜佳总部和大区负责人，督促其自查自纠并落实‘假一赔十’先行赔付机制。4月9日，美宜佳发布阶段性处置进展通报，称已完成全国41061家门店首轮排查，与存在重大涉烟经营异常的606户加盟商解除合作关系（其中广东完成退出处理469家）。4月12日，广东省烟草专卖局公布阶段性整治成果：截至3月31日，全省各级烟草专卖部门联合相关部门累计检查美宜佳便利店14701户次，立案查处566宗，共查获涉案卷烟306万支，晚会曝光的10家门店已全部立案查处。",
+  "event_time": {
+    "start": "2026-03-14",
+    "end": "2026-04-12",
+    "precision": "day",
+    "evidence": "2026年3月14日晚广东3·15晚会曝光问题并启动专项执法检查；4月9日美宜佳通报解约606家加盟商；4月12日广东省烟草专卖局通报阶段性整治查处数据。"
+  },
+  "locations": [
+    "中国/广东省",
+    "中国/广东省/广州市",
+    "中国/广东省/佛山市",
+    "中国/广东省/东莞市"
+  ],
+  "aliases": [
+    "广东315晚会曝光美宜佳售假烟",
+    "广东查获美宜佳涉案卷烟306万支",
+    "美宜佳售假烟立案查处566宗",
+    "美宜佳假烟风波",
+    "广东省烟草专卖局查处美宜佳连锁便利店涉烟案"
+  ],
+  "retrieval_queries": [
+    "广东 315 美宜佳 假烟",
+    "广东烟草 美宜佳 306万支",
+    "立案查处美宜佳售假烟566宗",
+    "美宜佳 解除合作关系 606",
+    "美宜佳 退出处理 469家",
+    "美宜佳 涉案卷烟306万支",
+    "美宜佳 假烟风波 广东烟草专卖局",
+    "广东315晚会 美宜佳 门店售假"
+  ],
+  "must_match_facts": [
+    "事件起因为2026广东3·15晚会曝光美宜佳多地门店销售假烟",
+    "涉事品牌主体为美宜佳便利店，监管执法主体为广东省烟草专卖局等部门",
+    "截至2026年3月31日全省检查美宜佳14701户次，立案查处566宗，查获涉案卷烟306万支",
+    "美宜佳公司通报与涉案违规的606户加盟商解除合作关系（广东退出469家）"
+  ],
+  "exclude_if": [
+    "非2026年广东315晚会曝光引发的美宜佳个案查处",
+    "罗森、7-Eleven、全家等其他便利店品牌的涉烟违法违规事件",
+    "与连锁便利店售假整治无关的单独地下制假烟窝点或走私案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "广东：已查获美宜佳涉案卷烟306万支，立案查处566宗",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrkAzEjiOjZIqmemalOKpWa-Hk8YPClkQ4LE4n3TMkqrSbOHLyu9xEHQJi5fET0kcMUHnmmuIx_xEDqgXvlG5ogpZ6T97aspfwYH_SnFGiTQb8fYDrFskVsV-FMYNNjOo9LZ458WeixmOKRPb3qQ==",
+      "publisher": "南方网",
+      "published_at": "2026-04-13"
+    },
+    {
+      "title": "被“315晚会”点名销售假烟后，美宜佳与606家加盟商解除合作关系",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9dW-MxfR772tqeFkN3DVjPfs70hm8jD-Hj76yGCa2zaHjrr3-fIoW21IRRprOrtrVZ6Zz5kkFLsCktqYdI9Kpjv1PU9v2rF6Z4ih9fSDSM6UzU9yPx82KGmnGReWc8eFYHQ==",
+      "publisher": "界面新闻",
+      "published_at": "2026-04-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:46"
+}

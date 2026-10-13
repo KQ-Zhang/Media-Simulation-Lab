@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_a0c0e0490ab9777d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "瑞幸咖啡新品“椰子蛋”多门店停售与体验争议事件",
+  "factual_description": "2026年3月30日，瑞幸咖啡为庆祝生椰拿铁上市五周年，在全国推出限量新品“一整颗生椰”（俗称“椰子蛋”），全国总限量约188万颗，多数门店实行每日限量约10颗的供应策略。上市首日，河南郑州消费者宋先生在社交平台发帖反映附近多家门店均停售该新品。3月31日，媒体致电涉事门店，客服回应称由于门店冷冻空间有限，商品售完即止，暂未接到补货通知；北京、济南等地门店也普遍出现上线即显示售罄或暂时停售的情况。与此同时，该新品在社交平台引发大量消费体验吐槽，多位顾客反映产品因采用冷冻椰子做容器导致温度过低、解冻两小时仍为冰沙难以饮用，且存在包装未封口外带易洒漏、实际咖啡液份量偏少等问题。瑞幸客服对此回应称已收到反馈，该产品已支持去冰点单，并将对包装易洒等体验问题记录上报进行升级改善。",
+  "event_time": {
+    "start": "2026-03-30",
+    "end": "2026-03-31",
+    "precision": "day",
+    "evidence": "2026年3月30日瑞幸推出生椰拿铁五周年限量款“一整颗生椰”，郑州消费者发帖反映门店停售，3月31日媒体致电涉事门店及官方客服求证回应。"
+  },
+  "locations": [
+    "中国",
+    "河南省郑州市",
+    "北京市",
+    "山东省济南市"
+  ],
+  "aliases": [
+    "瑞幸多门店停售椰子蛋",
+    "瑞幸客服回应多门店停售椰子蛋",
+    "瑞幸椰子蛋放了两小时还是冰沙",
+    "瑞幸回应椰子蛋被抢光",
+    "瑞幸一整颗生椰售罄",
+    "瑞幸椰子蛋暂时停售"
+  ],
+  "retrieval_queries": [
+    "瑞幸 多门店停售椰子蛋",
+    "瑞幸客服回应多门店停售椰子蛋",
+    "瑞幸 一整颗生椰 售罄",
+    "瑞幸 椰子蛋 放了两小时还是冰沙",
+    "瑞幸 椰子蛋 冷冻空间有限",
+    "瑞幸 椰子蛋 宋先生 郑州",
+    "瑞幸 椰子蛋 每日限量10个"
+  ],
+  "must_match_facts": [
+    "涉及瑞幸咖啡于2026年3月推出的生椰拿铁五周年限定新品“一整颗生椰”（椰子蛋）",
+    "消费者反映郑州等多地瑞幸门店该新品显示停售或售罄",
+    "瑞幸门店客服回应停售原因为冷冻空间有限、单店每日限量供应且售完即止",
+    "伴随顾客对椰子蛋过冷、放置两小时仍是冰沙、未封口易洒漏等体验的吐槽与投诉"
+  ],
+  "exclude_if": [
+    "瑞幸椰子肉发紫引发的微生物变质食品安全投诉索赔事件",
+    "瑞幸咖啡常规咖啡去冰不满杯争议",
+    "2024年或其他年份发生的瑞幸咖啡常规产品停售事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "瑞幸椰子蛋放了两小时还是冰沙体验问题频出",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGKZnaLCPTn_Ecr-YoXrtyOqn0JS6R6PwWCAJTO5gKNQpiBQZN8j-gNHKNtSxLklZivehWIA7k0pYt4xVCkJseQNtoHf2_cuU5lJ1fJ17StJOLCGhApchwiW4RWUtvZHSjuEcew7eTosDbV2vUFn5C-4Vhugo=",
+      "publisher": "红星新闻 / 中华网",
+      "published_at": "2026-03-30"
+    },
+    {
+      "title": "瑞幸咖啡限量新品“椰子蛋”遭吐槽客服：下架时间待定，易洒问题将升级改善",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZr7ym7xWG5hX4Pjmlctmr8RLJ7FTBswZD_R9nNJpNEHO7UCmzcekkCWT8hREnfu4WFNr0LaczZXy74-OLzSWWI6CzKbOqR0jn1vRx9snvnj504A0D2chG2Iut2ezxvfM=",
+      "publisher": "新黄河客户端",
+      "published_at": "2026-03-31"
+    },
+    {
+      "title": "瑞幸生椰家族再扩容，上线限量版“一整颗生椰”新品",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWyUcmTnNxrzO21-zM-fdsTYkTER6iNQucefRA-0pLEz794lXYCjHZNu5ysW2seXZ8mqmzXIuX7YieMqN5O7x3zhSg4rJg_vqiqpkmCjhBDgdigQtB7mUKg2Gs8G0IbngS9kaDzzwaangWjc8Uj6do1T_fTFaCtCu_fCHBkw==",
+      "publisher": "中国日报网",
+      "published_at": "2026-03-31"
+    }
+  ],
+  "uncertainties": [
+    "输入描述中所称2024年为错误年份，实际发生时间为2026年3月瑞幸生椰拿铁五周年新品推出期间"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:04"
+}

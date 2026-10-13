@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_97c07bd8abd0d224",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广州男子驾驶迈巴赫失控撞墙质疑车辆故障事件",
+  "factual_description": "2026年5月11日上午，广东广州车主李先生（化名）驾驶奔驰迈巴赫S480轿车上班行驶至公司楼下厂区内时，车辆失控加速撞向厂区外墙，造成车辆前部与墙壁损坏，李先生轻微受伤。当地交警出具的道路交通事故认定书判定李先生负全部责任，但李先生认为车辆失控是车辆本身故障引起，并非个人操作不当，并质疑“说我没有踩刹车，刹车灯为什么亮”。5月19日，奔驰厂家工作人员到场沟通并调取汽车事件数据记录系统（EDR）数据，结果显示车辆在碰撞前5秒刹车踏板均为未踩下的“off”状态。李先生对数据存疑并要求实地勘察。销售方客服简经理回应称，厂家技术人员现场检查后可完全排除产品质量问题导致事故的可能性；由于行车记录仪、监控和车辆数据已足够分析，暂不作现场实地勘察，建议车主若有疑虑可委托具备司法鉴定资质的第三方机构全面检测。",
+  "event_time": {
+    "start": "2026-05-11",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "2026年5月11日上午发生撞墙事故，5月19日厂家到场沟通并提取EDR数据，6月3日车主接受采访报料，6月4日至5日媒体集中报道。"
+  },
+  "locations": [
+    "中国/广东省/广州市"
+  ],
+  "aliases": [
+    "广东男子开迈巴赫上班失控撞墙",
+    "开迈巴赫上班撞墙男子质疑车辆故障",
+    "男子开迈巴赫撞墙质疑故障",
+    "男子回应开迈巴赫上班失控撞墙",
+    "广州迈巴赫失控撞墙EDR争议事件"
+  ],
+  "retrieval_queries": [
+    "广东男子开迈巴赫上班失控撞墙",
+    "开迈巴赫上班撞墙男子质疑车辆故障",
+    "迈巴赫 S480 撞墙 广州",
+    "迈巴赫 撞墙 EDR 刹车灯",
+    "迈巴赫 撞墙 简经理",
+    "广州 李先生 迈巴赫 撞墙"
+  ],
+  "must_match_facts": [
+    "车主李先生驾驶奔驰迈巴赫S480在广州公司楼下厂区撞墙",
+    "事故发生时间为2026年5月11日上午",
+    "交警认定李先生负事故全部责任",
+    "车主质疑车辆故障失控并提出刹车灯亮疑问",
+    "EDR数据显示碰撞前5秒刹车踏板处于off未踩下状态",
+    "销售方回应称已排除产品质量问题并建议车主走第三方司法鉴定"
+  ],
+  "exclude_if": [
+    "周鸿祎拍卖迈巴赫相关事件",
+    "车顶漏水车主贴防水布维权迈巴赫事件",
+    "迈巴赫与其他车辆相撞的多车交通事故",
+    "造成人员重伤或死亡的严重恶性交通事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子回应迈巴赫失控撞墙",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9zAh-QaeeKkcge9wNedYeiLbOACcz0veTcMDfnGR96LL33kez_Ci9wk5G3kEy047Cdx2dSe3-PZ0fFvGAhEQLXvkPzjwc6obXhTfdofb0LyqsR2SJgBOMZZHg9_eq9bcI87J8RjpkKo4cKg==",
+      "publisher": "新浪新闻（新浪新能源 / DV现场）",
+      "published_at": "2026-06-04"
+    },
+    {
+      "title": "车主开迈巴赫上班失控撞墙，其质疑车辆故障导致：说我没有踩刹车，刹车灯为什么亮",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoK0Wm6ctyo53mCYKaB0f5ZZTPqixF33ADNQLi6xqcMNgUt1VGuFf84ymz2EST2m7RO7KPK3K0OCkBhaIqj8zQk7fHbX6VAcTuv9ICLoFum0_6ClD_b9Sy1G2USJZFnfmI3ZZML4D2EX2CVZDuHPvR6s8AKx8=",
+      "publisher": "中华网",
+      "published_at": "2026-06-05"
+    }
+  ],
+  "uncertainties": [
+    "原有描述将事故年份标注为2024年，经核验实际发生时间为2026年5月11日",
+    "车主后续是否委托第三方鉴定机构进行司法鉴定及最终调查结果尚未见公开报道"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:47"
+}

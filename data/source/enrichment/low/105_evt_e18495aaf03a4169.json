@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_e18495aaf03a4169",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "伊朗总统佩泽希齐扬视察伊朗红新月会发表讲话",
+  "factual_description": "当地时间2026年4月15日，伊朗总统佩泽希齐扬在首都德黑兰视察伊朗红新月会总部，听取红新月会工作汇报并发表讲话。佩泽希齐扬在讲话中表示，坚信任何力量都不能迫使伊朗人民投降。他严厉谴责美国和以色列袭击伊朗学校、医院及救援中心等民用基础设施的行为，指责美以完全无视国际法与人道主义原则，直斥美以随时随地随意杀人却空谈人权，暴露了面对伊朗抵抗意志时的软弱与绝望，是“真正的恐怖分子”。同时，佩泽希齐扬批评部分国家在美以袭击行动面前保持沉默，并特别向中国、俄罗斯、土耳其、阿塞拜疆、伊拉克等在此期间提供支持与合作的友好国家表达感谢。",
+  "event_time": {
+    "start": "2026-04-15",
+    "end": "2026-04-15",
+    "precision": "day",
+    "evidence": "新华社及央视新闻报道，佩泽希齐扬于当地时间2026年4月15日视察伊朗红新月会并发表讲话。"
+  },
+  "locations": [
+    "伊朗/德黑兰/伊朗红新月会总部"
+  ],
+  "aliases": [
+    "佩泽希齐扬视察伊朗红新月会",
+    "佩泽希齐扬称任何力量不能迫使伊朗投降",
+    "伊朗总统佩泽希齐扬谴责美以袭击民用设施",
+    "佩泽希齐扬红新月会讲话"
+  ],
+  "retrieval_queries": [
+    "佩泽希齐扬 视察伊朗红新月会",
+    "佩泽希齐扬 任何力量都不能迫使伊朗人民投降",
+    "佩泽希齐扬 视察红新月会 中国 俄罗斯",
+    "佩泽希齐扬 真正的恐怖分子 民用设施",
+    "佩泽希齐扬 谁都不能迫使伊朗投降",
+    "伊朗总统 视察 红新月会"
+  ],
+  "must_match_facts": [
+    "主体为伊朗总统马苏德·佩泽希齐扬",
+    "地点在伊朗首都德黑兰的伊朗红新月会",
+    "佩泽希齐扬发表讲话强调任何力量都不能迫使伊朗人民投降",
+    "谴责美国和以色列袭击伊朗学校、医院等民用设施并指责其为真正的恐怖分子",
+    "感谢中国、俄罗斯、土耳其、阿塞拜疆、伊拉克等友好国家的支持"
+  ],
+  "exclude_if": [
+    "佩泽希齐扬在印度新德里出席金砖峰会期间的言论",
+    "佩泽希齐扬与伊朗最高领袖穆杰塔巴·哈梅内伊会面",
+    "仅涉及伊朗外交部或军方发言人的单独声明",
+    "2026年2月米纳卜小学空袭的单独调查报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "伊朗总统：任何力量都不能迫使伊朗人民投降",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcjewcy3j7CUzPTpPxZqBw76-lPWJa9IiQ_Tjzao2C7nOwQsBMNsiSmMx1vykg9KIQ1z23UWWvNnximmeSJOg42Gvz7lrHSzuhY3YT4BXQ7mC29UFvfc_3a6rxCPXjQvy0RjIB5dF9no4t7RsnQA-tc_iXwqJ_nVUCtkT4VaBkErmYijcP5W0rTx4nBp63ls92VlFg",
+      "publisher": "新华网客户端",
+      "published_at": "2026-04-16"
+    },
+    {
+      "title": "伊朗总统：美国是想先把我们拿下，然后再去和中国交手",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYDDBXpjhdWMY5SacKkgZxEF5fJdLsR45AkNptXk68N9ptUH5a7MMSW9p51l7pNVvD65oTRJGopAZSo4GoKsGXyCT5lPV7LpdgdnNqDz-BVQCihqjSaOKNQSVgC2658S9QqnbEboY4maiv4R70PJdL",
+      "publisher": "观察者网",
+      "published_at": "2026-04-16"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:44"
+}

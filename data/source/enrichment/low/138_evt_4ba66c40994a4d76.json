@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_4ba66c40994a4d76",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "赛里木湖景区工作人员殴打旅游车司机事件",
+  "factual_description": "2026年7月23日17时许，在新疆博尔塔拉蒙古自治州赛里木湖景区入口处，一名景区工作人员在开展票务核验时，与旅游客运公司司机王某某发生争执并互殴，随后共有7名景区工作人员参与殴打王某某。现场视频流出后引发广泛舆论关注。赛里木湖景区管委会于7月24日发布通报致歉，并将7名涉事人员辞退。经法医伤情鉴定，王某某损伤程度属轻微伤。属地公安机关依据《中华人民共和国治安管理处罚法》第五十一条，对参与殴打的7名景区工作人员分别作出10日至15日不等的行政拘留处罚，每人并处罚款1000元。8月3日，自治区及博州联合工作组发布全面调查及整改情况通报，对景区运营公司党委书记、董事长予以免职，撤职2名直接责任主管，并对多名相关管理人员追责问责，同时对景区自驾服务收费机制进行了优化整改。",
+  "event_time": {
+    "start": "2026-07-23",
+    "end": "2026-08-03",
+    "precision": "day",
+    "evidence": "官方通报显示争执殴打发生于2026年7月23日17时许，联合工作组于2026年8月3日公布最终行政处罚、人员问责及整改通报。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/博尔塔拉蒙古自治州/博乐市/赛里木湖景区入口处"
+  ],
+  "aliases": [
+    "赛里木湖打人事件",
+    "赛里木湖员工殴打司机",
+    "赛里木湖7人围殴司机",
+    "赛里木湖互殴事件",
+    "赛里木湖景区工作人员殴打旅游车司机事件"
+  ],
+  "retrieval_queries": [
+    "赛里木湖 景区工作人员 殴打 司机",
+    "赛里木湖 互殴 司机",
+    "赛里木湖 7人 围殴 司机",
+    "赛里木湖 票务核验 殴打",
+    "赛里木湖打人事件",
+    "赛里木湖景区通报 辞退 拘留",
+    "赛里木湖文化旅游投资集团 免职"
+  ],
+  "must_match_facts": [
+    "事发时间为2026年7月23日，地点在新疆赛里木湖景区入口处",
+    "事发起因为票务核验过程中发生言语及肢体争执",
+    "共有7名景区工作人员参与对旅游车司机的殴打行为",
+    "被打司机伤情经鉴定为轻微伤",
+    "涉事7名工作人员被景区辞退并被公安机关处以行政拘留及罚款",
+    "景区运营公司董事长被免职，多名管理人员被追责问责"
+  ],
+  "exclude_if": [
+    "其他景区的打人或纠纷冲突事件",
+    "游客与游客之间因排队、抢机位发生的口角与打架",
+    "导致重伤或死亡的恶性刑事案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "关于赛里木湖景区工作人员殴打旅游车司机事件处理及整改的情况通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECVURuK6EqVCzsP9Sriz02NvO6v6aaiNg72HmQdtEH3WemQrfSkyYQK-ZUabKZmHFqDfJLdSx19ymXUggVOzpl4vrlT70B83TqaYvFFIKPiKMNCJ3ovpEfdtb0eKkCiByQpvixNcziQOl956sZqPmGCt-7pzCk6yKCNeyOnXP5gzrtrQ==",
+      "publisher": "新华网",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "工作人员殴打旅游车司机？赛里木湖景区发布情况通报致歉",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF70x0Y1j354JS6mcjEkhH16fJHeoo91s6us_iVfyxhEcskSjMIANWfLnvpOBXnfEVZIhaXhTxsvb8aN73RO6JlJjw_OlcfF0uEK0_7pcTkBgHlGENdFUq5UcP_fL920kEUPI6RIDobkjmBReB2BHz4iw==",
+      "publisher": "中国网新闻中心",
+      "published_at": "2026-07-24"
+    },
+    {
+      "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2OlUpDfL8uX1o5-4fs1DCJCjOwPWN6wNJJhg8uWw2endBv-M5J50xkJlDe9NgKH95YzRXUwusDXEDkZS0lKTJHhEdWUl9t_1H6faXHQoRUoAQ61ljkW1RKnDYJ_tvLWBCyMR7933m",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-07-24"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:36"
+}

@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_3e425d17528b8182",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年江苏省城市足球联赛（苏超）第十七周常规赛",
+  "factual_description": "2026年8月15日晚，2026赛季江苏省城市足球联赛（简称“苏超”）常规赛第十七周的三场比赛同时打响。三场对决均极具戏剧性：南通队坐镇主场迎战镇江队，在下半场伤停补时阶段镇江队禁区犯规送点，南通队10号球员李贤成罚入点球完成1-0绝杀，终结了南通队当赛季的主场不胜尴尬；宿迁队主场对阵苏州队，两度落后两度追平，最终双方2-2战平；南京队主场迎战扬州队，终场前遭扬州队绝杀，以0-1落败。本周比赛结束后，积分榜排名发生变化，南通队积分升至13分排在第7位，扬州队积12分升至第8位，南京队跌落至第9位，宿迁队积14分暂居第4位，苏州队积13分排在第6位，无锡队继续领跑积分榜，镇江队仍居末席。",
+  "event_time": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "precision": "day",
+    "evidence": "2026年8月15日晚19时30分，2026赛季江苏省城市足球联赛第十七周三场比赛开赛并鸣金。"
+  },
+  "locations": [
+    "中国/江苏省",
+    "中国/江苏省/南通市/崇川区/南通体育会展中心",
+    "中国/江苏省/宿迁市",
+    "中国/江苏省/南京市"
+  ],
+  "aliases": [
+    "2026苏超第17周比赛",
+    "2026江苏省城市足球联赛第十七周",
+    "2026苏超第十七轮",
+    "苏超第17周战报"
+  ],
+  "retrieval_queries": [
+    "2026 苏超 第17周",
+    "2026 苏超 第十七周",
+    "江苏省城市足球联赛 2026 第17周",
+    "苏超 南通 镇江 李贤成 点球",
+    "苏超 宿迁 苏州 2-2",
+    "苏超 南京 扬州 0-1",
+    "2026-08-15 苏超 战报"
+  ],
+  "must_match_facts": [
+    "赛事属于2026年江苏省城市足球联赛（苏超）常规赛第17周",
+    "比赛发生时间为2026年8月15日晚",
+    "南通队1比0绝杀战胜镇江队（李贤成补时点球破门）",
+    "宿迁队2比2战平苏州队",
+    "南京队0比1不敌扬州队"
+  ],
+  "exclude_if": [
+    "苏格兰足球超级联赛（Scottish Premiership）",
+    "2025年江苏省城市足球联赛",
+    "2026苏超其他轮次（如第21周、第22周等）",
+    "中国足球超级联赛（中超）"
+  ],
+  "source_evidence": [
+    {
+      "title": "“苏超”第17周比赛最终战报：南通队1:0镇江队，宿迁队2:2苏州队，南京队0:1扬州队",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuQH5sgJ_sEv3pALgFT2px-SX-kB7kJBuizCMD6al6Cxi6Oaq2fOM0rXkqe4EVsMutFtj58eqW48cY0yZ7546ZaTVPb6DMgvHota9Fe4jPKXH7fzp35Rsbo5tDtBdkyIUDmmFFtDb-pfZtJHhCRXdEETEzHXPjc12NPg==",
+      "publisher": "新华日报 / 新浪财经",
+      "published_at": "2026-08-15"
+    },
+    {
+      "title": "苏超·纵览｜第十七周综述：南京、镇江最后时刻被“点杀”，宿迁苏州上演进球大战",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKWJnY5MV-8Ko6rIWgWLV1uU5JcS0qPk0NkbgwqemTqrh0lF6drXv3_J1k-8Ezi6CSR6vOiFOanEzZOnslZo1dFP7fr4D41lQTdqk9kUMGHg5xvN7igzk4TBTYeFSDjoM=",
+      "publisher": "腾讯网",
+      "published_at": "2026-08-16"
+    },
+    {
+      "title": "苏超第17周剧情拉满，南通绝杀破主场魔咒，扬州客场掀翻南京",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0wEY55XGmhZ4IcqpgSHFsRWOKKKDY4yBJu2lsvSfybVdCvKhNrAsHZt4XvzwFZgiXSgyu4MZpCz2cz8F3wp8U989zPnWBPxP9gJcW5KbraL_pxhAi6vi7o6z6VwqcHIUjnTCAO-iawZI=",
+      "publisher": "网易新闻",
+      "published_at": "2026-08-15"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:37"
+}

@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_6c9d774f1e4d45e4",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "特朗普回应伊朗米纳卜女子小学遭袭事件",
+  "factual_description": "2026年2月28日，美军对伊朗展开军事行动首日，伊朗南部霍尔木兹甘省米纳卜市的沙贾雷·塔耶贝女子小学遭到美制‘战斧’巡航导弹袭击。伊朗官方及国际组织通报显示，空袭造成至少175人丧生（多数为儿童）。美媒及多方调查指出，该袭击由美军依据国防情报局过时数据定位发动，引发国际社会强烈谴责。袭击发生后美方一度声称系伊朗所为。2026年6月17日，美国总统特朗普在法国出席七国集团峰会期间改口称‘没人故意那样做……犯错难免，战争是肮脏的’。当地时间2026年6月24日，特朗普在白宫接受媒体采访时再次就该事件表态，声称‘当时到处都是导弹’，责任方‘可能永远无法查明’；同时美国国防部被曝正考虑将内部调查报告列为机密，引发美国国会议员和国际舆论对美方企图淡化追责、掩盖真相的批评。",
+  "event_time": {
+    "start": "2026-06-24",
+    "end": "2026-06-24",
+    "precision": "day",
+    "evidence": "当地时间2026年6月24日，美国总统特朗普在白宫接受采访时就2月28日伊朗女子小学遭袭事件发表该表态"
+  },
+  "locations": [
+    "美国/华盛顿特区/白宫",
+    "伊朗/霍尔木兹甘省/米纳卜市/沙贾雷·塔耶贝小学"
+  ],
+  "aliases": [
+    "特朗普称可能永远无法查明是谁袭击了伊朗小学",
+    "特朗普回应伊朗女校遇袭",
+    "特朗普回应米纳卜小学遭袭事件",
+    "特朗普称犯错难免战争是肮脏的",
+    "特朗普评美军战斧导弹误炸伊朗小学"
+  ],
+  "retrieval_queries": [
+    "特朗普 永远无法查明 伊朗小学",
+    "特朗普 伊朗 女子小学 战斧导弹",
+    "特朗普 犯错难免 战争是肮脏的 伊朗",
+    "米纳卜 小学 特朗普 责任方",
+    "Trump Minab school strike",
+    "Trump who attacked Iranian school never know",
+    "米纳卜女子小学 遭袭 特朗普表态",
+    "特朗普 白宫 伊朗学校 遇袭 调查"
+  ],
+  "must_match_facts": [
+    "主体涉及美国总统唐纳德·特朗普",
+    "言论针对2026年2月28日伊朗霍尔木兹甘省米纳卜市女子小学遇袭事件",
+    "特朗普称责任方可能永远无法查明或声称没人故意为之、战争是肮脏的",
+    "涉事小学遭美军‘战斧’巡航导弹袭击致过百人死亡"
+  ],
+  "exclude_if": [
+    "发生在2024年或更早的阿富汗、伊拉克、叙利亚美军空袭误炸事件",
+    "仅讨论美伊前线常规军事打击而不涉及米纳卜小学遭袭调查与表态",
+    "2023年伊朗女校疑似毒气中毒事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "特朗普再谈伊朗女校遇袭英媒说真相将被掩盖",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFupUkDz5ejE25HV4GUHwOtYzSfV3Kg1Na6YRHRL0PbjK33fuNaDWrdlPRLTgGT5fI6JE-ordtC-5ogkuh88-yYahFzm2RBK27_e2iYUYmoJKRLR4cGO22IQkn4qMKSel7PY0ROJTCKc-jcCr7btD4FNMvc1OZ63wYF5NgTVxxnTsAX7zI9jg==",
+      "publisher": "新华网",
+      "published_at": "2026-06-25"
+    },
+    {
+      "title": "特朗普谈伊朗小学被袭：可能永远无法查明是谁干的，没人故意那样做……犯错难免，战争是肮脏的",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkWEqXNTGMfn2LOp9lVRpet6IRcCQu6GMdiPLY0CUNl96FkpbxHDdbLCf2elE_cGWzLc5JdYHTtZzIq-n1UhgCkwTsLkvdSYvZGteG0QimiATWmqaDrW-9TvsF-89A9T1-yuWDehUfy4bQAVv1rWvVQeds6emMKko=",
+      "publisher": "中国新闻社（新浪财经转载）",
+      "published_at": "2026-06-25"
+    },
+    {
+      "title": "头骨碎裂、半张脸没了…伊朗小学175人遇难，“美国竭力压制调查”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS_kqtNlgVZfVXbcZnKzDna5FSo4f8Up-j7zQcDLFcMqESSjlGmKieBsm8WRu2d7dA0B9HPGQwSTHc8B1RUSJu1g5GFQVkTa_Or-0z8dw8tOfGhWccZUvqQc_5KBrI4oxsBc6CYokIspEs0SA2gZ8=",
+      "publisher": "观察者网",
+      "published_at": "2026-06-22"
+    }
+  ],
+  "uncertainties": [
+    "输入样本原描述将年份错写为2024年，经核实该事件真实发生于2026年（空袭发生于2026年2月28日，该轮表态发生于2026年6月24日）",
+    "遇难人数各方统计略有差异，伊朗官方通报至少175人身亡，国际独立调查机构评估死者为156人至180人不等",
+    "美国国防部内部调查报告最终是否会解密并公开尚无确定定论"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:22"
+}

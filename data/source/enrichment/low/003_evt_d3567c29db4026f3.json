@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_d3567c29db4026f3",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "河南新乡公安设治安服务台驻守夜市烧烤摊",
+  "factual_description": "2026年5月下旬至6月初，河南省新乡市红旗区西大街夜市等地的烧烤摊前，民警现场坐镇值守的画面在社交平台走红。视频中，民警在人流密集的烧烤摊旁设立“治安服务台”静候值守，不打扰食客用餐，随时处置矛盾纠纷并接受求助，被网友形象戏称为“监烤老师”和“成年人的班主任”，引发舆论点赞。针对热议，新乡市公安局治安管理支队基础大队等部门回应称，该举措并非临时起意，而是新乡公安推行主动警务、预防警务已坚持近三年的常态化机制，旨在将警务工作前置、防范酒后滋事打架斗殴；2026年4月底警方已在全市重点夜市街区、美食街和酒吧聚集区设立59个固定治安服务台点位，并通过派出所民警驻守结合特警车辆巡控等多警种联动机制维护夜间公共安全。",
+  "event_time": {
+    "start": "2026-04",
+    "end": "2026-06",
+    "precision": "month",
+    "evidence": "新乡警方于2026年4月底启动该年度夏季治安服务台，2026年5月下旬至6月1日网友拍摄西大街夜市治安台走红，警方于6月1日至3日接受媒体采访回应。"
+  },
+  "locations": [
+    "中国/河南省/新乡市/红旗区/西大街夜市"
+  ],
+  "aliases": [
+    "新乡夜市监烤老师",
+    "新乡民警驻守夜市烧烤摊",
+    "警方回应民警变夜市监烤老师",
+    "新乡夜市成年人的班主任",
+    "新乡公安夏季治安服务台"
+  ],
+  "retrieval_queries": [
+    "新乡 监烤老师",
+    "新乡民警 烧烤摊",
+    "新乡 西大街夜市 治安服务台",
+    "警方回应民警变夜市监烤老师",
+    "新乡公安 监烤",
+    "新乡 成年人的班主任 夜市"
+  ],
+  "must_match_facts": [
+    "主体涉及河南省新乡市公安局及红旗分局等民警",
+    "核心地点为新乡市红旗区西大街夜市等烧烤街区",
+    "民警通过设立治安服务台在夜市烧烤摊现场值守",
+    "网络广泛称呼驻守民警为监烤老师或成年人的班主任",
+    "警方回应表明为推行预防警务设立的常态化机制并在全市设数十处点位"
+  ],
+  "exclude_if": [
+    "发生在唐山等其他城市的烧烤摊打人或治安整治事件",
+    "高考、中考期间考场民警安保及真正的监考老师相关事件",
+    "发生在淄博等其他城市夜市烧烤巡逻宣传事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“监烤老师”坐镇烧烤摊，瞬间刷屏！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcNDJ1AIU7MIiZTC9DfOX_cVmXep_UBRSzNP-glY9sgadxakhYfWO1rQsMrkZkAy61zcJMnCB-PNyEaEtTJJ9jzvsF1vikqi_Z3oHB8XOEIqAOHK013cTTqrmV0u12JSsiRXcEhyAbkvj_hm_tvQ==",
+      "publisher": "人民日报微信公号",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "烧烤界迎来最严厉的“监烤老师”，警方独家回应！网友：成年人的班主任",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmP60M8gem7VNuE4uFBNitPk8tWvvto15ChS7xAGIrggRTv4c9hDUI2sIum-rgfzohzema2W8PFGoNr_4mbG97FZK--pKVFAy4eV8pvM4cSDyBfCGYN2tP8hcOzh1jVEPfOMXM56H4G4l1Z-HBE8iOy5K92j87w1adZCoa1vpSQRe7zA==",
+      "publisher": "中国新闻社",
+      "published_at": "2026-06-05"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:08"
+}

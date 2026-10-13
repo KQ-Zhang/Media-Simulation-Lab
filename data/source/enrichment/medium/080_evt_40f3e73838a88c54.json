@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_40f3e73838a88c54",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "美方向中方遣返移交涉毒逃犯韩某某",
+  "factual_description": "2026年4月3日，新华社从中国公安部获悉，根据中国禁毒部门通报的线索，美国移民海关执法局通过移民执法合作渠道，将涉嫌走私贩卖毒品的在美中国籍犯罪嫌疑人韩某某遣返移交中方。中国公安部门与官方媒体通报指出，韩某某是近年来美方向中方遣返移交的首名涉毒逃犯，标志着中美禁毒执法合作取得新成果。该案为两国执法部门通过线索通报和移民执法机制开展的追逃移交案例。",
+  "event_time": {
+    "start": "2026-04",
+    "end": "2026-04-03",
+    "precision": "month",
+    "evidence": "新华社与公安部于2026年4月3日通报移交信息，通报称美方系“日前”完成遣返移交，未披露具体交接日期。"
+  },
+  "locations": [
+    "美国",
+    "中国/北京市"
+  ],
+  "aliases": [
+    "美方向中方遣返移交一名涉毒逃犯",
+    "美方遣返移交首名涉毒逃犯",
+    "中美禁毒执法合作遣返韩某某",
+    "美国遣返涉毒逃犯韩某某",
+    "近年来美方向中方遣返首名涉毒逃犯"
+  ],
+  "retrieval_queries": [
+    "美方 遣返移交 涉毒逃犯 韩某某",
+    "美国移民海关执法局 遣返 韩某某",
+    "中美禁毒执法合作 遣返移交 首名涉毒逃犯",
+    "公安部 遣返移交 韩某某 涉毒",
+    "走私贩卖毒品 韩某某 遣返中方"
+  ],
+  "must_match_facts": [
+    "被遣返嫌疑人为涉嫌走私贩卖毒品的在美中国籍人员韩某某",
+    "由美国移民海关执法局通过移民执法合作渠道遣返移交中方",
+    "系中国禁毒部门通报线索促成的中美禁毒执法合作成果",
+    "官方认定为近年来美方向中方遣返移交的首名涉毒逃犯",
+    "中国公安部于2026年4月3日正式向媒体通报该案"
+  ],
+  "exclude_if": [
+    "美方向中方遣返境外绑架杀人嫌疑人刘某文事件",
+    "中方向美方遣返美籍红通逃犯的执法合作事件",
+    "中美阿联合打击阿联酋迪拜跨国电信网络诈骗行动",
+    "美方常规非法移民遣返包机行动"
+  ],
+  "source_evidence": [
+    {
+      "title": "美方向中方遣返移交一名涉毒逃犯",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExmFL3_1AsUUvK9JGn262I7QDGms7VgWCvbATCpoMFn_M2I6B24u9pyuvOQYBYX7TuQr-HPYJgGBP-GT2qi67xGCxqKbLHT-sbsAq0NOC8JC0u4WgpLIo5AVd-B96erLL-5T_8SZ6bIdwqH82Op85yzln59YEbVwpFg3g7jyhO-g==",
+      "publisher": "新华网",
+      "published_at": "2026-04-03"
+    },
+    {
+      "title": "美方向中方遣返移交一名涉毒逃犯",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlx1oLoWKz87K8jz18JTDHk_8b1k-JLFhMIejv6jV_oAnZlBlsJrUOUpFUzuRB0RuEZf8TQ2Jta37SWS6zuyqbfEc3igyH1NyDfW0GOfiSTk2Wcc0JYtaebnk5DshqvkrcSnHO2v46XIUt_6GGkfLGRv-rAw==",
+      "publisher": "中国网（引自公安部微信公众号）",
+      "published_at": "2026-04-03"
+    }
+  ],
+  "uncertainties": [
+    "嫌疑人韩某某的全名及所涉毒品案件的具体犯罪细节官方未对外公开",
+    "移交的具体交接地（机场或口岸）及具体日级交接时间官方通报未明确说明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:07"
+}

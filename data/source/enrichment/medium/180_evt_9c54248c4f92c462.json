@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_9c54248c4f92c462",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "郎朗在2026年米兰-科尔蒂纳冬奥会开幕式上演奏《奥林匹克颂》",
+  "factual_description": "当地时间2026年2月6日晚（北京时间2月7日凌晨），第25届米兰-科尔蒂纳丹佩佐冬季奥林匹克运动会开幕式在意大利米兰圣西罗体育场举行。在升奥林匹克会旗的核心仪式环节，中国著名钢琴家郎朗登台担任钢琴伴奏，与意大利著名次女高音歌唱家切奇莉亚·巴托莉（Cecilia Bartoli）以及斯卡拉歌剧院儿童合唱团联袂演绎了奥林匹克会歌《奥林匹克颂》（Olympic Anthem）。这是郎朗继2008年北京奥运会开幕式演奏《星光》之后，时隔18年再度登上奥运会开幕式舞台。",
+  "event_time": {
+    "start": "2026-02-06",
+    "end": "2026-02-06",
+    "precision": "day",
+    "evidence": "米兰冬奥会开幕式于意大利当地时间2026年2月6日晚（北京时间2月7日凌晨）在米兰圣西罗体育场举行。"
+  },
+  "locations": [
+    "意大利/伦巴第大区/米兰/圣西罗体育场"
+  ],
+  "aliases": [
+    "时隔18年郎朗再登奥运开幕式舞台",
+    "郎朗亮相米兰冬奥会开幕式",
+    "郎朗米兰冬奥开幕式奏响奥林匹克颂",
+    "郎朗担任米兰冬奥会奥林匹克颂伴奏"
+  ],
+  "retrieval_queries": [
+    "郎朗 米兰冬奥会 开幕式",
+    "郎朗 奥林匹克颂 米兰冬奥会",
+    "郎朗 圣西罗体育场 冬奥开幕式",
+    "Lang Lang Olympic Anthem Milano Cortina 2026",
+    "Lang Lang Cecilia Bartoli Winter Olympics opening ceremony",
+    "米兰冬奥会开幕式 郎朗 18年"
+  ],
+  "must_match_facts": [
+    "事件主体包含中国钢琴家郎朗",
+    "活动为2026年米兰-科尔蒂纳冬奥会开幕式",
+    "演出环节为升奥林匹克会旗仪式中的会歌《奥林匹克颂》（Olympic Anthem）伴奏",
+    "演出地点为米兰圣西罗体育场",
+    "合作者包含意大利歌唱家切奇莉亚·巴托莉（Cecilia Bartoli）"
+  ],
+  "exclude_if": [
+    "2008年北京奥运会开幕式郎朗与李木子演奏《星光》的单独历史回顾",
+    "2026年米兰冬奥会闭幕式",
+    "郎朗在米兰冬奥会期间与比赛场馆或赛事实体无涉的其他商业独奏音乐会"
+  ],
+  "source_evidence": [
+    {
+      "title": "Winter Olympics 2026: Lang Lang performs Olympic Anthem - What is the Olympic Anthem and why is it always played?",
+      "url": "https://olympics.com/en/news/winter-olympics-2026-lang-lang-performs-olympic-anthem-history-meaning",
+      "publisher": "Olympics.com",
+      "published_at": "2026-02-06"
+    },
+    {
+      "title": "切奇莉亚·巴托莉与郎朗将亮相2026年米兰科尔蒂纳冬奥会开幕式",
+      "url": "https://olympics.com/zh/news/cecilia-bartoli-lang-lang-opening-ceremony-milano-cortina-2026",
+      "publisher": "Olympics.com",
+      "published_at": "2026-01-22"
+    },
+    {
+      "title": "郎朗将亮相米兰冬奥会开幕式",
+      "url": "http://www.xinhuanet.com/sports/20260124/60a2b724f5ef451f98bc43f11d13bcfb/c.html",
+      "publisher": "新华社",
+      "published_at": "2026-01-24"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:43"
+}

@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_1c97365318c9a8a1",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "34岁徐州货车司机在彬州服务区猝逝，4名卡友自费千里护送货车归乡",
+  "factual_description": "2026年7月22日，34岁的江苏徐州籍货车司机刘师傅驾驶满载草料的大货车进入陕西咸阳彬州服务区休整，随后突发疾病在车内不幸离世。7月24日，因多名卡友及家属失联寻找，家属赶到彬州服务区发现其遗体并报警，警方排除刑事案件后家属将遗体接走处理后事。由于滞留在千里之外的货车无人能驾驶运回，家属向同行求助。7月25日晚，同行卡友“追风镖局”（靖得月）、“卡车麦苗”、“卡车张优秀”、“卡车阿喜”（蒋先生）得知消息后决定施援。7月26日，4人赶至彬州服务区，面对高温下散发强烈异味的驾驶室，自费购买防护服与消毒用品完成深度消杀通风。7月27日上午，4人分组轮流驾驶货车与保障私家车启程，历时一天一夜、行程1100余公里，于7月28日将车辆安全送抵徐州睢宁交还家属。4名卡友全程均摊并自负过路费、油费和消杀费近8000元，抵达成后又自发凑集2000元现金转交刘师傅年迈父亲和幼女，善举引发社会广泛关注与赞誉。",
+  "event_time": {
+    "start": "2026-07-22",
+    "end": "2026-07-28",
+    "precision": "day",
+    "evidence": "媒体报道显示刘师傅于2026年7月22日进服务区后离世，7月24日遗体被发现并接走，4名卡友于7月27日启程护送货车，7月28日清晨抵达徐州。"
+  },
+  "locations": [
+    "中国/陕西省/咸阳市/彬州市/彬州服务区",
+    "中国/江苏省/徐州市/睢宁县"
+  ],
+  "aliases": [
+    "34岁货车司机服务区离世4位卡友跨越1100公里送车",
+    "90后货车司机在服务区去世4名卡友轮流开车送回老家",
+    "4名爱心卡友自费将离世司机货车送回徐州",
+    "现实版落叶归根4名卡友接力送货车归乡"
+  ],
+  "retrieval_queries": [
+    "货车司机 彬州服务区 4名卡友",
+    "刘师傅 彬州服务区 4名卡友",
+    "追风镖局 彬州服务区 货车",
+    "卡车阿喜 彬州服务区 运车",
+    "34岁货车司机 服务区 离世 送车",
+    "卡车麦苗 卡车张优秀 彬州",
+    "货车司机 彬州服务区 2000元"
+  ],
+  "must_match_facts": [
+    "逝者为34岁江苏徐州籍长途货车司机刘师傅（部分报道化名李阳）",
+    "事件发生于陕西咸阳彬州服务区，逝者在货车车内猝逝，警方排除刑事案件",
+    "4名救援卡友网名为追风镖局、卡车麦苗、卡车张优秀、卡车阿喜",
+    "4人自费采购消杀防护物资清理车辆异味驾驶室",
+    "4人轮流换驾1100多公里将货车从陕西彬州送回江苏徐州老家",
+    "4名卡友全程自担路费油费，并现场向逝者家属捐款2000元现金"
+  ],
+  "exclude_if": [
+    "发生在服务区以外的货车道路碰撞或交通事故",
+    "老挝车祸遇难张师傅夫妇相关募捐事件",
+    "货车司机金德强服毒自杀事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "34岁大货车司机在服务区去世后被发现，4名爱心卡友免费帮他送车回老家",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGf8c7H8WTs1VidKNlmrTXDbReROj06PZxOOviLuKkr9NXQ8Ug4Vb79JNln5f7xqMPVD9fwL2BANfe4wly51Rhm5lEldnZzylAWLeYl8L6y-T7enaXpTPlEqJLn4RHKwMZJKRK2oE8zEpPhPIVB-4VSD_3Owt5nFIXo9txwh56JWnQpK9NoQMaxGrgLseI4pRMC9rIG-GZxh5au3K_c",
+      "publisher": "极目新闻",
+      "published_at": "2026-07-27"
+    },
+    {
+      "title": "34岁江苏货车司机在陕西彬州服务区离世，四名爱心卡友自费将车送回老家",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1_mXJsdLB6KJyuc9MxtqCE40geBC8TlZZWUC_LyQHVr0-eJeZJSKcQXYkUioJ3kwMT_w3HkMbj7BVmStsAUYgbvFs6zgPQ6UDdBGoSVQRbyoVRYYQYGPWzCF5enbas_189H3NCJE_upXSypivbMgdr5LJPCn7iE4UBgryQMqWl5XpxAvkaokTFXYl",
+      "publisher": "华商报大风新闻",
+      "published_at": "2026-07-29"
+    },
+    {
+      "title": "小新说丨货车司机异乡病逝，4名卡友千里自费送车归乡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtG-QBPn442ndWzF1zxvxXcfpLrihsO-pnupidPh6xTQtV_-ABb-8uSCftFeSQ5ucLOVBTDX8_0H_pEttMsa_qiGoqZnNg5D4VBNO8r1yTD_81IYkYhjMlmSa5aX1JajFaihl7ji-9TbEiofCDfVWHLxSUlEJt",
+      "publisher": "浙江新闻",
+      "published_at": "2026-08-01"
+    }
+  ],
+  "uncertainties": [
+    "部分极目新闻初期报道中将逝者化名为李阳，后续报道统一证实其为刘师傅",
+    "对逝者身后留下的女儿年龄存在7岁与8岁两种报道表述"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:04"
+}

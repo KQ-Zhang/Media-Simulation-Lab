@@ -1,0 +1,82 @@
+{
+  "event_id": "evt_3e1a2eb93bbd21af",
+  "verification_status": "partially_verified",
+  "confidence": "0.95",
+  "canonical_event_name": "西安22岁女子遭前男友假冒快递员入室杀害案",
+  "factual_description": "2025年11月23日上午，陕西西安发生一起恶性刑事案件。22岁女子万某雯（化名雯雯）在其住所内，被假冒快递员的前男友张某洒（张一洒）入室杀害。经公安机关与检察机关调查，二人于2025年4月分手，后张某洒多次纠缠复合遭拒并产生嫉恨。张某洒自2025年11月12日起对万某雯实施跟踪踩点，并于11月23日趁万某雯母亲出门后，谎称快递员骗开房门进入室内，持带铁钉的木棍击打万某雯头面部，后以膝盖跪压木棍于其颈部致其机械性窒息死亡。张某洒作案时随身携带32寸行李箱试图运走尸体，案发当晚被警方抓获。2026年7月13日，该案在西安市中级人民法院一审开庭，被告人当庭辩称故意伤害；2026年8月12日，西安市中级人民法院一审宣判，被告人张某洒犯故意杀人罪，被判处死刑，剥夺政治权利终身。",
+  "event_time": {
+    "start": "2025-11-23",
+    "end": "2026-08-12",
+    "precision": "day",
+    "evidence": "2025年11月23日凶手实施入室犯罪致被害人死亡；案件于2026年7月13日在一审开庭，2026年8月12日进行一审宣判。"
+  },
+  "locations": [
+    "中国/陕西省/西安市"
+  ],
+  "aliases": [
+    "西安22岁女子遭前男友入室杀害案",
+    "西安男子伪装快递员杀害前女友案",
+    "西安22岁女孩雯雯被前男友杀害案"
+  ],
+  "retrieval_queries": [
+    "西安 22岁女子遭前男友入室杀害案",
+    "西安 男子伪装快递员杀害前女友",
+    "西安 22岁女孩 雯雯 前男友 假冒快递员",
+    "西安 张一洒 故意杀人案",
+    "西安 22岁 女儿是我的小公主 7月13日开庭",
+    "西安 22岁女子 假称快递员 7月13日开庭"
+  ],
+  "must_match_facts": [
+    "被害人为西安22岁女子万某雯（化名雯雯）",
+    "凶手为被害人初恋前男友张某洒（张一洒）",
+    "凶手于2025年11月23日假称快递员骗开房门入室作案",
+    "凶手携带32寸行李箱及带铁钉木棍作案致被害人窒息死亡",
+    "案件于2026年7月13日在西安市中级人民法院一审开庭",
+    "西安市中级人民法院于2026年8月12日一审判处被告人死刑"
+  ],
+  "exclude_if": [
+    "2023年发生的西安命案",
+    "非前男友伪装快递员入室的抢劫杀人案",
+    "发生于西安以外地区的假冒快递员入室杀人案"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子伪装成快递员入室杀害前女友案开庭，携带木棍和行李箱作案",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwr46jACUrpTXgDGo3NKjn7dtOPIegiSXWbJTg3PMIESpXJEwSDoEN9tENtxLNb1l7_59R8x481wjcwdEKl5zU5ecNL5EsbTvvAN_u9Cv1KJ65ShEP2ipLEy4Ja4M7hLhiqQYNk9tgc-Z9swM=",
+      "publisher": "新京报",
+      "published_at": "2026-07-14"
+    },
+    {
+      "title": "“西安一22岁女子被前男友冒充快递员入室杀害案”13日开庭",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvJg81JlUYkjU_xEpwo__WfuprmKi2CByM0tMlelwQU16MbTdkFBgjP_-Y25ObIUVhJgHctJnMkQmqXQ6a330y81U3Si2BXMESwC4LqWVarzVBzJFan26QZgreXNOs0x1BFkWWTrrN",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-07-11"
+    },
+    {
+      "title": "西安22岁女子被前男友入室杀害案13日开庭，被害人母亲发声：每天以泪洗面无法入睡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpUwh40KaJleUYRKlSBd3QonNsNgtHJpxIazjzcwfZ2Kyr4A8VLVm6J-MbT0TqABT1O-Qi0WCbruDAFJLtnhvUbn3LMIqiG_wgWO7BlWkXYNmwpPqhmRMsnYqJGIa6jh8=",
+      "publisher": "极目新闻",
+      "published_at": "2026-07-12"
+    },
+    {
+      "title": "22岁女子遭前男友入室杀害案，一审宣判！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEat3y9owuq5oKNr9pB4-qC7VPLvrLWOn_PlbP8JLX8fuc2GiUclP0l1Judab2uxucdhW1e1FAvlrtIdP1R2hYfyKi0CvnKSJK_AEwRsf9MygTvthhzxOFAkbLuYDJSu2Y227XSutUcfaGJFFqLQEdkJpzhW97RVn5XH0quh0Nb2g==",
+      "publisher": "天津日报/新浪新闻",
+      "published_at": "2026-08-12"
+    }
+  ],
+  "uncertainties": [
+    "输入描述与数据集样本将案发及一审开庭年份误写或混淆为2023年（经核验实际案发时间为2025年11月23日，一审开庭时间为2026年7月13日，一审宣判时间为2026年8月12日）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:00:04"
+}

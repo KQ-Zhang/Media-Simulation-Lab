@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_f008d635c6278e63",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年3月9日日韩股市受国际油价暴涨冲击大跌及熔断事件",
+  "factual_description": "2026年3月9日，受美国、以色列与伊朗军事冲突持续以及霍尔木兹海峡通航受阻影响，国际原油期货价格自2022年以来首次突破每桶100美元关口（盘中一度冲破110美元），引发全球资本市场对能源危机与通胀加剧的严重恐慌。受此冲击，亚太金融市场当日早盘全线重挫。日本东京股市大幅跳水，日经225指数跌破53000点关口，盘中跌幅一度超过6%至7%，大阪交易所一度对日经股指期货采取临时熔断措施，最终收跌5.20%报52728.72点；韩国综合股价指数（KOSPI）开盘剧烈下挫，盘中跌超7%至8%，韩国交易所因KOSPI 200期货暴跌及现指异动先后触发“临时停牌”（Sidecar）与市场熔断机制（暂停程序化交易），最终收跌5.96%报5251.87点。同日，韩国总统李在明表示中东危机对高度依赖中东能源的韩国经济造成重大负担，并紧急部署应对措施，加快寻求替代能源供应路线。",
+  "event_time": {
+    "start": "2026-03-09",
+    "end": "2026-03-09",
+    "precision": "day",
+    "evidence": "2026年3月9日早盘开盘后日韩股市暴跌并触发熔断，当日下午收盘后各大主流媒体发布全天收盘综述。"
+  },
+  "locations": [
+    "日本/东京都",
+    "韩国/首尔特别市",
+    "日本",
+    "韩国"
+  ],
+  "aliases": [
+    "3·9亚太股市大跌",
+    "国际油价暴涨致日韩股市大跌",
+    "美以伊冲突引发日韩股市暴跌熔断",
+    "日经225跌破53000点",
+    "韩股触发熔断"
+  ],
+  "retrieval_queries": [
+    "国际油价暴涨致日韩股市早盘大跌",
+    "日经225 跌破53000 2026年3月9日",
+    "韩国股市 熔断 KOSPI 2026年3月9日",
+    "国际油价 突破每桶100美元 2026年3月",
+    "李在明 中东局势 韩国经济 2026年3月9日",
+    "韩日股市遭重挫 2026年3月9日"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年3月9日",
+    "因美以伊军事冲突及霍尔木兹海峡受阻导致国际油价突破每桶100美元",
+    "日本日经225指数盘中重挫跌破53000点且股指期货触发临时熔断",
+    "韩国KOSPI指数盘中暴跌超7%并触发临时停牌或熔断机制",
+    "韩国总统李在明针对中东局势对本国经济的影响研讨应对措施"
+  ],
+  "exclude_if": [
+    "2024年8月5日日本股市暴跌熔断（黑色星期一）事件",
+    "2020年3月新冠疫情引发的全球股市熔断事件",
+    "2026年6月8日韩国股市因芯片半导体股票下挫引发的熔断"
+  ],
+  "source_evidence": [
+    {
+      "title": "国际油价暴涨致日韩股市早盘大跌",
+      "url": "https://www.xinhuanet.com/fortune/20260309/a509f2ed53c94024ab2516747db85aba/zxcode_20260309a509f2ed53c94024ab2516747db85aba.jpg",
+      "publisher": "新华网",
+      "published_at": "2026-03-09"
+    },
+    {
+      "title": "韩日股市遭重挫，日经指数创历史第三大单日跌幅",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx2j9IqC7eH-XjPe5zFGMKVE6AGfoUIDu9pxAye2JCCMYS27d4G5672by-Yk8S4l4J8I7ug6gVZkk-EgEwAnwpXTImwp4_Ro-5tKAjO38wrRpti22zv3lF1egpxCXLgxOJJA7Xwi9MaoiW4fI=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-03-09"
+    },
+    {
+      "title": "国际油价突破每桶100美元",
+      "url": "https://www.news.cn/world/20260309/27b6a4977d514881b3ea85e0012bc372/zxcode_2026030927b6a4977d514881b3ea85e0012bc372.jpg",
+      "publisher": "新华网",
+      "published_at": "2026-03-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:38"
+}

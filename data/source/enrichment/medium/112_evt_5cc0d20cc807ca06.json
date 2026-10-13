@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_5cc0d20cc807ca06",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广东大一学生李泽锋登韶关龙斗峰失联事件",
+  "factual_description": "2026年5月15日中午，广东工贸职业技术学院大一学生李泽锋（20岁，广东化州人）独自离开学校，乘火车前往韶关始兴县。5月16日凌晨4时许，李泽锋将帐篷等物品留在山脚商店附近后独自开始攀登龙斗峰。5月16日中午，有徒步爱好者在龙尾至龙中区域与李泽锋擦肩而过，拍下其身着紫色雨衣、背黑色双肩包靠在山石缝隙休息的画面，此为李泽锋留下的最后影像，此后其轨迹中断失联。5月18日晚，室友因李泽锋未返校且失联通知其家属，家属随即报警。接警后，当地公安、消防、应急管理及民间搜救力量出动无人机、警犬等持续搜救，但受地形险峻及雨水天气影响未获有效线索。其父母先后悬赏1万元、3万元面向公众征集有效寻人线索。截至2026年8月中旬，李泽锋已失联近3个月，搜寻工作仍在持续中。",
+  "event_time": {
+    "start": "2026-05-16",
+    "end": "",
+    "precision": "day",
+    "evidence": "李泽锋于2026年5月15日离校前往韶关，5月16日凌晨4时许从山脚开始攀登龙斗峰，当日中午在龙尾至龙中片区失联。"
+  },
+  "locations": [
+    "广东省韶关市始兴县隘子镇龙斗峰",
+    "广东省广州市广东工贸职业技术学院"
+  ],
+  "aliases": [
+    "李泽锋龙斗峰失联",
+    "20岁大学生登龙斗峰失联",
+    "广东工贸职业技术学院学生龙斗峰失联",
+    "大一学生李泽锋爬龙斗峰失联近3个月"
+  ],
+  "retrieval_queries": [
+    "李泽锋 龙斗峰",
+    "李泽锋 广东工贸职业技术学院",
+    "龙斗峰 失联 李泽锋",
+    "大学生 龙斗峰 失联 3万元",
+    "始兴 龙斗峰 紫色雨衣",
+    "李泽锋 韶关 失联"
+  ],
+  "must_match_facts": [
+    "主体为广东工贸职业技术学院20岁大一男生李泽锋（广东化州人）",
+    "发生时间为2026年5月16日登山期间",
+    "失联地点位于广东省韶关市始兴县龙斗峰（龙尾至龙中区域）",
+    "失联前最后影像为身穿紫色雨衣、背黑色双肩包在山石缝隙休息",
+    "父母曾悬赏1万至3万元寻找线索，当地公安消防等部门开展联合搜救"
+  ],
+  "exclude_if": [
+    "龙斗峰其他户外被困或遇难事件",
+    "演员李泽锋相关演艺新闻",
+    "非龙斗峰地域的其他大学生登山失联事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "20岁大一男生在广东龙斗峰徒步失联超23天，警方已对山林全面搜索",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu_8kkhA52sXuzi5cJJJc-Idzy5oiTHT9UDSUw71jExIQuY9SB-epSb6Avx4-v-E8wYMRc30H8QacIneaDCizMusP-d37J8uLg8q8XjkQM85sw_lW7depg9nxTsY8kMbzEVeXB0g==",
+      "publisher": "极目新闻",
+      "published_at": "2026-06-09"
+    },
+    {
+      "title": "监控拍下最后身影！20岁大学生失联近3个月，父母：哪怕一线希望也不放弃",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk9pUJZFaalBX27Ce-YeBfqycHDzPy_q10Jzm-Wm0K4X79RpqTSw7VlzXlwpfXu4b7g6rW9x3ylPkYUPwWT3INQXrdlUYWoL7nV0-ibORJ5vTl-j0qx6aS_ZgCsrWhypCIMlHcoHAW3g==",
+      "publisher": "上观新闻（新民晚报）",
+      "published_at": "2026-08-12"
+    },
+    {
+      "title": "20岁男大生韶关龙斗峰失踪逾20天 广东三大险峰之一官方明令禁入",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwjX1iY4UWTGP54c7HT2_H7FXbX6hPWH6Zcs8TENTI-OMHbFo6qK1iQrlNa8a77x2YM2cF0-DJVYxWLEdioNbxlr69CwKvIcFRSEzhvhlFD-sOHs4WD5TrbVWr08wjlYi68y_hflzCnCWsaVoIOPuISsp3E8CovJqIO_kbtjR4yFmvin0ti7ycJ6M3JRkpQ6TeUMJWOCF3jN9xPQu_VNQyH8q9HCwLxFyEWzT3I9FnJ72yAlmQqQ1Y87RYhk3zaGCxUon4tne_5PFvyYh-LvqpyGj5fKUxHDB0omlpeH0r7f8XOpGf5Qwm5RFL1p75kViA22XKh5pyU-uEYS8etZKmv6LBItUKKgbRhcbGxDgA04NIfv_N_shvPnR_Fu0v9VNDLwGpQODOsLAokHY1QizvZziUgEFnJOhNtwEIg5jUNskCg7Jj4GKIGvIqFA36dlyA6bIxxvZd8sVMcv3EC_dmFw8shT0d5gf_YvCX3woELsXaOEAa",
+      "publisher": "香港01（综合广州日报、大象新闻）",
+      "published_at": "2026-06-10"
+    }
+  ],
+  "uncertainties": [
+    "李泽锋失联后的具体下落及生存状况截至2026年8月中旬仍未查明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:00"
+}

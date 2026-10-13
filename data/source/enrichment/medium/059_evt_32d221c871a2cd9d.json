@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_32d221c871a2cd9d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "朝鲜朝中社发文批日本2026年版《防卫白皮书》为“再侵略白皮书”",
+  "factual_description": "2026年8月11日，朝中社及朝鲜劳动党机关报《劳动新闻》刊发朝鲜国际安保问题评论家姜元哲的署名文章，强烈谴责日本政府日前发布的2026年版《防卫白皮书》，直指其为企图使开动战争机器合法化的“再侵略白皮书”。文章指出，日本将否定历史罪行和谋求军事大国化作为“国策”，比以往任何时候都更加强化与美国等势力的同盟关系。白皮书把朝鲜等周边邻国渲染描写为“重大而紧迫的威胁”及“最大的战略挑战”，实质是企图为其不加节制的扩军备武行为寻找借口与合理化外衣。文章强调，“侵略基因”始终存在于日本政治风土中且日益危险，日本虽披着“防卫”外衣，却无法掩盖其破坏地区和平、加剧局势紧张的本质，国际社会必须对日趋危险的日本新军国主义动向保持高度警惕。",
+  "event_time": {
+    "start": "2026-08-11",
+    "end": "",
+    "precision": "day",
+    "evidence": "朝中社及新华社平壤电讯均于2026年8月11日发布相关报道与文章"
+  },
+  "locations": [
+    "朝鲜",
+    "平壤"
+  ],
+  "aliases": [
+    "朝中社：日本2026年版《防卫白皮书》是再侵略白皮书",
+    "朝鲜批日本新版《防卫白皮书》为再侵略白皮书",
+    "朝鲜抨击日本防卫白皮书是再侵略白皮书",
+    "朝鲜指责日本防卫白皮书为战争脚本"
+  ],
+  "retrieval_queries": [
+    "朝中社 日本2026年版 防卫白皮书",
+    "朝鲜 姜元哲 再侵略白皮书",
+    "朝中社 再侵略白皮书",
+    "朝鲜 国际安保问题评论家 防卫白皮书"
+  ],
+  "must_match_facts": [
+    "朝鲜媒体朝中社或《劳动新闻》于2026年8月11日刊文",
+    "针对日本2026年版《防卫白皮书》",
+    "朝鲜方面批评该白皮书为“再侵略白皮书”或开动战争机器",
+    "文章作者为朝鲜国际安保问题评论家（姜元哲/姜原哲）"
+  ],
+  "exclude_if": [
+    "批评2024年或2025年及其他非2026年份日本防卫白皮书的事件",
+    "中国国防部或外交部单独回应日本防卫白皮书",
+    "韩国外交部就独岛主权抗议日本防卫白皮书"
+  ],
+  "source_evidence": [
+    {
+      "title": "朝中社：日本2026年版《防卫白皮书》是再侵略白皮书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCh2Y4c3vopo9dEaN_OIW_vxCIhb9hswG5rD4jLEW6NfebewOLuvn4B48cseS3sMoyu4u9bROLyy8NSU1EI4SH79grUTf5eYXorO5U_jjWXsK__11hUaFau9CgveYnr3wWH4UjBn2N1q-1uFStHTbRSIEQvvbhY1xPWT557_b1",
+      "publisher": "新华网",
+      "published_at": "2026-08-11"
+    },
+    {
+      "title": "朝中社：日本2026年版《防卫白皮书》是再侵略白皮书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxph0rE3MPp0nMWsiQ8CvCyS-pn2oVui-nRTjifCPnWUYxpIIA4ncAycIctxsZhkpJ6kTX7Qz66TigG4Q_MXlWMm8VCZ6lLU4Ca_YJy4Lz5nwKMuEPK3CuewXlVdpDAMWfBEz_62wgrWhYh_fPCiWlPtRd0N4=",
+      "publisher": "央视新闻客户端",
+      "published_at": "2026-08-11"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:31"
+}

@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_ed32d42217c5ccee",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026六盘水马拉松",
+  "factual_description": "2026年7月19日7时30分，2026多彩贵州马拉松超级联赛（第四站）暨六盘水马拉松在贵州省六盘水市钟山区人民广场鸣枪开跑。赛事由贵州省体育局、六盘水市人民政府主办，钟山区人民政府、六盘水市文体广电旅游局承办，主题为“清凉马拉松·激情六盘水”。本届赛事为全国唯一在三伏天举办的中国田协A类赛事，共设置全程马拉松（8000人）和半程马拉松（16000人）两大赛项，吸引了2.4万名跑者参赛。经过角逐，六盘水本土选手郭中瑞以2小时22分04秒斩获男子全程马拉松冠军，毕节威宁选手李仁香以2小时47分58秒夺得女子全程马拉松冠军；李金豪以1小时07分38秒夺得男子半程马拉松冠军，朱卿以1小时15分22秒夺得女子半程马拉松冠军并打破女子半马赛会纪录。",
+  "event_time": {
+    "start": "2026-07-19",
+    "end": "2026-07-19",
+    "precision": "day",
+    "evidence": "2026年7月19日7时30分，赛事在贵州省六盘水市钟山区人民广场鸣枪开跑并于当日结束。"
+  },
+  "locations": [
+    "中国/贵州省/六盘水市/钟山区/六盘水人民广场"
+  ],
+  "aliases": [
+    "2026六盘水马拉松",
+    "2026六马",
+    "2026多彩贵州马拉松超级联赛（第四站）暨六盘水马拉松",
+    "2026多彩贵州马拉松超级联赛第四站",
+    "2026多彩贵州马拉松超级联赛（第四站）暨“恒维地产”六盘水马拉松"
+  ],
+  "retrieval_queries": [
+    "2026六盘水马拉松",
+    "2026 六盘水马拉松",
+    "2026 六马",
+    "多彩贵州马拉松超级联赛 第四站 六盘水",
+    "六盘水马拉松 郭中瑞 李仁香",
+    "六盘水马拉松 李金豪 朱卿",
+    "2026六马 李金豪 李馨宇"
+  ],
+  "must_match_facts": [
+    "举办时间为2026年7月19日",
+    "举办地点为贵州省六盘水市钟山区（起终点为六盘水人民广场）",
+    "赛事属于2026多彩贵州马拉松超级联赛第四站暨第十一届六盘水马拉松",
+    "郭中瑞夺得男子全马冠军（2小时22分04秒），李仁香夺得女子全马冠军（2小时47分58秒）",
+    "李金豪夺得男子半马冠军（1小时07分38秒），朱卿夺得女子半马冠军（1小时15分22秒）"
+  ],
+  "exclude_if": [
+    "2025年及以前的历届六盘水马拉松赛事",
+    "2027年及以后的六盘水马拉松赛事",
+    "多彩贵州马拉松超级联赛其他分站赛事（如贵阳站等）"
+  ],
+  "source_evidence": [
+    {
+      "title": "2026多彩贵州马拉松超级联赛（第四站）暨六盘水马拉松鸣枪开跑",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1oP1tNfI8_LjVyByQBjqzJ8h-KjxFG2Bww25JDovOkvrF9gCQbYlWZS5gNKcNM6j2iy_I6vhZCxN3cVS1Sg2BA3Jm_q3ODAn1iKXP1fpEqwywgw8SZejBcS-Bt8hm7Iwfi20OtkXiPZweTBjbSiw=",
+      "publisher": "人民网-贵州频道",
+      "published_at": "2026-07-19"
+    },
+    {
+      "title": "燃爆凉都！2026六盘水马拉松激情开跑！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ1JXguGZ77LTlyV-0-2Oop_98HqF8rwSUI751QvPNIxLm6SryeHVbNsLcqRg0NBe_BbeAFCW9jTjoGco9pLv8ANnHjj11xmugq8UO7cH_Z2SYUywbNWyrkROWDtmJg8UEo9KluqNVRh0KCxm1OgPvvg==",
+      "publisher": "网易新闻",
+      "published_at": "2026-07-20"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:50"
+}

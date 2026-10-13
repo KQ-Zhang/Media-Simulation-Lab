@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_c61e5fcc3afd851e",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "伊朗称一油轮在霍尔木兹海峡偏离指定航线触雷爆炸",
+  "factual_description": "2026年7月26日，据伊朗法尔斯通讯社等媒体报道，一艘偏离伊朗指定航线的“违规油轮”在霍尔木兹海峡撞上水雷后发生爆炸。伊朗方面此前曾多次发布警告，提示船只若偏离伊方公布的航行路线，后果需自行承担。伊朗伊斯兰革命卫队海军同时表示已加强对波斯湾及霍尔木兹海峡水域的管控，并再次警告各国际航运企业不要依据美方提供的信息或指令开展航行。",
+  "event_time": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "precision": "day",
+    "evidence": "新华社及伊朗法尔斯通讯社于2026年7月26日报道当天一艘油轮偏离伊方航线触雷爆炸。"
+  },
+  "locations": [
+    "伊朗",
+    "霍尔木兹海峡"
+  ],
+  "aliases": [
+    "一艘油轮在霍尔木兹海峡触雷爆炸",
+    "伊朗称一油轮偏离指定航线触雷",
+    "霍尔木兹海峡违规油轮触雷",
+    "伊朗革命卫队警告航运企业勿依美方信息航行"
+  ],
+  "retrieval_queries": [
+    "油轮 霍尔木兹海峡 触雷 2026",
+    "霍尔木兹海峡 偏离 指定航线 触雷",
+    "违规油轮 霍尔木兹海峡 水雷 爆炸",
+    "革命卫队 警告 航运企业 美方信息 霍尔木兹海峡"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年7月26日",
+    "事发地点位于霍尔木兹海峡",
+    "涉事船只被伊方通报为偏离指定航线后触碰水雷发生爆炸",
+    "伊朗革命卫队警告航运企业不要遵照美方提供的信息开展航行"
+  ],
+  "exclude_if": [
+    "2026年9月中旬巴拿马籍“阿尔加亚”号（El Gaia）油轮触雷/遇袭争议事件",
+    "2026年7月31日伊朗革命卫队在海峡击中并扣留两艘油轮事件",
+    "2026年9月18日多哥籍油轮遇袭起火事件",
+    "2026年8月31日伊朗称超级油轮触雷遭美军反驳事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "伊朗媒体：一油轮在霍尔木兹海峡偏离伊指定航线触雷",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyW-ARQAiGZAHeD2U1K8uhrqoMicBtRTEyxLQCcBFZBJRd8l7wu7Ry5b_BeAUq5UO9O6cqwimJm88s3ldV6mbowJu1Hx62E9GySFbEeWTtD0ubYMldR5DBnMXjnpxFwxLQgZQOCsjuF4zYLmfjakmVim8CenadLuSx3WByrp-Tr3yoNNvh",
+      "publisher": "新华网",
+      "published_at": "2026-07-26"
+    },
+    {
+      "title": "伊朗称一油轮在霍尔木兹海峡偏离伊指定航线后触雷",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGz-o1Rt98Lm_PqKVBAe0DlDJtiwPYJZFTkwguXj62705NEpxSYK4wdN56C8KiPS0ZVTk8-Jkb3EiyrvH3M3MSQknhlnPlK5AmK9r2kQzaPj32lpkUXyw==",
+      "publisher": "凤凰网（转引文汇网/新华社）",
+      "published_at": "2026-07-27"
+    }
+  ],
+  "uncertainties": [
+    "涉事油轮的具体名称、船籍国以及人员伤亡损失情况在公开通报中未详细说明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:31"
+}

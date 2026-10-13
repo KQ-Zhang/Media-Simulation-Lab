@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_51b39e837de9d787",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "两名自驾人员非法穿越西藏羌塘自然保护区普若岗日冰川无人区被困获救受罚事件",
+  "factual_description": "2026年6月1日，西藏那曲市双湖县公安局接到报警求助，2名外来自驾人员未经合法审批手续，擅自驾车进入羌塘国家级自然保护区核心区，在普若岗日冰川以北海拔超过5500米的无人区发生陷车，无法自行脱困。接警后，双湖县公安局联合自然资源、应急管理、消防等多部门组成救援队，连夜挺进高寒恶劣环境展开搜救。救援人员克服暴风雪、冰雹、频繁陷车及高原反应等困难，历经5天4夜连续搜救，于6月3日21时许成功找到被困人员，并于6月5日18时将被困人员安全护送至双湖县城。经双湖县人民医院全面检查，两人身体状况良好、无生命危险。搜救结束后，双湖县自然资源和林业草原局依据《中华人民共和国自然保护区条例》等法律法规，对两名当事人依法作出行政处罚并开展警示教育，涉事人员接受处罚并承诺不再非法穿越。6月9日，双湖县官方正式对外通报该事件处置结果。",
+  "event_time": {
+    "start": "2026-06-01",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "2026年6月1日双湖县公安局接到车辆陷车报警求助；救援队于6月3日21时许找到被困人员，6月5日18时安全护送至双湖县城；双湖县公安局于6月9日通报搜救与行政处罚结果。"
+  },
+  "locations": [
+    "中国/西藏自治区/那曲市/双湖县/羌塘国家级自然保护区/普若岗日冰川以北无人区"
+  ],
+  "aliases": [
+    "2人在西藏冰川无人区自驾被困获救受罚",
+    "西藏双湖警方通报2人冰川无人区自驾被困",
+    "2人非法穿越羌塘自然保护区被困5天4夜获救",
+    "2名外来自驾人员普若岗日冰川被困获救",
+    "2人非法穿越无人区获救后被罚"
+  ],
+  "retrieval_queries": [
+    "双湖 普若岗日冰川 2人 自驾 被困",
+    "双湖县公安局 普若岗日冰川以北无人区 救援",
+    "2人 冰川无人区自驾 5天4夜 行政处罚",
+    "羌塘自然保护区 核心区 非法穿越 处罚 双湖",
+    "2人非法穿越无人区获救后被罚 双湖"
+  ],
+  "must_match_facts": [
+    "2名外来自驾人员非法闯入西藏羌塘国家级自然保护区核心区（普若岗日冰川以北无人区）",
+    "2026年6月1日因车辆深陷被困向双湖县公安局报警求助",
+    "双湖县公安、自然资源、应急、消防等多部门展开5天4夜救援行动",
+    "被困2人安全获救且身体状况良好、无生命危险",
+    "涉事人员因违反《中华人民共和国自然保护区条例》被双湖县自然资源和林业草原局等部门依法行政处罚"
+  ],
+  "exclude_if": [
+    "发生在可可西里、阿尔金山、罗布泊等其他无人区或保护区的非法穿越事件",
+    "涉及人员伤亡或遗体搜寻的自驾失联搜救事件",
+    "2026年6月之前发生的双湖或普若岗日冰川违规穿越事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "2人在冰川无人区自驾被困，当地花5天4夜成功救援：将作出行政处罚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUBJRoOc0tkWyMv9jhNr5HwKPfXbpnzexyOIQy-Nv21-EuP8W84-LvvZXmxdAe8x1SrUbQetBFzalaoGqeEHQb1HAoY-6X88purOrESfttXArcj8R9bH3Uc-COwjgVOK6sT8mgawa4_cpw5yQ=",
+      "publisher": "观察者网（引自微信公众号“双湖县公安”）",
+      "published_at": "2026-06-10"
+    },
+    {
+      "title": "西藏双湖警方：经过5天4夜搜救，自驾被困冰川无人区两人获救",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdX_p9lSPJpaXRmuqgSnqmhwKHmaBzp7dC5dhoByK_4Z6ocQUTufbruMR1MPxb7axsp-Kat9q6wqHtI0GNthYbwYfFnfo76cp8-OlKdC5K3CGAbH3RlV5XiWo=",
+      "publisher": "澎湃新闻（引自“双湖县公安局”微信公号）",
+      "published_at": "2026-06-09"
+    },
+    {
+      "title": "西藏双湖通报：2人冰川无人区自驾被困，获救后被罚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN1Y15iWcMpsuTej8fjcwZJeCUsLKmmrRNLZYRkPYVyRdvoeGijlAUzd8Ny2f4ndItpKEsPfa1pcYSRwtusZAE0d9i_Y1_f7BEesLtXq3g5YnFEZ72De2ErAKbptwtJlUh4GAbissNO91pI_V4TuZwuvTkNQc=",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-06-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:39"
+}

@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_ffbe288f49c3a198",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年FIBA U18男篮亚洲杯半决赛中国队战胜新西兰队晋级决赛",
+  "factual_description": "北京时间2026年8月22日晚，2026年国际篮联U18男篮亚洲杯（FIBA U18 Asia Cup 2026）半决赛在印度艾哈迈达巴德的Veer Savarkar室内体育馆进行，中国U18男篮以79:66战胜新西兰U18男篮，继2014年后时隔12年再度闯入该项赛事决赛。比赛中，中国队开局打出7-0，首节以24:10确立领先优势；次节新西兰队发起追分，中国队凭借多点开花稳住局势并保持两位数优势至终场。全场比赛中国队4人得分上双：张淳智命中4记三分砍下全队最高18分5篮板，张懿赵杰拿下12分10篮板的两双，王子超贡献11分9助攻5篮板3抢断，杨易轩得到10分；新西兰队后卫鲍尔得到全场最高的23分。此役获胜后，中国队顺利晋级决赛迎战卫冕冠军澳大利亚队，并在此前已锁定2027年FIBA U19男篮世界杯参赛席位。",
+  "event_time": {
+    "start": "2026-08-22",
+    "end": "2026-08-22",
+    "precision": "day",
+    "evidence": "中新社及国际篮联（FIBA）官方技术统计记录比赛于2026年8月22日晚进行"
+  },
+  "locations": [
+    "印度/古吉拉特邦/艾哈迈达巴德/Veer Savarkar Indoor Stadium"
+  ],
+  "aliases": [
+    "2026年U18男篮亚洲杯半决赛中国对阵新西兰",
+    "中国U18男篮79-66新西兰",
+    "中国U18男篮时隔12年再进亚洲杯决赛"
+  ],
+  "retrieval_queries": [
+    "U18男篮亚洲杯 中国 新西兰 79 66",
+    "2026 U18男篮亚洲杯 中国 新西兰 半决赛",
+    "中国U18男篮 79:66 新西兰 决赛",
+    "FIBA U18 Asia Cup 2026 China New Zealand 79 66",
+    "中国U18男篮 时隔12年 亚洲杯决赛"
+  ],
+  "must_match_facts": [
+    "赛事为2026年国际篮联U18男篮亚洲杯（FIBA U18 Asia Cup 2026）半决赛",
+    "比赛对阵双方为中国U18男篮与新西兰U18男篮",
+    "最终比分为中国队79:66战胜新西兰队",
+    "比赛于2026年8月22日在印度艾哈迈达巴德举行",
+    "中国队自2014年后时隔12年再次闯入U18男篮亚洲杯决赛"
+  ],
+  "exclude_if": [
+    "2024年FIBA U18亚洲杯半决赛中国队负于新西兰队的比赛",
+    "2026年8月23日进行的FIBA U18男篮亚洲杯决赛（中国队对阵澳大利亚队）",
+    "成年男子篮球亚洲杯或其他年龄组国家队的比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "中国队击败新西兰队晋级U18男篮亚洲杯决赛",
+      "url": "https://www.chinanews.com.cn/ty/2026/08-22/10471589.shtml",
+      "publisher": "中国新闻网",
+      "published_at": "2026-08-22"
+    },
+    {
+      "title": "New Zealand vs China - Semi-Finals - FIBA U18 Asia Cup 2026",
+      "url": "https://www.fiba.basketball/en/events/fiba-u18-asia-cup-2026/games/124707-NZL-CHN",
+      "publisher": "FIBA",
+      "published_at": "2026-08-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:03"
+}

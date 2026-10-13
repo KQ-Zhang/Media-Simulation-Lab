@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_56e47d465209f61d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "全国政协委员张桥在2026年全国政协十四届四次会议第二场“委员通道”介绍身份证光学防伪技术",
+  "factual_description": "2026年3月7日下午，全国政协十四届四次会议第二次全体会议前，第二场“委员通道”集体采访在人民大会堂中央大厅北侧举行。全国政协委员、苏州大学校长、农工党江苏省副主委张桥在回答关于高校在科技创新和产业创新融合发展中扮演何种角色的记者提问时，以我国居民身份证为例进行了介绍。张桥指出，为保护信息安全，居民身份证上一项关键的光学防伪技术源自苏州大学实验室：将身份证个人信息页对准光线，可观察到精美的长城图案及“中国CHINA”字样，转动证件时图案和字样呈现彩虹般流动变色效果；用手机摄像头放大观察底纹还可看到“居民身份证”五字的微缩拼音首字母，国徽面则有“万里长城”微缩首字母。张桥表示，该技术依托苏州科创生态已广泛应用于政务、金融、消费等场景；并以此论述高校应深化产学研融合、破解科技成果转化难题，面向“十五五”高校既要“顶天”突破认知边界，也要“立地”扎根产业解决现实问题。",
+  "event_time": {
+    "start": "2026-03-07",
+    "end": "2026-03-07",
+    "precision": "day",
+    "evidence": "2026年3月7日下午两点，全国政协十四届四次会议第二场“委员通道”集体采访在人民大会堂举行"
+  },
+  "locations": [
+    "中国/北京市/西城区/人民大会堂"
+  ],
+  "aliases": [
+    "张桥委员通道揭秘身份证黑科技",
+    "苏大校长张桥两会委员通道谈身份证防伪技术",
+    "2026全国两会第二场委员通道张桥发言",
+    "全国政协十四届四次会议第二场委员通道张桥"
+  ],
+  "retrieval_queries": [
+    "张桥 委员通道 身份证",
+    "苏州大学 张桥 委员通道",
+    "张桥 身份证 光学防伪",
+    "全国政协十四届四次会议 委员通道 张桥"
+  ],
+  "must_match_facts": [
+    "时间为2026年3月7日全国两会期间",
+    "主体为全国政协委员、苏州大学校长张桥",
+    "场合为全国政协十四届四次会议第二场“委员通道”（人民大会堂）",
+    "内容涉及揭秘/介绍二代居民身份证上的关键光学防伪技术来自苏州大学实验室",
+    "阐述高校产学研融合与科技成果转化"
+  ],
+  "exclude_if": [
+    "十四届全国人大四次会议“代表通道”",
+    "非张桥本人的委员通道发言",
+    "张桥在2026年全国两会之外其他时期的发言或任免报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "委员通道丨身份证的防伪技术来自这里！张桥：该技术已广泛应用于众多场景",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1QBOdtkgT5yRB2YCNBEUUrFCJIaqgz18YOb8WWAYOFTllcI1jPk-892qt6WYVpSq2b0UPGHRFfQXAn7pNHbCdWDC90dzPcL5wccs1c45yUL8w6ps2gmHiNPMzM140Lew_XYc3ugx_AIISl7M=",
+      "publisher": "央视新闻客户端",
+      "published_at": "2026-03-07T16:02:22"
+    },
+    {
+      "title": "身份证藏“高科技”！全国政协委员张桥“委员通道”现场解密",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ6NXXIjUE7cCsr6_j3pwFdQ00hVJlQKadEZl0NgJx8ajcNT_cmCKFL8Wh8SwMz6d_QWOQbwvCforEsE1SMRvUQQAuXrqSK_U__8iTW1lLcLYmZkZQRW19uEGb1-7DVDK4EjYC_Kwp38meoK0PNtfH-A==",
+      "publisher": "交汇点新闻（新华报业网）",
+      "published_at": "2026-03-07T14:51:00"
+    },
+    {
+      "title": "张桥委员：身份证上有“黑科技”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIp3Ja-EFJYsDlPSwn3PfdYi70HpaVHd2u3DVwjx344orPzXhbkww-vM7CZhZkZMLH_ZCE35i94_zG5H7uib7NFmcRKeCZQe4OfzA_rthUm2icGE75kJtkfhrgMyeKXr8MAhFnWNIpT5Ulg_eawNS_EhaZ4yEIAsnH45-bRv1kPVkBietuG4eKB0M=",
+      "publisher": "人民日报（中华人民共和国国务院新闻办公室转存）",
+      "published_at": "2026-03-08T00:00:00"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:44"
+}

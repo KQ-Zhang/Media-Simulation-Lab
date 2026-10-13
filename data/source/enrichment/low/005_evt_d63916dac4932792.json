@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_d63916dac4932792",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "美团内测及试点上线外卖骑手“等灯停表”功能",
+  "factual_description": "2026年7月24日，据第一财经等媒体报道，美团内部已初步搭建外卖骑手“等灯停表”功能并处于内测阶段。该功能旨在解决外卖骑手为抢时效而闯红灯等交通安全痛点：当骑手在配送途中遇到红绿灯等待时，系统结合车辆轨迹与实时交通灯态数据自动记录等红灯时长，将等灯时间单独累加并在订单最晚送达时间中予以顺延，从而缓解骑手的时间考核压力。美团方面表示，待数据完善后年内逐步推广，预计覆盖全国超100万名骑手。2026年7月31日，美团与江苏苏州公安联合正式上线该功能首个试点版本，率先在姑苏区和苏州工业园区约1100个路口落地测试；随后于8月在北京朝阳、通州、经开区等部分道路推进路测与试点接入。",
+  "event_time": {
+    "start": "2026-07-24",
+    "end": "2026-08-13",
+    "precision": "day",
+    "evidence": "2026年7月24日媒体披露美团内部已搭建“等灯停表”功能并进入内测；7月31日与苏州公安联合上线首个试点版本；8月13日北京试点路测版本上线。"
+  },
+  "locations": [
+    "中国",
+    "江苏省苏州市",
+    "北京市"
+  ],
+  "aliases": [
+    "美团等灯停表",
+    "外卖骑手等灯停表",
+    "美团骑手等灯停表功能",
+    "美团等红灯停表",
+    "骑手等红灯不计入配送时长"
+  ],
+  "retrieval_queries": [
+    "美团 等灯停表",
+    "美团 骑手 等红灯 停表",
+    "美团 等灯停表 100万骑手",
+    "美团 等灯停表 内测 顺延",
+    "美团 苏州 等灯停表"
+  ],
+  "must_match_facts": [
+    "主体为美团及美团外卖骑手配送体系",
+    "功能为骑手等红灯时系统单独记录等灯时间并在配送时长或截止时间中顺延",
+    "2026年7月24日首次公开报道正处于内部测试阶段",
+    "官方预计数据完善后覆盖超100万名外卖骑手",
+    "2026年7月31日起在江苏苏州等城市率先开启首批道路试点"
+  ],
+  "exclude_if": [
+    "仅提及2022年上线的常规前置红灯补时机制",
+    "饿了么或其他即时配送平台单独推出的交通安全管理方案",
+    "外卖骑手交通事故处置或骑手闯红灯处罚通报"
+  ],
+  "source_evidence": [
+    {
+      "title": "美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPDfLkupIxIx3vaKjznbcFRArSlthnO05CFsDwIkcHmft9fZIfKyPI6sj2UK3AeoSFUO4JWEBaTw_QyhbArfMpJmklBwvTOcQbad3dPTrx27wdjrdnxz9rY0hcyyOgWJLvmEID_p4-QsWLhD3VcI_g11bsRfaoDPy9S7j5Q-b5pKAW7l-T",
+      "publisher": "新华网",
+      "published_at": "2026-07-31"
+    },
+    {
+      "title": "美团和苏州联合发布上线外卖骑手“等灯停表”试点功能",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd4zLc8l69Y36fHDFizTv6dNv7SSrpqZ8r-47I0FJqbAO8KeEVKP4au_zNikDg5zKWVVsEOLa3kEIQd6Oz4x7LqTqOsczmvfDNckc1Z1tzuBk-UdckvOcAEVEhIpKz8b3GKqFvNr8=",
+      "publisher": "证券时报",
+      "published_at": "2026-07-31"
+    },
+    {
+      "title": "美团内测“骑手等灯停表”功能进一步缓解骑手配送时长压力",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy5kWWbKnQYmS9Lg1vz0L0UySm69VFX3NUHWtp2x7K3ydggvEqUg_Nj5GLJBLaBMCSQN86oQHPkLTcExWrQPl-GzS2K8gbo7uAjYzqRnlegIQXFzTMiQsP6VQ=",
+      "publisher": "凤凰网科技（引述第一财经）",
+      "published_at": "2026-07-24"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:07"
+}

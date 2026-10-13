@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_0bc8e89237c125a4",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "“爱我英雄城·夜跑洪州桥”2026南昌万人夜跑活动",
+  "factual_description": "2026年5月30日19时30分，“爱我英雄城·夜跑洪州桥”2026南昌万人夜跑活动在江西南昌正式鸣枪开跑。本次活动由南昌市人民政府主办，南昌县与红谷滩区两地同步发令，总参与规模约1万人。活动采用双向出发、跨江折返的模式：南昌县方向从昌南文化中心出发，经洪州大桥至南昌市红谷滩区南昌中学折返，全程约13公里；红谷滩区方向从南昌中学出发，经洪州大桥至昌南文化中心折返，全程约11公里。万名跑友身着红蓝两色反光参赛服装，在洪州大桥上交汇穿行。现场沿途设置了舞龙舞狮、非遗采茶戏等表演，并配备了昌南集市等文旅展区。南昌市公安机关在活动当晚对赛道及洪州大桥周边空域实施了无人机禁飞管制，同时为参赛人员提供了医疗急救、公共交通接驳等多项保障服务。",
+  "event_time": {
+    "start": "2026-05-30",
+    "end": "2026-05-30",
+    "precision": "day",
+    "evidence": "2026年5月30日19时30分，活动在赣江两岸同时鸣枪开跑。"
+  },
+  "locations": [
+    "中国/江西省/南昌市/洪州大桥",
+    "中国/江西省/南昌市/南昌县/昌南文化中心",
+    "中国/江西省/南昌市/红谷滩区/南昌中学"
+  ],
+  "aliases": [
+    "爱我英雄城夜跑洪州桥",
+    "2026南昌万人夜跑",
+    "南昌万人夜跑洪州桥",
+    "赣昌农商银行杯·2026南昌万人夜跑活动"
+  ],
+  "retrieval_queries": [
+    "2026南昌万人夜跑",
+    "爱我英雄城夜跑洪州桥",
+    "夜跑洪州桥 2026",
+    "南昌万人夜跑 5月30日",
+    "洪州大桥 万人夜跑",
+    "昌南文化中心 南昌中学 夜跑"
+  ],
+  "must_match_facts": [
+    "发生于2026年5月30日晚",
+    "活动主题为“爱我英雄城·夜跑洪州桥”",
+    "赛道以南昌洪州大桥为核心纽带跨越赣江",
+    "起点分别设在南昌县昌南文化中心与红谷滩区南昌中学，实行双向对跑折返",
+    "活动总参与规模约1万人（双向各约5000人）"
+  ],
+  "exclude_if": [
+    "2025年6月15日举行的“爱我英雄城，夜跑洪州桥”2025南昌万人夜跑活动",
+    "南昌马拉松、半程马拉松等常规日间专业路跑赛事",
+    "南昌元旦万人健步行或隆兴大桥健步行活动",
+    "发生在非南昌市或未跨越洪州大桥的其他夜跑活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "万人夜跑洪州桥燃动英雄城",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1a90_uBAhYGgnlvfTRDMPkZm0ajEmR_UtL3Im7GqJAcZLfUPikSIjYuGNxEL05Zx0E5dXPnLirh-92_Ie92KdIIY24dBcI_A41ZezHFhmiRTsuriIiRXHuIobyj446Seg1IM=",
+      "publisher": "新华社客户端 / 新华丝路",
+      "published_at": "2026-06-01"
+    },
+    {
+      "title": "2026年南昌万人夜跑活动期间将在有关空域和时段实行禁飞管制",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpX7UD2S8ZHA5pMwnRiGzUTLW9YjrYekTr55DeEgh-wTbqt5p0cD9J-Kji5dQYKRCQdu-xvI8G_ziLAg9zqbNzOUr3PSPQBrO4YNHri5dGiKIGzL9dw1fhCsGy850ir9GJAuVXtquSbAU=",
+      "publisher": "南昌发布（澎湃新闻政务号）",
+      "published_at": "2026-05-28"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:34"
+}

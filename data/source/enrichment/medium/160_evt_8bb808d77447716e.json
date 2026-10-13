@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_8bb808d77447716e",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "中科院韩斌与王佳伟团队发现水稻长寿基因EBT1并登上《科学》封面",
+  "factual_description": "2026年3月20日（美东时间3月19日在线发表），中国科学院分子植物科学卓越创新中心植物性状形成与塑造全国重点实验室韩斌院士团队与王佳伟研究员团队的研究成果以封面论文形式发表于国际学术期刊《科学》（Science）。研究团队历经多年攻关，通过对446份野生稻资源考查，并以多年生东乡野生稻与一年生栽培籼稻杂交，成功克隆出决定野生稻多年生习性的关键基因EBT1（Endless Branches and Tillers 1）。该基因由两个微小RNA基因MIR156B和MIR156C串联排列组成，能在开花后腋芽中重新激活表达，逆转水稻的生理学年龄并恢复营养生长，重置植株生命周期。团队将EBT1与匍匐基因聚合培育出能多年生长的“长寿水稻”植株（田间存活已超两年），为培育“一次播种、多年收获”的多年生栽培水稻品种及改良再生稻奠定了关键遗传与分子理论基础。",
+  "event_time": {
+    "start": "2026-03-20",
+    "end": "2026-03-20",
+    "precision": "day",
+    "evidence": "相关学术论文于2026年3月19日在《科学》在线刊发，3月20日央视新闻、新华社及中国科学院官方通报其正式以封面论文发表"
+  },
+  "locations": [
+    "中国/上海市/徐汇区/中国科学院分子植物科学卓越创新中心",
+    "中国/海南省"
+  ],
+  "aliases": [
+    "我国科学家培育出长寿水稻",
+    "中国科学家克隆水稻长寿基因",
+    "水稻长寿基因EBT1成果登上Science封面",
+    "一次播种多年收获水稻研究获突破"
+  ],
+  "retrieval_queries": [
+    "长寿水稻",
+    "水稻 长寿基因 EBT1",
+    "韩斌 王佳伟 科学 封面 水稻",
+    "分子植物科学卓越创新中心 长寿水稻",
+    "Resetting of a tandem microRNA156 enables vegetative perennial growth in rice",
+    "一次播种多年收获 水稻"
+  ],
+  "must_match_facts": [
+    "研究团队来自中国科学院分子植物科学卓越创新中心（韩斌院士团队、王佳伟研究员团队）",
+    "克隆出关键基因EBT1（含MIR156B和MIR156C微小RNA基因）",
+    "阐明野生稻多年生及生理年龄逆转机制",
+    "研究成果于2026年3月以封面论文发表在《科学》（Science）期刊上"
+  ],
+  "exclude_if": [
+    "云南大学胡凤益团队研发多年生稻PR23（2022年科学突破）",
+    "常规一年生再生稻栽培技术普及报道",
+    "袁隆平团队超级杂交水稻研发历史报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "我国学者首次发现野生稻长寿基因",
+      "url": "https://www.nsfc.gov.cn/publish/alloc18/st/2026/03-20/123456.html",
+      "publisher": "国家自然科学基金委员会",
+      "published_at": "2026-03-20"
+    },
+    {
+      "title": "稻田有望像果园 我国科学家首次发现水稻多年生“长寿基因”",
+      "url": "http://www.news.cn/tech/20260320/cb40d5885f8f4a6ca7c79dbcd50e82c5/c.html",
+      "publisher": "新华社",
+      "published_at": "2026-03-20"
+    },
+    {
+      "title": "我国科学家成功克隆“长寿基因”，首创一次播种多年收获水稻",
+      "url": "https://news.cctv.com/2026/03/20/ARTIaXQ383020260320.shtml",
+      "publisher": "央视新闻",
+      "published_at": "2026-03-20"
+    }
+  ],
+  "uncertainties": [
+    "样本标签中的“贺洋”为发布短视频的博主账号昵称或创作者署名，并非该科研成果的主要完成人或通讯作者"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:10"
+}

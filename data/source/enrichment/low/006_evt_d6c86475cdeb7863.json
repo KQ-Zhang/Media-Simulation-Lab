@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_d6c86475cdeb7863",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "DeepSeek API实施峰谷定价与大幅调价事件",
+  "factual_description": "2026年8月13日，杭州深度求索（DeepSeek）官方宣布对其API服务价格进行更新调整，并正式引入峰谷定价机制；该调价方案于北京时间2026年8月17日00:00正式生效实施。新规则将每日9:00-12:00、14:00-18:00设定为高峰时段，其余为空闲时段，空闲时段价格为高峰时段的一半。以旗舰模型DeepSeek-V4-Pro为例，调价后高峰时段每百万tokens输出价格由原先的6元涨至27元（涨幅350%），缓存命中输入单价由0.025元涨至0.3元（涨幅达1100%）。按企业调用场景测算，若单日在高峰时段消耗1亿输出tokens，成本将从调价前的600元激增至2700元。本次调价系DeepSeek发布以来单次幅度最大的一轮提价，体现了模型服务从低价竞争向价值定价和算力负荷错峰调控的转向。",
+  "event_time": {
+    "start": "2026-08-13",
+    "end": "2026-08-17",
+    "precision": "day",
+    "evidence": "2026年8月13日深度求索官方公布调价方案，峰谷定价新规则于2026年8月17日00:00正式生效。"
+  },
+  "locations": [
+    "中国/浙江省/杭州市"
+  ],
+  "aliases": [
+    "DeepSeek API调价",
+    "DeepSeek实施峰谷定价",
+    "DeepSeek涨价",
+    "DeepSeek峰谷分时计费",
+    "DeepSeek API价格调整"
+  ],
+  "retrieval_queries": [
+    "DeepSeek API 调价",
+    "DeepSeek 峰谷定价",
+    "DeepSeek 8月17日 生效",
+    "DeepSeek 600元 2700元",
+    "DeepSeek-V4-Pro 调价",
+    "DeepSeek 涨幅 1100%"
+  ],
+  "must_match_facts": [
+    "深度求索（DeepSeek）于2026年8月13日发布API调价公告并在8月17日0点生效",
+    "正式引入峰谷定价机制，空闲时段价格为高峰时段的一半",
+    "高峰时段设定为9:00-12:00和14:00-18:00",
+    "旗舰模型V4-Pro高峰输出价格调至27元/百万tokens，缓存命中输入涨幅最高达1100%",
+    "单日消耗1亿高峰输出Token成本从600元上升至2700元"
+  ],
+  "exclude_if": [
+    "2026年8月23日DeepSeek优化规则周末不再区分峰谷计费",
+    "2026年9月DeepSeek-V4.1-Flash发布及降价",
+    "成品油价格调整及油价下跌相关新闻",
+    "广东省调整最低工资标准相关报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "DeepSeek调价今日正式生效，涨幅最高达1100%，空闲时段价格为高峰的一半",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlkzhVpP0Bp364Bz-zc1JsXr4Hz8BE1ER8utT9LgNjpXeNaFCtq4scjafT6onTLAI1vCyfeNkpYYnmuxDlI2R_1qPT8zpCkxF9Y_Is8k5xgASVayXkYAbyW57JzIlfKbALV0Up_-hmIbb6mAEgR13qxhkftNgJerBq8K0PDwgKwYE7zc8hmEvPaLg=",
+      "publisher": "21财经 / 中新经纬",
+      "published_at": "2026-08-17"
+    },
+    {
+      "title": "DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeX18CbwrwRFeBT9vyTsgeALrQbWePrw4SsOrEtuuoRpa-eAyBi1fgzFIuujmi75_rV9zLdytWj55TSxnYKpxR-7waW6cAC2F9RL9OntVtFjEu6i2RktJbgUA=",
+      "publisher": "IT之家",
+      "published_at": "2026-08-17"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将发生年份误写为2024年，经多家权威财经及科技媒体报道核实该事件实际发生于2026年8月。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:13"
+}

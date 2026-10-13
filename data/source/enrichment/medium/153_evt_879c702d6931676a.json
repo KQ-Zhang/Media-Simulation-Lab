@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_879c702d6931676a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "郑州13岁男孩澡堂泡澡后突发脑出血送医抢救",
+  "factual_description": "2026年1月12日，河南郑州一名13岁男孩（化名“飞飞”）在公共澡堂泡澡约20分钟。随后在搓背过程中，搓背师傅发现其毫无反应、意识不清，家属与工作人员随即将其送往郑州大学第一附属医院急救。经检查，男孩处于嗜睡状态，确诊为颅内出血（脑出血），被送入ICU监护抢救。接诊医生霍玉锋介绍，男孩洗浴时澡堂温度较高（接近40℃），因长时间高温浸泡且中途未及时补充水分，导致出汗脱水、血容量下降、血液黏稠度升高，进而诱发血管循环障碍导致脑出血。相关医学专家后续提醒，儿童及青少年的体温调节中枢与血管机能发育尚未完全成熟，长时间浸泡在过热水中极易出现脱水或心脑供血异常，洗浴时应严格控制水温及浸泡时长，并注意及时补水。",
+  "event_time": {
+    "start": "2026-01-12",
+    "end": "2026-01-12",
+    "precision": "day",
+    "evidence": "都市报道及扬子晚报紫牛新闻报道指出，事件发生于2026年1月12日。"
+  },
+  "locations": [
+    "中国/河南省/郑州市/郑州大学第一附属医院"
+  ],
+  "aliases": [
+    "郑州13岁男孩泡澡20分钟脑出血",
+    "13岁男孩长时间泡澡致脑出血",
+    "13岁男孩高温泡澡20分钟突发脑出血",
+    "13岁男孩久泡热水澡突发脑出血"
+  ],
+  "retrieval_queries": [
+    "郑州 13岁 男孩 泡澡 脑出血",
+    "13岁男孩 澡堂 搓澡 颅内出血 郑州",
+    "飞飞 泡澡 脑出血 郑州大学第一附属医院",
+    "13岁男孩 40度 水温 泡澡 意识不清"
+  ],
+  "must_match_facts": [
+    "事发于2026年1月12日河南郑州",
+    "当事人为13岁男孩（化名飞飞）",
+    "在约40℃水温的澡堂中泡澡约20分钟",
+    "搓背时被发现失去意识并紧急送往郑州大学第一附属医院",
+    "经医院检查确诊为颅内出血（脑出血）并送入ICU"
+  ],
+  "exclude_if": [
+    "湖北襄阳10岁男孩浴室洗澡晕厥短暂性脑缺血事件",
+    "非2026年1月的洗浴意外事件",
+    "成年人泡澡晕倒或心脑血管意外事件",
+    "非洗浴泡澡诱发的儿童颅脑外伤或脑出血事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "13岁男孩长时间泡澡致脑出血医生：越小的孩子泡澡风险越大",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtDS_2LetsGJfmWKtJYD9cZKAtaotKg6aoUZK68Kzpdzi33P9bfln89jDjmVOy8p2qGoHuJjRqVSIfeXPmA53uxvA151a9zEFqQK05NCiomvNBLBQ2T0rAytwBms9br6OFOtBLnLBvsyo_o4KMXMLk0gTCIbUWMUl-ig==",
+      "publisher": "扬子晚报紫牛新闻",
+      "published_at": "2026-01-13T16:26:00"
+    },
+    {
+      "title": "河南13岁男孩泡澡20分钟后脑出血医提醒：男性常泡热水影响生育",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNsxsKm2Zf0enPF7LfHqSJqbOioZ3DK0o3IM3x6F_zZysfxUBKCCsmdMNN5oV9JF6owmmhCAtPmUDoo3kMhCc0wRzED3uBL31YBcjJGCjEdlCsRiAbJkp9J8JJfxpmpZ4S6zQmNjglUFFNOMpxx5GHgOLglHL4hMMEFVQ7gTaCZ7DzIyDrpevcp657v8HXtQTA2ahc__eVGeIJtgnXq-KFVUO6NfD7250sOpYyinwnTYbuDDKOKsanRE3mXT2X_NHiyfkO5aVvFAvXIWsIUBhzUf4bfmQlcIrdCzQQTKFD4NlvmH_IX5gbksQVgdkzbwTTf7axMywyuMXtOEPMXLjdMxDxAS7aw7da5I2LhJH5v1MtwErbNWrpjWMYQlpFngofAqDSpZkBIM8om63z1fooJwBYM1rtFWP4f4Ccl1YSMn9G61bHL_MeMEQZpLtxVRcQ1pswqjYp1-HabTlY9aS_m6wtqJegZLGaOllY",
+      "publisher": "香港01（转引河南广播电视台都市报道）",
+      "published_at": "2026-01-16T15:00:00"
+    }
+  ],
+  "uncertainties": [
+    "男孩是否存在脑血管畸形等潜在原发疾病尚未见公开确诊结论"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:02"
+}

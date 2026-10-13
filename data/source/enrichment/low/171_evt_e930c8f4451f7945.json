@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_e930c8f4451f7945",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "古巴国家主席迪亚斯-卡内尔接受NBC专访拒绝下台并呼吁美古无条件对话",
+  "factual_description": "当地时间2026年4月9日，古巴国家主席米格尔·迪亚斯-卡内尔首次接受美国主流电视媒体——美国全国广播公司（NBC News）《与新闻界》（Meet the Press）栏目专访。在被主持人克里斯汀·韦尔克问及是否愿意“为了拯救古巴而下台”时，迪亚斯-卡内尔回应称该问题站在美国政府的立场上，并强调古巴是自由的主权国家，古巴领导人由人民授权而非美国任命，不受美国操纵，“放弃”与“下台”在革命者的字典里并不存在；若古巴人民认为他不适合执政，他会回应人民的诉求。迪亚斯-卡内尔同时批评美国对古巴施加包括能源禁运在内的敌对封锁政策，指出美国无权要求古巴改变政治体制，古巴愿意在相互尊重、不设前提条件的情况下与美国展开全面对话。",
+  "event_time": {
+    "start": "2026-04-09",
+    "end": "2026-04-09",
+    "precision": "day",
+    "evidence": "美联社、NBC及各媒体报道显示，迪亚斯-卡内尔接受NBC专访的片段于当地时间2026年4月9日首度播出。"
+  },
+  "locations": [
+    "古巴/哈瓦那"
+  ],
+  "aliases": [
+    "迪亚斯-卡内尔接受NBC专访",
+    "古巴国家主席称字典里没有下台",
+    "古巴喊话美国开展对话不应设前提",
+    "古巴总统首度接受美媒专访拒下台"
+  ],
+  "retrieval_queries": [
+    "迪亚斯-卡内尔 NBC专访",
+    "古巴 字典里没有下台",
+    "古巴喊话美国开展对话不应设前提",
+    "Diaz-Canel NBC Meet the Press",
+    "古巴国家主席 接受美国全国广播公司采访",
+    "迪亚斯-卡内尔 拯救古巴 下台",
+    "古巴总统 拒绝辞职 无条件对话"
+  ],
+  "must_match_facts": [
+    "核心主体为古巴国家主席米格尔·迪亚斯-卡内尔",
+    "受访媒体为美国全国广播公司（NBC News）",
+    "专访涉及回应是否下台/辞职的问题，卡内尔回应‘字典里没有下台’",
+    "卡内尔表态古巴愿在不设前提、不改变自身政治体制的情况下与美方开展对话"
+  ],
+  "exclude_if": [
+    "2018年劳尔·卡斯特罗交接权力给迪亚斯-卡内尔的相关报道",
+    "央视《高端访谈》等其他非NBC媒体的专访",
+    "古巴与美国代表在第三国进行闭门技术性接触的具体谈判报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "Cuban President Miguel Díaz-Canel tells NBC News that he will not step down",
+      "url": "https://apnews.com/article/760ff1deeadc45de8b0d4d509f72ae1b",
+      "publisher": "Associated Press",
+      "published_at": "2026-04-09"
+    },
+    {
+      "title": "Cuban president tells NBC he won't resign under US pressure, as Russia backs old ally",
+      "url": "https://www.theguardian.com/world/2026/apr/10/cuban-president-miguel-diaz-canel-nbc-interview",
+      "publisher": "The Guardian",
+      "published_at": "2026-04-10"
+    },
+    {
+      "title": "古巴总统首次接受美媒专访：不会辞职",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-10/doc-infrvsqp8704207.shtml",
+      "publisher": "新浪财经（转法新社/中央社）",
+      "published_at": "2026-04-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:24"
+}

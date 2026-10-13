@@ -1,0 +1,136 @@
+{
+  "event_id": "evt_aeb7a74c9a16f4be",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "呼和浩特摄影比赛一等奖作品《洒乐园林》被确认系AI生成事件",
+  "factual_description": "2026年7月中旬，由内蒙古呼和浩特市文学艺术界联合会主办、呼和浩特市摄影家协会承办的“艺韵北疆·光影青城”2025年呼和浩特全民摄影双月赛第三期（主题“趣味与偶遇”）公示获奖名单。其中获得一等奖的作品《洒乐园林》（作者署名乔满良）画面呈现三名环卫工人休憩场景，但因工人身上马甲文字出现不规则乱码、面部表情高度一致等明显AI痕迹，被网友质疑系AI生成图片而非实景拍摄。事件引发网络热议后，相关获奖公示推文被删除，呼和浩特市摄影家协会工作人员查看图片后直言“这个的确太假了”。2026年7月14日，呼和浩特市文学艺术界联合会发布情况通报，确认作品《洒乐园林》确系AI生成，非作者实景原创拍摄；通报宣布取消该作品线上线下参赛、参评及参展资格，撤销其一切赛事相关认定，暂停全民摄影双月赛活动并推进全面整改，并将依法依规对相关责任人予以处理。",
+  "event_time": {
+    "start": "2026-07-13",
+    "end": "2026-07-14",
+    "precision": "day",
+    "evidence": "2026年7月13日前后网友发帖质疑《洒乐园林》并引发媒体关注；2026年7月14日呼和浩特市文学艺术界联合会发布官方通报确认AI造假事实并公布处理决定。"
+  },
+  "reporting_time_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-16"
+  },
+  "locations": [
+    "中国/内蒙古自治区/呼和浩特市"
+  ],
+  "people": [
+    {
+      "name": "乔满良",
+      "role": "涉事一等奖AI生成作品《洒乐园林》的署名参赛者"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "呼和浩特市文学艺术界联合会",
+      "role": "赛事主办单位，后发布通报撤销奖项并暂停赛事"
+    },
+    {
+      "name": "呼和浩特市摄影家协会",
+      "role": "赛事承办及评审组织单位"
+    }
+  ],
+  "trigger": "呼和浩特全民摄影双月赛第三期公示一等奖作品《洒乐园林》，被网友发现画面中环卫工衣服文字出现明显的AI乱码，质疑其为AI生成图片冒充摄影作品参赛。",
+  "key_actions": [
+    "网友在社交网络发帖曝光《洒乐园林》马甲乱码及人脸一致等AI漏洞，质疑比赛评审公正性。",
+    "主办方删除公众号上的相关获奖名单公示推文。",
+    "南方都市报等媒体致电采访，呼和浩特市摄影家协会工作人员回应称“这个的确太假了”。",
+    "2026年7月14日，呼和浩特市文学艺术界联合会紧急发布情况通报，经核实确认该作品确系AI生成。",
+    "官方通报撤销《洒乐园林》参赛参展及获奖资格，暂停该摄影双月赛并展开整改，追究相关责任人责任。"
+  ],
+  "outcome_and_status": "呼和浩特市文联已官方确认作品《洒乐园林》系AI生成并作撤奖、停赛整改及追责处理。该事件引发了新闻媒体及社会舆论关于摄影赛事AI审核漏洞及评委失职的大讨论。",
+  "timeline": [
+    {
+      "time": "2026-07-13",
+      "fact": "网友发帖质疑呼和浩特全民摄影双月赛第三期一等奖作品《洒乐园林》系AI生成，官方随后删除了包含获奖名单的推文。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5-Kk24vOcx_TehmW_ZmnaveZt9a7NXzl4V7QbYk0lt-646ecsWMoTnTNioYuiyH7P_JKkKMwhxzoDJwnof0yTNKr4mkFlPoUUDBxmZKXixJ8VLd2EPMhKTO97niEAr945-gvqmvWNbRg="
+      ]
+    },
+    {
+      "time": "2026-07-14",
+      "fact": "媒体报道呼和浩特市摄影家协会工作人员对此表示“这个的确太假了”，市文联表示已介入调查。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSj78Bo8NfJGn8C2e2Cg6mL1Ue26RqMtjyu-pa2ca5sOOWz27IK7XQCC1AZNXrOI93kxLk469mQa6nCUWy0DYLGIppl2_HzSI7kY515KpjqWGJgjgYDzermBz6t1RPBYdQ3xN5ZR1sAhf7ZCL5"
+      ]
+    },
+    {
+      "time": "2026-07-14",
+      "fact": "呼和浩特市文学艺术界联合会发布情况通报，确认作品确系AI生成，撤销该作品一切赛事认定，暂停双月赛并推进整改，对相关责任人予以处理。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5-Kk24vOcx_TehmW_ZmnaveZt9a7NXzl4V7QbYk0lt-646ecsWMoTnTNioYuiyH7P_JKkKMwhxzoDJwnof0yTNKr4mkFlPoUUDBxmZKXixJ8VLd2EPMhKTO97niEAr945-gvqmvWNbRg=",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeWm1vFiAMu1iKPKxOt38qgIT3ZWcqm1hYO6iZ_qoWCHeV9eO0mIlZlW8WfTZjHNxXAgjnt4CILGKfZXg3zKXBzvciT6qs4C0OlJyLfb1Ubu6ey_SGo23dOo_lppmLsvTU-VW656fWJWk7TmQUrNJRfe_NtE4x"
+      ]
+    }
+  ],
+  "aliases": [
+    "呼和浩特摄影比赛一等奖乱码事件",
+    "呼和浩特AI生成图获摄影比赛一等奖事件",
+    "洒乐园林AI生成获一等奖争议",
+    "艺韵北疆·光影青城摄影赛AI造假事件"
+  ],
+  "retrieval_queries": [
+    "呼和浩特 摄影比赛 一等奖 AI",
+    "洒乐园林 乱码 一等奖",
+    "呼和浩特 摄影比赛 乱码",
+    "呼和浩特市文联 洒乐园林",
+    "乔满良 洒乐园林 AI",
+    "摄影比赛一等奖作品出现乱码",
+    "呼和浩特 环卫工 乱码 摄影",
+    "艺韵北疆 光影青城 洒乐园林"
+  ],
+  "must_match_facts": [
+    "涉事赛事为“艺韵北疆·光影青城”呼和浩特全民摄影双月赛（主办方呼和浩特市文联、承办方呼和浩特市摄影家协会）。",
+    "涉事获奖作品名称为《洒乐园林》（署名作者乔满良），画面包含三名环卫工人休息及泼水场景。",
+    "作品引发争议的主要原因为环卫工人马甲/背心上的文字为不规则乱码、表情及面部肖像高度一致等明显的AI生成缺陷。",
+    "2026年7月14日呼和浩特官方通报确认《洒乐园林》确系AI生成，并决定撤销获奖认定、暂停比赛整改及处理相关责任人。"
+  ],
+  "optional_supporting_facts": [
+    "赛事承办方呼和浩特市摄影家协会工作人员曾回应称“这个的确太假了”。",
+    "第三期双月赛的主题为“趣味与偶遇”。",
+    "主办方工作人员此前曾推脱称“不负责作品评审工作，仅转发公示”或表达过“现代科技加入”的言论。"
+  ],
+  "exclude_if": [
+    "涉及福建“清新福建·遇见旅发”摄影大赛作品《湖秋雾影》AI造假事件",
+    "涉及华住集团摄影大赛作品《骑楼旧光》AI造假事件"
+  ],
+  "distinctive_entities": [
+    "洒乐园林",
+    "乔满良",
+    "艺韵北疆·光影青城",
+    "呼和浩特市文学艺术界联合会",
+    "呼和浩特市摄影家协会"
+  ],
+  "source_evidence": [
+    {
+      "title": "呼和浩特官方通报：作品确系AI生成，撤销其一切赛事相关认定",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5-Kk24vOcx_TehmW_ZmnaveZt9a7NXzl4V7QbYk0lt-646ecsWMoTnTNioYuiyH7P_JKkKMwhxzoDJwnof0yTNKr4mkFlPoUUDBxmZKXixJ8VLd2EPMhKTO97niEAr945-gvqmvWNbRg=",
+      "publisher": "澎湃新闻 / 红星新闻",
+      "published_at": "2026-07-14",
+      "supports": [
+        "呼和浩特市文联于7月14日发布通报确认《洒乐园林》系AI生成",
+        "取消参赛资格、暂停全民摄影双月赛推进全面整改",
+        "对相关责任人依据有关规定予以处理"
+      ]
+    },
+    {
+      "title": "呼和浩特摄影比赛一等奖作品确系AI生成！相关责任人被处理",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSj78Bo8NfJGn8C2e2Cg6mL1Ue26RqMtjyu-pa2ca5sOOWz27IK7XQCC1AZNXrOI93kxLk469mQa6nCUWy0DYLGIppl2_HzSI7kY515KpjqWGJgjgYDzermBz6t1RPBYdQ3xN5ZR1sAhf7ZCL5",
+      "publisher": "南方都市报",
+      "published_at": "2026-07-14",
+      "supports": [
+        "一等奖作品中环卫工衣服出现乱码文字",
+        "摄影家协会工作人员表示“这个的确太假了”"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "涉事参赛者乔满良的具体身份及其是否面临行业禁赛等追责细节未在官方通报中进一步披露。",
+    "主办方及评审责任人的具体处分结果细节未明确公示。"
+  ],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:33:06"
+}

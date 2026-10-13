@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_73209c18ca72f543",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年7月16日商务部回应氦气出口管理及安世半导体问题",
+  "factual_description": "2026年7月16日，中国商务部举行例行新闻发布会，新闻发言人何亚东就氦气临时禁止出口管理及推动解决安世半导体问题进展作出权威回应。针对商务部与海关总署于2026年7月10日联合发布公告对氦气实施临时禁止出口管理一事，何亚东指出，中国是氦气主要进口国，该举措旨在保障国内供应，符合《中华人民共和国对外贸易法》有关规定和世贸组织规则，后续将根据国内外氦气供需变化适时调整出口管理政策。针对荷兰安世半导体相关争议，何亚东介绍，7月7日荷兰外贸与发展合作大臣舍尔茨玛访华期间，商务部部长王文涛与其共同主持召开了中荷经贸混委会第18次会议；中荷双方一致同意，双方政府应创造良好环境，推动企业通过协商化解纠纷，保障全球半导体产供链安全稳定。",
+  "event_time": {
+    "start": "2026-07-16",
+    "end": "2026-07-16",
+    "precision": "day",
+    "evidence": "2026年7月16日商务部举行例行新闻发布会，新闻发言人何亚东现场回应两项热点提问。"
+  },
+  "locations": [
+    "中国/北京市/东城区/商务部"
+  ],
+  "aliases": [
+    "2026年7月16日商务部例行新闻发布会",
+    "商务部回应氦气临时禁止出口管理",
+    "商务部回应推动解决安世半导体问题进展",
+    "中荷同意协商化解安世半导体纠纷"
+  ],
+  "retrieval_queries": [
+    "商务部 何亚东 氦气 临时禁止出口",
+    "商务部 安世半导体 协商化解纠纷",
+    "商务部发布会 2026年7月16日",
+    "商务部海关总署公告2026年第29号 氦气",
+    "王文涛 舍尔茨玛 安世半导体",
+    "商务部 氦气 适时调整出口管理"
+  ],
+  "must_match_facts": [
+    "2026年7月16日商务部新闻发言人何亚东在例行新闻发布会上发言",
+    "回应氦气临时禁止出口管理系依据对外贸易法、为保障国内供应",
+    "回应后续将根据国内外氦气供需变化适时调整出口管理",
+    "回应中荷双方同意推动安世半导体相关企业通过协商化解纠纷",
+    "提及7月7日中荷经贸混委会第18次会议"
+  ],
+  "exclude_if": [
+    "2025年12月商务部关于安世半导体纠纷的单项答记者问",
+    "涉及镓、锗、锑、石墨等其他矿产物项出口管制的商务部发布会",
+    "荷兰政府或法院单方面对安世半导体作出的裁决与行政令"
+  ],
+  "source_evidence": [
+    {
+      "title": "商务部回应推动解决安世半导体问题进展",
+      "url": "https://cn.chinadaily.com.cn/a/202607/16/WS6a589344a310d709c2fbde28.html",
+      "publisher": "中国日报网（新华社通稿）",
+      "published_at": "2026-07-16"
+    },
+    {
+      "title": "商务部：将根据国内外氦气供需变化适时调整出口管理",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIUjBNXjVvWn_Y3JCC-N_swQy69_klvUCMS3jp142f9wigiOc2Y27-uqLdt0-C0XzSOtN0TVofYiBigVzxg-jvd24_GdDRl11LyWuKNK8lGir46d9o6fpHTMAFTIW-TtFepxVUfhQCfX6iz1e94RTGoBFA5zIhD9cMO41PoL-8s3g8BVoeK1BLsj_Jxu_iEpKOQ_-p",
+      "publisher": "新华网客户端",
+      "published_at": "2026-07-16"
+    },
+    {
+      "title": "商务部海关总署公告2026年第29号公布对氦气实施临时禁止出口管理",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnjaIvhqGt8FHKxsEtfQMTfQF-GteS_y9jvdWRmx7gboqYgo6qnWrWXr-9UMx1k7oi4fp6PQ7ObxWwaNud-SNiKNRNf_RwkyyvHbi8RiTahzcUxzBFgE4TUtgELPJwVx8saEzni4Wfb-eYveiCv-OJm9SUVzZtKxjILWlkzUsK3gkX8McyVZMZwfw4",
+      "publisher": "商务部对外贸易司",
+      "published_at": "2026-07-10"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将年份标注为2023年，经核验该新闻发布会、此前氦气临时禁止出口公告（2026年第29号公告）及中荷经贸混委会第18次会议均发生在2026年7月。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:42"
+}

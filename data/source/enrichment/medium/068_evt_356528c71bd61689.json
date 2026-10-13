@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_356528c71bd61689",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广州如约出租车司机加塞未果向旁车吐口水被清退事件",
+  "factual_description": "2026年5月25日，广东省广州市海珠区江南大道北路段发生一起交通文明纠纷。一辆私家车在正常行驶途中，右侧一辆“如约”出租车试图强行变道加塞未果，该出租车司机随后摇下车窗向私家车驾驶员作出不雅手势，并连续5次朝其车窗吐口水。当事车主随后向公安交警与交通运输管理部门进行投诉举报。广州交警接报调查后，依法对涉事出租车司机处以罚款200元、驾驶证记1分的行政处罚。涉事出租车所属的广州如约公交集团回应称，已对涉事车辆作停场处理，并对该名驾驶员予以清退，同时约谈警示其所在车队督促整改。广州市客运交通管理处亦介入跟进，表示涉事企业已按规定处理当事人，后续将指导督促企业加强驾驶员文明行车教育培训。",
+  "event_time": {
+    "start": "2026-05-25",
+    "end": "2026-05-29",
+    "precision": "day",
+    "evidence": "媒体报道及官方处置回复明确标注纠纷发生于2026年5月25日，媒体于5月28日至29日披露交警处罚与企业清退结果"
+  },
+  "locations": [
+    "中国/广东省/广州市/海珠区/江南大道北"
+  ],
+  "aliases": [
+    "广州出租车司机加塞不成向旁车吐口水事件",
+    "广州的士司机加塞不成朝旁车吐口水",
+    "广州如约出租车加塞吐口水事件",
+    "出租车司机加塞不成向旁车大吐口水",
+    "男子遭出租车司机加塞还多次吐口水"
+  ],
+  "retrieval_queries": [
+    "广州 出租车 加塞 吐口水",
+    "海珠区 江南大道北 如约出租车",
+    "的士司机 加塞不成 吐口水 韦冬梅",
+    "如约公交集团 清退 驾驶员 吐口水",
+    "出租车司机 加塞 吐口水 罚款200元 记1分",
+    "广州客管处 出租车 吐口水"
+  ],
+  "must_match_facts": [
+    "事发地点位于广州市海珠区江南大道北",
+    "涉事车辆为如约出租车，司机因强行变道加塞未果向旁车做出不雅手势并多次吐口水",
+    "交警部门对涉事出租车司机作出罚款200元、记1分的处罚",
+    "出租车所属企业将涉事车辆停场并清退涉事驾驶员"
+  ],
+  "exclude_if": [
+    "重庆梁平女子挡道指挥加塞向旁车吐口水事件",
+    "广州白云机场出租车不打表要价纠纷事件",
+    "广州两网约车交通事故司机持长刀威胁事件",
+    "其他非广州海珠区江南大道北路段的出租车行车纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "出租车加塞不成向旁车吐口水，多方回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEkQMRIloormgnxt-CWVuHEB-mjZLqtU_2o-ihie-pWn3p2nS0gJqk6SKrBfd2NKxbkU_fJLpR0B963b2GJXlj9grHlClAiz1-iwknietjAa07EXP3eb8IOkffg01MaDAEOQ==",
+      "publisher": "纵览新闻 / 腾讯新闻",
+      "published_at": "2026-05-29"
+    },
+    {
+      "title": "广州一出租车司机加塞不成向旁车吐口水，的士公司：已清退涉事驾驶员",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsxcpzM_GSn5r9r4kfzPOLpqwIM62X0bGJnlaVT6xUuMBtGFEqIQ0-GLMnpSfYBd08XwUFh3UssJAmDNkM5bIGJvsp4i8mfYrs5ICD4RTHXQFG9ZhMxa5OwzZT8fRB7tcJ",
+      "publisher": "广东广播电视台《DV现场》 / 腾讯新闻",
+      "published_at": "2026-05-28"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将事发年份记录为2024年，经多方报道与通报核验，实际事发与查处时间均为2026年5月"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:54"
+}

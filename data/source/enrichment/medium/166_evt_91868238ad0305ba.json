@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_91868238ad0305ba",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "西安公安举办“警徽映归途，寻亲暖万家”认亲仪式助两个离散家庭团圆",
+  "factual_description": "2026年2月6日上午，陕西省西安市公安局（刑侦支队会同新城分局等）举办“警徽映归途，寻亲暖万家”认亲仪式，现场助力两名被拐人员与失散数十年的亲生父母重逢。被拐人员徐某（徐超）于1986年在西安五路口附近走失（时年2岁），家庭苦寻40年；李某（李健）于1998年12月在西安市儿童医院附近玩耍时失联被拐（时年3岁），失散28年。案发后西安警方成立专案组侦查，并于2009年将父母血样录入全国打拐信息系统。2025年以来，警方依托人像识别技术与大数据比对发现高度相似人员，并经DNA科学鉴定确认身份。2025年12月专案组在河南找到徐某并抓获潜逃40年的犯罪嫌疑人张某某（张某献）；2026年1月李某养父母陈述了当年收养情况，两起积案相继告破，促成两家庭在2026年新春前夕相拥团圆。",
+  "event_time": {
+    "start": "2026-02-06",
+    "end": "2026-02-06",
+    "precision": "day",
+    "evidence": "华商网、极目新闻及上游新闻等媒体报道，西安市公安局于2026年2月6日上午举办该认亲仪式。"
+  },
+  "locations": [
+    "中国/陕西省/西安市/西安市公安局"
+  ],
+  "aliases": [
+    "西安公安“警徽映归途，寻亲暖万家”认亲仪式",
+    "西安公安破获40年与28年拐卖积案",
+    "徐超李健认亲仪式",
+    "西安公安让两个破碎家庭终团圆"
+  ],
+  "retrieval_queries": [
+    "警徽映归途 寻亲暖万家",
+    "西安公安 认亲仪式 2026",
+    "西安 警徽映归途",
+    "徐超 李健 认亲",
+    "西安公安 让两个破碎家庭终团圆",
+    "孩子走失家人40年不换电话号码",
+    "西安 破获40年 28年 拐卖积案"
+  ],
+  "must_match_facts": [
+    "时间为2026年2月6日上午，地点在西安市公安局",
+    "仪式主题名称为“警徽映归途，寻亲暖万家”",
+    "协助两起分别失散40年（1986年）和28年（1998年）的被拐家庭相认团圆",
+    "涉及被寻回人员徐某（徐超）与李某（李健）",
+    "西安警方通过人像识别大数据比对与DNA鉴定破案并抓获潜逃40年的嫌疑人张某某"
+  ],
+  "exclude_if": [
+    "2026年7月西安市公安局刑侦支队举行的3个家庭认亲仪式",
+    "2024年11月西安公安通报侦破17年前3起拐卖积案认亲仪式",
+    "2020年李静芝寻子32年（嘉嘉）认亲事件",
+    "2018年西安新城分局组织的24年走失儿童磊磊与敏敏认亲事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "徐超、李健回家！西安公安破40年与28年拐卖积案，失散亲人终团圆",
+      "url": "https://img5.myhsw.cn/2026-02-06/hE4yW41dUnxJQl7C.jpg",
+      "publisher": "华商网",
+      "published_at": "2026-02-06 13:58:44"
+    },
+    {
+      "title": "28年与40年的等待，两个被拐儿童在西安与家人团聚",
+      "url": "https://inews.gtimg.com/om_bt/Osaknrb3JfrFRa2PpDoACEXhEelwlFsDCkEe7eRjwGMykAA/641",
+      "publisher": "上游新闻（腾讯新闻转登）",
+      "published_at": "2026-02-06 16:00:00"
+    },
+    {
+      "title": "陕西两失散亲属家庭重逢团圆警方不懈努力终圆梦",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA1675eJMhblb_6JuK1i1LXzU4ICUals_qsmxHW1Wm9A2tIN6tX5JFj-11zvFd7VZb5oooA8YeyPkxl5c0Gc1j_XrIz6WBaUpKYErEP5EQ8qjwvY15jGbRJYIWBbLsrSz5Pi598N5lv9Dctp1bXfMgEM13DCY=",
+      "publisher": "极目新闻（中华网转登）",
+      "published_at": "2026-02-06 22:19:05"
+    }
+  ],
+  "uncertainties": [
+    "原输入描述中将该仪式时间误写为2023年2月6日，权威媒体报道证实其实际发生于2026年2月6日",
+    "被寻回当事人及犯罪嫌疑人在部分官方通报中使用化名隐称（田某某/徐某、胡某某/李某、张某某），部分媒体报道使用了徐超、李健、张某献等具体姓名"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:25"
+}

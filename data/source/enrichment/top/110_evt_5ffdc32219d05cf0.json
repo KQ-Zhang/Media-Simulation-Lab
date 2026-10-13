@@ -1,0 +1,89 @@
+{
+  "event_id": "evt_5ffdc32219d05cf0",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年重庆彭水汉葭街道“7·17”山体崩塌灾害",
+  "factual_description": "2026年7月17日9时08分许，重庆市彭水苗族土家族自治县汉葭街道乌江三桥附近（沙沱社区）发生大型山体崩塌灾害，塌方总体积约1.8万立方米，导致山脚下多栋居民楼倒塌被掩埋。事发前约8时，社区网格员在巡查中发现山体掉落碎石后紧急预警，组织周边60余名群众撤离，转移过程中山体突发崩塌。灾害发生后，应急管理部、自然资源部等部门启动应急响应，调派专业救援力量及8000件中央救灾物资支援。搜救初期媒体相继报道搜救出7至9名被困者。由于现场存在数千立方米巨石阻碍搜救，救援队对巨石实施了定向爆破并展开深度搜寻。截至2026年7月30日陆上承灾区域搜寻完毕，灾害共造成51人遇难、10人受伤、10人失联。其中网格员龚宝冬在引导群众疏散时不幸遇难，后被评定为烈士。",
+  "event_time": {
+    "start": "2026-07-17",
+    "end": "2026-07-30",
+    "precision": "day",
+    "evidence": "山体崩塌发生于2026年7月17日9时08分许，陆上搜寻及遇难者身份确认工作持续至2026年7月30日。"
+  },
+  "locations": [
+    "中国/重庆市/彭水苗族土家族自治县/汉葭街道/乌江三桥附近",
+    "中国/重庆市/彭水苗族土家族自治县/汉葭街道/沙沱社区"
+  ],
+  "aliases": [
+    "重庆彭水山体崩塌",
+    "重庆彭水山体垮塌现场已搜救出7名被困者",
+    "重庆彭水山体垮塌现场已搜救出9名被困者",
+    "重庆彭水汉葭街道山体垮塌",
+    "彭水7·17山体崩塌灾害"
+  ],
+  "retrieval_queries": [
+    "重庆彭水山体崩塌",
+    "重庆彭水汉葭街道山体垮塌",
+    "彭水山体崩塌 搜救 7名被困者",
+    "彭水山体垮塌 9名被困者",
+    "彭水 汉葭街道 乌江三桥 山体崩塌",
+    "2026年 重庆 彭水 山体崩塌",
+    "彭水山体崩塌 龚宝冬 网格员",
+    "彭水山体崩塌 51人遇难"
+  ],
+  "must_match_facts": [
+    "灾害发生时间为2026年7月17日上午9时许",
+    "发生地点在重庆市彭水苗族土家族自治县汉葭街道乌江三桥附近沙沱社区",
+    "灾害类型为山体崩塌/垮塌，总体积约1.8万立方米，掩埋多栋居民楼",
+    "社区网格员事发前巡查发现落石预警并组织群众撤离",
+    "救援初期现场搜救出7至9名送医的被困人员",
+    "救援处置过程中对现场大型孤石实施了定向爆破作业"
+  ],
+  "exclude_if": [
+    "发生在云南省镇雄县的山体滑坡事故",
+    "发生在四川省筠连县的山体滑坡事件",
+    "发生在四川省康定市的山洪泥石流灾害",
+    "非重庆市彭水县汉葭街道发生的其他地质灾害"
+  ],
+  "source_evidence": [
+    {
+      "title": "重庆彭水县发生一起山体崩塌",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERRKAVtv4RaNrn9nVBvBen3X1lUun_4j2VIcGbvKYix4IMMPyAu2hDLFyDPtevxF66Enyoz-FAN1LIoSktkgJ3dFyxulsKBgT6vSgXUy3mGh7Z4Ma5GxQFiJHVI9kz4S504xHqt1Du6KFLkWcejvKQUnicu93Da5h86esylTL9",
+      "publisher": "人民日报",
+      "published_at": "2026-07-18"
+    },
+    {
+      "title": "重庆彭水山体崩塌灾害造成11人死亡、50人失联",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfzwjwUMYiZ7xTdQM2r_6KrrIS89O9MP7qK8SFfXYyLoN2CWvITACV5rpgrf3m-D-blmjKd9bx_ooBfJa3Zvg1XLok02XtaWxYvMPXWC9uoFE4pCERe8zZyz2rbzPHyxT3CcgzbO5LtfTXEy620-X4SrkelOH_CZuepIv7a40=",
+      "publisher": "新华网",
+      "published_at": "2026-07-23"
+    },
+    {
+      "title": "重庆彭水山体垮塌现场已搜救出9名被困者",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIJiFjIjIuxGRETID-xUMtKgPJ6v87naadv6vzvcZKQsHUEUWXkMTfh23Xck1eK5BZiDtT44Qy4vcn8w3WBk0zCGHnzf6Qj3jZrtTWI04HqSbmMZ_WpdqFbJ9irQDbah97jRec5YHDyy-i583Jt1s4ToTkceTLiW_X",
+      "publisher": "新华网",
+      "published_at": "2026-07-17"
+    },
+    {
+      "title": "失联12天后，彭水山体崩塌中组织群众转移的网格员龚宝冬确认遇难",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAZgoF03k8HdlBCnvnIBgBC1W8fDQ895QcRvUOo-PQM2r7ulJkkklD3qtuQN-NxsGdF7gARFht8KNtzzoRNqGwG9Dj65vYluonXq68SmSUeCG31qWgdkRBexSH65rgWCh_",
+      "publisher": "大象新闻 / 腾讯新闻",
+      "published_at": "2026-07-30"
+    }
+  ],
+  "uncertainties": [
+    "输入描述及部分自媒体早期帖子将事件年份误标为2023年，经主流权威媒体核验确认为2026年7月17日发生",
+    "事发当天救援初期，新闻媒体报道的搜救出被困人员数量随救援进展呈现7名、8名、9名至10名等动态变化"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:03:14"
+}

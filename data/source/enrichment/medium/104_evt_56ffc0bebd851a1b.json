@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_56ffc0bebd851a1b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年元宵节兰州五泉山霍去病雕像游客排队摸字祈福事件",
+  "factual_description": "2026年3月3日（农历正月十五元宵节），甘肃兰州五泉山公园霍去病雕像前出现大量市民与游客排起长队，依次触摸雕像基座上镌刻的“去病”二字祈福，雕像石碑被抚摸得光滑反光。现场游客表示，此举主要看重“去病”二字的谐音好兆头，祈求“去病去灾”、保佑身体健康，并与西北及当地农历正月十五“游百病”的传统年俗相关。摸霍去病雕像祈福在当地已形成多年风气，当天经媒体与网络视频传播后，再次引发公众关于民间祈福风俗与文明游园的讨论。",
+  "event_time": {
+    "start": "2026-03-03",
+    "end": "2026-03-03",
+    "precision": "day",
+    "evidence": "2026年3月3日适逢农历正月十五元宵节，与游客陈述的元宵节‘游百病’习俗及媒体报道时间一致（现有描述误记为2024年）。"
+  },
+  "locations": [
+    "中国/甘肃省/兰州市/城关区/五泉山公园"
+  ],
+  "aliases": [
+    "游客排长队摸霍去病雕像祈福",
+    "一景区霍去病雕像被摸到反光",
+    "兰州五泉山公园游客摸霍去病雕像祈福",
+    "兰州元宵节游百病摸霍去病雕像"
+  ],
+  "retrieval_queries": [
+    "游客排长队摸霍去病雕像祈福",
+    "一景区霍去病雕像被摸到反光",
+    "五泉山公园 霍去病 摸到反光",
+    "兰州五泉山 霍去病 游百病",
+    "霍去病 去病二字 祈福"
+  ],
+  "must_match_facts": [
+    "地点为甘肃兰州五泉山公园霍去病雕像",
+    "游客排长队触摸雕像上的“去病”二字祈福消灾",
+    "行为与农历正月十五元宵节“游百病”民间习俗相关"
+  ],
+  "exclude_if": [
+    "河南淮阳太昊陵游客排队打秦桧事件",
+    "济南辛弃疾故居相关祈福或打卡报道",
+    "2019年春节正月初一五泉山公园12万人摸霍去病雕像旧闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "【网络中国节·元宵】赏民俗观非遗3月3日五泉山将开启元宵主题活动",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2kem52S80RFh1WDnIz-jXA7a6_5EZQetIryQPOeXrus_OKMIiS6nD0rIGy0DQMCe70iQRo-kdaAE6FH1Fq8s7nvNXzlI4lL8xnC57GwizgrSZwAraex6JMx-uMtwEdsTOZCtdxzha2vANS0_Q2Vt13Q==",
+      "publisher": "中国甘肃网",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "万人排队狂摸霍去病祈福，网友：谁给辛弃疾曹无伤们捧捧场",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5HTVzSELD6M3Ykhz9lT2nkQJW-n6NiKoQlEEkdsnrKitAbcsg1rgNqji4AuQsQD05Rj4D8HpOUc9Xu9RpCDmARXuHwnoy9sXZ1LYqal36fJwYWKwXdN0dqLENeixR72jGeUNe",
+      "publisher": "上观新闻",
+      "published_at": "2019-02-10"
+    },
+    {
+      "title": "兰州每天千人摸霍去病雕像只为“祛病”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUovcKhoSmAX4juOC_Ym_EoJLvJ67oRH_M9A_DTLOGoz7ETfrDRtSmu_cPf103ggnssgbSDd3NB43DFWbWFABJLqPqgIWPvdx29IrgHVQPEp4cOOQ3sqU73Uv_ZUdSW3I4U6sj6XjJCdzDOhSqQQ==",
+      "publisher": "中国新闻网",
+      "published_at": "2017-09-12"
+    }
+  ],
+  "uncertainties": [
+    "摸霍去病雕像在五泉山公园属于多年常见现象，现有描述误将年份记为2024年，实际本次与正月十五对应并由媒体集中报道的公历日期为2026年3月3日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:57"
+}

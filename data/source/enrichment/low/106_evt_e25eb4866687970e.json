@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_e25eb4866687970e",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年亚太经合组织（APEC）林业部长级会议在深圳举行",
+  "factual_description": "2026年7月27日至28日，2026年亚太经合组织（APEC）林业部长级会议在中国广东省深圳市举行。本次会议由自然资源部指导，国家林业和草原局、广东省人民政府、深圳市人民政府联合主办，是2026年APEC“中国年”系列活动之一，也是APEC时隔15年再次在中国举办的生态领域专业部长级会议。会议主题为“共建绿色亚太，共享生态福祉”（在部分成果表述中包括“增强亚太森林韧性共享全民生态福祉”）。来自APEC 21个经济体和7个国际组织的高级别代表、专家学者出席会议，以“绿色发展、提质兴业利民”为主线，围绕森林保护与可持续经营、科技创新与绿色产业融合、打击非法林产品贸易等议题进行政策对话与磋商，并通过了《2026年APEC林业部长级会议联合声明》。会议期间，参会代表还参访了深圳当代艺术与城市规划馆、深圳湾红树林等生态与城市规划项目。",
+  "event_time": {
+    "start": "2026-07-27",
+    "end": "2026-07-28",
+    "precision": "day",
+    "evidence": "国家林草局新闻发布会及新华社、人民日报等官方报道明确会议于2026年7月27日至28日举行"
+  },
+  "locations": [
+    "中国/广东省/深圳市",
+    "中国/广东省/深圳市/深圳国际会议交流中心",
+    "中国/广东省/深圳市/深圳当代艺术与城市规划馆"
+  ],
+  "aliases": [
+    "2026年APEC林业部长级会议",
+    "2026年亚太经合组织林业部长级会议",
+    "深圳APEC林业部长级会议",
+    "2026 APEC Forestry Ministerial Meeting"
+  ],
+  "retrieval_queries": [
+    "2026 APEC 林业部长级会议",
+    "APEC 林业部长级会议 深圳",
+    "2026 APEC 林业 联合声明",
+    "共建绿色亚太 共享生态福祉 深圳",
+    "国家林草局 2026 APEC 深圳",
+    "APEC 林业部长 深圳当代艺术与城市规划馆"
+  ],
+  "must_match_facts": [
+    "会议全称为2026年亚太经合组织（APEC）林业部长级会议",
+    "举办时间为2026年7月27日至28日",
+    "举办地点在广东省深圳市",
+    "由自然资源部指导，国家林草局、广东省政府、深圳市政府联合主办",
+    "会议审议通过《2026年APEC林业部长级会议联合声明》"
+  ],
+  "exclude_if": [
+    "2011年首届APEC林业部长级会议（北京举办）",
+    "其他非2026年份举行的APEC林业部长级会议",
+    "非深圳举办的APEC其他专业部长级会议（如能源、海洋、财政等会议）"
+  ],
+  "source_evidence": [
+    {
+      "title": "APEC林业部长级会议通过联合声明",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKZxmvrN2HTVJPuxuxwgdGt9v7CRMOdmEW5WieJmTz6H9UF7aQLa5oyCWL0_jW6Jz38rZo8uDYphLZJBBKum0NeXSMFS8sWqCmyEUxIR43u7Dlmz7Tn7RlhN_6Qit5LxXgWBqXQW2a2X__wB7nbqYW7hIQF0rsAculRjcSj1HpuQ==",
+      "publisher": "新华网",
+      "published_at": "2026-07-28"
+    },
+    {
+      "title": "“共建绿色亚太，共享生态福祉”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyNM1AD4KNT0tiimk17H2yijZiVz8BBZQwEJTxodzNWhSqkAXU-WWRVhjgJwiqV1QInCNZiwiQgFgKiUDQS4p09YrRJovmI0DzYs555iKUR5eMOks7BXAEDQhxu2q14qp9x57fGV2q5Y5kDvuOcWTsLA79sOI6JPpHmZzZEXtmLNcPwg==",
+      "publisher": "人民日报",
+      "published_at": "2026-07-15"
+    },
+    {
+      "title": "2026年APEC林业部长级会议7月27-28日在深圳举办",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv3Fa51iWK8ujwxNTWkr_PogHNEv-x7YEMvZwVS9v4ED-LuzPRElYll_CaGbV12vSR_N9_KsksZwoNKi2LHwG3SX6GGs1sEpQAlx2-wpZX3UfZD1NLar7Ri9SfIWaNaoYhSWuN9gtWsD012XnLwjG6LI1fz2XS3fj0F9Pvka45oUKesmvtH90wjsw=",
+      "publisher": "中华人民共和国自然资源部",
+      "published_at": "2026-07-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:44"
+}

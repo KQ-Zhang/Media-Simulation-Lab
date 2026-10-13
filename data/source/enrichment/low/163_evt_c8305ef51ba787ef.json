@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_c8305ef51ba787ef",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "上海儿童医学中心完成上海首例婴儿ABO血型不相容心脏移植手术",
+  "factual_description": "2026年3月，国家儿童医学中心、上海交通大学医学院附属上海儿童医学中心终末期心衰治疗团队成功完成上海首例婴儿ABO血型不相容心脏移植手术。接受手术的患儿嘻嘻（化名）为11月龄幼儿，体重约8公斤，确诊罕见的限制性心肌病并伴有危重终末期心衰。因国家器官分配系统匹配到的合适供心为B型血，而患儿为A型血，医学团队利用2岁以下婴幼儿免疫系统未发育成熟的特点，打破传统血型禁忌，在心胸外科主任医师祝忠群带领下制定周密方案。医护团队通过术前两次血浆置换清除针对B型血的特异性抗体，术中精准完成供心植入与血管吻合，术后实施精准免疫抑制管理。手术顺利完成，患儿术后成功脱离呼吸机、恢复自主进食并转入普通病房。该手术的成功拓宽了低龄终末期心衰患儿的心脏供体池。",
+  "event_time": {
+    "start": "2026-03",
+    "end": "2026-03-19",
+    "precision": "month",
+    "evidence": "2026年3月19日，文汇报、澎湃新闻等多家主流媒体报道上海儿童医学中心于“近日”成功完成该例心脏移植手术，3月24日媒体报道患儿转入普通病房。"
+  },
+  "locations": [
+    "中国/上海市/浦东新区/上海交通大学医学院附属上海儿童医学中心"
+  ],
+  "aliases": [
+    "上海儿童医学中心完成沪上首例婴儿ABO血型不相容心脏移植",
+    "沪上首例婴儿ABO血型不相容心脏移植",
+    "11月龄心衰患儿在沪跨血型换心重获新生",
+    "上海首例婴儿血型不相容心脏移植"
+  ],
+  "retrieval_queries": [
+    "上海儿童医学中心 ABO血型不相容 心脏移植",
+    "上海 婴儿 ABO血型不相容 心脏移植 首例",
+    "祝忠群 ABO血型不相容 心脏移植 11月龄",
+    "上海首例婴儿血型不相容心脏移植 8公斤"
+  ],
+  "must_match_facts": [
+    "实施机构为国家儿童医学中心（上海儿童医学中心）",
+    "手术性质为婴儿ABO血型不相容心脏移植（上海首例）",
+    "患儿为11月龄、约8公斤重的限制性心肌病心衰患儿",
+    "患儿血型为A型，供体心脏血型为B型",
+    "主刀或主要专家为祝忠群团队"
+  ],
+  "exclude_if": [
+    "广东省人民医院等其他省市医院的儿童跨血型心脏移植",
+    "13岁终末期心衰患儿人工心脏植入手术",
+    "成人ABO血型不相容器官移植",
+    "儿童肝脏或肾脏ABO血型不相容移植"
+  ],
+  "source_evidence": [
+    {
+      "title": "血型不配能移植！上海首例婴儿血型不相容心脏移植完成，患儿植入“救命心”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYMjF1WJgy2MYSnFIxvAwH5nC3e_pUT-9tdYpRY32xH5wMcMKI9HY26-uBZXlHM73lN5-cbK_A1v4arhLBlKWfycWiIpRqSR5HJ7SF7wxlXPY14L7L4GCkYw5eYVFRxqIVYUSSzNUx",
+      "publisher": "上观新闻（文汇报）",
+      "published_at": "2026-03-19"
+    },
+    {
+      "title": "血型不相容也能做心脏移植，11月龄心衰婴儿在沪重获新生",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFs1H31RGjQ8lnL2HBySLmobwWnFC6k5ynUvT78Zvu1xZ5XV3INRxHAtrdq2Wvqer2Eq0RwwL8YaOihT0UcHjwmSHHACkYs8cHPIef6HKYMlxQ1GwkIQfg53rImWWGmT4tQ",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-03-19"
+    },
+    {
+      "title": "上海首例跨血型移植！8公斤婴儿获得“救命心”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrdRWlmcflZYLxfdP5yAVOlGJYrz0sR4Dl7VCQr5biBgiknSFblGsODwi1x4-iNnzq8HHjrZVEjo5oc3PVf71ZgPtonKxztFbrxULOxKcH3dTPks9B-sAsO2I9f8tCMEdWtQ==",
+      "publisher": "看看新闻 / 腾讯新闻",
+      "published_at": "2026-03-24"
+    }
+  ],
+  "uncertainties": [
+    "手术具体开刀日期报道仅表述为“近日”，未公开具体几月几日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:11"
+}

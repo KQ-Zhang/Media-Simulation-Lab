@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_f7dbc0135fee89a3",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年大连夏季达沃斯论坛（第十七届新领军者年会）筹备与举行",
+  "factual_description": "2026年6月23日至25日，世界经济论坛第十七届新领军者年会（2026大连夏季达沃斯论坛）在辽宁省大连市的大连国际会议中心举行。本届年会以“规模化创新”为主题，吸引了来自全球90多个国家和地区的1700余位（约1800名）政商学界及国际组织代表参会。会议前夕，各项筹备工作全部就绪，大连机场口岸于6月22日起迎来与会嘉宾入境高峰，海关与边检部门开辟绿色通道提供通关保障。6月24日上午，国务院总理李强在大连出席论坛开幕式并发表特别致辞，强调创新驱动与开放合作；同日下午李强出席了工商界代表座谈会。论坛聚焦人工智能、新能源、生物医药、量子科技等前沿科技及“十五五”规划解读，开展了多场分论坛与直播研讨，于6月25日圆满闭幕。",
+  "event_time": {
+    "start": "2026-06-22",
+    "end": "2026-06-25",
+    "precision": "day",
+    "evidence": "2026年6月22日大连机场口岸迎来嘉宾入境高峰且场馆筹备就绪，论坛于6月23日开幕、6月25日闭幕"
+  },
+  "locations": [
+    "中国/辽宁省/大连市/中山区/大连国际会议中心",
+    "中国/辽宁省/大连市/甘井子区/大连周水子国际机场"
+  ],
+  "aliases": [
+    "2026夏季达沃斯论坛",
+    "第十七届夏季达沃斯论坛",
+    "2026大连夏季达沃斯论坛",
+    "世界经济论坛第十七届新领军者年会",
+    "2026年新领军者年会",
+    "2026 Summer Davos"
+  ],
+  "retrieval_queries": [
+    "2026 夏季达沃斯论坛",
+    "第十七届新领军者年会 大连",
+    "2026 夏季达沃斯 筹备就绪",
+    "大连机场口岸 达沃斯 入境高峰",
+    "李强 夏季达沃斯 2026",
+    "夏季达沃斯 规模化创新 2026",
+    "大连国际会议中心 夏季达沃斯 2026"
+  ],
+  "must_match_facts": [
+    "发生于2026年6月下旬（6月22日至25日）",
+    "主体为第十七届新领军者年会（夏季达沃斯论坛）",
+    "举办城市为辽宁省大连市，主会场为大连国际会议中心",
+    "论坛主题为‘规模化创新’",
+    "国务院总理李强出席开幕式并致辞"
+  ],
+  "exclude_if": [
+    "2024年第十五届大连夏季达沃斯论坛（主题为‘未来增长的新前沿’）",
+    "2025年第十六届天津夏季达沃斯论坛",
+    "在瑞士达沃斯举办的冬季世界经济论坛年会"
+  ],
+  "source_evidence": [
+    {
+      "title": "李强出席2026年夏季达沃斯论坛开幕式并致辞",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOAKcklnl9_Nvpq1CFbzt2Lbwy1RHJM4YFdPNr_8nh8-FYpWBmZxmMCpo6mUp_Zt9hCBk_wwMdJgYxyDYnu5zEXqnpqV5RpiLmuy_gKQfh0BmgeXIX6UyOPcKsxDX8gSln3eD5AC3noIGItG_G4sSu1kZX3ni5TKUY1-enH25a8tj5EbFhvU4sG-k=",
+      "publisher": "新华网",
+      "published_at": "2026-06-24"
+    },
+    {
+      "title": "第十七届夏季达沃斯论坛将在大连举行",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESpvFwQeETV9oIVbcjwCAkmT0jP5TlXQADNtFFO6kP4MrfvV3UCFLlRulJ9GcN8sLCAaIPf-Nz7Nf84jBja9sHWcFYeHPyjBKvirc2Zc3H1aDqiiIgr2Z2_Cins_47JgXXQrThDOBXhDted8xiUw==",
+      "publisher": "央广网",
+      "published_at": "2026-06-17"
+    },
+    {
+      "title": "2026夏季达沃斯论坛将于明天开幕筹备工作基本就绪",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqslFZs9K44kZjG-MWDp84L7yer7740Lk1nMDIBlRUbog4JzGr5KYwWuvlwV62tJrkeJ-vhQ1-zkNvSAXjC9AvDYMizUzQeR0BxTz6idx8ftA2lLfIZxLusSlBeBMOR-gtxXeAPHOYYW8baw==",
+      "publisher": "中国青年网",
+      "published_at": "2026-06-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:03"
+}

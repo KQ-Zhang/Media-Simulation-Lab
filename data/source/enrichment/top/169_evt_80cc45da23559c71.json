@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_80cc45da23559c71",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "重庆彭水山体崩塌救援现场发现生命迹象",
+  "factual_description": "2026年7月17日上午9时许，重庆市彭水苗族土家族自治县汉葭街道发生山体崩塌灾害。7月18日10时50分许，在抢险救援过程中，救援人员在一只名为“子歇”的搜救犬帮助下，并经生命探测仪与雷达复测，在崩塌废墟下1.5米至3米深度处成功发现生命迹象。由于现场雷达监测到崩塌岩板存在位移风险且上方被巨大石板覆盖，救援指挥部随即制定科学搜救方案，采用机械加人力的协同作业方式开展精细搜救。",
+  "event_time": {
+    "start": "2026-07-18",
+    "end": "2026-07-18",
+    "precision": "day",
+    "evidence": "2026年7月18日10时50分许，救援人员在搜救犬帮助下于重庆彭水山体崩塌救援现场发现生命迹象。"
+  },
+  "locations": [
+    "中国/重庆市/彭水苗族土家族自治县/汉葭街道/沙沱社区"
+  ],
+  "aliases": [
+    "重庆彭水山体崩塌现场发现生命迹象",
+    "彭水山体崩塌搜救犬发现生命迹象",
+    "重庆彭水垮塌救援确定生命迹象位置"
+  ],
+  "retrieval_queries": [
+    "重庆彭水 山体崩塌 生命迹象",
+    "彭水山体崩塌 搜救犬 子歇",
+    "彭水 崩塌 10时50分 生命迹象",
+    "重庆彭水 汉葭街道 山体垮塌 救援",
+    "彭水山体崩塌 位移 搜救方案",
+    "彭水垮塌 生命迹象 1.5-3米"
+  ],
+  "must_match_facts": [
+    "2026年7月18日10时50分许在彭水山体崩塌现场发现生命迹象",
+    "搜救犬协助并经雷达探测确认生命迹象",
+    "生命迹象位置在废墟下1.5米至3米深度",
+    "现场雷达监测到崩塌岩板位移风险",
+    "发生在重庆市彭水苗族土家族自治县汉葭街道"
+  ],
+  "exclude_if": [
+    "2024年及更早发生的重庆山体滑坡事件",
+    "重庆武隆鸡尾山山体崩塌事件",
+    "贵州或云南山体滑坡救援事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "重庆彭水山体崩塌现场发现生命迹象",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMBUIAUBEgedpYhRALk_NaMMAkdlB-2Wf6z-1izvvydY4jc5Mh6olDC5LUhyMbxeGMyqOMQ4spXwRfQAqxf4PI_Tb1JpdeQD26doFaSKSe0K-Xk7CB_iIvLmO5Qa50e83LmSuo6M0Vrr1Gt9HD-WW0sVFh4Q==",
+      "publisher": "央广网",
+      "published_at": "2026-07-18"
+    },
+    {
+      "title": "重庆山体崩塌现场发现生命迹象",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgj0SGzFZFaBsFWAbeS7SE6UTDLNYeF0XbDoKzqyr7PCPgjHat7YWjWqrF84fn_WXiqhvd-FPg1a1qC6A8a1r8JsHqbKtTJMlu1VqnjmYbsVlfJuyCY5fK1xq17XHeawnwct9sNiTpxIjz4G4=",
+      "publisher": "新京报",
+      "published_at": "2026-07-18"
+    }
+  ],
+  "uncertainties": [
+    "发现生命迹象的具体被埋人员身份在救援当时尚未公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:42"
+}

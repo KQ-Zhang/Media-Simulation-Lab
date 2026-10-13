@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_ee45e47eef7c9557",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年5月1日日本民众首相官邸前抗议高市政府修宪扩军集会",
+  "factual_description": "当地时间2026年5月1日，部分日本民众自发在位于东京都千代田区的日本首相官邸前举行抗议集会，抗议高市早苗政府推动修改和平宪法、扩充军备以及以内阁决议方式解禁杀伤性武器出口的动向。在此之前的2026年4月21日，日本政府通过内阁决议，正式修改了“防卫装备转移三原则”及其运用指南，原则上允许出口杀伤性武器。参加集会的民众批评称，高市政府在未经国会充分讨论和审议的情况下，便擅自以内阁决议修改规则，为对外输出杀伤性武器制造借口，这是对战后和平宪法第九条原则的严重背离与扭曲。集会抗议者高呼反战口号，要求停止损害日本国家利益的修宪扩军行径，坚守和平宪法，坚决反对将日本打造成“能够进行战争的国家”。",
+  "event_time": {
+    "start": "2026-05-01",
+    "end": "2026-05-01",
+    "precision": "day",
+    "evidence": "央视新闻报道明确记录，当地时间2026年5月1日部分民众在首相官邸前举行集会，主流媒体于2026年5月2日集中播发该报道。"
+  },
+  "locations": [
+    "日本/东京都/千代田区/日本首相官邸前"
+  ],
+  "aliases": [
+    "日本民众举行集会抗议高市政府推动修宪扩军",
+    "日本民众抗议高市推动修宪扩军",
+    "5·1日本首相官邸抗议集会",
+    "日本民众抗议解禁杀伤性武器出口集会"
+  ],
+  "retrieval_queries": [
+    "日本民众举行集会 抗议高市政府推动修宪扩军",
+    "日本民众抗议高市推动修宪扩军",
+    "首相官邸前 集会 高市政府 修宪 扩军 5月1日",
+    "高市早苗 解禁杀伤性武器出口 首相官邸 抗议",
+    "防卫装备转移三原则 内阁决议 杀伤性武器 首相官邸 抗议",
+    "东京 首相官邸 抗议 修宪 2026年5月1日"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年5月1日（原输入样本描述中的2024年系年份错误）",
+    "事件发生地点在日本东京的首相官邸前",
+    "集会主体为自发组织的部分日本民众",
+    "抗议对象为高市早苗政府（高市政权）推动修宪和扩军政策",
+    "集会直接背景与诉求针对2026年4月21日内阁决议修改防卫装备转移三原则及解禁杀伤性武器出口",
+    "诉求包含坚守和平宪法第九条、反对打造成能发动战争的国家"
+  ],
+  "exclude_if": [
+    "2026年4月8日或5月19日在日本国会议事堂前举行的万人抗议集会",
+    "2025年11月至12月期间因高市早苗涉台言论在首相官邸前举行的抗议集会",
+    "2026年4月16日在首相官邸前举行的针对计划修改防卫装备转移三原则的早期集会",
+    "岸田文雄执政时期的防卫政策与修宪抗议活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "日本民众举行集会抗议高市政府推动修宪扩军",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuGBeL_PMwP3MPAUIJibE8GV6_07fx0ZXEk65zjbJ6HG5Rp5bjeEB6pS4OTZyfPtUzaOc7INnfYxO7j_wibJs8qWCSvc03gkf1BwJ8ydtWq-L_R8uoPDJ7o7f_rA5O-TH9V6T45psbidvrEHXd75gd8a-hgA==",
+      "publisher": "浙江在线（引自央视新闻）",
+      "published_at": "2026-05-02"
+    },
+    {
+      "title": "日本通过内阁决议正式允许出口杀伤性武器",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHathA-N-8ckS1Ha-KjEYvsA_Zg9T3U1MeTFxmGBix_2igGtLTAi2RUllcsEcwiijtkdxXwcRu_H489KlgadFEG7IHRa8qZHfhzMOMnmh9BzGdx7d1s1irb3Yhe5exrY2dSqTanOh2N2FJgfVHnrvRP60Qhf8gAdWN4jzebxEXfgeDz3yBQhQ==",
+      "publisher": "新华网",
+      "published_at": "2026-04-21"
+    }
+  ],
+  "uncertainties": [
+    "输入样本现有描述将发生年份误标为2024年，经多方权威报道核验，该事件实际发生于2026年5月1日（紧随2026年4月21日内阁决议）。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:58"
+}

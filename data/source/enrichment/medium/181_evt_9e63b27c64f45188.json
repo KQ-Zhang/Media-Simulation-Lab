@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_9e63b27c64f45188",
+  "verification_status": "verified",
+  "confidence": 0.9,
+  "canonical_event_name": "江西宜春高安城管回应人行道被撬种油菜事件",
+  "factual_description": "2026年3月下旬，网络流传视频称江西宜春高安市全民健身体育中心附近的人行道地砖被人为撬开并栽种油菜，亦有传言称系老人为种菜而破坏市政人行道。针对网络热议，高安市城市管理局于2026年3月23日作出公开回应，澄清事实。城管局工作人员表示，该段人行道在前期道路修建时涉及违规占用耕地，且后续未能完成规划调整；根据上级部门整改要求，必须恢复其原有的耕地属性。相关部门遂按规定进场对违规占用耕地的人行道彩砖进行铲除并退路还田、恢复耕地，网传所谓“市民为种油菜私自强行撬毁人行道”等说法与实际整改背景不符。",
+  "event_time": {
+    "start": "2026-03-22",
+    "end": "2026-03-24",
+    "precision": "day",
+    "evidence": "相关视频于2026年3月22日前后在社交平台发酵，荔枝新闻等媒体于2026年3月23日对此事及城管局回应进行了公开报道"
+  },
+  "locations": [
+    "中国/江西省/宜春市/高安市/全民健身体育中心附近"
+  ],
+  "aliases": [
+    "宜春高安人行道被撬种油菜事件",
+    "高安城管局回应人行道违规占耕地",
+    "高安人行道恢复耕地事件",
+    "宜春老人为种菜撬毁人行道传言"
+  ],
+  "retrieval_queries": [
+    "高安 人行道 违规占用耕地",
+    "高安 人行道 恢复耕地",
+    "宜春高安 人行道 种油菜",
+    "人行道被撬种油菜 城管局回应",
+    "高安城管局 人行道 恢复耕地属性",
+    "高安 全民健身体育中心 油菜",
+    "宜春 老人为种菜撬毁人行道"
+  ],
+  "must_match_facts": [
+    "事发地点位于江西省宜春市高安市",
+    "核心争议为城市人行道地砖被撬除后出现种植油菜情况",
+    "高安市城管局明确回应系人行道修建时涉嫌违规占用耕地",
+    "现场施工系按照上级要求铲除人行道以恢复耕地属性"
+  ],
+  "exclude_if": [
+    "其他省市市民私自开垦城市绿化带种菜事件",
+    "非高安市涉及退林还耕或土地整理的常规政策报道",
+    "无城市人行道拆除还耕背景的农田违建拆除事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "人行道被撬种油菜？当地城管局回应：该人行道涉违规占用耕地，正按要求铲除并恢复耕地",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXMWL89L9kae7SURwqVoIQ2CORDACiHX4LhwtYUKHoW33xGTR2pgFd6FEMHvDkVom8Q46VoSAR7adDTcnojVCkeWgH73tX0mMkgnxBZTNMAjAyYN_rF1n3fqFCJjk5Ts0=",
+      "publisher": "荔枝新闻（腾讯新闻转播）",
+      "published_at": "2026-03-23"
+    },
+    {
+      "title": "【江西】人行道被人强行撬开栽种油菜？ 城管局：该地块未完成规划调整需恢复耕地属性",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrW4f4zKqcj-wza4CkD7IdW8yAjr-c35fLpjJ9NN2QG8AysrYT1Ac91Aw_RrZF8feWtsuoL23Bjx2ba4neZCcmmpz_v-SlRPfQJf0FJ0-JfNh0Er1ci_ULZglpx7WJO3ikeino_iJ_D7AK307hfngRi4x9HibBOMd2xYqpURAxweXGJ-WUgSw=",
+      "publisher": "搜狐视频（D1video）",
+      "published_at": "2026-03-24"
+    }
+  ],
+  "uncertainties": [
+    "原有描述记录年份为2023年3月，经核验媒体集中报道与网络热议时间为2026年3月下旬，属描述中的年份偏差",
+    "是否存在个别群众在路面拆除裸露后自发点播油菜的具体行为细节缺乏进一步官方调查报告确认"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:05"
+}

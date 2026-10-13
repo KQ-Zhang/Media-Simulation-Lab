@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_e06845021a6cf49e",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "男子滑雪与逆行雪友相撞被索赔近30万元案法院驳回诉求",
+  "factual_description": "2025年2月，当事人卢先生在北京渔阳国际滑雪场正常下行滑雪时，右侧一名滑雪者突然大幅度横切回山（雪道逆行），两人发生碰撞倒地。卢先生左侧大腿挫伤淤青卧床静养一个月，而对方因伤致十级伤残并接受了十字韧带重建手术。卢先生事发后未追究对方责任，但对方于2026年初向法院提起民事诉讼，要求卢先生赔偿医疗费、伤残赔偿金等近30万元。该案历经两次开庭审理，2026年7月27日卢先生收到法院判决结果。法院认定对方横切回山违反雪道通行规则，卢先生不存在故意或重大过失，适用自甘风险等民事法律规则，依法驳回了原告的全部诉讼请求。九派新闻等媒体于2026年7月28日对该案进行了公开报道。",
+  "event_time": {
+    "start": "2025-02",
+    "end": "2026-07-27",
+    "precision": "day",
+    "evidence": "媒体报道当事人卢先生陈述事故发生在去年2月（即2025年2月），2026年7月27日收到法院一审驳回诉求的判决书，九派新闻于2026年7月28日报道。"
+  },
+  "locations": [
+    "中国/北京市/平谷区/北京渔阳国际滑雪场"
+  ],
+  "aliases": [
+    "滑雪与逆行雪友相撞被索赔30万",
+    "与逆行雪友相撞被索30万男子发声",
+    "男子滑雪被逆行雪友撞伤反遭索赔30万",
+    "滑雪相撞索赔30万法院驳回全部诉求"
+  ],
+  "retrieval_queries": [
+    "滑雪与逆行雪友相撞被索赔30万",
+    "与逆行雪友相撞被索30万男子发声",
+    "渔阳滑雪场 卢先生 索赔30万",
+    "横切回山 卢先生 驳回诉讼请求",
+    "卢先生 渔阳滑雪场 十字韧带 判决",
+    "自甘风险 渔阳滑雪场 索赔30万"
+  ],
+  "must_match_facts": [
+    "当事人卢先生在北京渔阳滑雪场正常滑雪下行时与横切回山的滑雪者相撞",
+    "卢先生大腿挫伤卧床静养，对方十级伤残并做了十字韧带重建手术",
+    "卢先生未追究对方责任，反被对方起诉索赔近30万元",
+    "法院经审理驳回了原告的全部诉讼请求"
+  ],
+  "exclude_if": [
+    "北京市海淀区人民法院审理的韩冬在高级道初级道交会处撞伤李佳案",
+    "新疆阿勒泰吉克普林滑雪场越界滑雪案",
+    "滑雪场经营管理者因未尽安保义务被判承担补充赔偿责任的案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子滑雪时被\"逆行\"雪友撞伤卧床一月，没追责反遭索赔30万元，法院判了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF8zG_8eYE7L8YYF-g-R5k9yaijpWCv7fFifh0p6yJONtqdE0JHCkZoQ8uq9HH5gMqOf-_2sO7tgtCv-zcBJEGig6xpQdkcwGY3inhtCjc28eUxwELc3jkNRUf2krNGE743X4TDbh4kAs=",
+      "publisher": "网易新闻（转九派新闻、法治日报）",
+      "published_at": "2026-07-29"
+    },
+    {
+      "title": "男子滑雪时与“逆行”雪友相撞，大腿挫伤只能卧床静养，自认倒霉没追责，反被起诉索赔30万；法院已驳回对方全部诉讼请求",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfAq1NJ39TStqUNoT9yharePOaH7gl5EOBglwsupQVSDjswUXE-0VOIFmCspsbN-i-mBbN-4LpyOvNbDhQ19FnrzbYj0zdxAaVhCp3mlSRgl2ft7RxaubhpG_-DKXPpPFFZFjz-RaHLfzo",
+      "publisher": "极目新闻",
+      "published_at": "2026-07-29"
+    }
+  ],
+  "uncertainties": [
+    "事发年份存在转述冲突：主流媒体2026年7月报道表述为‘去年2月’（即2025年2月），但现有部分网络资料存在写为‘2023年2月’的情况。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:26"
+}

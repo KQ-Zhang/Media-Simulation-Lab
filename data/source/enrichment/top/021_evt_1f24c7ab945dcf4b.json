@@ -1,0 +1,127 @@
+{
+  "event_id": "evt_1f24c7ab945dcf4b",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "中国刑警学院学生郑杰源返高中母校宣讲亮警服事件",
+  "factual_description": "2026年1月30日，中国刑事警察学院公安信息技术与情报学院2025级大一学生郑杰源回到位于湖南省张家界市桑植县的高中母校，向高中的学弟学妹开展宣讲，分享高中学习经验与警校生活成长感悟。宣讲过程中，郑杰源脱下日常便装外套，展示出笔挺的警服并向现场师生庄严敬礼，全班瞬间响起了热烈的掌声与欢呼。郑杰源在现场向学弟学妹送上祝福，希望大家都能考上理想的院校，拥有更加璀璨光明的未来。该过程被现场拍摄并发布至网络后引发广泛热议与点赞，新华每日电讯等多家主流媒体进行了专题报道，称赞其展示了新时代学警风貌，为高中学子树立了坚定榜样。",
+  "event_time": {
+    "start": "2026-01-30",
+    "end": "2026-01-30",
+    "precision": "day",
+    "evidence": "权威媒体报道显示，中国刑事警察学院2025级学生郑杰源于2026年1月30日回到高中母校开展宣讲活动。"
+  },
+  "reporting_time_range": {
+    "start": "2026-02-02",
+    "end": "2026-02-07"
+  },
+  "locations": [
+    "中国/湖南省/张家界市/桑植县"
+  ],
+  "people": [
+    {
+      "name": "郑杰源",
+      "role": "中国刑事警察学院公安信息技术与情报学院2025级学生，返校宣讲主角"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "中国刑事警察学院",
+      "role": "郑杰源就读的高等警官院校"
+    },
+    {
+      "name": "新华每日电讯",
+      "role": "报道事件的主流官方媒体"
+    },
+    {
+      "name": "梧桐视频",
+      "role": "首发并传播现场视频的媒体账户"
+    }
+  ],
+  "trigger": "警校大一学生郑杰源在寒假期间利用返校交流契机，回到高中母校为学弟学妹分享备考经验与警校生活感悟。",
+  "key_actions": [
+    "郑杰源回到高中母校教室，向学弟学妹作宣讲和成长故事分享",
+    "宣讲过程中郑杰源脱掉便服外套露出警服，并面向全班师生敬礼",
+    "全班师生爆发热烈掌声与欢呼",
+    "郑杰源向学弟学妹表达考取理想大学、拥有璀璨光明未来的祝福"
+  ],
+  "outcome_and_status": "宣讲视频在网络上传播后获得大量网友点赞，被新华每日电讯等多家权威媒体转发报道，社会反响积极正面。",
+  "timeline": [
+    {
+      "time": "2026-01-30",
+      "fact": "中国刑事警察学院大一学生郑杰源回到高中母校宣讲，现场脱下外套展现警服并向师生敬礼。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxwuKuVOEde-smCCXa-vDF1yyoEMxB_NZSn312yPNx9LByqeYS_785keaNW8TGsyU5CYpibXNgbY1L9f7GhTz0nw-mdMxv9zUxWfyRrlwUkMcc7DOo_JM8L23Z19s2Jlp6cPFJ"
+      ]
+    },
+    {
+      "time": "2026-02-02",
+      "fact": "现场视频经梧桐视频等网络平台发布，引发网友关注与热议。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJhEZ_3H2N7UWd5MrH4link0TvF5yr00xADvai4PyU9socRNzGC1LioPryg6lXoodMqWyZFv8zwChcIUjroA8r9wJnUpH8yWgO-vmcqqXwl5iwJD6h7w59qeeMoV9KoTwzJ6EXtPBtUDz-fg=="
+      ]
+    },
+    {
+      "time": "2026-02-04",
+      "fact": "新华每日电讯综合中国刑事警察学院、重庆共青团等报道该事件，肯定学警榜样力量。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxwuKuVOEde-smCCXa-vDF1yyoEMxB_NZSn312yPNx9LByqeYS_785keaNW8TGsyU5CYpibXNgbY1L9f7GhTz0nw-mdMxv9zUxWfyRrlwUkMcc7DOo_JM8L23Z19s2Jlp6cPFJ"
+      ]
+    }
+  ],
+  "aliases": [
+    "警校男生回母校给学弟学妹讲成长故事",
+    "大一男生回到母校亮明身份全班沸腾",
+    "警校男生回高中母校宣讲警服亮相",
+    "警校生上演最励志变装秀"
+  ],
+  "retrieval_queries": [
+    "警校男生回母校给学弟学妹讲成长故事",
+    "郑杰源 返校宣讲 警服",
+    "大一男生回到母校 亮明身份 全班沸腾",
+    "中国刑事警察学院 郑杰源 宣讲",
+    "湖南桑植 警校男生 回母校",
+    "警服亮相瞬间全场沸腾 郑杰源",
+    "警校男生 回母校 更加璀璨光明的未来",
+    "警校生上演最励志变装秀"
+  ],
+  "must_match_facts": [
+    "主人公为中国刑事警察学院学生郑杰源",
+    "事件发生于2026年1月30日的返校宣讲活动中",
+    "郑杰源在宣讲时脱下外套亮出警服并面向师生敬礼",
+    "宣讲目的是向高中学弟学妹分享备考经验与成长感悟"
+  ],
+  "optional_supporting_facts": [
+    "宣讲现场带有‘更加璀璨光明的未来’等字幕或标语",
+    "发生在湖南省张家界市桑植县的高中母校",
+    "郑杰源为公安信息技术与情报学院2025级学生"
+  ],
+  "exclude_if": [
+    "提及独臂单腿青年郑建飞重回母校作励志报告的事件",
+    "提及人民大学社区民警陶军锋回母校工作的事件",
+    "提及山东诸城公安新警回母校分享的事件"
+  ],
+  "distinctive_entities": [
+    "郑杰源",
+    "中国刑事警察学院",
+    "公安信息技术与情报学院",
+    "桑植",
+    "张家界"
+  ],
+  "source_evidence": [
+    {
+      "title": "大一男生回到母校，亮明“身份”的一刻，全班沸腾了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxwuKuVOEde-smCCXa-vDF1yyoEMxB_NZSn312yPNx9LByqeYS_785keaNW8TGsyU5CYpibXNgbY1L9f7GhTz0nw-mdMxv9zUxWfyRrlwUkMcc7DOo_JM8L23Z19s2Jlp6cPFJ",
+      "publisher": "新华每日电讯",
+      "published_at": "2026-02-04",
+      "supports": [
+        "郑杰源为中国刑事警察学院公安信息技术与情报学院2025级学生",
+        "1月30日回到高中母校宣讲",
+        "脱下外套露出警服并敬礼",
+        "祝福学弟学妹拥有更加璀璨光明的未来"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:33:49"
+}

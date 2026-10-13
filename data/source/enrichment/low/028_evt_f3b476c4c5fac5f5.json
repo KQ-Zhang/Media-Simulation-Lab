@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_f3b476c4c5fac5f5",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年滇超联赛第六轮昆明队3:0战胜普洱队",
+  "factual_description": "2026年3月1日15时，2025/2026富滇银行云南省城市足球联赛（滇超联赛）第一阶段第六轮比赛在昆明市体育场举行，由昆明队主场对阵普洱队。比赛开始前及中场期间现场上演了融合动漫与民族元素的文艺演出。上半场第11分钟至第13分钟期间，昆明队91号鲁宋扬造点并亲自主罚命中，昆明队1:0取得领先；第40分钟至第42分钟，昆明队18号前锋邓迪接边路传中鱼跃冲顶破门，主队2:0扩大优势。下半场第76分钟，替补登场的昆明队11号马翊伦在门前包抄铲射进球，将比分改写为3:0。伤停补时阶段，普洱队10号董少晨门前手球被主裁判直接出示红牌罚下，随后马翊伦主罚点球未能命中。最终，昆明队在主场以3:0战胜普洱队，战绩提升至5胜1负积14分，继续保持主场全胜纪录。",
+  "event_time": {
+    "start": "2026-03-01",
+    "end": "2026-03-01",
+    "precision": "day",
+    "evidence": "多家主流媒体及官方报道证实，该场滇超联赛第六轮赛事于2026年3月1日15:00在昆明市体育场开赛并完赛。"
+  },
+  "locations": [
+    "中国/云南省/昆明市/五华区/昆明市体育场"
+  ],
+  "aliases": [
+    "滇超联赛昆明队VS普洱队比赛",
+    "2026滇超联赛第六轮昆明队主场对阵普洱队",
+    "滇超昆明队3比0胜普洱队",
+    "滇超联赛昆明队完胜普洱队"
+  ],
+  "retrieval_queries": [
+    "滇超联赛 昆明队 普洱队 2026",
+    "昆明市体育场 昆明队 普洱队 3比0",
+    "滇超联赛第六轮 昆明队 普洱队",
+    "滇超 鲁宋扬 邓迪 马翊伦 普洱队",
+    "滇超联赛 董少晨 红牌 点球 昆明队"
+  ],
+  "must_match_facts": [
+    "比赛时间为2026年3月1日",
+    "赛事为2025/2026云南省城市足球联赛（滇超联赛）第六轮",
+    "比赛地点为昆明市体育场",
+    "全场比分为昆明队主场3:0完胜普洱队",
+    "昆明队鲁宋扬点球首开纪录、邓迪头球破门、马翊伦进球锁定胜局",
+    "补时阶段普洱队董少晨门前手球染红下场，昆明队罚失点球"
+  ],
+  "exclude_if": [
+    "2026年6月滇超淘汰赛昆明队对阵迪庆队或德宏队的比赛",
+    "2026年7月滇超总决赛丽江队对阵昆明队的比赛",
+    "2026年滇超第七轮曲靖队对战昆明队的比赛",
+    "滇超其他轮次普洱队对阵其他州市代表队的比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "昆明队，又赢了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyZ2REppEiYmX7thttOGVKmuyVhpbxMw1V8GbJT-Pzizie3vH3kQreU3SpNxmhr7Xv_egodzeUiMJaK5U2r3ytGMIc3Xv9REzjTbDWUpaY08v0b8Gufdjb6Oj6l6JZg-PO",
+      "publisher": "腾讯新闻/昆明日报",
+      "published_at": "2026-03-01"
+    },
+    {
+      "title": "滇超联赛|昆明队主场战胜普洱队延续主场全胜纪录",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRyL8NdPffCVJx0f96E_63fGnJ9ASjwJW294Jqy6Ig3RzySTee_eDxE9hU-aWeuUptCRtoA7Nse_gR_V85n7_tO99tHUuAlHytCjANRs3U9Ty3RRIkKu29V4SCrn21f1tVa5hnStUd8ZmJj58s5ulBrDaKb-J1J-xCI98h1tIm85F0ig-nRDu0oF5HhkqWos6WLM-jpAUMOU02kS-Q6AChJDm9RVbjV3U_gfmKF_0wY9ShJTV8d3qyJFtDJm142Q==",
+      "publisher": "新浪财经/开屏新闻",
+      "published_at": "2026-03-02"
+    },
+    {
+      "title": "滇超联赛第六轮战罢昆明队赢主场3连胜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYZsJPkW3CSPtx-WAsAOQCUaS84ofadRQkCR79Inkagw52BjVNFsxJfQ_aPNml1pHGjn-8NdGhbZXK0XrukvWwxhMCW9Gzu_PaMFCf6EX_gJH5oPLYyxGC5UsiBeYPrILKk9dDH8KrDTIqmL0WsE195eV1NtQ=",
+      "publisher": "中国网/联盟中国",
+      "published_at": "2026-03-03"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将比赛年份误写为2025年，实际比赛发生于2026年3月1日；现有描述将比赛方式误述为'通过点球大战以3:0获胜'，核验证实为常规比赛时间3:0取胜，比赛中发生过常规点球罚进与补时失点，并非进入淘汰赛点球大战。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:40"
+}

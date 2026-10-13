@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_921676e174f6e18e",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "“洪迪厄斯”号邮轮汉坦病毒疫情",
+  "factual_description": "2026年4月至5月，荷兰泛海探险公司旗下的极地探险邮轮“洪迪厄斯”号（MV Hondius）在大西洋航行期间暴发由安第斯型汉坦病毒（Andes virus）引起的公共卫生事件。该邮轮于4月1日从阿根廷乌斯怀亚启航，原计划穿越大西洋前往非洲岛国佛得角。航行期间船上多名乘客及船员出现严重呼吸道症状。4月11日首例荷兰籍乘客在船上死亡；4月26日其妻子在南非约翰尼斯堡去世并确诊感染；5月2日第三名德国籍乘客死亡。经南非与世卫组织实验室检测，确认病原体为已知唯一具备有限人际传播能力的安第斯型汉坦病毒。在世卫组织和多国协调下，邮轮于5月10日在西班牙加那利群岛特内里费岛附近下锚疏散乘客各自回国隔离，5月18日邮轮抵达荷兰鹿特丹港进行彻底消杀。世卫组织通报该事件累计报告13例病例（含11例确诊），其中3人死亡。2026年7月2日，世卫组织宣布该疫情正式结束。",
+  "event_time": {
+    "start": "2026-04-01",
+    "end": "2026-07-02",
+    "precision": "day",
+    "evidence": "邮轮于2026年4月1日从阿根廷启航并暴发疫情；5月18日抵达荷兰鹿特丹港消毒；世界卫生组织于2026年7月2日正式宣布该汉坦病毒疫情结束。"
+  },
+  "locations": [
+    "阿根廷/乌斯怀亚",
+    "大西洋/圣赫勒拿岛",
+    "佛得角/普拉亚",
+    "西班牙/加那利群岛/特内里费岛",
+    "荷兰/鹿特丹"
+  ],
+  "aliases": [
+    "洪迪厄斯号汉坦病毒疫情",
+    "宏迪亚斯号汉他病毒疫情",
+    "MV Hondius hantavirus outbreak",
+    "大西洋涉疫邮轮汉坦病毒事件",
+    "洪迪厄斯号邮轮疫情"
+  ],
+  "retrieval_queries": [
+    "洪迪厄斯号 汉坦病毒",
+    "Hondius hantavirus cruise",
+    "涉疫邮轮 汉坦病毒 洪迪厄斯号",
+    "洪迪厄斯号 邮轮 疫情",
+    "安第斯病毒 洪迪厄斯号",
+    "MV Hondius cruise outbreak"
+  ],
+  "must_match_facts": [
+    "涉事船舶为荷兰泛海探险公司营运的探险邮轮‘洪迪厄斯’号（MV Hondius）",
+    "疫情发生在2026年4月至5月大西洋航行期间",
+    "致病原为可发生有限人际传播的安第斯型汉坦病毒（Andes virus）",
+    "疫情造成包含3名乘客死亡在内的多例感染报告"
+  ],
+  "exclude_if": [
+    "2024年或其他年份发生的非‘洪迪厄斯号’邮轮疫情事件",
+    "钻石公主号、至尊公主号等新冠或诺如病毒邮轮事件",
+    "陆地社区发生的常规汉坦病毒/鼠传疾病感染事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "汉坦病毒让“洪迪厄斯”号大洋探险之旅变噩梦 - 新华网",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHM-QbH4os4gG-uG3Ytb_QjHzW8NI7oU1rr-zDP1Z71F3v3WMCvyvA5rf6kfJmFHX5ovVPUkEXPKQpNIvLW4O0hjkEHpgbiq3AbSrGuM-4YSGbHw3-emNQAcVkximbeQPt9BAA2J1FGV-ZntcO9iuvGoDZZ59nsrHRmxDKHevnvDw==",
+      "publisher": "新华网",
+      "published_at": "2026-05-05"
+    },
+    {
+      "title": "世卫组织最新通报：汉坦病毒疫情目前致3人死亡8人感染 - UN News",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCcaud7XY4mxlJs_r8a5afH6Jm7cL6JNpbMw899caRNkTI1qnMD1zXgmxkvxYINEVsOJmc2n4CfJ9tgiWk_CiAHZlJtaxQUzkNol3p89T_CqWoBgwsZYlxmssjDN688cUrdA==",
+      "publisher": "联合国新闻",
+      "published_at": "2026-05-07"
+    },
+    {
+      "title": "世卫组织宣布“洪迪厄斯”号相关汉坦病毒疫情结束 - 新华网",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSX4gv5AILZfLaKgax18CguiHXQAGzRD4PrusUF8F7TmRwFQSjkrkO5lXRe0TIWvDWmWvY77jgZQni2JMHrYBT2GN4CbCqrBHSMv9TQrKU0tXsZu3V8UHEOi9I5C3zaoLWfdrpzs3JmtjEqdAPiSwnnpHcBjizdHPMOMkl3p7bWQ==",
+      "publisher": "新华网",
+      "published_at": "2026-07-03"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中误将事件发生年份写为2024年5月（经核验实际发生于2026年4月至5月）。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:23"
+}

@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_715fb0b37840a91d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "雷军回应在武汉过早被小学生吐槽事件",
+  "factual_description": "2026年6月15日清晨，小米集团创始人雷军在湖北省武汉市出席2026世界青年发展论坛期间，前往武昌区大成路过早街吃早餐（热干面、面窝、豆皮等），其随行团队及现场围观人员有多台设备进行拍摄。一名背书包路过的女小学生目睹后随口吐槽“吃早饭还要这么多人拍照”，雷军转头笑问“要不要一起来吃”，女孩未理睬径直走开。该段视频被发布到社交网络后迅速发酵，登上微博等平台热搜，并引发关于公众人物摆拍与真实性的广泛争议。2026年6月21日下午，雷军在第32届北京国际图书博览会现场与作家刘震云、主持人张蕾对谈时正式公开回应此事。雷军表示，当时本意是记录并顺便宣传家乡特色美食，如此简单的一件事连上好几天热搜让自己深感“匪夷所思”；他感慨在当下流量时代，夸赞、批评和嘲讽都伴随着流量，这是必须承受的代价，许多攻击者并无明确立场仅为赚取流量甚至属于水军，呼吁大家“笑一笑就好”。",
+  "event_time": {
+    "start": "2026-06-15",
+    "end": "2026-06-21",
+    "precision": "day",
+    "evidence": "2026年6月15日清晨雷军在武汉大成路过早遭遇小学生吐槽；2026年6月21日下午雷军在北京国际图书博览会对谈中公开作出回应。"
+  },
+  "locations": [
+    "中国/湖北省/武汉市/武昌区/大成路",
+    "中国/北京市/朝阳区/国家会议中心"
+  ],
+  "aliases": [
+    "雷军回应过早被小学生吐槽",
+    "雷军回应过早被小女孩吐槽",
+    "雷军回应早餐摆拍争议",
+    "雷军吃早饭被小学生吐槽",
+    "吃早饭还要这么多人拍照"
+  ],
+  "retrieval_queries": [
+    "雷军 武汉 过早 吐槽",
+    "雷军 吃早饭还要这么多人拍照",
+    "雷军回应被小学生吐槽",
+    "雷军 大成路 摆拍",
+    "雷军 刘震云 流量时代 承受的代价",
+    "雷军回应过早 匪夷所思 笑一笑就好",
+    "雷军 丽华早点 小女孩"
+  ],
+  "must_match_facts": [
+    "雷军在武汉大成路街头吃早餐（过早）时随行有拍摄设备并遭围观",
+    "路过的小学生（小女孩）随口吐槽‘吃早饭还要这么多人拍照’",
+    "事件在社交媒体热传并引发公众对摆拍与真实性的争议",
+    "雷军在第32届北京国际图书博览会跨界对谈中公开回应",
+    "雷军表示对简单小事连上数天热搜感到‘匪夷所思’，称流量时代需承受代价，呼吁大家‘笑一笑就好’"
+  ],
+  "exclude_if": [
+    "雷军在黑龙江、巴黎等地出差品尝美食的非武汉过早报道",
+    "英伟达黄仁勋在北京吃炸酱面的独立新闻",
+    "雷军关于小米汽车、芯片技术发布的常规商业发布报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "雷军谈“过早”风波：流量时代我们都需要承受代价",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuB9hU5EgF0ZrfsIPLuuyBpAczUWMQCZTKfO8sfly6UTBmB5x3jYGhFpJNcNOVNoTn5_SGndNamWX3XE-skqW7YO9JxVc7nlXe-w5stzsPHI2hI8SBMH_Q_kap3I4frCDFbXWMDxh2m5TPPGqmNMBsF1lbwupn",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-06-21"
+    },
+    {
+      "title": "雷军谈“过早”被吐槽：很多人为流量而已，笑一笑就好",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtwr9v0vy24RjwJ7y4D6CHYBILmHodm_5p8LUNadry0wumGm5UdGiMsFkLSld4G15QVlyBeHq60WlAJ5nAWbnDcWQ0EfdGlWgMFu_lrixnfe7Jp_TFMW24YmB1LBfJvsZcFtachpPxb5WWdW0=",
+      "publisher": "新京报",
+      "published_at": "2026-06-22"
+    },
+    {
+      "title": "刘震云对话雷军：文学把咽到肚子里的心事打捞出来",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiKru_z35PnE1V7aRKC9dTOtV6Nxz6atD2hLMmcTak5tiw_EKdWU5C03TkoB1TWzbLWVUwOd5yYneFI5K-IWkI6qY6cThltBeMfoONp4gaejTFGaI3PQg5K2uN8noimd0uOwUi0PqaDK6t3bJld-8X",
+      "publisher": "中国新闻网",
+      "published_at": "2026-06-21"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:35"
+}

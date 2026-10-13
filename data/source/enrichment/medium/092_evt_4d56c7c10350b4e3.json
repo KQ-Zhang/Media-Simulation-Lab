@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_4d56c7c10350b4e3",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "惠英红与郭晓婷在电影《数到三》北京首映礼同框并回应撞脸话题",
+  "factual_description": "2026年8月26日晚，由孙琳执导的电影《数到三》在北京举办全国首映礼，惠英红、郭晓婷等主创出席映后互动。片中两人分别饰演女主角“战玉梅”的中年与青年时期。针对此前网络关于两人外貌相像的讨论，首映礼现场展示了AI五官比对结果，相似度达99.9%。惠英红在现场首次公开回应撞脸话题，坦言初见郭晓婷时自己十分惊讶，感叹对方非常像自己年轻时的模样，并表示两人不仅长相神似，性格也很像，都乐观且热爱工作。郭晓婷则透露自己未看剧本时得知饰演惠英红角色的青年时期便当即决定接演，并表达了对前辈指导与提携的感谢。该互动引发舆论热议与多方报道。",
+  "event_time": {
+    "start": "2026-08-26",
+    "end": "2026-08-26",
+    "precision": "day",
+    "evidence": "多家媒体报道2026年8月26日晚电影《数到三》在北京举行全国首映礼"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "惠英红回应郭晓婷长得像",
+    "惠英红郭晓婷同框回应撞脸",
+    "电影数到三北京首映礼",
+    "惠英红与郭晓婷相似度99.9%",
+    "惠英红说第一次见郭晓婷就觉得眼熟"
+  ],
+  "retrieval_queries": [
+    "数到三 首映礼 惠英红 郭晓婷",
+    "惠英红 郭晓婷 战玉梅 首映礼",
+    "惠英红回应郭晓婷长得像",
+    "惠英红 郭晓婷 相似度 99.9%",
+    "数到三 北京首映礼 撞脸",
+    "惠英红 郭晓婷 眼熟"
+  ],
+  "must_match_facts": [
+    "事件发生于电影《数到三》北京首映礼现场",
+    "惠英红与郭晓婷出席并同框互动",
+    "惠英红与郭晓婷在电影《数到三》中分别饰演战玉梅的中年与青年时期",
+    "现场回应了两人长相相似/撞脸的话题及展示AI比对相似度"
+  ],
+  "exclude_if": [
+    "并非电影《数到三》相关活动",
+    "仅讨论2020年电视剧《怪你过分美丽》合作或2022年综艺《无限超越班》往事而未涉及《数到三》首映礼现场回应",
+    "涉及其他演员撞脸话题"
+  ],
+  "source_evidence": [
+    {
+      "title": "《数到三》举办首映礼惠英红回应和郭晓婷长得像",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGG_VXIeJaHjWeNPPqkaipu8Qzbl9n5aN9kU5H0huFBOgHCdvfYKBAh3p3tFdoGX-95X6SeOnPJWSHqgUifpbs1B8L6MMeA8Rv5xetyl_98w_qOckefPcx4QlIfHqnC-3N",
+      "publisher": "1905电影网 / 腾讯新闻",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "惠英红回应郭晓婷长得像惊人相似度引发热议",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk4s2CjAIWSv12Q_j3k5gTWmG2aDKtxoZDr29tAnwdPdjyEniANl9hH3EQyqQmEI3L1lnATcZxRN5jXH6q_JXxMNHaqTQ3tIKOA8sqDCDlsM2CNut16V8Ro5yRuO-4oJTRY-sAnnG8vNDHdoeR6jN8JYQ=",
+      "publisher": "中华网",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "惠英红回应郭晓婷长得像自己：“我第一次看到她的时候我自己都惊讶，怎么会那么像我年轻那时候那个样子”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbd2eh8IzNAxCJSriMqrFEdV2uV9WPh_MleuokS9QL8inErLssQ3BrhEaZXwnJRbUFucOrTBa0GDkkgntQXWxuUQESlIrg0sefYaCyBXW3sDGEwp_ORihQ1OifuvimY4LMAw4LTPCt6LE2",
+      "publisher": "网易",
+      "published_at": "2026-08-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:26"
+}

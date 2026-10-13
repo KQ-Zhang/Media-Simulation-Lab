@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_1e73d6fa98e8c560",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "安徽淮南田家庵15岁少年聚会后一氧化碳中毒身亡事件",
+  "factual_description": "2026年6月19日晚（端午节当晚），安徽省淮南市田家庵区15岁少年房亚（化名，刚结束中考）带多名同学回家聚会饮酒。6月20日14时许，房亚家属方某回到家中发现门窗紧闭、屋内弥漫烟雾，房亚倒在卧室门口已无生命体征，遂向警方报案。接警后，公安、消防部门及120急救人员迅速赶赴现场开展救援与调查处置。消防部门初步排查排除了燃气泄漏与爆炸。2026年7月3日，淮南市公安局田家庵分局发布警情通报，通报称经公安与消防部门现场勘查调查，认定该少年系一氧化碳中毒死亡，排除刑事案件，善后工作正在有序进行中。",
+  "event_time": {
+    "start": "2026-06-19",
+    "end": "2026-06-20",
+    "precision": "day",
+    "evidence": "媒体报道少年于2026年6月19日端午节当晚与同学聚会，警方通报家属于6月20日14时许发现屋内有烟雾并报警。"
+  },
+  "locations": [
+    "中国/安徽省/淮南市/田家庵区"
+  ],
+  "aliases": [
+    "淮南15岁少年在家中和同学饮酒后死亡事件",
+    "淮南田家庵15岁少年一氧化碳中毒身亡事件",
+    "安徽淮南房亚聚会身亡事件",
+    "淮南田家庵警方通报少年饮酒后身亡事件"
+  ],
+  "retrieval_queries": [
+    "淮南 15岁少年 饮酒 死亡",
+    "淮南 田家庵 警情通报 一氧化碳中毒",
+    "淮南 房亚 一氧化碳中毒",
+    "淮南 田家庵 方某 报警 烟雾",
+    "田家庵分局 15岁少年 饮酒 排除刑事案件",
+    "淮南 泉山派出所 房亚",
+    "淮南 15岁 聚会 起火 烟雾"
+  ],
+  "must_match_facts": [
+    "事发时间为2026年6月中下旬（端午节前后）",
+    "地点位于安徽省淮南市田家庵区某小区居民家中",
+    "死者为15岁初中毕业少年房亚（化名）",
+    "事发前曾有多名同学到死者家中聚会饮酒",
+    "现场勘查确认死因为一氧化碳中毒",
+    "淮南市公安局田家庵分局通报排除刑事案件"
+  ],
+  "exclude_if": [
+    "非安徽省淮南市发生的案件",
+    "定性为故意杀人、故意伤害或过失致人死亡等刑事案件",
+    "成年人饮酒过量或一氧化碳中毒事件",
+    "明确由燃气管道泄漏或燃气爆炸引发的火灾伤亡事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "淮南市公安局田家庵分局發布警情通報",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpsSQOPMjkUxLfpbuZ1IvxB5eJ8jhRDY61U7vDxScD4VX--_SAkd_OOoO-ZFJcl1usJ1Ox3sfUK1PDn4vH7BOt8cVzshr0Mnx3krPSPTWNbnfGx3Mkt1lmg2YL7XFt9MnZC_JjDJJk5jZQoFv6RZq5tyaKcw==",
+      "publisher": "人民網",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "警方通报“15岁少年在家中和同学饮酒后死亡”：系一氧化碳中毒",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs2kQR7YNYPFSylXyxgBMf9_5up618NuqfI0txvsDlY16bUUPJy53SYpJCLYbYWH8GrB8MmT4hYsKXL5XZFpdWoqZ477f5_vsbVE8a7KIAC3imwUf0JBDtt2zsZx187V8=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-07-04"
+    },
+    {
+      "title": "安徽15岁少年家中和同学聚会饮酒后身亡，全身赤裸，屋内有火烧痕迹",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5M1JZLAkovLGdiR5rR-9cFPq9V4ALLpYAmgDVAadXhtw-0Yp8dIaXjbpvgfmuY408ZD3ZjVQBBy5OyPqc5RbIQXU9zs047C23iF-fSB9pIa2ijA2BnfqgPUR9toHHx4M=",
+      "publisher": "大河报",
+      "published_at": "2026-07-03"
+    }
+  ],
+  "uncertainties": [
+    "屋内起火的具体火源及产生一氧化碳浓烟的具体起因，官方通报尚未进一步公布具体技术调查细节"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:10"
+}

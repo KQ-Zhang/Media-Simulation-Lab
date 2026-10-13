@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_1bbb153a743d10f0",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "普京提议将中俄免签制度转为永久性安排及中国外交部回应",
+  "factual_description": "2026年8月31日，俄罗斯总统普京在吉尔吉斯斯坦比什凯克与中国国家主席习近平会晤时表示，“如果中方认为可行且有意，俄罗斯愿意将两国间的免签制度转为永久性安排”。2026年9月1日，中国外交部发言人郭嘉昆在北京主持例行记者会，针对俄通塔斯社等媒体提问回应称，中俄相互免签充分体现了两国高水平战略互信，有助于进一步便利中俄人员往来、增进两国人民友好、促进各领域交流合作。此前，中俄双方已于2025年9月起分步实施普通护照人员互免签证政策，并在2026年将免签期限延长至2027年12月31日，普京的表态是俄方在前期试行基础上主动提出的制度常态化设想。",
+  "event_time": {
+    "start": "2026-08-31",
+    "end": "2026-09-01",
+    "precision": "day",
+    "evidence": "2026年8月31日普京在比什凯克与中方会晤时提出该提议，9月1日中国外交部发言人郭嘉昆在例行记者会上作出正式回应。"
+  },
+  "locations": [
+    "吉尔吉斯斯坦/比什凯克",
+    "中国/北京/外交部南楼新闻发布厅"
+  ],
+  "aliases": [
+    "普京提议中俄永久免签",
+    "外交部回应中俄永久免签",
+    "普京称俄愿安排中俄永久免签",
+    "中俄两国免签政策永久化提议",
+    "外交部回应中俄或永久免签"
+  ],
+  "retrieval_queries": [
+    "普京 比什凯克 永久免签",
+    "郭嘉昆 俄罗斯 免签 永久性安排",
+    "中俄免签制度转为永久性安排",
+    "外交部回应中俄永久免签",
+    "普京 如果中方认为可行且有意 免签",
+    "俄罗斯愿意将两国间的免签制度转为永久性安排"
+  ],
+  "must_match_facts": [
+    "普京于比什凯克会晤期间提出将中俄免签制度转为永久性安排",
+    "普京表态包含前提条件‘如果中方认为可行且有意’",
+    "外交部发言人郭嘉昆于2026年9月1日例行记者会回应",
+    "外交部回应指出相互免签充分体现两国高水平战略互信、便利人员往来与友好合作"
+  ],
+  "exclude_if": [
+    "2026年7月俄罗斯副外长鲁坚科关于永久免签讨论及毛宁的回应",
+    "2025年9月中国宣布对俄公民试行免签政策",
+    "2026年5月或7月中俄分别延长免签至2027年底的常规签证政策更新"
+  ],
+  "source_evidence": [
+    {
+      "title": "外交部：中俄相互免签充分体现了两国高水平战略互信",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHgsn0NyGDlQSxqrKo4wh2Q1mXtcxOfqS95fgvefeOCud1Stdr3-oZoPbW9lNHOedR2ZAcVw_SqKJdYVKXO1kaR3KyCloDwE3fXztUXRoQTvSBNr-cOG3qDk6xVO3oqCjzcQNiBEDOzTzX4QxYKIao3VNr_wpF",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-09-01"
+    },
+    {
+      "title": "普京表示俄方愿将中俄两国间免签制度设为永久性安排外交部回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEotzH04rGWTl3JXeziJ3-r3laaYoD6jd-s9b0jC0L2Qbhz1LjglmfAN-YHD7uqVGN82UBWkgnbhPHTPL5SXaL9ltNaGDELT7p24fMvNgsJhUlpv-GNLpVgu1oITNnOHE8KC1lBpwbVIO9t",
+      "publisher": "新京报客户端（转央视新闻）",
+      "published_at": "2026-09-01"
+    },
+    {
+      "title": "普京称俄愿安排“中俄永久免签”，外交部回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGGCN4rd2umJw7WXyNdIkUDTyvbkFGia03a3W3SP9v77ba6UxLZJxFcl-gMiy7j68M8gxHFm9IDWAKHcOIxgewzWuxfjnSunP8iNlq5aKbM9FxpNS95AZhSTJH8xsPesGI3aHbNAPekUlSo5z-QnrP",
+      "publisher": "观察者网",
+      "published_at": "2026-09-01"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中将发生年份误写作2024年9月1日，经主流媒体报道核实该事件实际发生于2026年8月31日至9月1日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:51"
+}

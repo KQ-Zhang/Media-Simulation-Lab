@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_8fad9db1dbc7d760",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "中国船舶（香港）航运租赁有限公司原董事长杨力接受审查调查",
+  "factual_description": "2026年6月3日，据中央纪委国家监委驻中国船舶纪检监察组、广东省纪委监委通报，中国船舶（香港）航运租赁有限公司原董事长杨力涉嫌严重违纪违法，目前正接受中央纪委国家监委驻中国船舶纪检监察组纪律审查和广东省广州市监察委员会监察调查。杨力出生于1968年9月，曾任广州造船厂、广船国际核心管理岗位及中船集团财务金融部副主任，后出任中国船舶（香港）航运租赁公司董事长并推动其在港交所上市，已于2021年9月辞去职务。",
+  "event_time": {
+    "start": "2026-06-03",
+    "end": "",
+    "precision": "day",
+    "evidence": "中央纪委国家监委驻中国船舶纪检监察组与广东省纪委监委于2026年6月3日正式发布审查调查通报。"
+  },
+  "locations": [
+    "中国/广东省/广州市",
+    "中国/香港特别行政区"
+  ],
+  "aliases": [
+    "中国船舶（香港）航运租赁有限公司原董事长杨力被查",
+    "中船租赁原董事长杨力接受审查调查",
+    "中国船舶航运租赁有限公司原董事长杨力接受纪律审查和监察调查",
+    "杨力涉嫌严重违纪违法被查"
+  ],
+  "retrieval_queries": [
+    "中船租赁 杨力 审查调查",
+    "中国船舶香港航运租赁 杨力 纪检监察",
+    "杨力 广州市监察委员会 中国船舶",
+    "中国船舶租赁 原董事长 杨力 被查",
+    "中船租赁 原董事长杨力 严重违纪违法"
+  ],
+  "must_match_facts": [
+    "涉案人员为中国船舶（香港）航运租赁有限公司原董事长杨力",
+    "由中央纪委国家监委驻中国船舶纪检监察组进行纪律审查",
+    "由广东省广州市监察委员会进行监察调查",
+    "涉案原因为涉嫌严重违纪违法",
+    "通报公布时间为2026年6月3日"
+  ],
+  "exclude_if": [
+    "其他非中国船舶系统的同名杨力违法违纪案件",
+    "中国船舶集团其他干部的审查调查通报"
+  ],
+  "source_evidence": [
+    {
+      "title": "中国船舶（香港）航运租赁有限公司原董事长杨力接受纪律审查和监察调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJ71H3MeZwqGKS4gNTEHlV265Njb65zW7108okz3aoImk8e-dLJ1gZaQ8FKT86RU3UkeMquWR6GmUkhHKd8hNswXhVaRm87peZFh7gYg_9UrGTD8pQTutRoe3XwXUrLHpi",
+      "publisher": "广州日报新花城 / 腾讯新闻",
+      "published_at": "2026-06-03"
+    },
+    {
+      "title": "中国船舶(香港)航运租赁有限公司原董事长杨力接受审查调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAsQm0Khc9WNxW_aocTeBoHIs6sEhi4PnD3XUPgEeQj5vSM-M92TDijt0IyRnILs11-6mKGzf7jGVfYPvuP4iMMiwmt1es3RkQ-MCciDCS5X-T-gnVqlxLbPbBMTxPdaaugxBxwS0UuCc=",
+      "publisher": "东方财富网 / 界面新闻",
+      "published_at": "2026-06-03"
+    },
+    {
+      "title": "中国船舶(香港)航运租赁有限公司原董事长杨力接受审查调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFauXq7iaDRQTqcL2f7_FPLMV6nICo02le88ukUlrrCrjIO4826aGDpnXdOJCl3_AN2os0CyAvqA83RmiG6pvPfAG7ufPvExF6ZPjRRPXKVCoxdwsUjO6tLpoCxONJX-ZEtMJPZwpXRGDoc2H6vn3f39pEHN7wdMYG0jvjcqh8rU6uXTGfmXw==",
+      "publisher": "新浪财经",
+      "published_at": "2026-06-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:28"
+}

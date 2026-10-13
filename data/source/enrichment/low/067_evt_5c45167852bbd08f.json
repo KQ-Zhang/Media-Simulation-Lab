@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_5c45167852bbd08f",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "周杰伦官宣代言手游《永远的蔚蓝星球》",
+  "factual_description": "2026年4月28日，休闲策略塔防手游《永远的蔚蓝星球》（由诗悦网络研发，创悦网络等发行运营）正式宣布知名歌手周杰伦担任品牌代言人。官方围绕“跟着杰伦玩，三分钟一局，快乐很简单”的主题密集上线系列创意视频与广告片，并配合游戏一周年庆典推出周杰伦专属主题联动内容，包括开放“杰伦星舞台”限定活动、全服专属好礼与礼包码发放。作为休闲小游戏与中轻度塔防赛道少见的顶流代言案例，该活动在抖音、微信等各大平台引发大量关注与讨论，带动了游戏下载与营收的显著提升。",
+  "event_time": {
+    "start": "2026-04-28",
+    "end": "",
+    "precision": "day",
+    "evidence": "2026年4月28日，《永远的蔚蓝星球》官方正式官宣周杰伦担任游戏代言人并同步开启联动庆典活动。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "周杰伦代言永远的蔚蓝星球",
+    "永远的蔚蓝星球周杰伦代言官宣",
+    "周杰伦代言休闲手游永远的蔚蓝星球",
+    "永远的蔚蓝星球联动周杰伦"
+  ],
+  "retrieval_queries": [
+    "周杰伦 永远的蔚蓝星球",
+    "永远的蔚蓝星球 周杰伦 代言",
+    "周杰伦代言休闲手游 永远的蔚蓝星球",
+    "永远的蔚蓝星球 杰伦星舞台",
+    "永远的蔚蓝星球 4月28日 周杰伦"
+  ],
+  "must_match_facts": [
+    "周杰伦出任《永远的蔚蓝星球》品牌代言人",
+    "官宣代言时间为2026年4月28日",
+    "《永远的蔚蓝星球》是一款休闲塔防策略手游",
+    "游戏内同步上线周杰伦主题联动活动及专属奖励"
+  ],
+  "exclude_if": [
+    "周杰伦代言其他游戏（如《英雄联盟》《梦幻西游》《街机金窟》等）",
+    "《永远的蔚蓝星球》签约的其他代言人或星推官（如向佐、杨迪、锤娜丽莎、徐志胜等独立宣传事件）"
+  ],
+  "source_evidence": [
+    {
+      "title": "月流水2亿后，90后老板砸钱请周杰伦代言了他们的小游戏",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2NSH0wEsPvtwS5kJyONKOyNuKf5YFXrSOmuuFfKBqXBnpMoGQSJyugkdhjJEMGRcCW5bC_cCrojZ4oFCRi1oJpOGhVdjiDIxlmjfuvw4YcJVtnhTvMdO_pqe5c5W_dIhc",
+      "publisher": "游戏葡萄",
+      "published_at": "2026-05-02"
+    },
+    {
+      "title": "千万人围观！周杰伦X这款小游戏，又把“情怀”玩明白了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8mSL2X7qP_tDdLXR3qBKcIm5HSHUSJh9-4NV5QPEii3sbIMuox0BcHEaO9Ij9xP1BQr3IC7XwASi2m4NP-NEWDhshPqUfdWcBLUfmWjXHFwXw3mhmq2Q-ROGeGPR78kG7WUb_XMvIATKus46o",
+      "publisher": "17173",
+      "published_at": "2026-05-05"
+    },
+    {
+      "title": "5月游戏排行榜：灵犀互娱放置修仙新游「宗师之上」强势突围，周杰伦代言「永远的蔚蓝星球」助推游戏下载&收入双丰收",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB2E3oIJJpRz47Az-k7E1y8NrbfCkt7MFz0-t1ePUFcmMkDqiJSoGj8eJmG-lPOSDW-2eM8AilE0Wnrda_uMezxZl04S0YYIAlY41eAZavR7c9FMYSP9Pvob22",
+      "publisher": "36氪",
+      "published_at": "2026-06-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:43"
+}

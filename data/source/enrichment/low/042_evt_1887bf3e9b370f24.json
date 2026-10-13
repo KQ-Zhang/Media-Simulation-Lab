@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_1887bf3e9b370f24",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "陈建功出席2026北京国际文学周京味文学沙龙分享创作心得",
+  "factual_description": "2026年6月27日下午，由北京市文学艺术界联合会主办，北京老舍文学院、中国图书进出口（集团）有限公司承办的2026北京国际文学周“译介北京”系列活动——“何以北京？世界故事中的京味文学——陈建功作品分享会”在北京SKP RENDEZ-VOUS书店举行。中国作家陈建功与主持人李林荣、意大利汉学家李莎、西班牙汉学家林诗安展开对谈，共同探讨京味文学的独特魅力及其海外传播。陈建功在活动中分享了文学创作体会，强调文学创作不应该假大空，应当真诚面对时代，文学本质上就是面对真诚的自己。同时，陈建功还阐述了京味文学的内核与演变，指出京味文学的核心在于幽默豁达的思维方式与叙事腔调，新时代京味文学不必刻意固守或模仿老北京方言，而应立足当代生活，从青年生活经验和北漂群体等新视角中自然生长，在传承中实现创新发展。",
+  "event_time": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "precision": "day",
+    "evidence": "新京报报道确认活动于2026年6月27日下午在SKP RENDEZ-VOUS书店举行。"
+  },
+  "locations": [
+    "中国/北京市/朝阳区/SKP RENDEZ-VOUS书店"
+  ],
+  "aliases": [
+    "陈建功谈京味文学",
+    "陈建功说做文学要面对真诚的自己",
+    "何以北京？世界故事中的京味文学沙龙",
+    "陈建功作品分享会",
+    "2026北京国际文学周陈建功沙龙"
+  ],
+  "retrieval_queries": [
+    "陈建功 2026北京国际文学周",
+    "何以北京 世界故事中的京味文学",
+    "陈建功 做文学要面对真诚的自己",
+    "陈建功 SKP RENDEZ-VOUS",
+    "陈建功 新时代京味文学",
+    "陈建功作品分享会 北京国际文学周",
+    "陈建功 李莎 林诗安"
+  ],
+  "must_match_facts": [
+    "时间为2026年6月27日",
+    "活动为2026北京国际文学周‘何以北京？世界故事中的京味文学’沙龙暨陈建功作品分享会",
+    "地点在SKP RENDEZ-VOUS书店",
+    "主体人物为作家陈建功，对谈嘉宾包括李莎、林诗安",
+    "陈建功发表‘做文学要面对真诚的自己’、新时代京味文学应从青年生活中生长等观点"
+  ],
+  "exclude_if": [
+    "2026年4月陈建功在北部湾大学举办的讲座",
+    "2026年6月16日陈建功在北师大文学院举办的讲座",
+    "2025年11月陈建功在广州参加的花城文学课",
+    "老舍、李洱、徐则臣等其他作家在北京国际文学周的专场活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "当北京故事遇上世界读者：陈建功谈“京味文学”的世界回响",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNMMzHYan1ZMJbp7aiIIlc300WnWFhcuBulMidhEcpxG619lAVb9onSB9vctylIaRJntD2QIwNh3-J4LTEmtVxRtpPPAUJw_OiYnZa3KygFqZw6EerIoi0a7gjRt7t1qJTOqf7-L2XeMGG",
+      "publisher": "新京报",
+      "published_at": "2026-06-28"
+    },
+    {
+      "title": "不畏世人笑不畏后人笑，陈建功：做文学要面对真诚的自己",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5-5LhrLGqpO7LtGMy19nFeg0LucsrfPurZ7_QD5w-qBXVEJwWNRoyVEGAFIJ6YaCKws5iqVIqzpUXTa23TZkX00ajQ8FuUVqTMibApBVY1msR0u0yGs7cChc37IfpRKh3GoQginx0Lt_UzyCxtKMlM4lw0X2JDM6ESklo3-wXQOhXKnoWoStDVccGdAh5z7T9-djV6-22YzFiCgrBi1CXKYBBPTdC5PotlRE=",
+      "publisher": "新京报",
+      "published_at": "2026-06-28"
+    },
+    {
+      "title": "陈建功：新时代京味文学应从青年生活中生长",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHt9Fdxrioi-N5ngvZ4Yt3irF9K-e35dOYcWOhHCyuhT_W9otGqr4CJyaIgxNmRxg1enIbNh6dsmpg5vzDpP53BnB3fHQxzmpE0ZCdnZGP5DR2KiKFcNXY-_75aUDQkIjYvX6LWAHwFBdRV",
+      "publisher": "新京报",
+      "published_at": "2026-06-28"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:01"
+}

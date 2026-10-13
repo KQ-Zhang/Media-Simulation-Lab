@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_bc2da8bfa1cea55a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "汕头潮南区回应司英路整修滞后烂尾问题",
+  "factual_description": "2026年4月上旬，广东广播电视台等媒体报道，广东省汕头市潮南区两英镇揭惠高速公路桥下方的司英路长年坑洼不平，当地居民反映该道路修整工程耗时多年（网传整修烂尾6年）仍未完工，导致过往群众“雨天一身泥、晴天满身灰”，严重影响正常出行。2026年4月9日上午，汕头市潮南区相关部门就舆论关注公开回应称，该道路工程施工进展缓慢的原因主要卡在沿线征地拆迁工作上，目前属地政府与相关部门正全力推动解决征拆问题，力争道路建设早日完工通车。",
+  "event_time": {
+    "start": "2026-04-08",
+    "end": "2026-04-09",
+    "precision": "day",
+    "evidence": "2026年4月8日广东台记者占国栋公开村民反映情况，2026年4月9日上午潮南区相关部门对司英路施工缓慢烂尾问题作出回应。"
+  },
+  "locations": [
+    "中国/广东省/汕头市/潮南区/两英镇/司英路（揭惠高速公路桥下方）"
+  ],
+  "aliases": [
+    "当地回应汕头一市政路烂尾6年",
+    "汕头市政路烂尾6年未完工",
+    "汕头潮南司英路长年坑洼事件",
+    "两英镇司英路整修滞后事件"
+  ],
+  "retrieval_queries": [
+    "当地回应汕头一市政路烂尾6年",
+    "汕头 司英路 烂尾 6年",
+    "潮南区 司英路 揭惠高速",
+    "两英镇 司英路 坑洼",
+    "占国栋 司英路",
+    "潮南区相关部门 司英路 征拆"
+  ],
+  "must_match_facts": [
+    "事发地点位于广东省汕头市潮南区两英镇揭惠高速公路桥下方的司英路",
+    "事件核心为市政道路整修长年未完工、路面坑洼泥泞引发群众出行投诉",
+    "广东广播电视台记者占国栋对此进行了报道介入",
+    "2026年4月9日潮南区相关部门回应称施工缓慢系卡在征拆工作上并承诺推进"
+  ],
+  "exclude_if": [
+    "潮南区其他市政道路改造纠纷",
+    "揭惠高速公路主线工程建设或交通事故",
+    "非两英镇司英路相关的土地房屋征拆诉讼"
+  ],
+  "source_evidence": [
+    {
+      "title": "汕头市政路烂尾6年未完工",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAhOrDUHn97cOidmmLaOY8SYcen1R2Lm2ACwkcTlLqVAzdoIMmwxhnNjDFB88e7hnGns0pZ6hnEHxODIGCEaW836rRW2pcohGmTfpe76N1WrrPQ_T-NWNxwogn0JoMV7MSznjL1XQfVOPy",
+      "publisher": "广东广播电视台粤TV / 新浪新闻",
+      "published_at": "2026-04-09"
+    },
+    {
+      "title": "近日，汕头市潮南区揭惠高速公路桥下方司英路长年坑洼，引发关注",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEo1d8eDCjWi5TnLdpLqEhQ1xdDxUEzrlu1Q3AdhH0iOeN8nkge5fKJQ1qAn6t04927I9eynHCmx9FTS3ieCP_0AmFYod-bUTG6vLpAx1LuX3BhmYZEXyf6mckuerQ0Uj2F",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-04-09"
+    }
+  ],
+  "uncertainties": [
+    "部分网络短视频文案提及“从2021年开始整修，但6年过去了仍未修好”，年份推算存在小幅口误或指代更早的规划/前期工程开工时间，官方回应未披露工程立项的具体起始年份"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:17"
+}

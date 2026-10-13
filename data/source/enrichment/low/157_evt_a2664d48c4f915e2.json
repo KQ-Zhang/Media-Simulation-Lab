@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_a2664d48c4f915e2",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "江苏省第十四届人民代表大会第五次会议开幕",
+  "factual_description": "2026年2月3日上午，江苏省第十四届人民代表大会第五次会议在南京市江苏大会堂隆重开幕。大会由大会主席团常务主席、江苏省委书记信长星主持，省长刘小涛代表省人民政府向大会作政府工作报告。本次会议应到代表789名，实到763名，符合法定人数。会议主要任务包括回顾总结过去五年和2025年省人大常委会、省政府、省法院、省检察院工作，审查“十五五”规划纲要草案，以及确定2026年全省经济社会发展目标任务。开幕会当天上午，大会还组织开展了首场“代表通道”集中采访活动，常州市武进区湖塘实验中学副校长梅建芬、沛县文化馆馆长王宝红等省人大代表接受采访，分别围绕构建多元教育生态、基层精准文化惠民等议题建言献策。本次人代会于2026年2月6日下午闭幕。",
+  "event_time": {
+    "start": "2026-02-03",
+    "end": "2026-02-06",
+    "precision": "day",
+    "evidence": "2026年2月3日上午9时45分宣布大会开幕，2月6日下午完成各项议程后胜利闭幕。"
+  },
+  "locations": [
+    "中国/江苏省/南京市/玄武区/江苏大会堂"
+  ],
+  "aliases": [
+    "江苏省十四届人大五次会议",
+    "江苏省十四届人大五次会议开幕会",
+    "2026年江苏省两会",
+    "2026江苏两会"
+  ],
+  "retrieval_queries": [
+    "江苏省十四届人大五次会议",
+    "江苏省第十四届人民代表大会第五次会议 开幕",
+    "江苏两会 2026 2月3日",
+    "信长星 刘小涛 江苏大会堂 2026",
+    "江苏人大五次会议 代表通道 梅建芬",
+    "江苏省十四届人大五次会议 王宝红"
+  ],
+  "must_match_facts": [
+    "2026年2月3日上午在南京江苏大会堂开幕",
+    "会议届次为江苏省第十四届人民代表大会第五次会议",
+    "江苏省委书记信长星主持开幕会",
+    "江苏省省长刘小涛作政府工作报告",
+    "梅建芬、王宝红等代表在开幕当天代表通道接受集中采访"
+  ],
+  "exclude_if": [
+    "十四届全国人大四次会议",
+    "江苏省第十四届人民代表大会第一次会议",
+    "江苏省第十四届人民代表大会第二次会议",
+    "江苏省第十四届人民代表大会第三次会议",
+    "江苏省政协十三届四次会议开幕"
+  ],
+  "source_evidence": [
+    {
+      "title": "江苏省十四届人大五次会议隆重开幕",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWr31S9y0ZXxD5muKkf5DrLqbMCK3y4Ox4i7i0TN2fB9GYkbqmCCMamy7R9D3zedX2SpsM8OMPkvlDQy0sOpI12HBKQW1xubyQ9UIyF--tjovNKU2BHR_WdbQT8LdnxUg5hJUZw6yah-My49MNWFps_GmFl8KNiOjZCyR3",
+      "publisher": "交汇点新闻 / 人民网",
+      "published_at": "2026-02-03"
+    },
+    {
+      "title": "政府工作报告——2026年2月3日在江苏省第十四届人民代表大会第五次会议上",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdzYObJxk_pf8OyZfIrhJvx2vHRJMHQ6o2aXrazOJTYGUP8y3kgzc0lSuKhGPtuTnfq-8hkxUlsJhdLD2xGirUoiEIgieu5wJwCXDo9NvJrcM4oCsw4ofSZcKUxHlD-ideXNY3aFpZ5YNktDIA5-AdOI0OWUY=",
+      "publisher": "新华日报",
+      "published_at": "2026-02-09"
+    },
+    {
+      "title": "直击两会·江苏之声｜江苏省人大代表梅建芬：让知识在真实场景里生根",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxFcZMQKPks02IxhtI-eGV_Zt0rAx7nkI_GN4YJKRl1G7_vmkzmfHATOtKqGs1tERFmuTD-w8vJA7t6XTrPMiegrIU8G2WWRYHwKYzV1GQVI5cFQZ2uK-1WY7QIhTxv9SQ",
+      "publisher": "央广网",
+      "published_at": "2026-02-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:04"
+}

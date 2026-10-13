@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_edd7248dcb60607e",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "习近平同塞尔维亚总统武契奇举行会谈",
+  "factual_description": "2026年5月25日下午，中国国家主席习近平在北京人民大会堂同来华进行国事访问的塞尔维亚总统武契奇举行会谈。习近平指出，2024年开启构建新时代中塞命运共同体篇章以来取得积极成果，中塞两个民族都坚定追求独立自主、捍卫民族尊严，双方要加强交往、巩固互信、深化合作、相互支持，携手走出一条命运与共、共同繁荣的光明大道，推动中塞全面战略伙伴关系迈向新高度，并强调深化共建“一带一路”、新兴产业及人文交流等合作。武契奇高度评价两国全面战略伙伴关系与“铁杆友谊”，对中方长期支持与帮助表示感恩。会谈后，双方发表了《中华人民共和国和塞尔维亚共和国关于持续推进构建新时代中塞命运共同体的联合声明》，当晚习近平主席还为武契奇总统颁授了中华人民共和国“友谊勋章”。",
+  "event_time": {
+    "start": "2026-05-25",
+    "end": "2026-05-25",
+    "precision": "day",
+    "evidence": "新华社、央视新闻报道，2026年5月25日下午国家主席习近平在人民大会堂同塞尔维亚总统武契奇举行会谈"
+  },
+  "locations": [
+    "中国/北京市/西城区/人民大会堂"
+  ],
+  "aliases": [
+    "习近平同塞尔维亚总统武契奇会谈",
+    "习近平会见武契奇",
+    "武契奇2026年访华与习近平会谈",
+    "中塞两国携手走出一条命运与共、共同繁荣的光明大道"
+  ],
+  "retrieval_queries": [
+    "习近平 武契奇 会谈",
+    "习近平 塞尔维亚总统 人民大会堂",
+    "中塞两国携手走出一条命运与共共同繁荣的光明大道",
+    "习近平 武契奇 友谊勋章",
+    "武契奇 访华 2026年5月"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年5月25日",
+    "会谈地点为北京人民大会堂",
+    "核心参与人物为中国国家主席习近平与塞尔维亚总统武契奇",
+    "属于武契奇2026年5月24日至28日对华国事访问行程中的元首会谈",
+    "习近平在会谈中强调“携手走出一条命运与共、共同繁荣的光明大道”"
+  ],
+  "exclude_if": [
+    "2024年5月习近平对塞尔维亚进行国事访问期间的会谈",
+    "2022年或2023年一带一路高峰论坛期间武契奇访华会见",
+    "李强、王沪宁等其他中方领导人单独会见武契奇的报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "习近平同塞尔维亚总统武契奇会谈",
+      "url": "https://pic.cyol.com/img/20260526/img_96013646d2e4ec987b4f8b68a39585fed498.jpeg",
+      "publisher": "中青在线（转自央视新闻）",
+      "published_at": "2026-05-26"
+    },
+    {
+      "title": "【讲习所·中国与世界】“携手走出一条命运与共、共同繁荣的光明大道”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu25tnH18Kq8bGJC13dzQGC2haiH_X4tAMUXtmZXBiKqLPqFD0PuUq4wiZjQhiemfhJTsVXxeSRGQOoLKY6xvun0AKymV9b8QoqseHr2anrJustUr2B9QvpcUman02ZD9xzoEkDYIWh17eQjdOl3QmmQEnaFzAUlGCZw==",
+      "publisher": "央视网",
+      "published_at": "2026-05-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:27"
+}

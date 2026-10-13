@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_75bfeee0e99063d4",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "吴建豪宣布再婚",
+  "factual_description": "2026年6月29日，47岁的男团F4成员、演员兼歌手吴建豪（Van Ness Wu）在社交平台Instagram上无预警晒出戴着婚戒的黑白牵手照，发文宣布再婚。他在配文中写道：“一切美好都来自上天。2026年充满着无尽的祝福：能再次和兄弟们一起巡演、站上热爱的舞台为你们表演；如今，我更蒙福拥有了生命中最重要的人。”吴建豪所属唱片公司“相信音乐”随后回应证实其喜讯并表达祝福，同时表示吴建豪非常珍惜这份幸福，希望外界给予空间，并澄清女方并未怀孕。吴建豪此前曾于2013年与新加坡籍千金石贞善（Arissa Cheo）结婚，后因性格与生活理念分歧数度传出婚变，两人于2018年底正式签字离婚，结束5年婚姻。此次宣布再婚是他离婚约8年后再度组建家庭。",
+  "event_time": {
+    "start": "2026-06-29",
+    "end": "2026-06-29",
+    "precision": "day",
+    "evidence": "2026年6月29日，吴建豪通过个人社交账号公开发布婚戒牵手照及中英双语文案宣布再婚，多家主流媒体当日跟进报道并获经纪公司确认。"
+  },
+  "locations": [
+    "中国台湾"
+  ],
+  "aliases": [
+    "47岁吴建豪宣布再婚",
+    "吴建豪官宣再婚",
+    "吴建豪晒婚戒照宣布再婚",
+    "吴建豪离婚8年后宣布再婚",
+    "F4吴建豪宣布再婚"
+  ],
+  "retrieval_queries": [
+    "吴建豪 宣布再婚",
+    "吴建豪 官宣再婚",
+    "吴建豪 拥有了生命中最重要的人",
+    "47岁吴建豪 婚戒 牵手",
+    "吴建豪 相信音乐 回应 再婚",
+    "吴建豪 荒卷绘美",
+    "吴建豪 石贞善 离婚 再婚"
+  ],
+  "must_match_facts": [
+    "核心主体为艺人及前F4成员吴建豪（Van Ness Wu）",
+    "发生时间为2026年6月29日",
+    "吴建豪通过社交平台晒出婚戒牵手照宣布再婚",
+    "文案包含“更蒙福拥有了生命中最重要的人”",
+    "所属唱片公司相信音乐对此予以证实并表达祝福"
+  ],
+  "exclude_if": [
+    "2013年吴建豪与石贞善结婚的报道",
+    "2018年至2019年吴建豪与石贞善协议离婚的报道",
+    "言承旭、周渝民、朱孝天等其他F4成员的婚恋事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "吳建豪離婚7年再婚了！告白「生命中最重要的人」女方身分引瘋猜",
+      "url": "https://today.line.me/tw/v2/article/GDMEpSrxM-TlAdnxF3ExkpyEikGJSfUExxqyAhRjMI0ntHCz8sCIW8YSW2DeLlnulFUrSm_LtvOmVKhps0ytSWT0AvVPmRTrW3Fr0azfUF2-yZEdmloMEAaEd-Mt2wRF8=",
+      "publisher": "三立新聞網 / LINE TODAY",
+      "published_at": "2026-06-28"
+    },
+    {
+      "title": "吴建豪离婚8年无预警晒婚戒牵手照宣布再婚新娘身份成谜",
+      "url": "https://www.hk01.com/即時娛樂/60241951/吴建豪离婚8年无预警晒婚戒牵手照宣布再婚新娘身份成谜",
+      "publisher": "香港01",
+      "published_at": "2026-06-30"
+    },
+    {
+      "title": "離婚8年宣布再婚吳建豪：擁有生命中最重要的人",
+      "url": "https://www.zaobao.com.sg/entertainment/lifestyle/story20260629-6939527",
+      "publisher": "联合早报",
+      "published_at": "2026-06-29"
+    }
+  ],
+  "uncertainties": [
+    "官宣当日吴建豪本人并未主动公开新婚妻子身份，后续媒体报道及传闻指妻子为日本歌手兼演员荒卷绘美（Emi Aramaki）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:32"
+}

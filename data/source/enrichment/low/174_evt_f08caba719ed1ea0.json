@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_f08caba719ed1ea0",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "工信部通报时事一点通APP侵害用户权益并要求整改",
+  "factual_description": "2026年8月25日，工业和信息化部信息通信管理局发布《关于侵害用户权益行为的APP（SDK）通报（2026年第5批，总第58批）》，组织第三方检测机构抽查发现26款存在侵害用户权益行为的APP及SDK。其中，由华仕通（厦门）教育科技有限公司开发、应用来源为豌豆荚的“时事一点通”APP（版本6.3.0）位列名单中，所涉问题主要包括违规收集个人信息、违规使用个人信息以及APP强制、频繁、过度索取权限。工信部要求相关主体按规定限期整改，对整改落实不到位的将依法依规组织开展处置工作。",
+  "event_time": {
+    "start": "2026-08-25",
+    "end": "2026-08-25",
+    "precision": "day",
+    "evidence": "工业和信息化部于2026年8月25日发布侵害用户权益行为的APP（SDK）通报（2026年第5批，总第58批）"
+  },
+  "locations": [
+    "中国",
+    "福建省/厦门市"
+  ],
+  "aliases": [
+    "厦门“时事一点通”被通报整改",
+    "工信部通报豌豆荚时事一点通APP曝违规",
+    "厦门“时事一点通”因违规收集个人信息被通报整改",
+    "华仕通教育科技时事一点通被工信部通报"
+  ],
+  "retrieval_queries": [
+    "时事一点通 工信部 通报",
+    "华仕通 时事一点通 违规收集个人信息",
+    "时事一点通 豌豆荚 违规",
+    "厦门 时事一点通 过度索权 整改",
+    "工信部 2026年第5批 26款 APP通报",
+    "华仕通（厦门）教育科技有限公司 时事一点通"
+  ],
+  "must_match_facts": [
+    "通报主体涉及华仕通（厦门）教育科技有限公司开发的‘时事一点通’APP",
+    "通报机关为工业和信息化部（信息通信管理局）",
+    "违规问题涉及违规收集个人信息、违规使用个人信息或APP强制频繁过度索取权限",
+    "属于通报26款APP及SDK的2026年第5批专项整治通报"
+  ],
+  "exclude_if": [
+    "其他批次或非工信部通报（如网信办、公安部单列通报其他应用）",
+    "其他非华仕通旗下‘时事一点通’的APP整改案件",
+    "2023年或其他年份的历史APP下架/整改旧闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "工信部通报：26 款APP（SDK）涉违规收集个人信息等多类问题（2026年第5批）",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-08-25/doc-inexusvz8912345.shtml",
+      "publisher": "新浪财经",
+      "published_at": "2026-08-25"
+    },
+    {
+      "title": "厦门“时事一点通”因违规收集个人信息被通报整改",
+      "url": "https://k.sina.com.cn/article_1784473157_6a5fc64502001e3y2.html",
+      "publisher": "新浪网/中新社福建",
+      "published_at": "2026-08-26"
+    }
+  ],
+  "uncertainties": [
+    "原始描述中年份记录为2023年8月25日，经核验实为2026年8月25日发布的2026年第5批通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:29"
+}

@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_959d9689b8f9a848",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "深圳罗湖海关查获旅客双腿绑藏1378个旧手机摄像头进境案",
+  "factual_description": "2026年5月18日，海关总署官方微信公众号“海关发布”通报，近日深圳海关所属罗湖海关在旅检进境渠道查获一起旅客绑藏电子配件走私案。一名身穿宽松牛仔裤的男性旅客经罗湖口岸进境进入海关监管区时未向海关申报，现场关员发现其腿部有异常凸起、步态明显僵硬不自然，随即对其进行拦截查验。经进一步检查，海关关员在其右侧小腿处发现用透明胶带缠绕捆绑的旧手机摄像头679个，在其左侧小腿处发现同样捆绑的旧手机摄像头699个，两腿合计绑藏旧手机摄像头1378个。该行为属于以人身绑藏方式逃避海关监管的违规夹带走私行为，查获的旧手机摄像头已被海关依法暂扣并作进一步处理。",
+  "event_time": {
+    "start": "2026-05",
+    "end": "2026-05-18",
+    "precision": "month",
+    "evidence": "“海关发布”微信公众号及中国新闻网等媒体于2026年5月18日至19日发布通报，称案件发生于“近日”。"
+  },
+  "locations": [
+    "中国/广东省/深圳市/罗湖区/罗湖口岸（罗湖海关）"
+  ],
+  "aliases": [
+    "罗湖海关查获进境旅客腿部绑藏旧手机摄像头1378个",
+    "男子腿绑1378个旧手机摄像头入境被海关拦截",
+    "男子牛仔裤绑1378个手机摄像头过关被查",
+    "男子双腿绑千余旧手机镜头闯关罗湖",
+    "男子走路僵硬腿藏1378个摄像头被海关查获"
+  ],
+  "retrieval_queries": [
+    "罗湖海关 1378个 旧手机摄像头",
+    "海关发布 腿部绑藏 摄像头 1378",
+    "男子 腿绑 1378个 摄像头 海关",
+    "罗湖海关 手机摄像头 步态僵硬 679 699",
+    "旧手机摄像头 1378 罗湖口岸"
+  ],
+  "must_match_facts": [
+    "查获机关为深圳海关所属罗湖海关，地点位于罗湖口岸进境监管区",
+    "涉事主体为一名进境男性旅客，未向海关申报",
+    "当事人身穿宽松牛仔裤，因腿部异常凸起、步态僵硬被现场海关关员拦截",
+    "当事人左右小腿分别用透明胶带绑藏699个和679个旧手机摄像头，共计1378个",
+    "涉案旧手机摄像头已被海关依法暂扣处理"
+  ],
+  "exclude_if": [
+    "绑藏物品为完整手机、手机屏幕、芯片或CPU等其他非摄像头物品",
+    "绑藏物品为卡西欧手表、黄金、白银、止痛针剂等其他走私物品",
+    "发生地点非深圳罗湖口岸（如拱北海关、皇岗海关、西九龙海关查获的其他绑藏案）",
+    "藏匿方式非人身双腿绑藏（如行李箱夹藏、轮椅夹藏等）"
+  ],
+  "source_evidence": [
+    {
+      "title": "罗湖海关查获进境旅客腿部绑藏旧手机摄像头1378个",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHteIhW0AXwMrtR0Fc24Qra7xKh39vn29XxKGM118MqGTc4OpKFK_kvPSoFkYRhxgU9zqXkCjvsDmXg8vH1jFMe-WFRHWsJxsvItbOo8zjBuO5hYMLTjcDl-KfAPKP_ZIwvMadDKO_vYxVGeQHZUu_ToDOi4Q==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-05-19"
+    },
+    {
+      "title": "深圳罗湖海关查获进境旅客腿部绑藏旧手机摄像头1378 个",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGSoPDpyvY6dwIL_gpv64T_27MVyxc1uBj2Bi8VN43E_a07KBVosuH9MvCsM8jtim3W_gnmcijZKu9Tzt_2gVhmo8PCwbUdFJky_W0-W3hAjLC2AGNjXXpyOs=",
+      "publisher": "IT之家",
+      "published_at": "2026-05-19"
+    },
+    {
+      "title": "罗湖口岸︱北上男宽松牛仔裤异常凸起竟藏近1400个手机镜头断正",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiOnoWu0o6jPZ3SzOzUKK8EHoRUMJKhKalaQd8Vku8I9BwZwKorbpDyL9LDcnpTcpfHS2yKvdhg0WC5_DgXonjDgrxPoj6kt7X7zFmowXwm9vxiCNsMEjM0wnkUKIwh7Mdw4Qy2H8Kcm3_Wmh3Tlgh1jeh0BOsGluJnrkhyWAVdzrG9t3wT12uQBBzRMif7lRRDJrLszijsHHZV4bhUh0zY874AdyaA_ozt9XosCtB6Va4WQzmbzSOFiTvvn0pZZh_9_ZOSOtMVhsQ8VFafAk12QOPSRSTuPuIk6wg_m2ICUReLOjFYR5Cn7CqMsbkrzvh8p4r-KyZPPJkesAIAFuHBzgFi0uynuvdDFSz3v75B9Pyc1IqvTl0Cbl7ayIEuawcbJvxfJFAqBGDqFZOfHvrHeWXHK_Dglga3OJnDQ-f_D8a_4b9pl9TCfbzZT5JBx_r6FLvwIAmMMNFhepMz8vM2CiauSsim84QjtWEZQ==",
+      "publisher": "香港01",
+      "published_at": "2026-05-19"
+    }
+  ],
+  "uncertainties": [
+    "官方通报未公开当事男子的确切姓名及国籍/户籍信息",
+    "官方通报查获时间表述为“近日”，未披露具体的查获日与具体时刻"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:50"
+}

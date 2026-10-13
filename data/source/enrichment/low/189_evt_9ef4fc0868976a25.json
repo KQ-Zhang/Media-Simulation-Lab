@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_9ef4fc0868976a25",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "OpenAI宣布关停Sora视频生成服务及独立应用",
+  "factual_description": "美国当地时间2026年3月24日，人工智能公司OpenAI宣布重大战略转型，将逐步停运旗下AI视频生成平台Sora，包括面向消费者的Sora独立移动应用、面向开发者的API接口服务，并取消在ChatGPT中内置Sora视频生成功能的计划。Sora官方团队在社交媒体平台X上发布了告别声明。OpenAI首席执行官萨姆·奥尔特曼及高管表示，由于Sora算力开销极高、用户留存持续下滑，公司决定精简产品线，将有限的算力和研发资源重新集中于企业级生产力工具、代码生成以及面向机器人的物理世界模拟研究。受此影响，华特迪士尼公司随后证实终止此前与OpenAI达成的三年期合作，涉及拟向OpenAI投资10亿美元及200多个角色IP授权的协议随之告吹。OpenAI明确表示ChatGPT的图像生成功能不受影响，并在公布后逐步开展用户内容导出与下线工作。",
+  "event_time": {
+    "start": "2026-03-24",
+    "end": "",
+    "precision": "day",
+    "evidence": "美国当地时间2026年3月24日，Sora团队在X平台发布告别声明，OpenAI管理层在内部会议及对媒体声明中正式确认关停Sora服务。"
+  },
+  "locations": [
+    "美国",
+    "加利福尼亚州旧金山"
+  ],
+  "aliases": [
+    "OpenAI宣布关停旗下Sora视频生成服务",
+    "OpenAI宣布放弃视频生成应用Sora",
+    "OpenAI退出AI视频生成业务",
+    "Sora关停",
+    "OpenAI shuts down Sora video platform"
+  ],
+  "retrieval_queries": [
+    "OpenAI 关停 Sora",
+    "OpenAI 放弃视频生成应用Sora",
+    "OpenAI 战略转型 Sora",
+    "OpenAI shut down Sora",
+    "Sora 迪士尼 10亿美元 终止",
+    "OpenAI 停止 Sora API",
+    "Sora 宣布停运 2026"
+  ],
+  "must_match_facts": [
+    "OpenAI于2026年3月24日宣布逐步关停Sora消费级应用及API服务",
+    "OpenAI决定放弃在ChatGPT中整合Sora视频生成功能",
+    "OpenAI将算力与团队重心转回企业生产力工具、代码生成及机器人世界模拟研究",
+    "迪士尼公司确认终止与OpenAI涉及10亿美元投资及角色IP授权的合作协议",
+    "ChatGPT的AI图像生成功能继续保留不受影响"
+  ],
+  "exclude_if": [
+    "2024年2月OpenAI首次公开发布Sora技术演示",
+    "2025年9月OpenAI发布Sora 2或上线独立App的事件",
+    "其他AI厂商（如Runway、Pika、快手可灵等）的视频生成模型发布与停运",
+    "仅讨论OpenAI其他通用大模型研发进展而未提及关停Sora服务的报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "声称战略转型OpenAI宣布放弃视频生成应用Sora",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbSZpKJgowPDSZ8JpkT3RAwqL0fKrk_9Nst2Cv5Y9_5zI6g3vjy8KlbF6TiHazFrbAvV8ppk6OG-1diRmWUajofFr2nZ074ACa-8scvqDeceaHP7JcT2G_WD-zcZLMxKefooPNvHN6DEWlC1QEAFs776ZWDu_A1XAn3xg-lc48TA==",
+      "publisher": "新华网",
+      "published_at": "2026-03-25"
+    },
+    {
+      "title": "OpenAI退出视频生成领域，Sora应用上线半年后宣告关闭",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXbZAcTz5Wpx17Wqg7PzmtXnzJhbV1AW3pAOroeRBZULhNnPLoSysmjqznS5-2Q5yjDe4mqLFLMNtUNKv5wWNXWDAZgJzaopTNqq8qv55pTEZUorDo6FMghwR6ggYJvYHd1fYTsbIzSw5dyJE=",
+      "publisher": "科学网",
+      "published_at": "2026-03-25"
+    },
+    {
+      "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHK1xpX-YLWCrqzAQElyvLUh4lczmtFsVVmMLwi6p-qrk0T2wFh6BtxElw5VS0QgijHFx4jD8-Ib0fS4Rzn_vL1u28xKREQKbREvFw4RHkz8anaXbvUmuLoeQEZzLwTg4I9L2VJbOG0Or0ZR-LYcdLkCqqorOHFi_cWofBDCntZNUaLOIrs_TU=",
+      "publisher": "美联社（AP）",
+      "published_at": "2026-03-24"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:54"
+}

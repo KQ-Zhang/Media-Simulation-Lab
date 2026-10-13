@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_47131a75efafd8a8",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "电影《镖人：风起大漠》累计票房突破9亿元",
+  "factual_description": "2026年2月25日14时29分，据灯塔专业版等电影数据平台统计，于2026年农历大年初一（2月17日）在中国大陆上映的古装武侠电影《镖人：风起大漠》（简称《镖人》）累计票房正式突破9亿元人民币。该片改编自许先哲同名漫画，由袁和平执导，吴京、俞白眉监制，吴京、谢霆锋、于适、陈丽君、孙艺洲、此沙、李云霄等主演，李连杰、梁家辉特别出演。影片在2026年春节档凭借口碑连续多日实现单日票房逆跌，此前档期内票房已突破8亿元，打破了武侠电影票房历史纪录并登顶中国影史武侠片票房冠军。",
+  "event_time": {
+    "start": "2026-02-25",
+    "end": "2026-02-25",
+    "precision": "day",
+    "evidence": "据灯塔专业版实时数据，截至2026年2月25日14时29分，电影《镖人：风起大漠》票房正式突破9亿元大关。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "《镖人：风起大漠》票房破9亿",
+    "电影《镖人》累计票房突破9亿",
+    "镖人票房破9亿",
+    "电影《镖人》正月初九破9亿"
+  ],
+  "retrieval_queries": [
+    "镖人 票房 9亿",
+    "镖人 风起大漠 票房 突破9亿",
+    "镖人 武侠片票房冠军 9亿",
+    "镖人 2月25日 票房"
+  ],
+  "must_match_facts": [
+    "涉及电影《镖人：风起大漠》（或简称《镖人》）",
+    "票房里程碑节点为累计突破9亿元人民币",
+    "发生时间为2026年2月25日（2026年春节档期间/正月初九）",
+    "影片由袁和平执导，吴京、谢霆锋等主演"
+  ],
+  "exclude_if": [
+    "报道的是《镖人：风起大漠》票房破8亿或破10亿等其他票房节点事件",
+    "报道的是2026年春节档其他影片（如《飞驰人生3》《惊蛰无声》）的票房成绩",
+    "报道的是同名动画版《镖人》相关资讯"
+  ],
+  "source_evidence": [
+    {
+      "title": "吴京《镖人》票房突破9亿！AI预测总票房升至16亿",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDJzkY_PvQPghhBvgEHS3ap4ba9mp6Yxr_wa3SQv920vvwKIv2Aa19AgDSHmJd8Ou_0p8xd-xZ3jaVtRbxz4Y8mv_XBgotLlsFW-TQzITJEwirrBT9B1hTSr1QswZ4iNKWvdY=",
+      "publisher": "快科技",
+      "published_at": "2026-02-26"
+    },
+    {
+      "title": "春节档收官：《镖人》破8亿刷新国产武侠片票房纪录",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgxrY36Zgdo7pE_YZQXTB_CAt-l3D05FrvJkXusi_XiWw8sbX2Qf4YNH1SARW3_oXGzYaoUrievhm0bM6gtx8hzLeqaBFPcVqh8fdjnO3TUb5th_y-tHVvA3rdCjKv_eUxKAWO4iow7Lwyb0_om_bWmEaQ-aWFdGr_OQjmHQ==",
+      "publisher": "新华网",
+      "published_at": "2026-02-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:25"
+}

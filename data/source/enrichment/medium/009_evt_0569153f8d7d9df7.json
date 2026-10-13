@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_0569153f8d7d9df7",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "西南医科大学通报辅导员教材选购不当言论事件",
+  "factual_description": "2026年8月11日上午，西南医科大学中西医结合学院辅导员杜某在年级QQ群发布教材选购通知并解答咨询时，要求学生通过学校教务处提供的小程序购买新教材，禁止在其他渠道购买教材及二手教材、电子书，并称“如果连教材都不舍得买，或者还要计较那一点与旧书的差价，这个书也可以不读了，直接休学或退学去工作挣钱吧”。相关群聊截图曝光后在社交平台引发广泛关注与争议。8月13日傍晚，西南医科大学发布官方情况通报，重申学校严格遵守相关规定，坚持教材自愿选购、自主获取原则，支持学生自主选购教材或自行购买二手教材、电子教材，困难学生可申请补助；通报指出，辅导员杜某在解答咨询时情绪失控、言语失当，对部分学生及家长造成了伤害，学校已对该辅导员予以严肃批评教育，并责令其在年级QQ群公开致歉。",
+  "event_time": {
+    "start": "2026-08-11",
+    "end": "2026-08-13",
+    "precision": "day",
+    "evidence": "西南医科大学官方通报证实杜某于2026年8月11日上午在年级群发布不当言论，校方于2026年8月13日发布通报公布处理结果。"
+  },
+  "locations": [
+    "中国/四川省/泸州市/江阳区/西南医科大学"
+  ],
+  "aliases": [
+    "西南医科大学辅导员不当言论事件",
+    "西南医科大学辅导员称不买新教材就退学",
+    "西南医科大学通报辅导员强迫买新教材",
+    "西南医科大学中西医结合学院辅导员杜某教材言论争议",
+    "西南医科大学通报涉教材选购不当言论"
+  ],
+  "retrieval_queries": [
+    "西南医科大学 辅导员 杜某 教材",
+    "西南医科大学 舍不得买新教材 休学退学",
+    "西南医科大学通报 辅导员 言语失当",
+    "西南医科大学 中西医结合学院 2024级 教材",
+    "西南医科大学 辅导员 年级群 致歉"
+  ],
+  "must_match_facts": [
+    "涉事高校为西南医科大学（中西医结合学院）",
+    "涉事辅导员为杜某",
+    "在年级群发表‘连教材都不舍得买可直接休学或退学’等言论",
+    "涉及禁止或限制学生选购二手教材与电子书",
+    "校方通报认定其情绪失控言语失当，责令在年级群公开致歉"
+  ],
+  "exclude_if": [
+    "其他高校辅导员的不当言论或违纪事件",
+    "非2026年8月发生的西南医科大学其他争议事件",
+    "涉及教材编写腐败或商业回扣刑事案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "西南医科大学通报：已对言语失当辅导员严肃批评教育",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT_GDSQIbzzqUjjMJPeXJGBqzAsO6k0n7_hT5UkYNtsjQE78QbUsG7mTVK6J8_QaQbsxAI-Ph_4Ha391NoPDEXeiBD84I-Hq7I4sPiDcsu0ZOsFTyntMMl0uD_grJ7LZq-W-wG_KVaTJXz9exlwd7NLvLVezCNOQHr7Q==",
+      "publisher": "新华社/新华网",
+      "published_at": "2026-08-13"
+    },
+    {
+      "title": "辅导员称“舍不得买新教材可以直接退学”，西南医科大学通报：教材坚持自愿选购原则",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_rkcIetFO4K3lMHwX559VHx23guUwQeA34v-9EnJsf0gi1PgWYlnWTwAvSEX47SQvtZxsEHDAb24VgOq7v_vNbsZc58szhp-tMKDNDVG3wj0QjYFyLTcgjBD6HT9nU1whQXsO2jOwGrs=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-08-14"
+    }
+  ],
+  "uncertainties": [
+    "涉事辅导员杜某的具体全名在校方官方通报及主流新闻报道中均作隐名处理未予公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:21"
+}

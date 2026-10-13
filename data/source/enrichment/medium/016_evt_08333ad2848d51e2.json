@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_08333ad2848d51e2",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "天津一无牌电动三轮车贴急救送血车标识上路行驶事件",
+  "factual_description": "2026年4月中旬，有网友发布视频反映，在天津街头行驶的一辆无牌三轮电动代步车（俗称“老头乐”）后挡玻璃及车身张贴有红底白字“急救送血车”以及“血液中心”等字样，且车顶加装有警示灯并在道路上高速行驶，引发公众关注。2026年4月20日至21日，天津市血液中心工作人员公开回应称，涉事车辆并非血液中心所属，属于私自张贴冒充；强调正规运送血液车辆必须具备专业制冷设备、全程冷链与定位跟踪，且必须拥有正规合法机动车牌照，中心绝不可能使用电动三轮车送血，该车辆也无法获取正规血液。血液中心推测车主张贴急救标识可能系为了使其他社会车辆让行、谋求特权通行；天津市血液中心已就此事向警方报案，并正联合相关管理部门追查该车辆。",
+  "event_time": {
+    "start": "2026-04-19",
+    "end": "2026-04-21",
+    "precision": "day",
+    "evidence": "2026年4月19日至20日，涉事车辆视频在网络曝光并引发媒体报道；天津市血液中心于4月20日和21日相继回应并证实已报警处理。"
+  },
+  "locations": [
+    "中国/天津市"
+  ],
+  "aliases": [
+    "天津无牌老头乐冒充急救送血车",
+    "天津老头乐贴急救送血车字样狂飙",
+    "天津血液中心回应老头乐送血车",
+    "天津老头乐装警灯贴急救送血车"
+  ],
+  "retrieval_queries": [
+    "天津 老头乐 急救送血车",
+    "天津 血液中心 老头乐 报警",
+    "无牌老头乐 急救送血车 天津",
+    "老头乐 贴急救送血车字样",
+    "天津血液中心 非中心车辆",
+    "老头乐 冒充 急救送血车"
+  ],
+  "must_match_facts": [
+    "事发地点位于天津市道路",
+    "涉事车辆为无牌电动三轮车（老头乐），装有警示灯并贴有“急救送血车”“血液中心”等标识",
+    "天津市血液中心公开辟谣否认该车辆隶属该单位，指出送血需专业冷链及合规机动车",
+    "天津市血液中心已向公安机关报警追查涉事车辆"
+  ],
+  "exclude_if": [
+    "合法正规救护车或急救送血车交通违章或事故",
+    "非天津市区域的仿冒医疗特种车辆事件",
+    "血站血液质量、非法采供血或无偿献血制度争议事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“老头乐”成急救送血车？天津市血液中心否认系该单位车辆：正联合相关部门处理",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR76sfhk0g8F70P-f1LivngSj2e1ztCphbR4Mf6c_8FBTbgnp9yu_h4V6GQqyYULbDR63nxnGtwDkQ7TuIYx0IzWn9Xbv3tIYEghrSVyPpj69FqimUsIsfU4N-vE35JUb23aysAqun",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-04-21"
+    },
+    {
+      "title": "无牌“老头乐”伪装急救送血车闪灯狂飙天津市血液中心报警处理",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOK1y9YL3YGzuBEHtjUUZRLuTiTQ_BUnAyipinqfgPwiubhRqdMlvYC8glExGw9sFfx1OTtbtmScZ6td6QXVWaOyUrR3xc2Lob-q00qBP_RQJAUtMcHESNnPceQzTmLw9NAqK9i30LUgQXubAC468own2fU5AFL3adoPhg4mb_oN7HT0DuG6-oJBW16KzT9v6kXRy1_2YCv5BNX1oIyQnXUO8AHiIhCm0WGZbYMLDysjmNsrNe5FFoD9UrglqdhHDuMka2lSuSDb_4tvdm0LpOr4zeZJAd--UOcOseITrAXxv53uf3K3PUGM6kh8QAOX1qDSuVeIPAjiBD16-_DLSq2cDfxhrmYaF_mDfsQ_oyPyUUS-IU3nUi3a3OQL73VyKUy_sL9S5LuHrdRuKzq2dM9gVlUCcj-kv4LOWKxIIoORybDE6hoODEmUrJL-ac0Ma-rgS23wcGlZYSi_D-M4fSKwzlAceH8ZcF-MBOhYlFpM7jMQ==",
+      "publisher": "香港01",
+      "published_at": "2026-04-20"
+    }
+  ],
+  "uncertainties": [
+    "涉事三轮车驾驶人身份及公安交管部门后续查扣、具体行政处罚结果尚未公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:29"
+}

@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_439c4e19711210bf",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年7月霍尔木兹海峡油轮遇袭及美军海上拦截事件",
+  "factual_description": "当地时间2026年7月20日，美军中央司令部通报称，自美东时间7月14日恢复针对进出伊朗港口及沿海地区船只的海上封锁以来，截至20日美军已拦截并迫使7艘商船改道，并使1艘商船丧失航行能力。同日，伊朗伊斯兰革命卫队发布图像与通告称，7月19日有两艘违规油轮在美军的煽动和胁迫下试图进入和离开霍尔木兹海峡南部危险水域，随后发生爆炸并被迫停止航行。此外，据海员20日晚提供的无线电公共频道录音及官方媒体报道，一艘悬挂科威特国旗的油化船在霍尔木兹海峡东出口附近海域遭袭，燃油舱起火并冒出大量浓烟，造成两名船员轻伤，船员登上救生艇待命准备弃船并等待救援。多方报道证实该系列险情与军事拦截发生在美伊海峡对抗升级背景下。",
+  "event_time": {
+    "start": "2026-07-19",
+    "end": "2026-07-20",
+    "precision": "day",
+    "evidence": "伊朗伊斯兰革命卫队通报违规油轮于2026年7月19日发生爆炸；美军中央司令部于当地时间7月20日通报拦截数据；悬挂科威特国旗的油化船于7月20日晚在霍尔木兹海峡东出口遇袭起火。"
+  },
+  "locations": [
+    "伊朗/霍尔木兹海峡",
+    "霍尔木兹海峡东出口海域",
+    "霍尔木兹海峡南部水域"
+  ],
+  "aliases": [
+    "霍尔木兹海峡多艘油轮爆炸起火及美军拦截商船事件",
+    "美军称对伊朗海上封锁期间已迫使7艘商船改道",
+    "一油化船在霍尔木兹海峡附近遭袭",
+    "霍尔木兹油轮爆炸起火事件"
+  ],
+  "retrieval_queries": [
+    "霍尔木兹海峡 油轮爆炸 2026",
+    "美军中央司令部 拦截 商船 改道 7艘",
+    "霍尔木兹海峡 油化船 遭袭 科威特",
+    "革命卫队 霍尔木兹海峡 违规船只 爆炸",
+    "美军 对伊朗海上封锁 商船 改道",
+    "霍尔木兹海峡 船舶无线电 弃船"
+  ],
+  "must_match_facts": [
+    "美军中央司令部称恢复对伊海上封锁期间迫使7艘商船改道且1艘丧失航行能力",
+    "伊朗伊斯兰革命卫队公布图像称违规油轮在美军胁迫下穿行霍尔木兹海峡南部时爆炸停航",
+    "一艘悬挂科威特国旗的油化船在霍尔木兹海峡东出口海域遭袭燃油舱起火、船员待命弃船",
+    "事件实际发生于2026年7月中下旬美伊局势升级期间"
+  ],
+  "exclude_if": [
+    "2019年阿曼湾油轮遇袭事件",
+    "2024年红海危机也门胡塞武装袭击商船事件",
+    "仅涉及沙特联军在曼德海峡护航的独立事件",
+    "非霍尔木兹海峡海域的常规扣船行动"
+  ],
+  "source_evidence": [
+    {
+      "title": "美军称对伊朗海上封锁期间已迫使7艘商船改道",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg27WMSRHlZSqJHC5dYNzCIStDKzNeD-623cpBPggwgPiTlfOgBKTYh__kQ2FkKNHit4edideH1g6SgQTxH8rFj87OstauDAP1ElELD5tAp9x9vScgLT-aOUb5zZ8Trzfn",
+      "publisher": "央视新闻客户端 / 腾讯新闻",
+      "published_at": "2026-07-21"
+    },
+    {
+      "title": "一油化船在霍尔木兹海峡附近遭袭",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5N1M951EVmJHxcdtBeOLa49cPXhqipHa07wAunXNp0WPXEE5LiUVxQ_74R_1AHJh1O56A7S5nRCON6T0OR5JzKEOOYBxLTc4rtvjoGRY1HBHZ4qhWn6KFBqQGrbrA4_1ziWl2yArVPVtHze7WrVA=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-07-21"
+    },
+    {
+      "title": "霍尔木兹大消息，多艘油轮爆炸起火，现场画面曝光！美军：已迫使7艘商船改道，1艘失去航行能力！沙特联军宣布护航曼德海峡，国际油价上涨",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOOKsSN5uxKX4LwYipsbu01DcW8tWNqBiqssoDXykZ0L9AYCPxdD92hB5kqhvTUIw04rAdkw7oSHWa8AT1oYBrLXxVYVSkz6FU71KtInh55lwf6qFnuVyII5c=",
+      "publisher": "每日经济新闻 / 凤凰网",
+      "published_at": "2026-07-21"
+    }
+  ],
+  "uncertainties": [
+    "输入样本所标年份2024年为错误时间，权威公开报道证实事件发生在2026年7月",
+    "遇袭油化船的具体袭击实施方与武器类型在初始报道中尚未完全公开查明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:31"
+}

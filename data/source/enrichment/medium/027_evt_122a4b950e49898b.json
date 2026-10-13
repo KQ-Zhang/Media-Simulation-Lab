@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_122a4b950e49898b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "编号0001外贸版歼-35隐身战机在央视节目中公开亮相",
+  "factual_description": "2026年5月1日，中央广播电视总台综合频道播出《中国梦·劳动美——2026五一国际劳动节“心连心”特别节目》，在展示中航工业沈飞公司的画面中，一架编号为“0001”、机头印有中国航空工业英文缩写“AVIC”标识的歼-35隐身战斗机从机库滑出亮相。2026年5月8日，央视新闻及主流媒体跟进报道引发广泛关注。现场画面显示，该机未喷涂中国空军“八一”军徽，外观为浅灰色基础底漆涂装，前起落架为单轮设计，表明其为适应陆基起降的机型而非舰载双轮构型。军事评论员傅前哨等专家分析指出，“0001”编号与“AVIC”标识不同于军方自用机型序列，高度指向其为专供外销的陆基出口版本（被普遍推测为歼-35AE），这标志着歼-35系列战机已具备量产出口能力，未来有望在国际军贸市场上成为美国F-35隐身战机的有力竞争对手。",
+  "event_time": {
+    "start": "2026-05-01",
+    "end": "2026-05-08",
+    "precision": "day",
+    "evidence": "2026年5月1日央视五一特别节目首次曝光画面，5月8日央视新闻等主流媒体刊播专家解读并引爆国内外舆论。"
+  },
+  "locations": [
+    "中国/辽宁省/沈阳市/沈阳飞机工业集团"
+  ],
+  "aliases": [
+    "编号0001歼-35战机亮相",
+    "歼-35外贸版亮相",
+    "外贸版歼-35AE曝光",
+    "0001号歼-35战机",
+    "AVIC标识歼-35隐身战机亮相"
+  ],
+  "retrieval_queries": [
+    "歼-35 0001",
+    "歼-35 AVIC 0001",
+    "编号0001 歼-35 亮相",
+    "外贸版 歼-35 0001",
+    "歼-35AE 0001",
+    "傅前哨 歼-35 0001",
+    "央视 歼-35 0001号"
+  ],
+  "must_match_facts": [
+    "战机机头印有'AVIC'英文缩写标识且机身编号为'0001'",
+    "战机在央视电视节目画面中自机库滑出亮相",
+    "机身未喷涂解放军'八一'军徽且采用浅灰底漆",
+    "前起落架采用陆基适用的单轮配置而非舰载双轮",
+    "专家分析推测其为歼-35系列陆基外贸出口型号"
+  ],
+  "exclude_if": [
+    "2024年珠海航展歼-35A空军自用型公开表演",
+    "航空母舰福建舰电磁弹射测试舰载型歼-35",
+    "早期代号FC-31鹘鹰验证机相关试飞报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "歼-35“0001编号”战机亮相！瞄准国际市场？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzvPRgwMIrWBuOi6_klHpZBPkDykB1rbFUA-ILYgqvxRjOB9tuBGoVNnMEpRAV_5xazeynBX3MS8xyPoHfnlmr_gR3gxj0H5ZXRjU6LDocAwoJo2KUfkRzoLNFG21pG0XG15QsiaY=",
+      "publisher": "北京日报",
+      "published_at": "2026-05-08"
+    },
+    {
+      "title": "歼-35“0001编号”战机亮相！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMiTOQe_3csr6p5QnzZDeAyNEmL4xHFAp6ueqjg9W9kRM6uW2gTDmAdlh72ZJ_3Jh0N-gS7jTe9KwC_N_F11pBk3MD23lQdZg2OlkEOlxl6WIz-IhwbLmwvVurZyIwTIZUgjJj5FCDFCcJ5pt8iWGqbi4gpQVw",
+      "publisher": "潮新闻（转引自央视新闻）",
+      "published_at": "2026-05-09"
+    }
+  ],
+  "uncertainties": [
+    "官方尚未正式公布该外贸版本的最终官方型号名称是否为歼-35AE"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:41"
+}

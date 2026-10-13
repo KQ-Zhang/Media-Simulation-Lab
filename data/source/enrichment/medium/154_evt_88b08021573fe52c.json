@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_88b08021573fe52c",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "安徽女大学生深陷分期乐“迷你贷”逾期事件",
+  "factual_description": "2020年至2021年间，就读于安徽一所民办高校的陈女士在校园内受“分期乐”推销人员宣传吸引，先后申请5笔小额分期贷款（分别为6800元分36期、1000元分24期、3500元分36期、400元分36期、1974元分12期），累计本金13674元，平台页面显示年利率在32.08%至35.90%不等。其中最刺目的400元借款被分36期、总还款达860.28元。因学生期间无稳定收入，陈女士以贷养贷，至2022年8月无力偿还停止还款。截至2026年2月，其借款逾期已超1000天。陈女士在逾期前已偿还1.1万元，但平台系统显示本息总额达26859元，仍需偿还约1.5万元才能结清。因催收波及亲友与伴侣，陈女士产生严重心理问题并就医治疗。2026年2月，陈女士主动联系平台协商还款方案，事件经华商报大风新闻等媒体报道后登上热搜，引发对小额高息“迷你贷”和校园金融违规放贷的社会关注。",
+  "event_time": {
+    "start": "2020",
+    "end": "2026-02",
+    "precision": "month",
+    "evidence": "借款发生于2020年至2021年大学期间，2022年8月停止还款逾期，2026年2月当事人与平台协商并经华商报大风新闻公开报道。"
+  },
+  "locations": [
+    "中国/安徽省"
+  ],
+  "aliases": [
+    "女子大学期间深陷迷你贷",
+    "400元分36期还860元事件",
+    "女大学生被5笔迷你贷压垮",
+    "借1万3要还2万6逾期超1000天",
+    "安徽陈女士分期乐借贷纠纷"
+  ],
+  "retrieval_queries": [
+    "陈女士 分期乐 迷你贷",
+    "400元分36期 分期乐",
+    "借1万3要还2万6 逾期1000天",
+    "陈女士 13674元 26859元",
+    "女大学生 迷你贷 华商报 大风新闻",
+    "女子深陷迷你贷 400元分36期"
+  ],
+  "must_match_facts": [
+    "当事人为安徽高校学生陈女士",
+    "涉事消费信贷平台为分期乐",
+    "累计申请五笔贷款共13674元（包含400元分36期贷款）",
+    "平台借款年利率标注为32.08%至35.90%，还款总额达26859元",
+    "2022年8月因无力偿还停止还款，至2026年2月逾期超1000天"
+  ],
+  "exclude_if": [
+    "非分期乐平台或非陈女士的其他网络借贷纠纷",
+    "2026年3月报道的湖南刘先生等其他借款人案例",
+    "网络短剧或虚构段子（如《月薪三万，只属于我》等影视内容）"
+  ],
+  "source_evidence": [
+    {
+      "title": "女子申请五笔网贷，400元要分36期，被“迷你贷”压垮，停止还款逾期1000天",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJvWGFw3PDyeayZLLKVuokb0Zt3r4lt6OKSc3rNL5L8KteeONxMIYKKvQ-otfgmOCBOC1jiFAR226dw3MQHPWWV8w0eq4WAztb0U14SHckZL8XaC_x8sMaUwg=",
+      "publisher": "凤凰网（转自华商报大风新闻）",
+      "published_at": "2026-02-22"
+    },
+    {
+      "title": "安徽女大學期間陷低息迷你貸年利率接近36% 借1.3萬要翻倍還款",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXnqWOcmPyKKjtnwvw2soRIdB2JnvWidi8cwj6U5loFyPwQfk5dEv94yQCO6zF7epzD6ohRYKMlGAWvKet1jhIlfLPI1LvaLI0fiVjoBDD7EuwvO7X27X4iQYJbChj1pevMkweG4NVpl2Xsl05zIUPBbNiSPQs0gHifc-J_QNN1ePiDtb3uLh5n5sonEVm4YbrMp3JaqRqfr_YtTGJsJku-DrkboXh04FFWTmQGQQZTa0kq2nI6g-WndoiODZ9ajyCGXLX5wLQT_pkMArVhzC2olQdcs5nXJAfW1pVBN15NCPNHhgzQJQFilOxs__1Xw2LmEsv9jjH84t2kzLs5jpBLQDSR3eiTUwOn7yNvJ7jU_64m2Gr1GD7G0zKsDIz5coGDbQyUMYVHPSsi-1QPE3g4XZTXaF6s1NcKUUwy7Zl44-R6SGmBiGFwsqDzu2EiNHxXtR0aL7X38FEdu-CcuyRJ1c=",
+      "publisher": "香港01",
+      "published_at": "2026-02-23"
+    },
+    {
+      "title": "400元分36期还，借1万3还2万6，女子深陷“迷你贷”，律师解读",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGM862rW6oo8f3YmRHTElSjohbh-esjYJo0ryELcQvE5CZDZbZHmroZWydzEYMqYIAuS7HfU6oYwvZ70Zg2zNlqJ7yqXGzKJURm59XMMi_392mrQ-vMONkCnMm",
+      "publisher": "川观新闻",
+      "published_at": "2026-02-24"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:16"
+}

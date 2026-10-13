@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_7699d567c460ffb5",
+  "verification_status": "partially_verified",
+  "confidence": 0.95,
+  "canonical_event_name": "江苏苏州一家三口新疆S101公路自驾遇山洪母子遇难事件",
+  "factual_description": "2026年6月28日16时许，来自江苏苏州的王先生一家三口沿新疆S101省道自驾游，行至昌吉回族自治州呼图壁县雀尔沟镇97公里路段时，突遇强降雨引发的山洪泥石流。由于路面湿滑漫水，车辆打滑失控并被泥水推向路边深达十余米的泄洪沟边缘。危急关头，王先生留在驾驶位持续踩住刹车、打满方向盘以稳住车辆，其妻子与前一天刚满11周岁的儿子下车避险。不料下车后孩子瞬间被湍急的洪流卷走，母亲上前施救亦被卷入山洪中失联。事发后，当地公安、消防、镇政府及蓝天救援队等多支搜救力量展开沿线地毯式搜寻，家属亦聘请专业水下救援队在下游水库搜寻。7月2日，救援人员在泄洪沟内发现母亲破损的牛仔裤。7月5日17时30分许，搜救人员在下游水库寻获母亲遗体，约20分钟后亦找到孩子的遗体，母子二人均确认遇难。",
+  "event_time": {
+    "start": "2026-06-28",
+    "end": "2026-07-05",
+    "precision": "day",
+    "evidence": "2026年6月28日16时许遭遇强降雨山洪致母子失联，7月5日傍晚搜救人员在下游水库寻获母子二人遗体。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/昌吉回族自治州/呼图壁县/雀尔沟镇/S101省道97公里路段"
+  ],
+  "aliases": [
+    "苏州一家三口新疆S101自驾遇山洪",
+    "新疆S101网红公路山洪母子失联遇难事件",
+    "苏州母子新疆自驾遇山洪遇难",
+    "新疆呼图壁S101山洪母子被冲走事件"
+  ],
+  "retrieval_queries": [
+    "新疆S101 山洪 母子",
+    "苏州一家三口 新疆自驾 山洪",
+    "呼图壁 雀尔沟 S101 山洪",
+    "新疆网红公路 山洪 11岁生日",
+    "新疆S101 泥石流 苏州母子"
+  ],
+  "must_match_facts": [
+    "发生于2026年6月28日16时许的新疆昌吉州呼图壁县雀尔沟镇S101省道97公里处",
+    "涉事人员为来自江苏苏州的王先生一家三口",
+    "车辆遇强降雨山洪在漫水路段打滑被推至泄洪沟边缘",
+    "父亲留在车内稳住车辆，妻儿下车避险时被山洪卷走",
+    "救援人员于2026年7月5日傍晚在下游水库寻获母子二人遗体确认遇难"
+  ],
+  "exclude_if": [
+    "非新疆昌吉州呼图壁县S101省道发生的山洪事故",
+    "非2026年6月28日发生的自驾山洪救援事件",
+    "其他无人员失联伤亡的自驾避险事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "一家三口新疆“网红公路”自驾游突遇山洪，母子被冲走失联，孩子刚过11岁生日",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpCAOYKGU1HmwqYSB7ZaUg_Fg2bjbdr_-38uA3e4LkYENOGC5FdVv5SwD9Iwzo_QidLL5XmI31sbwydNKDZmVJsudT5VIyRWwb6CWb8ATanXffd03SxpMyUGt9fa1FqNSf5d3mpT6m",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-07-05"
+    },
+    {
+      "title": "一家三口新疆“网红公路”自驾游突遇山洪，母子被冲走失联6天，孩子刚过11岁生日",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO3CfsBUhnu7wQCsYhpjjOnVgxISZgQ51AFMNE88bh3-Z3-g_bdSgisQ67-kl8w3kvOmHAO-_lyVNHm-_jNNEjlTEpiHHan07Rfnr0fN_bY6L6HzUhe4Y0QwXyQ_925XoqMUeNzg==",
+      "publisher": "极目新闻",
+      "published_at": "2026-07-05"
+    },
+    {
+      "title": "一家三口自驾游遇险，母子遭泥石流卷走，失联8天，已找到，不幸遇难",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfps_zKoUzQ5KzMFgXefcF70F6uGKFNQQ0coPK23SchZ0-QMJRX2KqrD9ry1pLu5GlpSLYXivjIYgmEBNZO4DQHQQGeKMrySxFp_mpCe4iTdeFO0VmNl0ss73YWY7wJwDJ",
+      "publisher": "新民晚报",
+      "published_at": "2026-07-05"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将事件发生年份误记为2024年，实际报道发生时间为2026年6月28日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:30"
+}

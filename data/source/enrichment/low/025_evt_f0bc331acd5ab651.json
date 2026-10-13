@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_f0bc331acd5ab651",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "民进党正式征召沈伯洋参选2026年台北市长",
+  "factual_description": "2026年5月13日，民主进步党召开选举对策委员会及中央执行委员会会议，正式决定征召该党不分区“立委”沈伯洋代表民进党参选2026年底举行的台北市长选举，挑战争取连任的中国国民党籍现任台北市长蒋万安。当天下午，兼任民进党主席的赖清德主持提名记者会，为沈伯洋披上竞选背带并授旗，称其具备法律、犯罪学与跨领域公共治理能力。沈伯洋创办有“黑熊学院”，曾于2024年10月被大陆方面依法列入“台独”顽固分子清单并实施制裁。该征召决定公布后，国民党民代叶元之及岛内多位政论人士公开批评沈伯洋缺乏地方治理经验、专搞认知作战与对立，引发台湾政界和舆论广泛争议与攻防。",
+  "event_time": {
+    "start": "2026-05-13",
+    "end": "2026-05-13",
+    "precision": "day",
+    "evidence": "2026年5月13日上午民进党选举对策委员会开会做成决议，建请中执会征召沈伯洋参选台北市长；当天下午民进党召开中执会正式通过提名并举行记者会。"
+  },
+  "locations": [
+    "中国/台湾/台北市"
+  ],
+  "aliases": [
+    "民进党征召沈伯洋选台北市长",
+    "民进党提名沈伯洋出战台北市长",
+    "沈伯洋参选台北市长",
+    "2026台北市长选举民进党征召沈伯洋",
+    "沈伯洋挑战蒋万安"
+  ],
+  "retrieval_queries": [
+    "民进党 征召 沈伯洋",
+    "沈伯洋 台北市长",
+    "沈伯洋 蒋万安 台北市长选举",
+    "赖清德 征召 沈伯洋 台北市长",
+    "民进党 选对会 沈伯洋",
+    "叶元之 沈伯洋 台北市长"
+  ],
+  "must_match_facts": [
+    "2026年5月13日民进党选举对策委员会与中执会拍板征召沈伯洋",
+    "沈伯洋代表民进党参选2026年台北市长",
+    "挑战现任台北市长蒋万安",
+    "党主席赖清德主持提名记者会为沈伯洋披挂竞选背带"
+  ],
+  "exclude_if": [
+    "2022年民进党征召陈时中参选台北市长",
+    "2023年或2024年沈伯洋列入民进党不分区立委名单",
+    "2024年10月国台办将沈伯洋列入台独顽固分子清单制裁事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "台湾民进党征召立委沈伯洋参选台北市长",
+      "url": "https://www.8world.com/greater-china/taiwan-dpp-pao-yang-shen-taipei-mayor-election-2787886",
+      "publisher": "8world（新加坡新传媒）",
+      "published_at": "2026-05-13"
+    },
+    {
+      "title": "民进党拍板下午征召沈伯洋选台北市长",
+      "url": "https://www.crntt.com/crn-webapp/touch/detail.jsp?coluid=1&kindid=1&docid=107147775",
+      "publisher": "中国评论通讯社",
+      "published_at": "2026-05-13"
+    },
+    {
+      "title": "正式徵召沈伯洋戰台北…賴總統大讚：三度空間治理能力北市長不二人選",
+      "url": "https://udn.com/news/story/124536/9501509",
+      "publisher": "联合新闻网",
+      "published_at": "2026-05-13"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:35"
+}

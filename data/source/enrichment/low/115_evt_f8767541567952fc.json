@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_f8767541567952fc",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "三部门调拨2万件中央救灾物资支持河北河南做好受灾群众安置救助工作",
+  "factual_description": "2026年8月12日，针对今年第13号台风“白海豚”残余环流带来的强降雨影响，国家防灾减灾救灾委员会办公室、应急管理部根据河北、河南等地受灾群众安置救助需要，会同国家粮食和物资储备局调拨折叠床、褥子、毛毯、家庭应急包等2万件中央救灾物资。按照应急管理部调令，国家粮食和物资储备局迅速组织调运，全力支持灾区妥善做好受灾群众避险转移安置、救灾救助和基本生活保障等工作。",
+  "event_time": {
+    "start": "2026-08-12",
+    "end": "2026-08-12",
+    "precision": "day",
+    "evidence": "央视新闻、国家粮食和物资储备局官方通报均证实，该批中央救灾物资于2026年8月12日正式下达调令和调拨。"
+  },
+  "locations": [
+    "中国/河北省",
+    "中国/河南省"
+  ],
+  "aliases": [
+    "三部门调拨2万件中央救灾物资支持河北河南",
+    "三部门调拨2万件中央救灾物资支持河北河南做好安置救助工作",
+    "国家粮食和物资储备局调运中央救灾物资支持河北河南做好受灾群众救灾救助工作",
+    "台风白海豚强降雨三部门调拨中央救灾物资"
+  ],
+  "retrieval_queries": [
+    "三部门调拨2万件中央救灾物资 河北 河南",
+    "白海豚 强降雨 中央救灾物资 河北 河南",
+    "应急管理部 国家粮食和物资储备局 2万件 河北 河南",
+    "国家粮食和物资储备局调运中央救灾物资支持河北、河南"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年8月12日",
+    "调拨主体为国家防灾减灾救灾委员会办公室、应急管理部、国家粮食和物资储备局三部门",
+    "调拨中央救灾物资总量为2万件，包含折叠床、褥子、毛毯、家庭应急包等",
+    "受援支持地区为河北省与河南省",
+    "灾害诱因为台风“白海豚”残余环流造成的强降雨"
+  ],
+  "exclude_if": [
+    "2026年8月14日针对台风白海豚残涡对河南单独增调3万件中央救灾物资的后续事件",
+    "向福建、西藏、广西等其他省份调拨救灾物资的事件",
+    "2023年或2024年历史汛期对河北、河南调拨物资事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "三部门调拨2万件中央救灾物资支持河北、河南做好安置救助工作",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPCKHZHETAY0KkSJemW9-QY97bEEXuqshWA8phONFiNvnLecR-v3B3rNWebGNsQLgQ-o5D5hnSC1RV_Ag05h67ZDEmXJFdiVpwi4ZWj6mDBWnf3VSi0NLRam1tZZNezQ4eJfM10g==",
+      "publisher": "证券时报（转自央视新闻）",
+      "published_at": "2026-08-12 22:52:00"
+    },
+    {
+      "title": "国家粮食和物资储备局调运中央救灾物资支持河北、河南做好受灾群众救灾救助工作",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqzEv_XssDtfojGbWqDfDalbzKD3mcgOh6vJ631k5t3lB3q-dUnovYQXFB3OK2qTUrpjD4jsDBYA7L7j2j-7cdwixhtB8ZM_mEKEAgGA26Rp0QZlYeOjaLy0__atG7IKvBBu9nzvH_DMdqqIKj7_DD9VyaU5k2BNagHa8P8Dg=",
+      "publisher": "国家粮食和物资储备局",
+      "published_at": "2026-08-13"
+    },
+    {
+      "title": "三部门调拨2万件中央救灾物资，支持河北、河南做好安置救助工作",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoTz7-lG_iPBW3l0X6yCokAXjvLs5GVEkvPQxehmwSFksxwRMA-YLx5RoljnqRsH_Y0GtlEUfNlZPIinbn50nXWyY-Cy1uwN-poyywGP5LWcBwCwt1Op7IqTjkc-LaDjZnDwmz9iJmvahYcHn6ousGJHh0hVs=",
+      "publisher": "北京日报/央视新闻客户端",
+      "published_at": "2026-08-12 22:48:00"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将事件年份记录为2023年，经核验实际发生时间为2026年8月12日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:00"
+}

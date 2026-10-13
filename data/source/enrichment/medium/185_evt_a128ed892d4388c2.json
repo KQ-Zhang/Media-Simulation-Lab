@@ -1,0 +1,84 @@
+{
+  "event_id": "evt_a128ed892d4388c2",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年2月28日美以联合空袭伊朗（德黑兰遭袭）",
+  "factual_description": "2026年2月28日上午，美国和以色列对伊朗境内目标联合发起代号分别为“史诗之怒”和“咆哮狮子”的大规模军事打击，伊朗首都德黑兰及多座城市遭受空袭。空袭打击了德黑兰市中心多个政府部委机构、伊朗最高领袖办公区域及相关军事设施，现场传出密集爆炸声并伴随滚滚浓烟。受袭击影响，德黑兰东部和西部部分区域手机通信一度中断，互联网连接大幅受限；伊朗与周边部分国家随即关闭领空，民航客机停运。中国驻伊朗大使馆当日紧急发布安全提醒，敦促在伊中国公民保持镇定、提高警惕并立即就地紧急避险。在德黑兰的中国留学生（如德黑兰大学学生李哲）及华人商户等通过主流媒体亲历讲述，称距离爆炸现场较近、航班停运致撤离计划受阻，并已备好物资或进入地下室等设施避难。原事件描述标注的“2023年2月28日”系年份错误，实际发生时间为2026年2月28日。",
+  "event_time": {
+    "start": "2026-02-28",
+    "end": "2026-02-28",
+    "precision": "day",
+    "evidence": "新华社、环球网及极目新闻等主流媒体报道均证实，美以于当地时间2026年2月28日上午联合对德黑兰等多地发起军事打击。"
+  },
+  "locations": [
+    "伊朗/德黑兰",
+    "伊朗/德黑兰/德黑兰大学附近",
+    "伊朗/德黑兰/巴斯德街"
+  ],
+  "aliases": [
+    "2026年2月28日美以联合空袭伊朗",
+    "2026年美以联合军事打击伊朗",
+    "美以空袭德黑兰事件",
+    "史诗之怒行动",
+    "咆哮狮子行动",
+    "2023年2月28日美以联合空袭伊朗首都德黑兰引发爆炸"
+  ],
+  "retrieval_queries": [
+    "德黑兰 密集爆炸声 撤离 航班",
+    "在德黑兰中国留学生亲历轰炸 李哲",
+    "美以空袭伊朗 德黑兰 2026",
+    "美国 以色列 空袭 德黑兰 通信中断",
+    "在伊华人 德黑兰 地下车库 避难",
+    "德黑兰响起密集爆炸声 华人客栈",
+    "史诗之怒 咆哮狮子 德黑兰",
+    "中国驻伊朗使馆 德黑兰 紧急避险 2026"
+  ],
+  "must_match_facts": [
+    "事件实际发生时间为2026年2月28日，非2023年",
+    "美国和以色列联合对伊朗发动军事行动，代号分别为“史诗之怒”与“咆哮狮子”",
+    "伊朗首都德黑兰市中心政府大楼、高层办公驻地周边等多处目标遭袭并引发剧烈爆炸与浓烟",
+    "空袭造成德黑兰部分区域通信与互联网中断，伊朗领空关闭致民航班机停运",
+    "中国驻伊朗大使馆发布就地避险通知，德黑兰大学留学生李哲等多名在伊中国公民向媒体反映亲历轰炸与避险情况"
+  ],
+  "exclude_if": [
+    "2024年4月以色列空袭伊朗驻叙利亚大使馆领事建筑事件",
+    "2024年10月以色列对伊朗军事设施实施的报复性打击",
+    "2020年1月美军空袭巴格达刺杀苏莱曼尼事件",
+    "德黑兰市内发生的常规天然气爆炸、火灾或地震等民事意外事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "在德黑兰中国留学生亲历轰炸：距现场仅5分钟车程，通讯一度中断",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6-LiLI8NAHaZTZEoltIHCaMihox-f7JyKoKhPhk8hMduFv78FczJD7xpCQUJhrhNnq6Cq6GzXdIb1CJe-62MKiLpY3kpJnVIWBC_sRpwdI0UwAUJeLU2IQykSDzn4POrXSPxiEhAk-A==",
+      "publisher": "环球时报-环球网",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "德黑兰响起密集爆炸声，当地华人客栈老板：在伊华人已不多，自己的朋友目前都安全",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKNoUC2UHkV7wNT631BpRqvX1p6P3Xy6yXJlUhGDxGW0sQ76_tTamX3Vw4f1AQ_LOgnROvZkOpSpL7dQsvkjMSTnkD7aA2lYPijKrtiAERXCmW0x_pirOP2YdTzaBBWb338ragNg==",
+      "publisher": "极目新闻",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "美以对伊发动联合军事行动画面显示德黑兰市中心浓烟滚滚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfYRVbVHoAGz14BW4D_6VIUEsl-g7ocQ8a-sha8Ign_nU0wyuvfoy4Oi5AD6f44Pa8lfhNTyFE6lU07G9ispFCMIkn8_Vh0EmDpXGZFH1gbBnRGvc67fnQrh0VPtC68lOI5ZCKCBnkH_J8Q8ANacSDLm6ixfRGZqLBOw==",
+      "publisher": "新华网",
+      "published_at": "2026-02-28"
+    }
+  ],
+  "uncertainties": [
+    "原事件名称与描述中将发生年份错误标注为2023年，经核验证实发生于2026年2月28日",
+    "空袭初期德黑兰各个被击中目标的确切伤亡数字及损毁全貌在当天战报中存在不同统计口径"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:03"
+}

@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_9a8168d188542909",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "男子频繁网购耳机全退遭拒后起诉被法院驳回案",
+  "factual_description": "苏州市虎丘区人民法院审结并通报了一起因网购蓝牙耳机滥用“七天无理由退货”引发的买卖合同纠纷案。案件当事人（法院通报中化名为刘某，部分媒体转述为王某）在电商平台短时间内连续下单购买多副蓝牙耳机（法院官方通报为先后两批各4副共8副，主流媒体转述为4副及5副共9副），并在收货拆封试用后频繁全部申请“七天无理由退货”。电商平台运营公司在为前期订单办理退款后，对原告后续订单的退货退款申请予以拒绝。原告遂诉至苏州市虎丘区人民法院，要求平台运营公司退还其中2副耳机货款共计625元并赔偿损失1000元。法院经审理认为，原告短时间内高频大批量购买试用后全退的行为，超出普通消费者正常选购试用范畴，不合理增加了商家运营成本与商品价值贬损风险，违背公平和诚实信用原则，构成对“七天无理由退货”规则的恶意滥用，平台拒绝退货具有正当性，最终依法判决驳回原告的全部诉讼请求。一审判决后双方均未上诉，判决已生效。",
+  "event_time": {
+    "start": "2024-05-09",
+    "end": "2024-05-18",
+    "precision": "day",
+    "evidence": "苏州市虎丘区人民法院速裁庭法官于2024年5月9日前后通过中国法院网等官方渠道发布该案案例通报；荔枝新闻、广州日报等媒体于5月17日至18日集中报道该判决"
+  },
+  "locations": [
+    "中国/江苏省/苏州市/虎丘区"
+  ],
+  "aliases": [
+    "男子连买9副耳机全部申请退货案",
+    "买家滥用7天无理由10天买8副耳机案",
+    "男子买9副耳机退货被驳回",
+    "数次退了买买了退商家拒退案"
+  ],
+  "retrieval_queries": [
+    "男子连买9副耳机全部申请退货",
+    "10天买8副耳机 退货 虎丘法院",
+    "男子连买9副耳机起诉退货被驳回",
+    "以七天无理由为由 数次退了买 虎丘法院",
+    "耳机 七天无理由 恶意滥用权益 法院驳回",
+    "王某 蓝牙耳机 申请退货遭拒 法院",
+    "刘某 蓝牙耳机 虎丘法院 赵建荣"
+  ],
+  "must_match_facts": [
+    "当事人网购多副（8副或9副）蓝牙耳机试用后全部申请退款",
+    "电商平台/商家拒绝后续退货退款申请",
+    "买家向法院起诉要求退货退款及赔偿",
+    "审理法院为苏州市虎丘区人民法院",
+    "法院认定其行为构成对七天无理由退货规则的恶意滥用并判决驳回诉讼请求"
+  ],
+  "exclude_if": [
+    "男子1年内买12部手机全部申请退货案",
+    "退货充电器调包为沙子案",
+    "利用仅退款规则诈骗被公安机关行政拘留或追究刑责的刑事案件",
+    "女装或汉服演出服穿后集体退货事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "以七天无理由为由，数次退了买、买了退，商家可以说不吗？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQZrpWWNOOynYW4mFIthrMAWeAY1LRVqkWhLzRD_ry2lJKr_iZCQBFWLvCItTi6LL9xm_nu3dhT40hv8UXCZq2NQpoVu-F3fLJjCXuMUYyXo_SeoFWgmHk_8FY4IOW9cg=",
+      "publisher": "中国法院网 / 苏州虎丘法院",
+      "published_at": "2024-05-09"
+    },
+    {
+      "title": "男子连买9副耳机全部申请退货，遭拒后把商家告上法院",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAVPQi9PWYAmg2uVJxQ5W-Jou8nfXv81eQzZz3LHWbGpC1mFU37-33p5-IDL5rcewV9yVa9AMz73MW33QbUFhFfhU0-osKaliZa_MtSAkN0RpC-OBMpvVAwfxdEoTF58sTfyCu6nsa1E609rxlwRzzTyC1",
+      "publisher": "广州日报 / 新浪财经",
+      "published_at": "2024-05-18"
+    }
+  ],
+  "uncertainties": [
+    "案件中购买耳机的总数在法院官方案例通报中记录为8副（两批各4副），但在后续荔枝新闻、广州日报等媒体报道中表述为9副（第一批4副、第二批5副）",
+    "当事人化名在法院官方通报中为刘某，部分媒体转述报道中化名为王某"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:20"
+}

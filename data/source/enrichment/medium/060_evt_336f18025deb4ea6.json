@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_336f18025deb4ea6",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "以军向约旦河西岸抗议封锁上学路的巴勒斯坦师生投掷催泪瓦斯事件",
+  "factual_description": "2026年4月13日，在巴勒斯坦约旦河西岸希伯伦南部的马萨费尔亚塔（Masafer Yatta）地区乌姆-哈利勒村（Umm al-Khair），当地学校在停课40余天后准备复课。然而，邻近的犹太人定居者在通往学校的必经道路上架设带刺铁丝网路障，阻断了数十名巴勒斯坦学童的上学道路。数十名学生、教师与村民随后在铁丝网路障前举行露天课堂与和平静坐抗议，高呼口号要求以军和定居者“打开道路”。抗议期间，赶到现场的以色列国防军士兵向聚集人群发射了催泪瓦斯和震撼弹，造成多名学童受惊逃跑并吸入催泪气体。以色列军方事后对媒体证实曾派遣部队驱散“异常集会”，但声称行动并非针对儿童。4月23日，巴勒斯坦总理办公室等账号在社交媒体公开了现场抗议与以军投掷催泪弹的视频，央视新闻、法新社、卫报等媒体随后对此进行了报道。",
+  "event_time": {
+    "start": "2026-04-13",
+    "end": "2026-04-23",
+    "precision": "day",
+    "evidence": "法新社、美联社与巴勒斯坦官方通讯社均报道事件发生于2026年4月13日学生复课当天；巴勒斯坦总理办公室于4月23日发布相关现场视频。"
+  },
+  "locations": [
+    "巴勒斯坦/约旦河西岸/希伯伦/马萨费尔亚塔/乌姆-哈利勒村"
+  ],
+  "aliases": [
+    "以军向巴勒斯坦孩子投掷催泪瓦斯封锁上学路",
+    "以军封锁巴勒斯坦孩子上学路",
+    "巴勒斯坦孩子抗议以色列封锁上学路遭催泪瓦斯驱离",
+    "乌姆哈利勒村学生抗议封锁上学路",
+    "以军发射催泪弹阻止巴勒斯坦学生重返课堂"
+  ],
+  "retrieval_queries": [
+    "巴勒斯坦孩子 催泪瓦斯 上学路",
+    "以军 封锁巴勒斯坦孩子上学路",
+    "乌姆-哈利勒 催泪瓦斯",
+    "马萨费尔亚塔 上学路 催泪弹",
+    "巴勒斯坦总理办公室 打开道路 催泪瓦斯",
+    "Umm al-Khair tear gas school",
+    "Masafer Yatta schoolchildren tear gas"
+  ],
+  "must_match_facts": [
+    "地点位于约旦河西岸马萨费尔亚塔地区的乌姆-哈利勒村（Umm al-Khair）",
+    "犹太定居者架设带刺铁丝网路障阻断巴勒斯坦学生上学通道",
+    "巴勒斯坦师生在铁丝网前静坐抗议并要求打开道路",
+    "以色列军队向抗议的学童与村民发射/投掷催泪瓦斯",
+    "巴勒斯坦总理办公室于4月下旬发布现场抗议视频并引发多国媒体报道"
+  ],
+  "exclude_if": [
+    "加沙地带学校遭受空袭事件",
+    "2023年及更早之前的约旦河西岸定居点冲突",
+    "未涉及封锁上学路与发射催泪瓦斯的普通检查站摩擦",
+    "针对成年武装人员或武装冲突的军事抓捕行动"
+  ],
+  "source_evidence": [
+    {
+      "title": "Israeli forces fire teargas at schoolchildren holding West Bank sit-in",
+      "url": "https://www.theguardian.com/world/2026/apr/13/israeli-forces-fire-teargas-schoolchildren-west-bank-sit-in-palestine",
+      "publisher": "The Guardian / AFP",
+      "published_at": "2026-04-13"
+    },
+    {
+      "title": "Suffocation cases among students after Israeli forces fired tear gas canisters at them near Hebron",
+      "url": "https://english.wafa.ps/Pages/Details/143521",
+      "publisher": "WAFA (Palestine News & Information Agency)",
+      "published_at": "2026-04-13"
+    },
+    {
+      "title": "OPT: West Bank children hold tenth day of peaceful protest after school blocked by Israeli settlers",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-west-bank-children-hold-tenth-day-peaceful-protest-after-school-blocked-israeli-settlers",
+      "publisher": "Save the Children / ReliefWeb",
+      "published_at": "2026-04-22"
+    },
+    {
+      "title": "以军发射催泪瓦斯，阻止巴勒斯坦儿童上学",
+      "url": "https://www.guancha.cn/internation/2026_04_14_731422.shtml",
+      "publisher": "观察者网",
+      "published_at": "2026-04-14"
+    }
+  ],
+  "uncertainties": [
+    "部分中文自媒体及早期转述误将年份写作2024年，但法新社、美联社、WAFA等独立国际权威来源明确记录事件发生于2026年4月中旬。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:36"
+}

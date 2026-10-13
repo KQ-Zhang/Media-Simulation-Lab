@@ -1,2 +1,4 @@
 dist/
 node_modules
+database/*.sqlite-wal
+database/*.sqlite-shm

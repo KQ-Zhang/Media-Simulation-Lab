@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_b5ce846b0fff66ac",
+  "verification_status": "partially_verified",
+  "confidence": 0.95,
+  "canonical_event_name": "山姆会员商店济南与青岛首店同步开业",
+  "factual_description": "2026年5月15日，沃尔玛旗下山姆会员商店在山东省济南市与青岛市的两家首店同步正式开业。这是山姆进入中国市场30年来首次实现“双店同开”，其在华门店总数增至67家。其中，济南店位于济南高新区工业南路与凤凰路交会处，总建筑面积约8.1万平方米；青岛店位于青岛市市北区欢乐滨海城片区（昌汇路1号），地上规划两层购物空间。开业首日，两地门店均迎来巨大客流高峰，大批市民清晨提前排队入场，购物车与热门货架被迅速装满，两店周边停车场相继饱和，现场均采取了分流与限流管控措施。现有描述中的开业事件属实，但将发生年份误标为2024年（2024年5月为项目签约期，实际开业于2026年5月15日）。",
+  "event_time": {
+    "start": "2026-05-15",
+    "end": "2026-05-15",
+    "precision": "day",
+    "evidence": "沃尔玛中国官方通报及青岛日报、大众日报等主流媒体均确认，济南与青岛山姆会员商店于2026年5月15日同步开门迎客。"
+  },
+  "locations": [
+    "中国/山东省/济南市/历下区/济南高新区/工业南路与凤凰路交会处/济南山姆会员商店",
+    "中国/山东省/青岛市/市北区/欢乐滨海城/昌汇路1号/青岛山姆会员商店"
+  ],
+  "aliases": [
+    "济南青岛山姆会员店同步开业",
+    "山姆30年来首次双店同开",
+    "青岛山姆会员店开业",
+    "济南山姆会员店开业",
+    "山姆山东首批门店开门迎客"
+  ],
+  "retrieval_queries": [
+    "山姆会员商店 济南 青岛 开业",
+    "山姆 双店同开 济南 青岛",
+    "青岛山姆 欢乐滨海城 开业",
+    "济南山姆 工业南路 凤凰路 开业",
+    "青岛山姆会员商店 5月15日",
+    "济南山姆会员商店 5月15日",
+    "山姆 67家 济南 青岛",
+    "山姆开业 限流 排队 济南 青岛"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年5月15日",
+    "山姆会员商店在济南市和青岛市两家门店同日同步开业（首次双店同开）",
+    "青岛店坐落于市北区欢乐滨海城片区，济南店坐落于济南高新区工业南路与凤凰路交会处",
+    "开业首日两地门店均出现大批顾客排队、推车爆满及限流分流管控"
+  ],
+  "exclude_if": [
+    "2024年山姆项目签约或立项动工阶段",
+    "仅报道山姆前置云仓开仓及极速达上线测试",
+    "其他省市（如深圳、上海、佛山、无锡等）山姆会员商店开业",
+    "开市客（Costco）等其他仓储超市在山东开业"
+  ],
+  "source_evidence": [
+    {
+      "title": "首次“双店同开”，山姆为齐鲁消费注入付费会员制独特魅力",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3jPjdHyMwI0OoBb_ZELKZ_AGfjqM-RezuJE6g6oIOzO_MlN38YDrrANPzDcqCa-ugacNu7hmnko11vlmaMaMCAnybswv7uBRr_mXr5AkrBnYG54MUqLuXHYt8Ojxoqg==",
+      "publisher": "沃尔玛中国",
+      "published_at": "2026-05-15"
+    },
+    {
+      "title": "“人均买一车”！青岛山姆开业人气爆棚，改写城市商业版图，并催生系列“连锁反应”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3cm-9fG41IZRyvD8MbWAQDZSaTpRqPWpo54HOH81RV390Znu5O6Avyj-gVTBqLEZoedMmzsXJwBxjsYqHZvh5FtrD3-PtX5j6DP9254wK6YqRnF_B1PKx_BVDBibIHQ6dX596hGPWCLRlXoN0zA==",
+      "publisher": "大众日报",
+      "published_at": "2026-05-15"
+    },
+    {
+      "title": "济南山姆会员商店开业首日：排队三小时人气丝毫未减",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Asex6_Ess4x4Caksy1ugSWP10mY181xkjCLhCCP_gnb_ZjoWFzHIEgnoLxAqvS273SY8xf-2-6yZ0dDnBgP1zDXGBO1pIcY-sKTLIHIAjdt-raJEZJ0BBPEbInn5wOej",
+      "publisher": "新黄河",
+      "published_at": "2026-05-15"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将开业年份错误写为2024年5月15日，实际为2024年5月签约、2026年5月15日正式双店同开。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:55"
+}

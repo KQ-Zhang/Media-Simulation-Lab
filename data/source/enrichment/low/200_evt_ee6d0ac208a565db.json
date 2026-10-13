@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_ee6d0ac208a565db",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "辽宁大连长山群岛候鸟栖息地纳入世界自然遗产（中国黄渤海候鸟栖息地再次扩展）",
+  "factual_description": "北京时间2026年7月27日，在韩国釜山召开的联合国教科文组织第48届世界遗产大会（世界遗产委员会会议）上，正式审议通过了中国黄（渤）海候鸟栖息地世界自然遗产边界调整项目，辽宁大连长山群岛候鸟栖息地成功纳入世界自然遗产名录。中国黄（渤）海候鸟栖息地第一期于2019年列入《世界遗产名录》（江苏盐城片区），第二期于2024年扩展列入（包含上海崇明东滩、山东东营黄河口、河北沧州南大港、辽宁大连蛇岛-老铁山、辽宁丹东鸭绿江口5处片区）。此次长山群岛项目通过边界微调方式加入，扩展区域总面积达4962.62公顷，涵盖广鹿岛矾坨子、格仙岛头坨子、大耗子岛、蚆蛸岛南部岩礁带四大核心片区，承担黄嘴白鹭繁殖、黑脸琵鹭与猛禽停歇、水鸟越冬及西太平洋斑海豹繁育等生态功能，进一步提升了黄（渤）海候鸟栖息地系列遗产的完整性与连通性。",
+  "event_time": {
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "precision": "day",
+    "evidence": "国家林草局、新华社及人民日报报道，北京时间/当地时间2026年7月27日，在韩国釜山召开的第48届世界遗产大会审议通过该边界调整项目。"
+  },
+  "locations": [
+    "韩国/釜山",
+    "中国/辽宁省/大连市/长海县/长山群岛"
+  ],
+  "aliases": [
+    "辽宁大连长山群岛候鸟栖息地纳入世界自然遗产",
+    "长山群岛候鸟栖息地申遗成功",
+    "中国黄（渤）海候鸟栖息地世界自然遗产扩容",
+    "中国黄（渤）海候鸟栖息地边界调整项目通过审议",
+    "长山群岛世界自然遗产"
+  ],
+  "retrieval_queries": [
+    "长山群岛 世界自然遗产",
+    "长山群岛 候鸟栖息地 申遗",
+    "第48届世界遗产大会 长山群岛",
+    "黄渤海候鸟栖息地 长山群岛 扩展",
+    "黄渤海候鸟栖息地 边界调整 釜山",
+    "大连长山群岛 联合国教科文组织"
+  ],
+  "must_match_facts": [
+    "时间为2026年7月27日（第48届世界遗产大会期间）",
+    "会议举办地点为韩国釜山",
+    "审议事项为中国黄（渤）海候鸟栖息地世界自然遗产边界调整（微调扩展）项目",
+    "新纳入世界自然遗产的地点为辽宁大连长山群岛候鸟栖息地（包含矾坨子、头坨子、大耗子岛、蚆蛸岛南部岩礁带等）"
+  ],
+  "exclude_if": [
+    "仅报道2024年7月第46届世界遗产大会（印度新德里）通过的黄渤海候鸟栖息地第二期（如崇明东滩、蛇岛老铁山等入选）",
+    "仅报道2019年第43届世界遗产大会（阿塞拜疆巴库）通过的黄渤海候鸟栖息地第一期（盐城）",
+    "仅报道2026年第48届世界遗产大会审议列入的文化遗产“景德镇手工瓷业遗存”且未提及长山群岛"
+  ],
+  "source_evidence": [
+    {
+      "title": "辽宁长山群岛候鸟栖息地成功纳入世界自然遗产",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEINFI-B98RTtcM0XZvyhCKzCqT5mSiCSryQhagndbwHS8AOtBZpTo30fx0p0SyxrZSX2xXPNyuzceADqiWrDtagg7YnS5bw5mAPbDdcyyzjEMMGE8piJb3rrY8DLP9WI7BH4wAjz7mLt5yKp_31ToZrYmqmio8JVSZjkhSgglwnma4",
+      "publisher": "新华网",
+      "published_at": "2026-07-27"
+    },
+    {
+      "title": "辽宁长山群岛候鸟栖息地纳入世界自然遗产",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1eeSE_zFRPNgbocWltPnNiLRXXUxLWfrDjmI7UZEAgnRPJeuxQM1A9m44zYeiP7cgq6G12laIBLbYkE9dl6qZNHlhuegHFwYm-9j3NXnZn74rt8Gja-cRNJXYcFZpwyBQE_Y4tRrpjXrkFwwDIC70VsAvHpDKlUjmIeklsm5p",
+      "publisher": "人民日报",
+      "published_at": "2026-07-28"
+    },
+    {
+      "title": "“中国黄（渤）海候鸟栖息地”世界遗产地再次成功扩展",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOI9Ek_lXcLpPBpdJQW_PQArjNGeWs0FNTHpNIqDpHyX_ogqLY7UlpA3W1v2uuX3X7WDqly71CXXoaHukpXAGiy7E5V2eiamguPl_aSM4l9lmeBFqDMhiZrFq_7WJtzJa2RMOQFA9lInBh4LkuhWHLrMGGXrI2-A==",
+      "publisher": "中华人民共和国教育部政府门户网站",
+      "published_at": "2026-07-28"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:09"
+}

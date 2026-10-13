@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_4986106bf939a2f2",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年高考前突击吃鱼油“补脑”争议与专家辟谣",
+  "factual_description": "2026年6月初全国高考临近前夕，鱼油等营养补品在各大电商平台热销，成为众多高三考生和家长的备考首选，引发“高考前突击吃鱼油是智商税吗”的舆论讨论。调查显示，部分电商平台鱼油产品单瓶售价高达数百元、销量突破数十万甚至百万单，并伴随改善焦虑、消除疲劳、提升思维等夸大功效的宣传。对此，21世纪经济报道等多家媒体进行调查并采访医学专家。中山大学孙逸仙纪念医院临床营养科主管医师王澄、浙江大学医学院附属儿童医院临床营养科主任医师马鸣等专家明确辟谣指出，无科学研究表明吃鱼油能让学生短期内变聪明或在考试中超常发挥；鱼油需长期规律补充才可能对认知产生微弱益处，考前短期突击摄入完全无效，过量服用还可能诱发胃肠道不适或出血风险。专家建议考生备考应以均衡膳食为主，警惕商家的虚假宣传与概念炒作。",
+  "event_time": {
+    "start": "2026-06-03",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "2026年6月3日至4日，21世纪经济报道等媒体发布《鱼油成备考补品首选，是补脑神器还是智商税？》报道并引发全网热议，相关话题登上微博热搜。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "高考前突击吃鱼油是智商税吗",
+    "鱼油成备考补品首选，是补脑神器还是智商税？",
+    "高考前吃鱼油能补脑提分吗",
+    "高考前吃鱼油辟谣"
+  ],
+  "retrieval_queries": [
+    "高考前突击吃鱼油是智商税吗",
+    "鱼油成备考补品首选，是补脑神器还是智商税",
+    "高考前突击吃鱼油 专家辟谣",
+    "王澄 鱼油 辟谣 高考",
+    "马鸣 鱼油 短期突击无效",
+    "高考前吃鱼油能补脑提分吗",
+    "鱼油 备考 补脑 智商税"
+  ],
+  "must_match_facts": [
+    "2026年6月高考前夕鱼油成为备考热销补品引发智商税争议",
+    "媒体调查揭露部分鱼油产品存在夸大健脑功效及行业虚假宣传乱象",
+    "中山大学孙逸仙纪念医院王澄医生明确指出短期突击吃鱼油补脑是谣言",
+    "临床营养专家指出鱼油短期突击无效且过量摄入存在健康风险"
+  ],
+  "exclude_if": [
+    "2025年6月央视曝光白云好心情生物企业店植物油冒充假鱼油事件本身的行政查处进展",
+    "2026年1月央视曝光Okiss等鱼油品牌成分造假的单项打假报道",
+    "高考考场违规舞弊及考风考纪通报",
+    "非高考备考背景下的普通鱼油产品商业评测或带货推广"
+  ],
+  "source_evidence": [
+    {
+      "title": "高考前突击吃鱼油是“智商税”吗？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtKibw1BncqwkbHuii0r1NjKEicDNTVBsRyHbWFUGAY8q6tLhb-qo0oH1r7hwRdIDJtOZkvw6tFqFCCiGcFg8-US1IHMHHWW928Tr-5O2Eri80s_l5sh0rekWeybo_LaLU-d7wqNKuE-Dh9a-O1de0BmBLy48hJUQiTCcW5N0R",
+      "publisher": "新浪财经（转自21世纪经济报道）",
+      "published_at": "2026-06-04"
+    },
+    {
+      "title": "鱼油成备考补品首选，是补脑神器还是智商税？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET1NeXGkgQRZcDlLMzEzQ-p0iONulAPVr5nIOp3l4HBwhr5Giya1ApuOODaJ1xe_kkQA3U1uiObBEZqTS6kHtnbqGTHnGucfc0quPUSgqOpf7h1SUP2XnfuPO4ObbAVo7Ni9U3KAqMZw==",
+      "publisher": "东方财富（转自21世纪经济报道）",
+      "published_at": "2026-06-04"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:18"
+}

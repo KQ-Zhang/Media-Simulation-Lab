@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_ebc0dbde768a9fd3",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "陕西渭南姐弟练习高桩舞狮走红",
+  "factual_description": "2026年1月下旬，一段陕西省渭南市姐弟俩在梅花桩上练习舞狮动作的视频在网络走红。视频中，19岁的姐姐带着10岁的弟弟在梅花桩（高桩）上进行舞狮技巧训练，两人一前一后腾跃翻飞、身姿灵动、配合默契，动作衔接一气呵成，尤其是最后的跳桩与翻跃动作显得极为熟练轻盈，被广大网友赞叹为“行云流水”、“最后一步太丝滑了”以及“台下十年功在此刻具象化”。自2026年1月30日起，大象新闻、人民日报、海外网等多家主流媒体相继发布与转发该视频，点赞姐弟俩千锤百炼的扎实功底与对中华优秀传统舞狮技艺的传承。",
+  "event_time": {
+    "start": "2026-01-30",
+    "end": "2026-02-02",
+    "precision": "day",
+    "evidence": "相关训练视频于2026年1月30日在大象新闻等平台首发传播，人民日报及海外网等媒体于2026年2月1日至2日集中报道转发。"
+  },
+  "locations": [
+    "中国/陕西省/渭南市"
+  ],
+  "aliases": [
+    "姐弟俩练高桩舞狮",
+    "19岁姐姐带10岁弟弟梅花桩上练舞狮",
+    "看姐弟俩练舞狮全程心跳加速",
+    "陕西舞狮姐弟默契练舞狮",
+    "姐弟俩梅花桩上练舞狮"
+  ],
+  "retrieval_queries": [
+    "陕西渭南 姐弟 舞狮",
+    "19岁姐姐 10岁弟弟 梅花桩 舞狮",
+    "姐弟俩练高桩舞狮 最后一步太丝滑了",
+    "看姐弟俩练舞狮全程心跳加速",
+    "渭南 舞狮姐弟 梅花桩",
+    "姐弟训练舞狮动作 行云流水"
+  ],
+  "must_match_facts": [
+    "事件发生于陕西省渭南市",
+    "主体为一对姐弟（姐姐19岁、弟弟10岁）",
+    "事件内容为两人在梅花桩/高桩上无狮具或携具练习舞狮跳跃配合动作",
+    "核心传播特征为动作行云流水、默契十足、最后一步极具轻盈丝滑感"
+  ],
+  "exclude_if": [
+    "广东、广西、河南、甘肃等其他地区的舞狮训练或赛事",
+    "父女组合或纯成年专业队的舞狮表演",
+    "舞狮训练中发生的跌落受伤或意外事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "英姿飒爽！姐弟俩练高桩舞狮动作一气呵成尽显扎实功底网友：最后一步太丝滑了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8IgxpAHHwNPszMtXqgb-mUAEux9-tL1LpDulvAzOvIhohoGw7Dnth5oq0AueUYzBza8aItnf5ALwWr5w29s-MTqDSwtNU5FwjSWkVgSlPJXYiA0O7nZ0CGleLsyyRt3y1",
+      "publisher": "海外网（腾讯新闻发布）",
+      "published_at": "2026-02-02"
+    },
+    {
+      "title": "看姐弟俩练舞狮全程心跳加速",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqbN2tly05Vv_6S1s08FLA5lG4tdgbkaLcboQ-gq9DXR3g0sWvFqZHNgW09sXvkKKN3MoT0UJyH0d4LOGOOMr_gQwrqV2HxVbXb_LlaO8VoHCFFGpz6AKGMtOoU9kPNxnXx3sFqAVgk8F2s9OAW9cj-vW7cVXgjTl-Prp0VuY66oVBQANGMdBekbtm5Np4B0Sa7ff8RxVgfp0hOBAESCb3a8eUQJt7z0GNRtnZ-rDkiDGuRNbeBy0QG6v5z1iswPXhMI4b6_r0jr9wKgIVE7hecOPkCVlPfv_qtDnjscETqNNxEDB5-KI_sRG9JWEr6uaRAYi4-IQ-5rtRWb_rxUci8yKUV-WLtA==",
+      "publisher": "人民日报（手机新浪网转载）",
+      "published_at": "2026-02-01"
+    },
+    {
+      "title": "姐弟俩练习高桩舞狮动作行云流水网友：他们简直是会飞一样",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzgArzqJCd0Y42ZjQSC7w-W1ZCo1aeiGR4VlEB8No_aTOJ8Ykt2TlUPvKwe1gZrHW2H8TS52sMocUA8-uZ-y4vlkN3rl7J6ZnzDXgMrSuDUpmqF_ifptL7GGuUafqW__cQ0VDKHdg0yA==",
+      "publisher": "大象新闻（今日头条发布）",
+      "published_at": "2026-01-30"
+    }
+  ],
+  "uncertainties": [
+    "公开媒体报道中未披露姐弟两人的具体姓名及所属舞狮团队或培训机构详细名称"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:33"
+}

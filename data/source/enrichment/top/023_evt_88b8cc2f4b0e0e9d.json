@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_88b8cc2f4b0e0e9d",
+  "verification_status": "verified",
+  "confidence": "1.0",
+  "canonical_event_name": "西安赛格商场商户负责人坠亡事件",
+  "factual_description": "2026年7月1日12时10分左右，位于陕西省西安市雁塔区的赛格国际购物中心发生一起人员高坠事件。坠楼者为商场入驻商户陕西利和商贸有限公司法定代表人严某（严鹏）。经西安市公安局雁塔分局现场勘查、走访调查及调取监控视频，排除刑事案件。针对网传涉事商户与商场之间存在巨额违约金及商业纠纷问题，西安市雁塔区成立由市场监管、商务、公安、司法、审计等部门组成的联合调查处置工作专班开展调查。2026年8月5日，雁塔区联合调查处置工作专班公布了商业纠纷相关问题的调查核实结果。",
+  "event_time": {
+    "start": "2026-07-01",
+    "end": "2026-08-05",
+    "precision": "day",
+    "evidence": "2026年7月1日12时10分左右发生高坠事件；雁塔区联合调查处置工作专班于7月2日发布情况通报，于8月5日公布完整调查结果。"
+  },
+  "locations": [
+    "中国/陕西省/西安市/雁塔区/赛格国际购物中心"
+  ],
+  "aliases": [
+    "西安赛格商场男子坠亡事件",
+    "西安赛格商户坠楼事件",
+    "西安一商场发生人员坠楼",
+    "西安赛格千万罚款纠纷坠楼事件"
+  ],
+  "retrieval_queries": [
+    "西安赛格商场 坠楼",
+    "西安赛格 坠亡",
+    "西安赛格 严鹏",
+    "西安赛格 联合调查处置工作专班",
+    "赛格国际购物中心 坠楼",
+    "西安赛格 商业纠纷 通报"
+  ],
+  "must_match_facts": [
+    "2026年7月1日发生于西安赛格国际购物中心",
+    "坠楼人员为陕西利和商贸有限公司负责人严某（严鹏）",
+    "公安部门现场勘查已排除刑事案件",
+    "西安市雁塔区成立联合调查处置工作专班开展商业纠纷调查"
+  ],
+  "exclude_if": [
+    "发生地点并非西安赛格国际购物中心",
+    "发生时间非2026年7月",
+    "涉及顾客或其他无关人员的意外高坠事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "西安赛格商场坠亡事件调查结果公布",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhtu6hUXxqEwEK1wa_nsbvnC-sD1RsdAG6Z0WxC2bhc72lXas987AXz2pMo7Bl9fbAT9xSEKQQJtPgnsQxYFZmCvCEsm8pB2Lh-TyFYj0-p46uuE7Zm_4UhXKSnBzvh93Nn0a5vYSKMGfHYCqv5rArp6cvCToa1dSrWiav9oQebA==",
+      "publisher": "新华网",
+      "published_at": "2026-08-05"
+    },
+    {
+      "title": "官方通报“西安赛格商场一男子坠楼”，商户员工最新发声",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF13feT5TRHwR7KAtq88fFCxTZjGHI1KDAJlQhe0E0nN4VSv_sTrUUXInR1b2lT-0M2sKtsrFV7eLJFQnUxausYbKynScwNG3cgGJuRRcRLtSX-Otz_g6XgKywHDqIAtDukSULkxkCQ",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-07-02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:37"
+}

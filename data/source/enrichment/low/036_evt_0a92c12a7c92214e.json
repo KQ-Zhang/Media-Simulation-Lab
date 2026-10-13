@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_0a92c12a7c92214e",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "国家统计局发布2026年上半年全国居民收入和消费支出数据",
+  "factual_description": "2026年7月15日，国务院新闻办公室举行新闻发布会介绍上半年国民经济运行情况，国家统计局同日发布《2026年上半年居民收入和消费支出情况》。数据显示，2026年上半年，全国居民人均可支配收入22981元，比上年同期名义增长5.2%，扣除价格因素后实际增长4.2%。分城乡看，城镇居民人均可支配收入30126元，同比名义增长4.4%，实际增长3.4%；农村居民人均可支配收入12699元，同比名义增长6.4%，实际增长5.5%，农村居民收入增速快于城镇居民。从收入构成看，人均工资性收入13298元（占比57.9%，增长5.3%），经营净收入3628元（增长6.5%），财产净收入1845元（增长1.1%），转移净收入4210元（增长5.8%）。上半年全国居民人均可支配收入中位数为19036元，增长4.7%，为平均数的82.8%；城乡居民人均可支配收入比值为2.37，同比缩小0.05。",
+  "event_time": {
+    "start": "2026-07-15",
+    "end": "2026-07-15",
+    "precision": "day",
+    "evidence": "国家统计局及国务院新闻办公室于2026年7月15日上午正式发布上半年经济运行与居民收支数据。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "国家统计局发布2026年上半年中国经济半年报居民收入数据",
+    "上半年全国居民人均可支配收入22981元",
+    "2026年上半年居民收入和消费支出情况发布"
+  ],
+  "retrieval_queries": [
+    "上半年 全国居民人均可支配收入 22981",
+    "2026 上半年 居民人均可支配收入 22981元",
+    "国家统计局 上半年 居民收入 30126元 12699元",
+    "上半年居民可支配收入中位数 19036元",
+    "国家统计局 2026年上半年居民收入和消费支出情况"
+  ],
+  "must_match_facts": [
+    "发布主体为国家统计局（及国新办新闻发布会）",
+    "发布时间为2026年7月15日",
+    "核算周期为2026年上半年",
+    "上半年全国居民人均可支配收入为22981元，同比名义增长5.2%，扣除价格因素实际增长4.2%",
+    "城镇居民人均可支配收入30126元，农村居民人均可支配收入12699元",
+    "全国居民人均可支配收入中位数为19036元"
+  ],
+  "exclude_if": [
+    "2025年上半年全国居民可支配收入数据（21840元）",
+    "2024年上半年全国居民可支配收入数据（20733元）",
+    "2025年全年居民可支配收入数据（43377元）",
+    "仅涉及单省市、自治区自身的地方人均可支配收入发布"
+  ],
+  "source_evidence": [
+    {
+      "title": "2026年上半年居民收入和消费支出情况",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_BK9_JrPWXZ1rtvGX7St0riyewciwhIRb_1tx94D0Scjt7YbaiX4glFpfZDLjjlnIINIPwCuBGXr8BKrjeShtH9AZkBb9DzJBzKMlMpgLvUDVSeKF-Fp3yx1BEuts-0phSesllE0w3Q0ClUqAArvYRAEf",
+      "publisher": "国家统计局",
+      "published_at": "2026-07-15"
+    },
+    {
+      "title": "上半年全国居民人均可支配收入22981元",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtTlvvYDGmijm794Czn_LcibGWrUsMmnAchKRp-bp4BS_eiJryFiYTgobakCtVGAs7fzymthnAY4Kpz86NoxWgTxecses4AsUJh5iK30sMbggWNU_NGxwPPlGWhUSNSy50oz_1fnfwlVo=",
+      "publisher": "新京报",
+      "published_at": "2026-07-15"
+    },
+    {
+      "title": "国家统计局：上半年全国居民人均可支配收入22981元同比名义增长5.2%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDlSP_sQQecCESgEYELCF2MvYRetN_YGgP5H-pr1PSVJy7cQD1_LtQ2ekGC4EHcDOqagHvOZmhz83QeuCf0KMWMtFNhvcL7b8V5-LVYS6Y5wE12_ZKJg==",
+      "publisher": "财联社",
+      "published_at": "2026-07-15"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:50"
+}

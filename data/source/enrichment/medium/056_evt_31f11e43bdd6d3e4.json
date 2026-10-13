@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_31f11e43bdd6d3e4",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "全国政协委员袁小彬在2026年全国两会建议取消非营运私家车强制年审",
+  "factual_description": "2026年全国两会期间，全国政协委员、中豪律师事务所管委会主席袁小彬提交提案，建议取消非营运私家车强制年审制度，推动机动车安全监管模式转型升级。袁小彬在调研中指出，现行制度下部分地方将处理完毕交通违法作为核发年检合格标志的前置条件，与《道路交通安全法》第13条相抵触；且线下年检存在‘暴力检测’、乱收费、耗费巨大社会与经济成本等问题。他建议彻底改革‘一刀切’普检模式，推行差异化分类监管：对无重大事故及无非法改装记录的非营运私家车取消强制年审，仅对发生事故及有改装记录的高风险车辆实行定期检测。同时，依托OBD、物联网及大数据技术推行‘以技代检’实施远程动态监测与预警，并同步建立全国统一的‘车辆电子健康档案’系统，整合生产、维修、保养、保险及事故等全链条数据，实现精准动态监管。",
+  "event_time": {
+    "start": "2026-03-05",
+    "end": "",
+    "precision": "day",
+    "evidence": "南方都市报于2026年3月5日率先报道袁小彬提交的相关两会提案，随后新华报业、网通社等媒体于3月6日集中报道。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "袁小彬建议取消私家车年审",
+    "袁小彬两会建言取消非营运私家车强制年审",
+    "全国政协委员建议取消私家车年审制度",
+    "袁小彬建议建立车辆电子健康档案系统",
+    "袁小彬取消私家车强制年检提案"
+  ],
+  "retrieval_queries": [
+    "袁小彬 私家车年审",
+    "袁小彬 取消私家车年审制度",
+    "袁小彬 车辆电子健康档案",
+    "袁小彬 差异化监管 年检",
+    "政协委员袁小彬 取消非营运私家车",
+    "2026两会 袁小彬 私家车"
+  ],
+  "must_match_facts": [
+    "提案或建议提出主体为全国政协委员袁小彬",
+    "提出时间背景为2026年全国两会",
+    "建议对无重大事故、无非法改装记录的非营运私家车取消强制年审",
+    "主张改革‘一刀切’普检模式并实施差异化监管与远程监测",
+    "提出同步建立全国统一的‘车辆电子健康档案’系统"
+  ],
+  "exclude_if": [
+    "其他代表委员关于机动车年检的提案建议",
+    "非2026年全国两会期间提出的年检相关历史提案",
+    "公安部等主管部门正式出台的机动车检验改革新规或政策答复"
+  ],
+  "source_evidence": [
+    {
+      "title": "建议取消私家车年审制度",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgoogt5LGF6O6RIlDnCo1cx5f80MScuq5VAVP9rShOVTxzZFxctnNIcSAKcslzWMp2J7vQ65oUZMIFjvVPFqwUAb7mTbk9AjdLvgFR6-omAhqWFkK979IEi_gY1mOWKmxjaoIET-ap5g_onA==",
+      "publisher": "南方都市报（新浪新闻转载）",
+      "published_at": "2026-03-05"
+    },
+    {
+      "title": "袁小彬两会建言：取消非营运私家车强制年审",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9Ul7Ed36_TtCRNNx0Ktsc23AqLzWZ--MHjtLBSh-4CijLvErDKl2JTH2b8rv7r6RbQeckjezqsiXWI8GyCqRsyZunnOm2sUNTVPck5844v1GG8otb6-Oh3Es=",
+      "publisher": "网通社（凤凰网汽车转载）",
+      "published_at": "2026-03-06"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:25"
+}

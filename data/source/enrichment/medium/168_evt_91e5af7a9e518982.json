@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_91e5af7a9e518982",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "河南周口男子婚后5年外借近50万致父患癌无钱医治事件",
+  "factual_description": "2026年5月，河南周口邵女士反映其丈夫婚后借钱“成瘾”，在5年多时间里先后出借50余次，累计金额近50万元，涉及借款人29人，单笔借款从几十元至数万元不等。据邵女士称，丈夫常在无富余资金情况下刷信用卡或贷款借给他人，且事前从不与家人商量；而对家庭日常开支则十分吝啬，孩子数百元补习费也舍不得支出。近期男子父亲确诊肺腺癌，急需10万元医疗费用，但多数外借款项难以追回。其中一笔4万元借款虽经诉讼获胜诉判决，借款方仍拒绝履行还款义务，借款人家属甚至砸坏邵家车辆。事件曝光后，当地村委会介入协助沟通追讨欠款，当事男子表示已认错醒悟，后续将家庭财政支配权交由妻子管理。",
+  "event_time": {
+    "start": "2026-05-20",
+    "end": "2026-05-20",
+    "precision": "day",
+    "evidence": "2026年5月20日陕视新闻、极目新闻、封面新闻等媒体首次报道该求助事件及村委会介入进展"
+  },
+  "locations": [
+    "中国/河南省/周口市"
+  ],
+  "aliases": [
+    "男子5年借给29人50万几十块也要借",
+    "男子给人借钱成瘾刷信用卡也要借",
+    "河南周口男子婚后借钱成瘾",
+    "贷款借给朋友50万父亲肺癌要回被怼",
+    "丈夫婚后借给别人钱成瘾借出50次近50万"
+  ],
+  "retrieval_queries": [
+    "周口 借钱成瘾 50万",
+    "男子5年借给29人50万",
+    "周口 邵女士 借钱成瘾 肺腺癌",
+    "男子婚后借给别人钱成瘾 村委会",
+    "贷款借给朋友50万父亲肺癌要回被怼",
+    "周口 丈夫 刷信用卡借钱 癌症"
+  ],
+  "must_match_facts": [
+    "事发地为河南周口",
+    "妻子邵女士反映丈夫婚后频繁外借资金累计近50万元（共50余次、涉及29人）",
+    "出资方式包括刷信用卡或贷款借出",
+    "因男子父亲确诊肺腺癌急需医药费而向债务人索债无果",
+    "其中一笔4万元借款经法院判决胜诉但对方拒不还款并砸车",
+    "当地村委会介入协助沟通协调"
+  ],
+  "exclude_if": [
+    "涉及企业或公司之间的民间借贷或工程款纠纷",
+    "涉及赌博、电信网络诈骗、传销等引发的债务纠纷",
+    "借款人为假借钱真诈骗的刑事诈骗案件",
+    "非河南周口发生的类似家庭矛盾纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子借钱成瘾致家庭困境",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjtMTg7KfkqTHWxUDaVpx5vUqxFNfYILGN1Z0XBf8CjILe_EuN74qw1fSnl7lzShFpoEdQxZ-iCbctKY8h17ATpTZHM6W2gV16lDc77gXuUgHOF_rzyzgvsBjBGzQLK0bm8fx0eytnHyhWIA==",
+      "publisher": "陕视新闻 / 河北广播电视台三农频道（转自新浪新闻）",
+      "published_at": "2026-05-20"
+    },
+    {
+      "title": "老公婚后借给别人钱成瘾，借出50次近50万，如今父亲肺癌要钱被怼，妻子崩溃痛哭",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7MwlDonV1L2yxX214-pHGAGS8TVabQrZl7jySav2xKJdnUgLOgof4x1Ez_6xd28vXoRpiPdz2RixSBkkz6vE5L9jHvhBU5PyhTyhB7GZiTBTwz5FNXuR5C8KHgVXT3kxxGQ==",
+      "publisher": "极目新闻（腾讯新闻）",
+      "published_at": "2026-05-20"
+    },
+    {
+      "title": "男子婚后给别人借钱“成瘾”，50次共借出50万，贷款也要借，村委会：已介入，积极与借款人沟通",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf41PdW7PRuI48V_ZTRrfcLcvf0yqEMU1AMbftMUrpxARMVZrLK1vTScNmoYaxdEDczNbHKEP5uL-8WNaEbhfF9VmIwStMafaTOmQvX7d6lMRKrXUQ0hhdoaiZOD-ZKNVgBQ==",
+      "publisher": "封面新闻",
+      "published_at": "2026-05-20"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:32"
+}

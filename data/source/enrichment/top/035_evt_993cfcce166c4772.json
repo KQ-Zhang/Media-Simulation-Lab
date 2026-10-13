@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_993cfcce166c4772",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "内蒙古乌拉特前旗16岁高中生被刺身亡案",
+  "factual_description": "2026年5月24日凌晨1时许，内蒙古自治区巴彦淖尔市乌拉特前旗发生一起刑事案件。16岁高中生张某某（田径运动员，当晚与同学庆祝比赛获胜）与9名同行人员前往案发居民区，期间有按电动自行车喇叭、吹口哨、踹房门等滋扰行为，与借住在案发地附近的36岁居民张某发生冲突。张某持刀将张某某刺伤，张某某送医抢救无效死亡。犯罪嫌疑人张某于案发当日被刑事拘留，6月5日被检察机关批准逮捕，7月3日依法移送检察机关审查起诉。针对网络上“案发地为涉黄场所”“嫌疑人系保安”等传言，乌拉特前旗公安局于2026年7月22日通报回应，澄清案发地为居民区闲置平房，嫌疑人无固定职业。",
+  "event_time": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "precision": "day",
+    "evidence": "乌拉特前旗公安局警情通报及多家主流媒体报道证实案发时间为2026年5月24日凌晨1时许。"
+  },
+  "locations": [
+    "中国/内蒙古自治区/巴彦淖尔市/乌拉特前旗"
+  ],
+  "aliases": [
+    "乌拉特前旗16岁高中生被刺死案",
+    "内蒙古16岁田径少年庆功夜被捅杀案",
+    "16岁高中生拍门玩闹遭捅杀事件",
+    "16岁高中生凌晨踹门被刺死案"
+  ],
+  "retrieval_queries": [
+    "乌拉特前旗 16岁 高中生 刺死",
+    "乌拉特前旗 5月24日 警情通报",
+    "内蒙古 16岁 田径少年 被捅",
+    "乌拉特前旗 史女士 拍门",
+    "张瑞峰 乌拉特前旗",
+    "乌拉特前旗 踹门 被刺死"
+  ],
+  "must_match_facts": [
+    "发生在内蒙古自治区巴彦淖尔市乌拉特前旗",
+    "案发时间为2026年5月24日凌晨",
+    "受害者为16岁高中生张某某",
+    "犯罪嫌疑人为36岁男子张某",
+    "因深夜踹房门、按喇叭等滋扰行为引发冲突遭持刀捅刺",
+    "案件已被公安机关立案侦查并移送检察机关审查起诉"
+  ],
+  "exclude_if": [
+    "发生在2024年5月之前的伤害致死案",
+    "发生在乌拉特前旗以外地区的案件",
+    "校园内殴打或校园霸凌致死案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "警方通报“16岁高中生被刺死”：案发地不属涉黄场所",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXlzJGFVXj4QR_Kv9XkpuScjK7qOuWk_uBmibGl8vTxQzh7OxZFtB7EHhEl6gidiUJw8F6uKJvshz00GeGwQ_K4I3f4bhLTjUKPaUTV0bfk9f6kGjkOJPylzM=",
+      "publisher": "乌拉特前旗公安局 / 凤凰网",
+      "published_at": "2026-07-22"
+    },
+    {
+      "title": "内蒙古警方通报16岁高中生被刺死案：案发地不属于涉黄场所",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb2uiZHGBK_kpcMYo7PRmuqthwWnHiPoDAN3az58JYD8WqBm9KeE0wEMWxsgwG1joLFUZ2fxfln_Jo_8RA4304tccDBM6_CSCtpTuhJMbgR6UiYGeomINBhx9WtNEAeccxLdaVW2t706E259b4",
+      "publisher": "观察者网",
+      "published_at": "2026-07-22"
+    }
+  ],
+  "uncertainties": [
+    "输入样本及部分早期网传描述误将案发年份记为2024年，但乌拉特前旗公安局警情通报证实案发年份为2026年。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:00:04"
+}

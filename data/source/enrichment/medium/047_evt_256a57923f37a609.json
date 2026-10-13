@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_256a57923f37a609",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "国家禁毒办等部门将替来他明列入管制及媒体曝光其混入电子烟滥用事件",
+  "factual_description": "2026年6月17日，国家禁毒办召开新闻发布会，公安部、国家卫生健康委、国家药品监督管理局联合发布公告，将替来他明、二氟乙咪酯等16种物质列入《非药用类麻醉药品和精神药品目录》，自2026年7月1日起正式纳入国家管制。官方披露，不法分子非法制造替来他明并大量添加到“上头电子烟”中吸食滥用，群体主要为青少年，具有成瘾性及严重健康危害。同日，山东广播电视台“闪电新闻”等媒体发布暗访调查报道《电子烟加成瘾剂毒害青少年》，披露不法人员从兽药“舒泰50”等提炼替来他明掺入烟油，在社交平台以“替他来爱你”等暗语向青少年引诱兜售并线下面交的黑色产业链。",
+  "event_time": {
+    "start": "2026-06-17",
+    "end": "2026-07-01",
+    "precision": "day",
+    "evidence": "2026年6月17日国家禁毒办召开新闻发布会宣布将替来他明等16种物质列管，公告自2026年7月1日起施行；闪电新闻深度调查亦于2026年6月17日同日播发。"
+  },
+  "locations": [
+    "中国",
+    "北京市"
+  ],
+  "aliases": [
+    "国家禁毒办列管替来他明等16种物质",
+    "兽用麻醉剂替来他明混入上头电子烟",
+    "电子烟加成瘾剂毒害青少年",
+    "替他来爱你暗语事件",
+    "舒泰50提炼替来他明制售电子烟"
+  ],
+  "retrieval_queries": [
+    "替来他明 电子烟 闪电新闻",
+    "替来他明 舒泰50 上头电子烟",
+    "国家禁毒办 替来他明 列管",
+    "二氟乙咪酯 替来他明 非药用类麻醉药品",
+    "替他来爱你 电子烟",
+    "电子烟加成瘾剂毒害青少年"
+  ],
+  "must_match_facts": [
+    "国家禁毒办、公安部、国家卫健委、国家药监局于2026年6月17日宣布将替来他明等列入管制",
+    "替来他明原为用于犬猫等动物麻醉的兽药成分（如舒泰50）",
+    "不法分子将替来他明掺入电子烟油制成“上头电子烟”",
+    "在网络社交平台以“替他来爱你”等暗语针对青少年群体兜售",
+    "吸食替来他明会导致类似K粉成瘾、幻觉及神经损伤等危害"
+  ],
+  "exclude_if": [
+    "2023年关于依托咪酯列管的旧闻",
+    "单纯通报查获依托咪酯或美托咪酯且未提及替来他明的案件",
+    "合法动物医院正常临床处方使用兽药舒泰50的报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "国家禁毒办：将替来他明等16种物质纳入管制",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHb0Ja5bb1Lpd0iB9CzhFWXEeDKpoFRvKsyKFwWK6s3w4oCe71YU7gSNEitHqZQFyqwnx_RJIluHGZEofIE5ApimWXTz3tJcBK7UnojYqbv2OnvNImv0FoZHnAFv7C33HaglpM7EeVEQuqDIqBiSkjxHRfH",
+      "publisher": "央视新闻客户端 / 中国经济网",
+      "published_at": "2026-06-17 10:50"
+    },
+    {
+      "title": "警惕替来他明电子烟",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOyxo48hDjEPOw7Xy824WBpyodL7fOylI8Oy17wAqDmMHoCJEKHP_VlV_3Cr5ECRnKshEeh7Hap8HQfyGquK-gklV6YmygvnuKdvH3sUKSSLVk8rphSdDDwPa5d1a-VuQihMxNwK_OR_c0",
+      "publisher": "山东广播电视台闪电新闻客户端",
+      "published_at": "2026-06-17 19:24"
+    },
+    {
+      "title": "中国将二氟乙咪酯等16种物质纳入管制",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaTgQs63afRIOTIkGbT2KlVMH4sRW-ZhwERuRfXGeoXFgdkjsEhIIEYmNtKQzaGXEZ1qU4q2RBdtjNLAl8WKtshrS_JQT71ElGPcez7QTOWWA5bPPPoEqVIemy-ySxmOPrnlHHwFn4C0JlaZLaSQ==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-06-17 10:02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:11"
+}

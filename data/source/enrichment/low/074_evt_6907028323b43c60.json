@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_6907028323b43c60",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年川超第十七轮绵阳九洲长虹队客场1比0胜成都锦城队锁定亚军",
+  "factual_description": "2026年7月5日晚，2025/2026四川省城市足球联赛（简称“川超”）决赛阶段第十七轮焦点战在成都市双流体育中心打响，已提前两轮锁定总冠军的成都锦城队坐镇主场迎战积分榜次席的绵阳九洲长虹队。开场第10分钟内，成都队球员朱时令因犯规被主裁判直接出示红牌罚下。以多打少的绵阳队在上半场补时第5分钟（第50分钟）由37号球员郭芸法攻破球门打破僵局。下半场双方均未改写比分，最终绵阳九洲长虹队客场1比0战胜成都锦城队。此役吸引了超4000名绵阳远征球迷到场观战，绵阳队凭借这场胜利终结了成都队本赛季主场不败战绩，并在联赛仅剩最后一轮的情况下提前锁定首届“川超”联赛亚军。",
+  "event_time": {
+    "start": "2026-07-05",
+    "end": "2026-07-05",
+    "precision": "day",
+    "evidence": "封面新闻、红星新闻等权威媒体报道，比赛于2026年7月5日晚在成都双流体育中心进行。"
+  },
+  "locations": [
+    "中国/四川省/成都市/双流区/成都市双流体育中心"
+  ],
+  "aliases": [
+    "川超成都vs绵阳",
+    "川超第十七轮成都对绵阳",
+    "绵阳九洲长虹1比0成都锦城",
+    "绵阳客场1比0赢下成都锁定川超亚军",
+    "绵阳队终结成都队主场不败金身"
+  ],
+  "retrieval_queries": [
+    "川超 绵阳 成都 1比0",
+    "双流体育中心 成都 绵阳 亚军",
+    "2025/2026川超 第十七轮 绵阳",
+    "绵阳九洲长虹 成都锦城 郭芸法",
+    "绵阳 提前一轮锁定川超亚军",
+    "川超 7月5日 绵阳 1:0 成都"
+  ],
+  "must_match_facts": [
+    "赛事为2025/2026四川省城市足球联赛（川超）决赛阶段第十七轮",
+    "比赛实际发生于2026年7月5日晚，地点在双流体育中心",
+    "比赛双方为成都锦城队与绵阳九洲长虹队，全场比分0比1（绵阳队胜）",
+    "成都队球员被红牌罚下，绵阳队郭芸法在上半场补时阶段打入全场唯一进球",
+    "绵阳队客场获胜后终结成都队主场不败纪录并提前一轮锁定联赛亚军"
+  ],
+  "exclude_if": [
+    "2026年7月31日举行的川超冠军挑战赛（20市州联队vs成都队）",
+    "2026年7月11日川超第十八轮收官战（绵阳主场2:1胜凉山、成都客场3:1胜达州等）",
+    "2025年川超分区赛期间的比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "0-1！ 成都队主场“金身”被破，绵阳队锁定“川超”亚军",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7TUva4dyOHmaHomRdraDPJ9eswk4nmE_E_c7t17wYuu9He9AAAgHzfpiCUKhtPmt1Tk7Phxsxk8h06sUJeEyzAsfLbcaYYI3llAxxr4ZXUDfIWU_VRLvY-Sbjd0dJoAUiDA==",
+      "publisher": "封面新闻（腾讯新闻发布）",
+      "published_at": "2026-07-05"
+    },
+    {
+      "title": "川超战报：绵阳客场战胜成都，提前一轮锁定“亚军”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv9-xswopAMlqJBKtD14LJBGKYyx-_8885ybhBoMmpsP4ILQ0FT0KO85g7mwiXKpGDlbJpw5zEcv_TY52Cs3gcb-ygjtSUldOS6MiXp8lHNRx1O7Uw5utafqCTdavoqYdoO0rvzW7qYak5",
+      "publisher": "红星新闻网（网易发布）",
+      "published_at": "2026-07-06"
+    },
+    {
+      "title": "“川超”第一年，到底有多“超”？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjcSZhWLR8A_wvMTxCPKMaMVEgkvG0Z9uExuxvyX6PhHB9XlxsZRpc9AtVGPVYXi-bJp3Sar4NDCvCQ0ujrvYecz-C6pnoivtQ1uZdKx_U-5bmBNpIJq6VEDfYT78tBeod5rW-m7__GwPUmjQ8Lc9p",
+      "publisher": "人民网四川频道",
+      "published_at": "2026-07-12"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将年份记录为2025年，实际比赛发生于2026年7月5日（属2025/2026跨年赛季）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:47"
+}

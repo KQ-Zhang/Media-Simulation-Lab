@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_8b0f3da9527f3fa4",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "伊朗官员就结束冲突提出六项停战条件",
+  "factual_description": "2026年3月22日，据迈赫尔通讯社、塔斯尼姆通讯社等多家伊朗媒体及黎巴嫩“广场”电视台（Al Mayadeen）报道，一名匿名伊朗高级政治与安全官员在受访时透露，中东地区斡旋方已向伊朗转达停战建议，但伊朗提出了停火结束冲突的六项前提条件。具体六项条件为：保证战争不再发生；关闭美国在中东地区的军事基地；由侵略方向伊朗支付赔偿；结束该地区所有战线的战事；为霍尔木兹海峡建立新的法律体系；审判并移交从事反伊朗活动的媒体人员。该官员同时表示，基于当时军事态势，伊方认为短期内不会停火，伊朗在“防御性战争”框架下的行动正按计划分阶段推进，将继续惩罚侵略者。",
+  "event_time": {
+    "start": "2026-03-22",
+    "end": "2026-03-22",
+    "precision": "day",
+    "evidence": "新华社、央视新闻及黎巴嫩“广场”电视台均于2026年3月22日首次公开报道该伊朗官员提出的六项停战条件。"
+  },
+  "locations": [
+    "伊朗/德黑兰",
+    "黎巴嫩"
+  ],
+  "aliases": [
+    "伊朗官员提出停战六项条件",
+    "伊朗媒体称伊官员提出停战六项条件",
+    "伊朗提六项停战条件",
+    "伊朗提出六项停火条件"
+  ],
+  "retrieval_queries": [
+    "伊朗 停战 六项条件",
+    "伊朗 广场电视台 停战六项条件",
+    "伊朗官员 停火条件 霍尔木兹海峡",
+    "迈赫尔通讯社 停战六项条件",
+    "Iran six conditions ceasefire Al Mayadeen"
+  ],
+  "must_match_facts": [
+    "消息源自一名匿名伊朗官员接受黎巴嫩广场电视台（Al Mayadeen）采访及迈赫尔通讯社等转引",
+    "提出停战的六项具体条件（保证战争不再发生、关闭美国驻中东军事基地、支付战争赔偿、结束全线战事、霍尔木兹海峡新法律体系、引渡审判反伊媒体人员）",
+    "伊朗官员表态认为近期不会停火，将继续惩罚侵略者"
+  ],
+  "exclude_if": [
+    "2026年4月美伊达成为期两周的临时停火协议",
+    "2026年5月伊朗回应美国停战方案的五项条件",
+    "2026年8月伊朗就重新开放霍尔木兹海峡提出的条件"
+  ],
+  "source_evidence": [
+    {
+      "title": "伊朗媒体称伊官员提出停战六项条件",
+      "url": "http://www.news.cn/world/20260322/23617be674d84f0490bca7b1ce818c39/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-03-22"
+    },
+    {
+      "title": "Senior Iranian official outlines conditions for ending war: Exclusive",
+      "url": "https://english.almayadeen.net/news/politics/senior-iranian-official-outlines-conditions-for-ending-war--e",
+      "publisher": "Al Mayadeen English",
+      "published_at": "2026-03-22"
+    },
+    {
+      "title": "伊朗媒体：伊官员提出停战六项条件",
+      "url": "https://www.bjnews.com.cn/detail/1774182096129528.html",
+      "publisher": "新京报",
+      "published_at": "2026-03-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:01"
+}

@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_4556056fe3c686df",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年美军B-52轰炸机加州爱德华兹基地坠毁事故",
+  "factual_description": "当地时间2026年6月15日上午11时20分左右，美国空军一架隶属于第412试飞联队的B-52H战略轰炸机从加利福尼亚州爱德华兹空军基地起飞后不久坠毁并起火，地点位于基地跑道及周边莫哈韦沙漠区域。机上8名机组与测试人员全部遇难，遇难人员由现役军人、文职人员及2名波音公司雇员组成。美国空军证实，该机失事时正在执行支持B-52雷达现代化项目（换装有源相控阵雷达）的例行飞行测试任务。事故导致基地跑道受损并一度暂停所有飞行作业，军方已启动安全调查委员会调查确切原因。",
+  "event_time": {
+    "start": "2026-06-15",
+    "end": "2026-06-15",
+    "precision": "day",
+    "evidence": "美军爱德华兹空军基地发布官方通告并经新华社等媒体证实，轰炸机于当地时间2026年6月15日11时20分左右起飞后不久坠毁。"
+  },
+  "locations": [
+    "美国",
+    "加利福尼亚州",
+    "克恩县",
+    "爱德华兹空军基地",
+    "莫哈韦沙漠"
+  ],
+  "aliases": [
+    "美军B-52轰炸机加州坠毁",
+    "美国B-52轰炸机坠毁",
+    "加州爱德华兹空军基地B-52坠机",
+    "美B-52雷达升级测试坠毁",
+    "美军B-52战略轰炸机坠毁致8人遇难"
+  ],
+  "retrieval_queries": [
+    "美国 B-52 轰炸机 坠毁",
+    "B-52 爱德华兹空军基地 坠毁",
+    "B-52 雷达升级 坠毁 8人",
+    "Edwards AFB B-52 crash",
+    "B-52 radar modernization crash",
+    "美军 B-52H 坠机 莫哈韦沙漠",
+    "美军B-52 栗正杰"
+  ],
+  "must_match_facts": [
+    "发生于2026年6月15日美军加利福尼亚州爱德华兹空军基地",
+    "失事机型为美国空军B-52战略轰炸机",
+    "事故导致机上8名人员全部遇难，包含波音公司员工",
+    "失事飞机正在执行雷达现代化升级相关测试任务"
+  ],
+  "exclude_if": [
+    "2016年5月关岛安德森空军基地B-52轰炸机起飞滑出跑道事故（7人全部生还）",
+    "2008年7月关岛B-52坠海事故（6人死亡）",
+    "1994年仙童空军基地B-52特技飞行失控坠毁事故",
+    "非B-52机型的美军战机坠毁事件（如F/A-18、EA-18G等）"
+  ],
+  "source_evidence": [
+    {
+      "title": "美国B-52轰炸机坠毁雷达升级项目受挫",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVsO9ki0a2wA0VNQ_QUAVTfB5iN8vtQeueLVf6cxgf-wke8DXfKFE4jPzxGWkpi5wK3dDLEvbyCVp4YNo3Yvco3NN3-3xLajn1eKvHnxgTRNTvQqNTx1jYnrFtXkdsdOqJvjhcjOH_bYHeC4uZa2_D6QmYR-3QRz-yb5hU-THOSa2aDgoEZOzSyzmXSg2TWsJbui7K",
+      "publisher": "新华网",
+      "published_at": "2026-06-16"
+    },
+    {
+      "title": "美軍B-52轟炸機加州墜毀8人罹難",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy_lwpDps531pNpeS2GWc74_JWSZRBM98M25nrnOKrN0hNpS4EeYh9KwjiWzi8QilnffZzu1L63NpZiuAn5xOSkTQydLtVewlTB9reSwi4mOh60PdxxbVEQQU6R4s=",
+      "publisher": "联合新闻网",
+      "published_at": "2026-06-17"
+    }
+  ],
+  "uncertainties": [
+    "坠机确切的技术或机械直接诱因仍待美国空军安全调查委员会（SIB）最终调查报告确认"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:30"
+}

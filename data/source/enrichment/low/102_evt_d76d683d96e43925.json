@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_d76d683d96e43925",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "委内瑞拉代总统罗德里格斯会见美国能源部长克里斯·赖特",
+  "factual_description": "当地时间2026年2月11日，委内瑞拉代总统德尔西·罗德里格斯在首都加拉加斯的米拉弗洛雷斯总统府会见到访的美国能源部长克里斯·赖特。双方重点就能源相关工作议程展开会晤，讨论了石油、天然气、采矿及电力领域的潜在合作与发展项目。会见后，赖特表示美国总统特朗普承诺同委内瑞拉建立“新的关系”，并致力于推动委内瑞拉石油产量显著增长；罗德里格斯对媒体表示支持建立对两国均有利的伙伴关系，同时强调相关能源议程须在尊重委内瑞拉国家能源主权的框架下推进。克里斯·赖特是美委政治局势剧变后踏足委内瑞拉的最高级别美国政府内阁官员，此行标志着两国在经历重大地缘政治动荡后正式开启双边能源合作接触。",
+  "event_time": {
+    "start": "2026-02-11",
+    "end": "2026-02-11",
+    "precision": "day",
+    "evidence": "新华社、央视新闻及委内瑞拉总统府官方通报显示，会晤发生于当地时间2026年2月11日下午。"
+  },
+  "locations": [
+    "委内瑞拉/首都区/加拉加斯/米拉弗洛雷斯宫"
+  ],
+  "aliases": [
+    "委内瑞拉代总统会见美能源部长",
+    "委内瑞拉代总统罗德里格斯会见美国能源部长克里斯·赖特",
+    "美能源部长赖特首访委内瑞拉",
+    "美委总统府能源合作会晤"
+  ],
+  "retrieval_queries": [
+    "委内瑞拉 代总统 罗德里格斯 美国能源部长 赖特",
+    "德尔西·罗德里格斯 克里斯·赖特 能源合作 2月11日",
+    "委内瑞拉代总统会见美能源部长",
+    "Delcy Rodriguez Chris Wright Caracas 2026",
+    "US Energy Secretary Wright meets Delcy Rodriguez February 2026"
+  ],
+  "must_match_facts": [
+    "会晤主体为委内瑞拉代总统德尔西·罗德里格斯与美国能源部长克里斯·赖特",
+    "会晤时间为2026年2月11日",
+    "会晤地点位于委内瑞拉加拉加斯总统府（米拉弗洛雷斯宫）",
+    "核心议程涉及石油、天然气、采矿和电力等能源领域合作及改善双边关系"
+  ],
+  "exclude_if": [
+    "2026年9月美国能源部长赖特再次访委并签署具体油田租赁协议或雪佛龙巨额商业投资合同的后续事件",
+    "2026年1月美军对委内瑞拉实施军事打击并逮捕马杜罗的事件本身",
+    "2026年3月美国内政部长道格·伯古姆访问委内瑞拉的事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "委内瑞拉代总统会见美能源部长",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4z3g9dhN1iEhlpxb9wD8pyrFkwuKgEiAAaNrb3vs_x1MuGBgR77CNku-9XDB1EUEMkw-gARRxbxY8bkZ-obEmk8HP-PT3gdZneAebJz9eivNq-vGC3zT8zXNyT5enLy2vjrOQ6dHAiOPZSGszc-0EyGgIcFCjHUfyNU5oW8HZ",
+      "publisher": "新华网",
+      "published_at": "2026-02-12"
+    },
+    {
+      "title": "委内瑞拉代总统会见美国能源部长",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp1KHUO9o1PGGFlEnuKqxVyjzrWZtq35VfuR_fWZMpGysh0_BUn-RY--F4zvSTBiECzAqfF1n0tkpg_fZKWml5yF0_Bqxfk33I7wywUCSnf_xSwKj5zgZqcu7_yy6xu91OsUdQe50zw9Q-TMWcF4-k-Wplso6qzCJt",
+      "publisher": "央视网",
+      "published_at": "2026-02-12"
+    },
+    {
+      "title": "委内瑞拉代总统会见美国能源部长讨论能源议题",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZRf-iSTG1_CkeJhQ1Mz_PV_RqQaUsZTYsWxlQYbZHIiK3bHvR-N1_vHv7AqXqW96tEobwby82XE_YpVSjzjPek3KfDA9JRh-44IZlLFX1hnQVDxZze0CaKoZECP5QwY_cXlB3NEaZ0t9laiquBodCHfLyXpZorm1zpms1rNvcSQ-mY0fR_JFa",
+      "publisher": "香港电台 (RTHK)",
+      "published_at": "2026-02-12"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:39"
+}

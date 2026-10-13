@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_4f7a27b758973194",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "苏州同里古镇游客拍照遭商户驱赶抢手机事件",
+  "factual_description": "2026年3月29日下午，一名游客在江苏省苏州市吴江区同里古镇景区游玩拍照时，因拍摄古桥视线受阻，进入路边商户遮阳棚区域取景，遭到商户经营者驱赶阻拦并抢夺手机，双方在追赶拉扯中引发肢体冲突，导致游客摔倒并受皮外伤。事发后游客报警，苏州市吴江区同里派出所及时出警并依法处置，涉事商户向游客赔偿200元医药费，景区为其退还门票。2026年4月1日，苏州市吴江区同里镇人民政府通过官方渠道发布情况通报，证实3月29日下午的冲突情况，通报称属地派出所已及时依法处置，商户向游客进行了赔偿；针对涉事商户，当地已责成其停业整改，并对给游客带来的不良体验深表歉意，表态将坚决打击侵犯游客合法权益的行为。",
+  "event_time": {
+    "start": "2026-03-29",
+    "end": "2026-04-01",
+    "precision": "day",
+    "evidence": "同里镇人民政府通报证实肢体冲突发生于2026年3月29日下午，镇政府于4月1日发布处置通报并责令商户停业整改。"
+  },
+  "locations": [
+    "中国/江苏省/苏州市/吴江区/同里古镇景区"
+  ],
+  "aliases": [
+    "苏州同里古镇游客拍照遭商家驱赶抢手机事件",
+    "同里古镇景区拍照遭商家驱赶事件",
+    "官方通报游客同里古镇景区拍照遭商家驱赶",
+    "同里古镇商户抢夺拍照游客手机事件",
+    "同里通报游客拍照遭商家驱赶"
+  ],
+  "retrieval_queries": [
+    "同里古镇 游客 拍照 驱赶",
+    "同里古镇 商家 抢手机 停业整改",
+    "同里古镇 游客 肢体冲突 赔偿",
+    "同里镇政府 拍照遭商家驱赶 通报",
+    "同里古镇 遮阳棚 拍照 摔倒"
+  ],
+  "must_match_facts": [
+    "事发地点位于江苏苏州吴江区同里古镇景区",
+    "游客因在商户棚内或周边拍摄风景遭商户阻拦驱赶并抢夺手机",
+    "双方发生肢体冲突致游客摔倒受伤",
+    "公安机关介入后涉事商户向游客赔偿",
+    "同里镇政府发布官方通报责令涉事商户停业整改"
+  ],
+  "exclude_if": [
+    "万岁山武侠城等其他景区因专业相机或器材驱赶游客事件",
+    "丽江等其他古镇旅拍商户纠纷",
+    "同里古镇景区其他无关的游客治安纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "游客拍照遭商户驱赶抢手机江苏一地通报：已责成涉事商户停业整改",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvUMeT418jz27deZkHTZOmEJfYrWRMz6XBU_xBJGzsqVL0gqggy-yoIaa-ZTsIIvU6rm9NnKbuxX3gJ6SaZ3_5kWSJ1aBPs2CDn7JNYuVmu2ytN3Y9Akjcbn2612bHy1jzprmQpyq00BfTqlsyuQDAkHMc4549yo0W-Q==",
+      "publisher": "大皖新闻",
+      "published_at": "2026-04-01"
+    },
+    {
+      "title": "苏州同里通报“游客拍照遭商家驱赶”情况，并深表歉意",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPlRG1p1CoxllpFis6Q9qB41hQYFKtqKjn_e_nhJH8v7Rl3ZOoeBe1Tgq9-wEY-2bHgNihtEg7GNWaBbOpk6e0JGenSoaeAIo6_Nnij06ZiGmCsMXOp7b2",
+      "publisher": "凤凰网江苏（转自同里旅游）",
+      "published_at": "2026-04-01"
+    },
+    {
+      "title": "游客同里古镇景区拍照遭商家驱赶抢夺手机，官方：涉事商户停业整改",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKG568AR87w4jsJleENT0tRPDZK_et1mg662NFCYbvfisDLVTxb33UmNtT3cpxGn2d_RJHQdLxN44cgpDOl47PwGe0HyI7Kwg-wgHFarYl4spBxAgS_Cvhmb479HnyQObC1yimp5SW2J1i",
+      "publisher": "界面新闻",
+      "published_at": "2026-04-01"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中将发生年份误记为2024年，经多方一手通报与主流媒体核验，实际发生时间为2026年3月29日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:33"
+}

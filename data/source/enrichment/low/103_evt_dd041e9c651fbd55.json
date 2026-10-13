@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_dd041e9c651fbd55",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年2月22日新疆阿勒泰地区青河县4.0级地震",
+  "factual_description": "据中国地震台网正式测定，北京时间2026年2月22日09时29分，在新疆维吾尔自治区阿勒泰地区青河县（北纬46.59度，东经90.98度）发生4.0级地震，震源深度10千米。震中5公里范围内平均海拔约2127米，周边5公里内的村庄有冬布特、乌斯根，20公里内无乡镇驻地分布，50公里内的乡镇有查干郭勒乡、塔克什肯镇、青河镇。震中距青河县城区约47公里，距富蕴县约120公里，距阿勒泰市约256公里，距乌鲁木齐市约408公里。输入现有描述中记录的“2023年2月22日09时20分”系年份与发震分钟数的记述偏差，实际发生时间为2026年2月22日09时29分。",
+  "event_time": {
+    "start": "2026-02-22",
+    "end": "2026-02-22",
+    "precision": "day",
+    "evidence": "中国地震台网正式测定发震时间为北京时间2026年2月22日09时29分"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/阿勒泰地区/青河县",
+    "北纬46.59度，东经90.98度"
+  ],
+  "aliases": [
+    "新疆青河4.0级地震",
+    "新疆阿勒泰地区青河县发生4.0级地震",
+    "2·22青河地震"
+  ],
+  "retrieval_queries": [
+    "青河 4.0级地震",
+    "新疆青河 地震 2026",
+    "阿勒泰 青河县 地震",
+    "青河县 02月22日 地震",
+    "中国地震台网 青河 4.0级"
+  ],
+  "must_match_facts": [
+    "发生于新疆维吾尔自治区阿勒泰地区青河县",
+    "中国地震台网正式测定震级为4.0级",
+    "发震时间为2026年2月22日09时29分",
+    "震源深度10千米",
+    "震中坐标位于北纬46.59度、东经90.98度附近"
+  ],
+  "exclude_if": [
+    "2023年2月22日新疆阿克苏地区拜城县4.6级地震",
+    "2026年2月23日新疆巴音郭楞州尉犁县5.1级地震",
+    "青河县其他年份或非4.0级地震"
+  ],
+  "source_evidence": [
+    {
+      "title": "防震减灾要闻-新疆阿勒泰地区青河县发生4.0级地震",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt-XkwfjMKJ0SjaNt_7ReO8z3i1Ewmq8IHk1c3hq1GN9CcHp3lzq3m1cRFJYvJa6U71C-MHwnu4FXWuTF53LQl1yqemJlhTOnL33Be-9rjhMr4OmI9bGqwaKssnftEPjV4KqLsbNaOCwTryRva4QPVXJgUEFRbfmCWMKI=",
+      "publisher": "安徽省宣城市地震局转中国地震局/中国地震台网",
+      "published_at": "2026-02-22 10:28"
+    },
+    {
+      "title": "新疆阿勒泰青河县发生4.0级地震，震源深度10千米",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1g_5mxGMXB9vjoYU4m0l_5VO6MDW3G2nSB4zbwl_vW94LMo14_pq05Akr0MBPEEC0t9Y-HTiEtlIp9IjDkIAXiBAqyzxZS0WynC1KGpy-LmUTfYkTcQRpRtrT9vGFirBPKdC9QsvdlJtncRyVjaugatzIvx4VPQkVug==",
+      "publisher": "中国基金报",
+      "published_at": "2026-02-22 09:36"
+    },
+    {
+      "title": "新疆阿勒泰地区青河县发生4.0级地震",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGv9sIddCOf-8Hut_MV6LB0_WA2aCnhfCXI2ojkVXz-2t2LmUbAV7clsON9wYg7E7ULfSo1NyqSl-xdRFLDBWJzCDh3uLsj9tva4KCQKF9bultCPywJM3SVUsi364pisuVfh77zWQ50UmBhdKayaIqtgoH7sIy4",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-02-22 09:40"
+    }
+  ],
+  "uncertainties": [
+    "输入样本提供的前提描述中将发震时间记为'2023年2月22日09时20分'，实际经官方测定发震时间为2026年2月22日09时29分，存在年份与具体发震分钟数偏差"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:39"
+}

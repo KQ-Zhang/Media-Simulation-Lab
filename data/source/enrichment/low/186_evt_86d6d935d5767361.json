@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_86d6d935d5767361",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "银川西夏陵申遗一周年保护与价值阐释系列活动",
+  "factual_description": "2026年7月11日至12日，在西夏陵列入《世界遗产名录》一周年之际，“铸牢中华民族共同体意识”西夏陵世界文化遗产保护与价值阐释系列活动在宁夏银川西夏陵景区举行。该活动由银川市人民政府、宁夏回族自治区文化和旅游厅、中国建筑设计研究院有限公司、宁夏大学、北方民族大学联合主办。7月11日上午活动正式启幕，《银川市西夏陵世界文化遗产保护条例》同日正式施行。现场推介了西夏陵申报世界遗产提名文件与西夏服饰研究成果，上演了复原千年前西夏衣冠的特色服饰走秀，并成立了“西夏陵遗产守护人”志愿服务队及签署跨省学术联动合作协议。活动为期两天，同期汇聚全国30余位权威专家围绕土遗址预防性保护、西夏学数字化等展开专题学术研讨与实地考察，西夏陵博物馆开幕推出《“蜀地灵光·朔方吉金”——蜀地与宁夏地区青铜文物展》（展期持续至9月11日），陵区并设置非遗市集、演艺与研学等沉浸式体验板块。",
+  "event_time": {
+    "start": "2026-07-11",
+    "end": "2026-07-12",
+    "precision": "day",
+    "evidence": "2026年7月11日上午9时系列活动在西夏陵景区启幕，活动为期两天，至7月12日专家考察与研讨结束。"
+  },
+  "locations": [
+    "中国/宁夏回族自治区/银川市/西夏区/西夏陵景区"
+  ],
+  "aliases": [
+    "西夏陵申遗一周年系列活动",
+    "西夏陵世界文化遗产保护与价值阐释系列活动",
+    "银川西夏陵入遗一周年活动",
+    "西夏陵申遗成功一周年活动"
+  ],
+  "retrieval_queries": [
+    "西夏陵 申遗一周年",
+    "西夏陵世界文化遗产保护与价值阐释系列活动",
+    "银川 西夏陵 7月11日 时装大秀",
+    "西夏陵 蜀地灵光 朔方吉金",
+    "西夏陵世界文化遗产保护条例 施行",
+    "西夏陵 申遗成功一周年"
+  ],
+  "must_match_facts": [
+    "时间为2026年7月11日至12日西夏陵申遗成功一周年纪念期间",
+    "举办地在宁夏银川西夏陵景区（含西夏陵博物馆）",
+    "由银川市政府及宁夏文旅厅等多家单位联合主办",
+    "启动仪式上《银川市西夏陵世界文化遗产保护条例》正式实施并举行西夏服饰走秀",
+    "西夏陵博物馆同步推出蜀地与宁夏青铜文物展并召开学术研讨会"
+  ],
+  "exclude_if": [
+    "2025年7月联合国教科文组织第47届世界遗产大会西夏陵申遗成功的原始新闻",
+    "非2026年7月银川西夏陵申遗一周年节点的日常文旅或常规展览活动",
+    "与西夏陵无关的其他世界遗产地一周年纪念活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "西夏陵申遗成功一周年，推出这些重磅活动！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcPSY1m6GtMIZ_NHQuld_RFNJpfNIZdPAiD8CP57El4nLqYeqdQAeEG120PSpdz-m7TGrF0dLnsQ4W841tpRZo7jQctKzah3pkeLizoxomTezFB8I9yrGWIVP23rA7FbbA",
+      "publisher": "银川晚报",
+      "published_at": "2026-07-11"
+    },
+    {
+      "title": "银川西夏陵启动世界文化遗产保护与价值阐释系列活动",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMrEOGdWgvZ9j4L9hdZfcKryqn0RUpsQedTmAXl6R3F5t8GGWMNLLpZ-Eu1TpgMnZL_WuhFAXDWdgqLH2waMWt1lYjX4dQ92MKzcZZojjhjhC3Yp0sz5hqcjMNOKn5MQlXsi3tm5Yl-keqn7zW2jZ72EAuo0l8LsFMoWo=",
+      "publisher": "中国新闻网 / 新浪财经",
+      "published_at": "2026-07-11"
+    },
+    {
+      "title": "入遗周年启新程川宁携手护王陵——西夏陵世界文化遗产保护系列活动启幕",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmQb7Qykse24qcX98hxt-7BBjvaQB9SK1gaooMq57bzM1gYOFdbqmyJw6E1B9yYWXk539U7LhW1kmwjEwQaccB6p5o8VDesBnumOnk9ysA7RsIN7w9f6H-j14yqdjPx0VnLA==",
+      "publisher": "央广网",
+      "published_at": "2026-07-11"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:52"
+}

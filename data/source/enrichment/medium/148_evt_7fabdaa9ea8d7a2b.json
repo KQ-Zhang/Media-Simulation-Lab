@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_7fabdaa9ea8d7a2b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "全国政协委员刘争在2026年全国两会“委员通道”谈中国航天发射与自主创新",
+  "factual_description": "2026年3月7日下午，全国政协十四届四次会议第二场“委员通道”集体采访活动在北京人民大会堂举行。全国政协委员、中国航天科技集团第一研究院（首都航天机械公司）主任工艺师刘争接受媒体采访并介绍了中国航天发展成就。刘争介绍，2026年2月11日，长征十号可重复使用运载火箭搭载梦舟载人飞船联合飞行试验取得圆满成功，标志着中国载人月球探测工程取得重要阶段性进展。刘争算了一笔“航天账”指出：20年前他刚参加工作时中国每年仅能发射五六枚火箭，而过去一年发射量已达八九十枚；从新中国第1次火箭发射到第100次发射历时37年，而最近100次发射只用了1年多。他表示，航天人正不断提升火箭制造能力，团队通过工艺与装备一体化实现协同创新；从跟随到引领，中国航天部分技术创新已踏足“无人区”，唯有自主创新才能在国际竞争中赢得主动，未来团队将继续聚焦可重复使用和智能制造两大核心领域攻关。",
+  "event_time": {
+    "start": "2026-03-07",
+    "end": "2026-03-07",
+    "precision": "day",
+    "evidence": "新华社、央视新闻及环球网等报道，2026年3月7日下午，全国政协十四届四次会议第二场“委员通道”在人民大会堂举行，刘争委员在此期间发言。"
+  },
+  "locations": [
+    "中国/北京市/人民大会堂"
+  ],
+  "aliases": [
+    "刘争委员通道谈火箭发射",
+    "全国政协十四届四次会议第二场委员通道刘争发言",
+    "刘争算航天账：最近100次火箭发射仅用1年多",
+    "航天工艺师刘争：把火箭造得更快更好",
+    "刘争委员：中国航天部分技术创新已踏足无人区"
+  ],
+  "retrieval_queries": [
+    "刘争 委员通道",
+    "刘争 100次火箭发射",
+    "刘争 航天账",
+    "航天工艺师刘争 把火箭造得更快更好",
+    "刘争 中国航天 无人区",
+    "全国政协十四届四次会议 刘争"
+  ],
+  "must_match_facts": [
+    "主体为全国政协委员、中国航天科技集团一院工艺师刘争",
+    "时间为2026年全国两会期间（2026年3月7日）",
+    "场合为全国政协十四届四次会议第二场‘委员通道’",
+    "提到从首发到第100次发射历时37年、最近100次火箭发射仅用1年多",
+    "提及长征十号与梦舟载人飞船联合飞行试验成功及技术创新进入无人区"
+  ],
+  "exclude_if": [
+    "非刘争本人的其他两会代表委员发言",
+    "讨论往届全国两会（如2023年、2024年、2025年）委员通道发言的报道",
+    "单纯介绍长征火箭某次具体发射任务的技术通报而未涉及2026年两会委员通道发言"
+  ],
+  "source_evidence": [
+    {
+      "title": "两会速递丨刘争委员：最近100次火箭发射仅用1年多",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEysiozsEpHfbbwC26EoZ84qqt2mtQYydQ7SOalJdm0jQD9_DvSqA1i0xLfwvrsnY0rGyhnJU42lDa3c2riMbwqNyJCxYt_Gk2d90wxq3wmE0ZYbxj_PBdhmpdr3zMMCjsFxWMunyME3hBl9_z6JB2tOjgnD-MaYu_G",
+      "publisher": "新华网",
+      "published_at": "2026-03-07"
+    },
+    {
+      "title": "全国政协委员刘争：100次火箭发射仅用了一年多",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVg9Fv7O2kA7Gq0IjIZR704LvIjMtySz3ns_a3L5YRQJW-MNV9mc0EJLN8ZTe1gXdnzJ0iQvvRngfj1GZB7R9lRLlUcfc4twnb-BXRntHMUnp_vNTapNo9yvWWB8C_oc_alTh_vsw=",
+      "publisher": "环球网",
+      "published_at": "2026-03-07"
+    },
+    {
+      "title": "委员通道丨航天工艺师刘争：把火箭造得更快更好",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoKtw7Ckd6xYGjLe7NDjUm5XRAzGqg8a9mIxHonq4a-YftFCsDczoi8YAMcZSdk_QttxBXQ56ptPxlI-JrSX_TtQ-OShc_vdsi0Z39t360Kdov-aKvPwy7XAiEWv9na-wm",
+      "publisher": "央视新闻 / 腾讯新闻",
+      "published_at": "2026-03-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:49"
+}

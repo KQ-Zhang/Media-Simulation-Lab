@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_a972adfe11c1a504",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "超2410万伊朗人注册“为伊朗捐躯”网站志愿为国献身",
+  "factual_description": "2026年4月14日，据伊朗迈赫尔通讯社报道，已有超过2410万伊朗人在名为“为伊朗捐躯”的网站登记注册，志愿为国献身。该活动组织者表示，活动源于社会各界在公共媒体和公众空间提出的普遍诉求，旨在为民众提供象征性参与平台，记录支持国家安全和领土完整的集体意志，抵御外来威胁。此前，伊朗总统佩泽希齐扬、伊斯兰议会议长卡利巴夫已先后宣布加入该活动；截至4月14日，登记人数已占伊朗总人口（约9000万）的四分之一以上。",
+  "event_time": {
+    "start": "2026-04-14",
+    "end": "2026-04-14",
+    "precision": "day",
+    "evidence": "伊朗迈赫尔通讯社于2026年4月14日报道该网站注册人数突破2410万，新华社于德黑兰时间4月14日发稿、国内媒体于4月15日集中转载。"
+  },
+  "locations": [
+    "伊朗",
+    "伊朗/德黑兰"
+  ],
+  "aliases": [
+    "超2410万伊朗人志愿为国献身",
+    "2400多万伊朗人愿为国献身",
+    "伊朗2410万人注册捐躯网站",
+    "伊朗总统议长加入为伊朗捐躯活动",
+    "超2400万伊朗人注册为伊朗捐躯网站"
+  ],
+  "retrieval_queries": [
+    "超2410万伊朗人 志愿为国献身",
+    "为伊朗捐躯 迈赫尔通讯社",
+    "超2410万伊朗人 为伊朗捐躯",
+    "佩泽希齐扬 卡利巴夫 为伊朗捐躯",
+    "2400多万伊朗人愿为国献身",
+    "2410万人在为伊朗捐躯网站登记"
+  ],
+  "must_match_facts": [
+    "伊朗迈赫尔通讯社报道超2410万人在“为伊朗捐躯”网站登记注册",
+    "参与者志愿为国献身、保卫国家安全",
+    "伊朗总统佩泽希齐扬及议长卡利巴夫已宣布加入该活动"
+  ],
+  "exclude_if": [
+    "仅报道2026年4月7日卡利巴夫宣布加入且人数为1400万的早期阶段新闻",
+    "历史两伊战争时期的动员征兵事件",
+    "非“为伊朗捐躯”线上登记活动的其他实体征兵或军事集会"
+  ],
+  "source_evidence": [
+    {
+      "title": "2400多万伊朗人志愿为国献身",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBxgOTj1Da7XpPp1I-OUHhXtjlYp2JGVtG_sxUMCYAUJZWfCkg3WJ3l_TYAvHdnBWipmzslVWxdwNtTyaaMS8fXxPCTu2wcelnR12_bMzSLnF6osoKymNQib1U9pvfdtEC5AIgE7SmVLhpTUtaJ5DbzLnM1fEMTBcuY04OaKIwww==",
+      "publisher": "新华网",
+      "published_at": "2026-04-15"
+    },
+    {
+      "title": "2400多万伊朗人志愿为国献身--国际",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoi9uYRAwNiUSM8O0PubClThktsfS4g5Tv2-2mWEFvjEu31iecNgHvvJ9elqENJO-NZttIj2XDq3H569NE8lkdVVXOudMY5lGizjpKSqtJ0ibqIZ84N7U8m1TSu2I6N1LMkUK9RKG9UiTazte3PUoRW5E=",
+      "publisher": "人民网",
+      "published_at": "2026-04-15"
+    },
+    {
+      "title": "2400多萬伊朗人願為國獻身",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ-jBp46WlnAxQHsL52DKLs8brM6YwGZZqy3EwnyJGY_OYWvX5TmCr4iU_YWRz18vt6fphDmsdgs-S6XJEZfKA2pZYRrl1EYzG7To3-iYAHsZrcxnr9mOT9DVFkQ==",
+      "publisher": "鉅亨網",
+      "published_at": "2026-04-15"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:12"
+}

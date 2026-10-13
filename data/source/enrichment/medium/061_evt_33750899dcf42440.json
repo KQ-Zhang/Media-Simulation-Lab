@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_33750899dcf42440",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年5月20日深圳迎来结婚登记高峰",
+  "factual_description": "2026年5月20日，因谐音“我爱你”，叠加正值第二届深圳市甜蜜经济高质量发展服务月，广东省深圳市迎来结婚登记高峰。当天清晨深圳虽遇降雨天气，全市各区婚姻登记处门前依然早早排起长队，部分新人甚至提前连夜排队等候。深圳晚报、深圳广电《第一现场》等多家主流媒体前往福田区民政局婚姻登记处等地现场探访报道，福田区婚姻登记处除线上预约外还受理现场号，预计全天接待350对以上新人。为满足市民登记需求，全市婚姻登记机关通过增设服务窗口、增派人手和延时服务等措施做好保障，承诺“不办完不打烊”。据深圳市民政局官方统计，截至5月20日19时，全市各区婚姻登记处全天共办理结婚登记2541对，超过去年（2025年）同期的2418对，创近年来单日办理量新高。",
+  "event_time": {
+    "start": "2026-05-20",
+    "end": "2026-05-20",
+    "precision": "day",
+    "evidence": "深圳市民政局通报及《深圳晚报》、《深圳特区报》等报道，2026年5月20日深圳迎来结婚登记高峰，全天共办理结婚登记2541对。"
+  },
+  "locations": [
+    "中国/广东省/深圳市",
+    "中国/广东省/深圳市/福田区/福田区民政局婚姻登记处"
+  ],
+  "aliases": [
+    "深圳520领证人数创近年之最",
+    "2026年深圳520结婚登记高峰",
+    "被广东人的520甜到齁",
+    "甜甜的爱情轮到深圳人了",
+    "下雨天也挡不住深圳人领证的热情"
+  ],
+  "retrieval_queries": [
+    "2026 深圳 520 结婚登记 2541",
+    "被广东人的520甜到齁 深圳晚报",
+    "甜甜的爱情轮到深圳人了 福田区民政局",
+    "深圳520领证人数创近年之最",
+    "下雨天也挡不住深圳人领证的热情 第一现场",
+    "520深圳福田婚姻登记处约300多对新人登记",
+    "2026年5月20日 深圳民政局 结婚登记"
+  ],
+  "must_match_facts": [
+    "事件实际发生于2026年5月20日（520当天）",
+    "发生地点位于广东省深圳市各区婚姻登记处（媒体重点走访福田区婚姻登记处等）",
+    "深圳市民政局官方统计2026年5月20日全天共办理结婚登记2541对，创近年单日新高",
+    "当天清晨深圳出现雨天天气，媒体现场报道新人冒雨排队登记领证",
+    "深圳晚报、第一现场等媒体在现场发起“被广东人的520甜到齁”“甜甜的爱情轮到深圳人了”等话题报道"
+  ],
+  "exclude_if": [
+    "2025年5月20日深圳办理结婚登记2418对的相关报道",
+    "2023年或2024年深圳520结婚登记新闻",
+    "七夕节、情人节等其他日期的婚姻登记报道",
+    "深圳以外其他城市的520结婚登记新闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "“520”全天深圳办理结婚登记2541对",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx70nE18rLYphi5JB0WyoVzX2IQ4vdSaA1Asves0THwOC65vLse-ONEOo79sV4jvGeZMpLyEcCQah2kwXWtoevl6ub4grJzgg3zyNTcOp-EbH0GA3GbJcFLaxlZ2EstZp0-zydmIrZmeQeDUN864CkiHkIzhxdNqo=",
+      "publisher": "深圳市民政局 / 深圳晚报",
+      "published_at": "2026-05-22"
+    },
+    {
+      "title": "一季度深圳办理结婚登记同比增逾10%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR1cdZGthqkM67DwO0FOKW8WJifFRhY9K_C9eP3u3MiiUCkH0tL_bXtpBKNnYsQiHapg6G7gBT7NqeJT49Oafo8O8aL5miLVhSJxoAY2Kwc6z1nsEaUjeez3jE8kjq6U5CZzEIJo7zbFhdwK0M5IwS",
+      "publisher": "人民网 / 深圳特区报",
+      "published_at": "2026-05-21"
+    },
+    {
+      "title": "“跨省通办”一周年效果显著，多省“520”结婚登记创新高",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHNrzdNpIE75yenICnuARBboa-0eNl_HD6h-Qr2K5zAPrBKE1YkuGxEU_zDofSkz_Tyabm75Or73bpg73qLjSLze-QUsMb3f2VP2gHA19K8_LDcdI_xWGpeOfbyDG2DYkQkaA=",
+      "publisher": "界面新闻",
+      "published_at": "2026-05-22"
+    }
+  ],
+  "uncertainties": [
+    "输入现有名称和描述中误记为2023年5月20日，经核验该组微博文本、短链接及深圳晚报探访福田婚登处的实际报道均发生于2026年5月20日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:46"
+}

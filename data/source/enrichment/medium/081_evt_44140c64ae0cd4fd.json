@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_44140c64ae0cd4fd",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "重庆广阳岛天盟俱乐部“4·4”动力三角翼坠落事故",
+  "factual_description": "2026年4月4日15时30分许，重庆天盟航空体育运动俱乐部有限公司实际控制人蒋某驾驶动力三角翼（动力悬挂滑翔机）搭载一名女乘客从重庆市南岸区广阳岛机场跑道起飞，飞行约1分35秒后，飞行器左侧机翼与风筝线发生剐蹭，导致机翼受损、飞行器失速，于15时30分49秒坠落于广阳岛胜利草场内地面。事故造成机上乘客经抢救无效死亡，驾驶员蒋某受伤，飞行器受损，直接经济损失约212万元。2026年6月18日，重庆市南岸区应急管理局公布事故调查报告，认定该起事件为一般生产安全责任事故。事故直接原因为飞行器与风筝线剐蹭致失速坠落；间接原因为天盟公司长期未按要求报送飞行计划擅自飞行，未建立并落实双重预防机制，飞行前未消除航线存在风筝的隐患，且未按规定为乘客正确佩戴头盔。调查组建议将涉嫌重大责任事故罪的飞行员蒋某移交司法机关追究刑事责任，对涉事相关企业及责任人给予行政处罚，并移交相关监管责任线索。",
+  "event_time": {
+    "start": "2026-04-04",
+    "end": "2026-04-04",
+    "precision": "day",
+    "evidence": "南岸区应急管理局发布的《事故调查报告》显示，事故发生于2026年4月4日15时30分许。"
+  },
+  "locations": [
+    "中国/重庆市/南岸区/峡口镇/广阳岛胜利草场"
+  ],
+  "aliases": [
+    "重庆广阳岛动力三角翼坠落事故",
+    "南岸峡口天盟航空俱乐部4·4坠落事故",
+    "广阳岛滑翔机坠落致1死1伤事件",
+    "重庆广阳岛风筝线割断机翼坠机事故"
+  ],
+  "retrieval_queries": [
+    "重庆 广阳岛 动力三角翼",
+    "天盟航空 广阳岛 坠落",
+    "南岸 广阳岛 4·4 事故调查报告",
+    "广阳岛 风筝线 三角翼 坠落",
+    "重庆天盟航空体育运动俱乐部有限公司 4·4"
+  ],
+  "must_match_facts": [
+    "发生于重庆市南岸区广阳岛",
+    "涉事飞行器为动力三角翼（动力悬挂滑翔机）",
+    "涉事运营主体为重庆天盟航空体育运动俱乐部有限公司",
+    "直接原因为机翼与风筝线剐蹭致失速坠毁",
+    "事故造成1死1伤（乘客死亡、驾驶员受伤）"
+  ],
+  "exclude_if": [
+    "重庆石柱直升机坠落事故",
+    "重庆梁平直升机坠毁事故",
+    "其他无风筝线剐蹭或无天盟俱乐部参与的低空飞行器事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "南岸峡口重庆天盟航空体育运动俱乐部有限公司“4·4”一般坠落事故调查报告",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJgNl9VZ7fnrEJiW4AFNByxyLr1awiyvh2w_foz_UICHyvGouUJXlsun4rhaFcfEA29snu15JCfqKbkjgHvc3y8e-358fmWKQgNycKaOVcEmRdTab1uA_KWjw_vDv8mdALO5orXXXTjnsbmF-VAIAWrfwT7LY5AEbTWZZ7XQVJhkzJMi8agBJF2Me2CDUug0Oibg4NtCPMcXiKuVnkE1yi",
+      "publisher": "重庆市南岸区人民政府",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "重庆通报广阳岛动力三角翼坠落致1死1伤：三角翼与风筝线剐蹭，是事故的直接原因",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdbxKWzB2zJ6o-N0ieJOHzoiWctbLSiFtlrb0mohbM9Gi6X4w4Orp10JUjd9S7Zz1WNy4R_Tuz9xzsVjXPt-Kes-Rwrk23sriFBKSpOHkPDoFaWEq3TRKCbENawIc5B5PTSHnGg4e1PbjDAdWX1kj-pKTMrjz29mA=",
+      "publisher": "封面新闻 / 新浪财经",
+      "published_at": "2026-06-19"
+    },
+    {
+      "title": "重庆官方通报：固定三角翼飞行器坠落，一名飞行员及一名乘客受伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELpUrkmiBG4s62R2Tgn6nANPgz-O1rSNnhNUNKuvP4TrWCxkceQwbc--ZbQDD9B-c9SrVwZJDKYuOdmwWEvD6GiwHp5tauiTUMbrVR5rRydUELGy4F1itSuxWb0FacSPrYYjprPg1bvgMHCQVJg8jDXu9TObPyyik=",
+      "publisher": "南岸发布 / 封面新闻",
+      "published_at": "2026-04-04"
+    }
+  ],
+  "uncertainties": [
+    "放风筝的具体人员身份在公开调查报告通报中未明确提及是否已查清追责"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:05"
+}

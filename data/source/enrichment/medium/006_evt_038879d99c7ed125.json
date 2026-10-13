@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_038879d99c7ed125",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "网红黄一鸣遛狗未牵绳引发冲突并致歉事件",
+  "factual_description": "2026年6月20日，网红黄一鸣在安徽省安庆市因健身回家后发现其爱犬“小虎”意外死亡，在下楼对接宠物殡葬工作人员期间，携带另一只宠物狗“图图”外出且未佩戴牵引绳。未牵绳犬只在公共通道碰到一名女性路人，同行男子护妻心切踢了犬只一脚，导致黄一鸣与该对夫妻发生激烈言语冲突并报警。争执过程中，黄一鸣情绪激动，说出“我是百万网红你知道吗”“我现在就要把你发到网上”等施压言论。现场冲突视频被传至网络后引发公众批评。6月20日晚，黄一鸣发布视频含泪道歉，承认“不牵绳一定是我的问题”，表示事后已与当事路人协商和解，并承诺今后无论何种情况均会牵绳、文明养宠。",
+  "event_time": {
+    "start": "2026-06-20",
+    "end": "2026-06-20",
+    "precision": "day",
+    "evidence": "主流媒体报道明确指认黄一鸣于2026年6月20日因爱犬离世下楼接殡葬人员时未牵狗绳与路人冲突，并于当日发布含泪道歉视频。"
+  },
+  "locations": [
+    "中国/安徽省/安庆市"
+  ],
+  "aliases": [
+    "网红黄一鸣因宠物狗未牵绳与路人发生冲突并道歉",
+    "黄一鸣遛狗未牵绳争执事件",
+    "黄一鸣我是百万网红事件",
+    "黄一鸣含泪道歉不牵绳是我的问题"
+  ],
+  "retrieval_queries": [
+    "黄一鸣 遛狗 未牵绳",
+    "黄一鸣 百万网红 你知道吗",
+    "黄一鸣 小虎 图图 殡葬",
+    "黄一鸣 含泪道歉 牵绳",
+    "黄一鸣 遛狗 冲突 和解"
+  ],
+  "must_match_facts": [
+    "涉事主体为网红黄一鸣（账号鸣鸣酱）",
+    "因爱犬离世下楼接殡葬人员时携带另一犬只未牵绳",
+    "未牵绳犬只碰到女性路人后被其丈夫踢开引发口角并报警",
+    "黄一鸣在争吵中称自己是百万网红并威胁发到网上",
+    "黄一鸣事后发布出镜视频哭诉致歉并表示已达成和解"
+  ],
+  "exclude_if": [
+    "仅讨论2024年6月黄一鸣自曝未婚生女及指认王思聪为生父的娱乐炒作事件",
+    "其他非黄一鸣当事人的遛狗不牵绳治安冲突纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "网红黄一鸣因宠物狗未牵绳与路人发生冲突，争执中曾说“我是百万网红”“我要把你发到网上”，随后含泪道歉：不牵绳是我的问题",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoAuorf4YuiZFU-zkLxOYPMEWawmQWjCnBAh0fc3QI74KlPFzEmz4Y4rQW20A8oqKhEYU3VbT5j2pXGINeQqs2ZKk2t7tq9G58qlg4ctOkgwpqJcJFl4U_x0ip_OaF6wpnsnGv7g==",
+      "publisher": "极目新闻",
+      "published_at": "2026-06-21"
+    },
+    {
+      "title": "凭王思聪女儿妈妈身份成百万网红网暴素人账号被封塌房了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqtqsDk2UZDOy15Az_BAghARfU3I1APhBWMjLyfUSgiD_SfOwv9q4BG5fKgDYSjO_rBVpIpXVHRlfXk7I6UkZGNVZr2pIC7ZkM0i12DonNNnpX4Jo0Q5tjVgLZ77HY4Mg-Oo_Aq0rLVZ77kJoac-64XfjZ",
+      "publisher": "联合早报",
+      "published_at": "2026-06-27"
+    }
+  ],
+  "uncertainties": [
+    "现有描述及部分网络早期转述将年份混淆为2024年（实为黄一鸣公开炒作生父风波的年份），经核实遛狗冲突与道歉事件确切发生于2026年6月20日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:12"
+}

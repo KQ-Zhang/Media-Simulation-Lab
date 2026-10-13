@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_27aece45f77a2caa",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "南京新街口19岁男子花106万买金条涉电诈洗钱案",
+  "factual_description": "2026年5月中旬，一名19岁男子在江苏省南京市新街口某商场金店选购价值106万元的大额金条，并反常地执意要求使用对公账户付款。店员结合警方日常反诈防范培训察觉异样，立即通过反诈联络群向南京警方报备。警方接报后迅速展开侦查，于次日凌晨将该男子抓获，并现场扣押了价值106万元尚未交付的金条。经警方调查，该笔106万元资金系电信网络诈骗团伙骗取广东受害人的赃款；该男子作为团伙中的“拿手”（即负责取款转移赃款的人员），接受线上指使，企图通过线下购买金条再转卖的方式协助洗钱，要求“对公转账”则是为诱骗被害人打款。目前，该男子因涉嫌掩饰、隐瞒犯罪所得罪被警方刑事拘留；2026年5月19日，南京警方已将涉案金条发还给广东受害人。",
+  "event_time": {
+    "start": "2026-05",
+    "end": "2026-05-19",
+    "precision": "day",
+    "evidence": "媒体报道该案发生于2026年5月中旬，南京警方凌晨破案扣押金条，并于2026年5月19日将扣押金条发还给广东受害人。"
+  },
+  "locations": [
+    "中国/江苏省/南京市/新街口商圈"
+  ],
+  "aliases": [
+    "19岁少年花106万买金条店员报警",
+    "19岁少年百万买金条坚持对公付款",
+    "南京新街口19岁小伙买金条洗钱案",
+    "19岁小伙豪掷百万元买金条被南京警方抓了"
+  ],
+  "retrieval_queries": [
+    "19岁少年花106万买金条店员报警",
+    "19岁少年百万买金条坚持对公付款",
+    "南京 新街口 金店 106万 金条",
+    "南京 19岁 金条 对公账户 洗钱",
+    "南京警方 106万 广东受害人 金条",
+    "19岁 男子 106万 掩饰隐瞒犯罪所得 南京"
+  ],
+  "must_match_facts": [
+    "19岁男子在南京新街口某商场金店选购价值106万元金条",
+    "男子执意要求使用对公账户付款引发金店店员警觉并报警",
+    "购金资金系电诈团伙诈骗广东受害人的赃款",
+    "男子受线上指令充当洗钱'拿手'企图通过买卖金条转移赃款",
+    "男子因涉嫌掩饰、隐瞒犯罪所得罪被南京警方刑事拘留",
+    "价值106万元的涉案金条于2026年5月19日被警方发还受害人"
+  ],
+  "exclude_if": [
+    "非南京新街口商圈发生的金店交易案件",
+    "涉案金额非106万元的其他黄金洗钱或诈骗案件",
+    "非对公账户付款特征的黄金洗钱案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "19岁小伙豪掷百万元买金条，被南京警方抓了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7Bl6LTGQEdheG6uwQ8ab2CLGfhyVC47P0TukQT8zxXSJbDvjuITrikTrfbIxj8XeV9O55eXL0q8vpukGsrkWAAiuMANAq-rl_a66HNb1uxGxgcV02bW5AQUjvzasUnMXx4QRBPhx6Jg==",
+      "publisher": "南京广播电视台（转载江苏警方通报/光明网转引）",
+      "published_at": "2026-05-25"
+    },
+    {
+      "title": "店员悄悄叫来警察：钱是诈骗广东受害人的赃款，该男子已被刑拘",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJ2NW3v0Qzl-1lslId6aJqA7vENma1Tom5TXDKBEcqFVII_7JXiyHeqU_6tkK5Lpp3la6i8jxZzT_Zhvt0FP4W3VOijDLF2qe_64A3TbXcOmtpAsvvOl4kSogSxuolgkNI",
+      "publisher": "红网（源引南京警方、荔枝新闻）",
+      "published_at": "2026-05-23"
+    },
+    {
+      "title": "19岁男子豪掷106万元买金条，坚持用对公账户付款，店员立马报警了......",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnRpNMWEs0vjn68wk8O4SrSV-WOB18HcKRnI9XLf8jO3MxuSAcGZe2pc7WFz1tP1M-i7t_RE28mCt6JZFtoK0cOKNOJywkoEfg1Asi_x_ymAwWAhAMWjZDSF_94gZ8wGrTK7_XV2vkVT1JC916vZikNLUO6ECyaLXK",
+      "publisher": "杭州日报（新浪财经转载）",
+      "published_at": "2026-05-23"
+    }
+  ],
+  "uncertainties": [
+    "涉事具体商场及金店名称在警方和主流通报中未公开具体字号"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:28"
+}

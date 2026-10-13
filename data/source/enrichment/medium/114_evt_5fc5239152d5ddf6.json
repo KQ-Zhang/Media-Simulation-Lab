@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_5fc5239152d5ddf6",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广州一医院助理医师外出用餐猝死未获认定工伤事件",
+  "factual_description": "2025年8月16日中午，广州某医院34岁助理医师陈明华（化名）与家人在快餐店用餐时突发胸痛，经抢救无效于当日15时10分宣告死亡，死因为心源性猝死。家属王女士反映，陈明华事发前一周曾连续在院值班多日，事发当天凌晨4时许仍在与同事沟通工作，事发前几分钟仍在手机微信回复肿瘤患者消息，主张其长期超负荷工作且事发时处于履行职务状态，应认定为工伤。涉事医院则表示，其岗位为助理医师无需出门诊和手术，连续值班系其因个人事务请假而私下调班，事发当天系周六并未安排工作。2025年8月27日医院向广州市越秀区人力资源和社会保障局提交工伤认定申请，同年11月14日，该局作出《不予认定工伤决定书》，认为其并非在工作时间和工作岗位突发疾病死亡，线上处理患者信息具有临时性、偶发性。家属随后向广州铁路运输法院提起行政诉讼，该案于2026年5月立案，2026年8月10日开庭审理且当庭未宣判。",
+  "event_time": {
+    "start": "2025-08-16",
+    "end": "2026-08-10",
+    "precision": "day",
+    "evidence": "陈明华于2025年8月16日突发胸痛经抢救无效死亡；家属提起行政诉讼后，法院于2026年8月10日开庭审理。"
+  },
+  "locations": [
+    "中国/广东省/广州市/越秀区"
+  ],
+  "aliases": [
+    "广州医生外出用餐猝死工伤认定未通过",
+    "广州某医院助理医师外出用餐猝死事件",
+    "医生外出用餐时猝死未认定工伤",
+    "广州助理医师陈明华猝死工伤争议案"
+  ],
+  "retrieval_queries": [
+    "广州 助理医师 猝死 工伤认定",
+    "陈明华 外出用餐 猝死 九派新闻",
+    "医生 外出用餐 猝死 未认定工伤",
+    "广州 医生 猝死 回复患者 工伤",
+    "越秀区人社局 医生 猝死 不予认定工伤",
+    "医生 连续值班 调班 猝死 诉讼"
+  ],
+  "must_match_facts": [
+    "死者为广州某医院助理医师陈明华（化名），终年34岁",
+    "事发时间为2025年8月16日周六中午，陈明华在快餐店用餐时突发胸痛猝死",
+    "家属称其事发前仍在线回复患者消息且前一周连续值班，医院称连续值班为请假调班",
+    "广州市越秀区人社局于2025年11月出具不予认定工伤决定书",
+    "家属向广州铁路运输法院提起行政诉讼，2026年8月开庭审理"
+  ],
+  "exclude_if": [
+    "发生在广州以外地区的医生猝死事件",
+    "在医院工作岗位内值班期间直接倒地猝死并已认定为工伤的事件",
+    "与规培生、医学生相关的猝死事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "广州一医生外出用餐时胸痛后猝死，家属称事发时仍线上回复患者，工伤认定未通过；涉事医院否认工作强度大：他连续一周值班是为请假而调班",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzqk4FEoUq3NCmQ36JSdkEcPPleJB7Q0k03A5aMRHl8d8BkSPtz8uomklDbnzH39pJMWk_Y_KylCKKqAshTIeQr9bfUakHFxsi74px7MU7NR0-e7ypAIwJsEuD2dDDjgS4I4CBv2X-nc2s",
+      "publisher": "九派新闻（网易转报）",
+      "published_at": "2026-08-23"
+    },
+    {
+      "title": "医生外出用餐猝死未认定工伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTiYNcvF0sjL-lN1LbSBqNV8GR-aFBbm9dyBJ_3BSiaN8IxPcChZWGprp7UaF4lVThR0fJZUaD0X1sQCifMAeHXeMYxG7dIE5ZBTOIOuQnW5MrQ5asZm2nYwjsu28u8YcVQksPXSHnTzW3kQ==",
+      "publisher": "荔枝新闻（新浪转报）",
+      "published_at": "2026-08-22"
+    }
+  ],
+  "uncertainties": [
+    "涉事广州某医院的具体法定名称在公开主流报道中未指明全称",
+    "广州铁路运输法院行政诉讼案当庭未宣判，一审判决结果尚未公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:00"
+}

@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_e101aa82bb8cfba0",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "央视曝光“澳洲优思益”保健品产地造假事件",
+  "factual_description": "2026年3月31日至4月1日，央视新闻报道曝光宣称“澳洲原装进口”的热销保健品品牌“优思益”（YouthIt）涉嫌全链条产地造假与虚假宣传。调查显示，优思益包装标注的澳大利亚墨尔本注册地址实际为一家汽车维修站，其产品未取得国内保健食品“蓝帽子”标识，实际由国内代工厂（如仙乐健康科技安徽公司等）生产后通过保税仓发货伪装进口。该品牌由广州雅拉源健康产业有限公司运营、杭州索象公司策划营销，通过编造品牌故事、购买国际奖项、聘请专家网红背书及明星与头部主播带货等手段被打造为全网销量冠军。报道发布后，广东、浙江两地市场监管等部门介入立案调查，国务院食安办、市场监管总局、海关总署约谈了抖音、淘天、小红书三家电商平台，优思益官方店铺暂停营业并下架，多位带货明星及主播随后公开致歉并启动退赔机制。",
+  "event_time": {
+    "start": "2026-03-31",
+    "end": "2026-04-02",
+    "precision": "day",
+    "evidence": "央视新闻于2026年3月31日夜间及4月1日首发曝光报道；4月1日至2日，广东、浙江市场监管等部门介入立案调查，三部委约谈三大平台。"
+  },
+  "locations": [
+    "澳大利亚/维多利亚州/墨尔本",
+    "中国/广东省/广州市",
+    "中国/浙江省/杭州市",
+    "中国/安徽省/马鞍山市"
+  ],
+  "aliases": [
+    "央视曝光澳洲优思益产地造假",
+    "优思益假洋牌事件",
+    "优思益翻车事件",
+    "澳洲优思益保健品虚假进口及营销欺诈事件"
+  ],
+  "retrieval_queries": [
+    "优思益 央视曝光",
+    "优思益 假洋牌",
+    "优思益 汽修厂",
+    "优思益 广州雅拉源",
+    "优思益 仙乐健康",
+    "优思益 索象营销"
+  ],
+  "must_match_facts": [
+    "央视曝光优思益标称的墨尔本地址实为汽车维修站",
+    "优思益号称澳洲原装进口实为国内代工厂生产",
+    "优思益中国运营商为广州雅拉源健康产业有限公司",
+    "营销策划由杭州索象营销策划有限公司负责",
+    "优思益产品无保健食品蓝帽子标识",
+    "监管部门立案调查并约谈抖音、淘天、小红书等平台"
+  ],
+  "exclude_if": [
+    "小林制药红曲保健品健康危机事件",
+    "2025年央视曝光跨境保健品通用产业链例行报道",
+    "美诚月饼假冒香港品牌事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“进口”保健品乱象曝光：销冠“澳洲优思益”实为纯国产",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4bpbW-OPbtFyJ-P5UVMA2c6QpUjGBrURGG5P9idkjLdgx6BCvv3usKjH71p0vqjGxh7FgoZa8Hvs724IICJTdzXBJqOLrPxhR-NGApCzxs1spVdiIwHbV6dX3V2V9MFFtRxaUm1rkvltnF2-Z9FcFflk537jdyhyLG90myaNuLAo1UrY=",
+      "publisher": "新华网/央视新闻",
+      "published_at": "2026-04-01"
+    },
+    {
+      "title": "网红产品“澳洲优思益”被曝涉嫌产地造假多部门展开调查约谈三家平台企业",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnA1Kk5wq0BYghg3gt_4SVo3NUKNjPEqRrC_BF_2lq1iuvv0RGe8pyoJcWvwK_HMpIFSkrCFNzZECl0R7ca2cEH41YTTboTxQML-lWPEt_Uh2LvwzR8y68et-T-_rZ8fLUtUt6aaoP3ATWtWnnz1NHBgMTmlBXkeKa7bRZaDvD8=",
+      "publisher": "新华网",
+      "published_at": "2026-04-03"
+    },
+    {
+      "title": "总台报道有反馈丨“优思益”代理运营公司被立案调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGd5whzPpDyw4vf8Bv5BX1x-_dpGm5UeCkrmPvzDU5xxh6zHYTpJA_to3c4_MTxTOLdE0tQzHwYOnT3mXQsMnQN3degdG4_oKdqsZIvX4EUH5EcPoLyWCJvj1j3WMgY658NiWIEuXnPOZQSqtp3wGZ44P-tzCZaKWeF",
+      "publisher": "央广网",
+      "published_at": "2026-04-01"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:03:54"
+}

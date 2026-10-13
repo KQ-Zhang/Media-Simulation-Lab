@@ -1,0 +1,82 @@
+{
+  "event_id": "evt_8894e3d918f2f44a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "法国奥德省波马村遭龙卷风袭击事件",
+  "factual_description": "当地时间2026年8月24日下午约17时许，法国西南部奥克西塔尼大区奥德省（Aude）遭遇强雷暴极端天气，一股强龙卷风（初步评估强度在EF2至EF3级之间）袭击了卡尔卡松以南约12公里的波马村（Pomas）及周边地区。龙卷风摧毁并掀翻了大量建筑物的屋顶，吹断树木并造成多辆汽车翻覆。据奥德省政府及救援机构通报，该村约300所房屋受损，部分被彻底摧毁。人员伤亡方面，初期通报造成41人受伤，随后地方官方核实修正为39人受伤（其中15人送医救治，2人重伤，包括一名因房屋倒塌受压的孕妇）。风暴同时造成周边10个村庄约2800户家庭一度断电，并导致公路中断、列车停运及部分机场航班延误。当地出动逾120名消防与应急人员进驻现场开展紧急救援与危房排查。",
+  "event_time": {
+    "start": "2026-08-24",
+    "end": "2026-08-24",
+    "precision": "day",
+    "evidence": "法国官方与各主流媒体通报龙卷风于当地时间2026年8月24日下午（约17时05分至17时20分）过境受灾地区"
+  },
+  "locations": [
+    "法国",
+    "奥克西塔尼大区",
+    "奥德省",
+    "波马村 (Pomas)"
+  ],
+  "aliases": [
+    "法国南部遭龙卷风袭击致41人受伤",
+    "法国西南部奥德省龙卷风",
+    "法国波马村龙卷风灾害",
+    "法国波马斯村龙卷风",
+    "Tornade à Pomas"
+  ],
+  "retrieval_queries": [
+    "法国 龙卷风 波马",
+    "奥德省 龙卷风",
+    "波马斯村 龙卷风 41人受伤",
+    "法国 龙卷风 300所房屋",
+    "Pomas tornade 2026",
+    "法国西南部 龙卷风 39人受伤",
+    "Aude Pomas tornade"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年8月24日",
+    "受灾核心区域为法国奥德省波马村（Pomas）",
+    "灾害类型为局地超级单体引发的强龙卷风",
+    "造成约300所房屋受损",
+    "伤者人数初报41人、后官方核实为39人受损（15人送医）"
+  ],
+  "exclude_if": [
+    "发生在2024年或其他年份的龙卷风事件",
+    "法国北部或其他非奥德省地区的风灾",
+    "非龙卷风所致的单纯强降雨或洪涝灾害"
+  ],
+  "source_evidence": [
+    {
+      "title": "法国西南部遭遇龙卷风41人受伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkswbaiX7yqA707IPNMpmGWLJUFMVN5VKh67az2QW_E4taSC8QeL8tzC5V_aLc0f1TpTO-6yBeBxYAyG3qC8VX4hfhmALFF-gQkAlH0oaCt3AdUuW1xWMUvF81vilqAdGR0OcxtoKbY4MIvfwgHOY6pbFLWYSQ4LEbtKk=",
+      "publisher": "央视网",
+      "published_at": "2026-08-25"
+    },
+    {
+      "title": "龙卷风袭击奥德省小村41人受伤300房屋受损",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDaMvnTA94uQrn3Ky6DFnWnF1JzIwGTjuVB0_aa2Nl_7PT2Czn7ubUcReR1_vklZeYLObZOdUuvFNSurgVeYjJUgJ6Gq36FeoH0Q3SI5GojJcS5dneuu2H8kcBtIch2Zm-uVcMyl4q7LukDX-h2q0W8CiKY42coAVILO8S7cezFTUWwPZVRi-z",
+      "publisher": "欧洲时报",
+      "published_at": "2026-08-25"
+    },
+    {
+      "title": "Tornade au sud de Carcassonne (Aude) ce lundi 24 août",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHn9mzSi9k6Ok4-uNDUdh1fCmdlS4XbEXrPzepd1BZOnTQj-NBpV_2qWO5qSvv00UcRLszygjXTHMVdH8vmWg_HFq-qKTaO78tI1Yhf06uLcAXRVBsPeb8zz3jxJeFuEKs4dmyELtD1nKYYEzwS96zT69U-ovnugnWdF3AA0FK5pmM7n9cddzT6VsvS1xHcC7UIeA0VpMZUe4=",
+      "publisher": "KERAUNOS（法国风暴与龙卷风监测中心）",
+      "published_at": "2026-08-24"
+    }
+  ],
+  "uncertainties": [
+    "输入样本及部分早期中文转载将发生年份误标为2024年，经多份一手与主流报道核验确认发生于2026年8月24日",
+    "受伤人数在救援初期通报为41人，随后当地行政长官与省政府最新核查统计修正为39人"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:03"
+}

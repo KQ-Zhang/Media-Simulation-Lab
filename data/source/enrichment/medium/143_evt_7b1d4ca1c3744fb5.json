@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_7b1d4ca1c3744fb5",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "黑龙江七台河男子沿街拉车门盗窃遇三名下班民警被抓事件",
+  "factual_description": "2026年8月23日，黑龙江省七台河市，一名男子在街头沿路徘徊，挨个试探拉扯路边停放的私家车车门，企图碰运气实施盗窃。有市民发现其异常举动后在旁录像取证。该男子在连续试探过程中，意外拉开了一辆停靠在路边的车辆车门，车内恰好坐着三名下班后临时休整的民警。民警见状立即下车亮明身份并对其进行盘查和控制，当场从该男子随身物品中搜出此前盗窃得手的现金等赃物，实现人赃并获。随后，民警将该男子及涉案赃物带回单位加班开展进一步案件审讯与调查处理工作。",
+  "event_time": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "precision": "day",
+    "evidence": "黑龙江广播电视台《新闻夜航》、生活报新街派、猛犸新闻等主流媒体于2026年8月24日集中报道，明确指出案件发生在8月23日（现有描述中的2023年属年份笔误）。"
+  },
+  "locations": [
+    "中国/黑龙江省/七台河市",
+    "中国/黑龙江省/七台河市/茄子河区"
+  ],
+  "aliases": [
+    "男子沿街拉车门拉出3名下班民警",
+    "男子拉车门盗窃一把拉开了警车门",
+    "男子拉车门盗窃偶遇下班民警",
+    "小偷拉车门遇下班民警人赃并获",
+    "男子拉车门开盲盒开到一车民警",
+    "男子沿街盗窃拉开车门碰上3名民警"
+  ],
+  "retrieval_queries": [
+    "七台河 男子拉车门 3名下班民警",
+    "男子沿街拉车门拉出3名下班民警",
+    "七台河 男子拉车门 盗窃 8月23日",
+    "小偷拉车门 隐藏款 七台河公安",
+    "男子拉车门 碰上3名民警 赃物 加班",
+    "七台河 茄子河 民警 拉车门盗窃"
+  ],
+  "must_match_facts": [
+    "事发地点位于黑龙江省七台河市",
+    "男子采用沿街随机拉私家车车门的方式碰运气盗窃",
+    "男子拉开的车内坐有3名下班民警",
+    "民警当场亮明身份控制嫌疑人并搜出被盗现金等赃物",
+    "现场有市民提前录像取证"
+  ],
+  "exclude_if": [
+    "发生在黑龙江七台河以外地区的拉车门盗窃案件",
+    "团伙作案或暴力砸车窗盗窃案件",
+    "嫌疑人成功逃脱或未现场抓获的拉车门案件",
+    "北京通州、海淀等其他地区拉车门碰运气案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子沿街盗窃拉开车门碰上3名民警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7Rc1DsrcBLN2qHgnkO8bzn8KzPxlbipNukq7ccXkTz4dZ8XvNLvtQ0RZLabXDfibrzRAhedOw_OyPPyDl49d6fDtFJRT2k0nVKBZ6pTJcBekGI7MzoAj_BO-QNvb0Tp8Yh3Nufj8ZYvBKcLenLHr-oXY0dPBN-_lSFPncGw-CVJ4ce0t",
+      "publisher": "猛犸新闻 / 新浪财经",
+      "published_at": "2026-08-24 15:37:00"
+    },
+    {
+      "title": "男子拉车门盗窃偶遇下班民警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFliyIbJx4fJDyAptIalkHr9e7In181V5Bt1h_VZDgSunuCaliPo46IFQcJcw93KTWwiqrcPuDrwMcR9SNAHCLVUHij4n_N3l4DU2ujXCT7WNJWO53wxjZy-CJVWkF80x3XGnpw0YLaCYJ8ig==",
+      "publisher": "生活报新街派（转自黑龙江广播电视台新闻夜航）",
+      "published_at": "2026-08-24 15:30:00"
+    },
+    {
+      "title": "男子拉车门盗窃精准选中民警车辆",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIKEVZe8zQMaG1RHMdwZoGZ2ViTcJ0Cz7vrMQUlG3cpsm0RgGuTGdgEd8Ri2FKHAEQFIFQHoTBYdBq-29G2DtsehPXAs3J7MbqGi8gfFp4Nyb30I_5t_DUppCqHXU_lwT1fdRbOqTbg853",
+      "publisher": "新浪新闻",
+      "published_at": "2026-08-23 20:00:00"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将年份记为2023年，但主流媒体报道及原始信息源均发布于2026年8月23日-24日，证实事件实际发生年份为2026年。",
+    "嫌疑人的具体姓名、年龄以及案件最终行政或刑事处罚结果尚未公开披露。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:54"
+}

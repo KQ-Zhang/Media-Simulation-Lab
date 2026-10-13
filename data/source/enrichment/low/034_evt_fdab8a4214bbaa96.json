@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_fdab8a4214bbaa96",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026湘超第四轮永州队客场2:0战胜湘西队",
+  "factual_description": "2026年8月29日晚，2026年湖南省足球联赛（简称“湘超”联赛）常规赛第四轮展开争夺，卫冕冠军永州队客场挑战湘西队（湘西州队），比赛在湘西州凤凰县民族体育运动中心举行。上半场第38分钟至第41分钟区间，永州队10号球员高响在门前抢点破门，打破场上僵局并终结了湘西队前三轮一球未失的零失球金身；下半场第63分钟，永州队唐梓铨送出助攻，26号唐一洲推射入网，帮助永州队将比分扩大至2:0；第85分钟永州队22号张涛补射破门，但湘西队提出FVS视频挑战成功，进球因越位被判无效。最终永州队以2:0战胜湘西队，迎来2026赛季联赛首场胜利。赛后永州队主帅黄楚儒赞扬了球队的默契与拼搏，湘西队主帅胡璇彧则坦言在教练位置面临困难，并于8月31日宣布辞去湘西队主教练职务。",
+  "event_time": {
+    "start": "2026-08-29",
+    "end": "2026-08-29",
+    "precision": "day",
+    "evidence": "红网、湖南日报及长沙晚报等媒体均报道2026湘超第四轮湘西队对阵永州队的比赛于2026年8月29日晚开打并完赛。"
+  },
+  "locations": [
+    "中国/湖南省/湘西土家族苗族自治州/凤凰县/凤凰县民族体育运动中心"
+  ],
+  "aliases": [
+    "2026湘超第四轮湘西队对阵永州队",
+    "2026湘超湘西队主场0:2永州队",
+    "湘超第四轮永州客战湘西",
+    "湘超永州队赛季首胜破湘西金身"
+  ],
+  "retrieval_queries": [
+    "2026 湘超 永州 湘西 2:0",
+    "湘超 第四轮 永州 湘西",
+    "湘超 湘西队 永州队 2026",
+    "黄楚儒 永州队 湘西队",
+    "胡璇彧 湘超 永州 0:2",
+    "湘超 高响 唐一洲 湘西",
+    "凤凰县民族体育运动中心 湘超 永州",
+    "湘超 永州 2-0 湘西 不败金身"
+  ],
+  "must_match_facts": [
+    "比赛时间为2026年8月29日晚，属于2026年湘超联赛第四轮",
+    "对阵双方为湘西队（湘西州队）与永州队，地点在凤凰县民族体育运动中心",
+    "比赛最终比分为永州队客场2:0战胜湘西队（湘西队0:2永州队）",
+    "永州队高响、唐一洲先后进球，湘西队前三轮零失球不败纪录告破",
+    "永州队借此获得2026赛季湘超首场胜利",
+    "永州队主教练为黄楚儒，湘西队主教练为胡璇彧"
+  ],
+  "exclude_if": [
+    "2025年湘超联赛决赛永州队1:0常德队夺冠",
+    "2026湘超第六轮湘潭队2:0战胜湘西队",
+    "2026湘超第五轮永州队对阵邵阳队",
+    "2026湘超第六轮永州队客场2:0常德队",
+    "2026湘超第四轮怀化队主场0:3娄底队"
+  ],
+  "source_evidence": [
+    {
+      "title": "湘超战报丨永州队获得赛季首胜，娄底队客场三球完胜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdqRuWs4qguxNDJTv6uadu56GYElTLZFugb8jkKj3BxXNnPSCjKsrvGirO-jVrcELUGCWcNGap7dalkxkZVbdaDN3l7BsKUYPFaVGxqKqkHpwOck6Ly7HPOucm1eT1fw9A",
+      "publisher": "红网时刻新闻 / 腾讯新闻",
+      "published_at": "2026-08-29"
+    },
+    {
+      "title": "“湘超”联赛第四轮比赛继续进行，永州队首胜、娄底队登顶",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHckQSRCXFsxS4TuFa3g62U8SlHAUL5NKhTmXzoK9-13jAUJ1H0hTc6dKY0Iu9EdrqETtyVolUR69wI0kjmcshvC4BhXTvwmdKoZSu9Nvy5KxnMe6_71QV19Zg-gF459JYZ",
+      "publisher": "长沙晚报掌上长沙",
+      "published_at": "2026-08-29"
+    },
+    {
+      "title": "永州队首胜！娄底队大胜！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFX6ypx8K1KSw7a5rkR1qMnNb0PgHI0w2N-_3IHCO7h_ilNg-I--itCRw_0_5Tbk8URstMRXUTbDPKrA26vayI8YH98yuXOrHT6L9V5CEGtcKqkxnmgRKMFoHdu8ha__FgLEAb7-Ntp_nNMWU3RSnEvvaq970yD2V0W1A==",
+      "publisher": "湖南日报微信公号 / 新浪财经",
+      "published_at": "2026-08-29"
+    },
+    {
+      "title": "“湘超”怀化、湘西主教练相继宣布离职",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMskFZnnC5QbpgR6QENfcHDe-QxhQHm3z2vyQMkU6VUyMbnQw0738a0f5f-a0TMR0HtWH7JOadaHedLd6DTGPaC8wypEa0liyFPkjOIxDCbwtY-pdz0PLcmacAQW94PvpMBbsy5Rp3o8LWWSsd4fMpfjZTih-qpRutTH8YTJvSXjzBBgOm8gTLLeoJ0JO0pdTCRA==",
+      "publisher": "潇湘晨报 / 腾讯新闻",
+      "published_at": "2026-09-02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:50"
+}

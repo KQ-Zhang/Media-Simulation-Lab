@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_72fbdd2351fa4a3f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "宁夏回族自治区第十一届人大常委会原委员陈胜利接受审查调查",
+  "factual_description": "2026年8月7日，中央纪委国家监委网站援引宁夏回族自治区纪委监委通报称，宁夏回族自治区第十一届人大常委会原委员、自治区人大法制委员会原主任委员陈胜利涉嫌严重违纪违法，目前正接受宁夏回族自治区纪委监委纪律审查和监察调查。相关权威媒体包括新华网、央视网等同日发布了正式通报。",
+  "event_time": {
+    "start": "2026-08-07",
+    "end": "",
+    "precision": "day",
+    "evidence": "2026年8月7日，宁夏回族自治区纪委监委发布官方通报，公布陈胜利接受纪律审查和监察调查。"
+  },
+  "locations": [
+    "中国/宁夏回族自治区"
+  ],
+  "aliases": [
+    "陈胜利接受纪律审查和监察调查",
+    "陈胜利被查",
+    "宁夏人大法制委原主任委员陈胜利被查",
+    "宁夏第十一届人大常委会原委员陈胜利接受审查调查"
+  ],
+  "retrieval_queries": [
+    "陈胜利 宁夏 纪委监委",
+    "陈胜利 审查调查",
+    "陈胜利 人大法制委员会",
+    "宁夏 人大常委会 陈胜利",
+    "陈胜利 严重违纪违法"
+  ],
+  "must_match_facts": [
+    "涉事主体为宁夏回族自治区第十一届人大常委会原委员、自治区人大法制委员会原主任委员陈胜利",
+    "调查机构为宁夏回族自治区纪委监委",
+    "事由为涉嫌严重违纪违法，接受纪律审查和监察调查",
+    "立案通报时间为2026年8月7日"
+  ],
+  "exclude_if": [
+    "涉及其他同名人物陈胜利的任免或涉案事件",
+    "涉及宁夏回族自治区其他人大或纪检干部的审查调查事件（如张志敏被查）"
+  ],
+  "source_evidence": [
+    {
+      "title": "宁夏回族自治区第十一届人大常委会原委员、自治区人大法制委员会原主任委员陈胜利接受纪律审查和监察调查",
+      "url": "http://www.xinhuanet.com/legal/20260805/bf8f2bcb3a664fb29a8e67a90deb65e4/c.html",
+      "publisher": "新华网（转引中央纪委国家监委网站）",
+      "published_at": "2026-08-07"
+    },
+    {
+      "title": "宁夏回族自治区第十一届人大常委会原委员陈胜利接受审查调查",
+      "url": "http://www.xinhuanet.com/20260807/04eeb64155104dfcbe33bf4e3776e012/c.html",
+      "publisher": "新华社",
+      "published_at": "2026-08-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:25"
+}

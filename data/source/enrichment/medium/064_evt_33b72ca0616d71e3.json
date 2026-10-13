@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_33b72ca0616d71e3",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广东肇庆德庆72岁老人失联7天在小溪上游获救事件",
+  "factual_description": "2026年6月14日上午8时，广东省肇庆市德庆县悦城镇里村新庙村72岁村民徐连娣老人独自离家外出后失联。接报警后，悦城镇政府联动市县公安、应急、消防、镇村干部及当地群众，每日组织约200人开展跨部门联合搜救。搜救队伍依托道路和村口监控复盘老人行动轨迹，划定重点区域，对山林边坡、河道沿岸、荒地等区域开展地毯式排查，并同步发布寻人启事。2026年6月20日中午12时左右，搜救人员接到村民反映在里村石公坑一小溪处发现疑似老人的拖鞋，经现场核实确认为老人遗留物品。搜救人员随即沿小溪上游继续搜寻，于当天中午12时30分左右在小溪上游成功找到失联7天的老人。老人被发现时意识清醒、身体并无大碍，随后被送往医院接受身体检查和康复治疗。",
+  "event_time": {
+    "start": "2026-06-14",
+    "end": "2026-06-20",
+    "precision": "day",
+    "evidence": "德庆发布及主流媒体报道明确老人于6月14日上午8时离家失联，搜救人员于6月20日12时30分左右将其寻回。"
+  },
+  "locations": [
+    "中国/广东省/肇庆市/德庆县/悦城镇/里村新庙村",
+    "中国/广东省/肇庆市/德庆县/悦城镇/里村石公坑"
+  ],
+  "aliases": [
+    "肇庆72岁老人在深山小溪边被找到",
+    "悦城镇里村一老人失联七天政府多方联动成功寻回",
+    "七昼夜接力搜寻德庆失联老人平安获救",
+    "肇庆德庆老人外出失联七天获救"
+  ],
+  "retrieval_queries": [
+    "肇庆 德庆 悦城镇 徐连娣",
+    "肇庆 72岁老人 深山 小溪 获救",
+    "悦城镇 里村 石公坑 走失老人",
+    "德庆 失联老人 拖鞋 小溪上游",
+    "德庆发布 悦城镇里村一老人失联七天"
+  ],
+  "must_match_facts": [
+    "当事人为广东省肇庆市德庆县悦城镇里村新庙村72岁老人徐连娣",
+    "走失时间为2026年6月14日上午8时",
+    "搜救力量在里村石公坑小溪处发现老人遗落拖鞋",
+    "2026年6月20日中午12时30分左右在小溪上游成功找到老人",
+    "老人获救后意识清醒并被送医检查"
+  ],
+  "exclude_if": [
+    "四川南充仪陇县72岁老人失联事件",
+    "肇庆怀集县11岁男童走失事件",
+    "非德庆县悦城镇里村发生的搜救事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "悦城镇里村一老人失联七天政府多方联动成功寻回",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2VXp9tMJdQqR28VbOyncECaWcuCpSrkg8eKCczeH2aulq6JheJJ5YRkFMh2XDEHkN3DLYCC4AUZzHR_nlH6JugMLugMPX9fuhnz4E1KUUqEXWXQJtdQp0EJjx4xHFiyfpjdmDzceqUYSG2o8rIXCEt_KLYuFIvzmCyoT7e3NgODuJ40A=",
+      "publisher": "德庆发布 / 新浪财经",
+      "published_at": "2026-06-20"
+    },
+    {
+      "title": "肇庆悦城镇里村一老人失联七天，政府多方联动成功寻回",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0fujBukT6zuIn64sV3CoYk3l9iHbcGYOoLmfTBtJMig49T3eHG6hSDw2f6fLXb1zxhympfozagkNi3XWX5X_tuEdfaCI7LVOR4eZXTBU8lT3oOkRT8_6_WPbEYZIuoRcn4kobvsnxDIpoxJjK4gcCKdO2TkGoqZbDzBQ13P89daZ81ljIkEGm",
+      "publisher": "广州日报新花城",
+      "published_at": "2026-06-21"
+    },
+    {
+      "title": "七昼夜接力搜寻，德庆失联老人平安获救",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTxv8Aagt4wneUiahEb-JyDKd6ELKwOR68PEluJab0WuK3nSJ72hxTEbTOiLhjHUQtQBb-FBriAyHqBMONogFvfOLRmy8OWP4aq9owYkQTxowoUaxz0j_RxhjnNmV91yanhgRg7Zg0S44-R5bUs5avnqIzmHMds6LFulRERFpGwW3-JA==",
+      "publisher": "肇庆西江网 / 新浪财经",
+      "published_at": "2026-06-23"
+    }
+  ],
+  "uncertainties": [
+    "输入样本现有描述将发生年份标注为2024年，但权威政务发布“德庆发布”及广州日报、西江网等主流媒体报道时间均确认发生于2026年6月。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:43"
+}

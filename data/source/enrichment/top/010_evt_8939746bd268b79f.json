@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_8939746bd268b79f",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "贵阳都溪林场家属小区马匹受惊致5岁女童死亡事件",
+  "factual_description": "2026年5月12日17时许，贵州省贵阳市白云区都溪林场家属小区发生一起受惊马匹致女童死亡事件。61岁小区居民何某某喂养的马匹受惊挣脱束缚后冲入小区，意外将院内玩耍的5岁女童严某某（小璇）缠绕拖拽，致其严重受伤，送医抢救无效离世。经法医鉴定，女童死因符合勒颈致机械性窒息合并颅脑损伤死亡。事件发生当日，公安机关控制何某某，并于5月13日以涉嫌过失致人死亡对其执行刑事拘留，后续提请白云区人民检察院批准逮捕。2026年5月24日，贵阳市白云区人民政府办公室发布官方通报，表明已成立工作组开展调查善后、慰问救助及全区安全隐患排查整治。",
+  "event_time": {
+    "start": "2026-05-12",
+    "end": "",
+    "precision": "day",
+    "evidence": "贵阳市白云区人民政府办公室于2026年5月24日发布的官方通报显示事件发生于2026年5月12日17时许。"
+  },
+  "locations": [
+    "中国/贵州省/贵阳市/白云区/都溪林场家属小区"
+  ],
+  "aliases": [
+    "贵阳都溪林场马匹受惊致女童拖行死亡事件",
+    "贵阳白云区马匹受惊致5岁女童死亡案",
+    "5·12贵阳女童被马缰绳绕颈拖行致死事件"
+  ],
+  "retrieval_queries": [
+    "贵阳 都溪林场 马匹受惊 女童",
+    "白云区 都溪林场 5岁女童 缰绳",
+    "都溪林场家属小区 马受惊 拖行",
+    "何某某 过失致人死亡 贵阳 马匹",
+    "贵阳 5岁女童 马缰绳 绕颈"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年5月12日贵阳市白云区都溪林场家属小区",
+    "涉事马匹系小区居民何某某饲养，受惊挣脱束缚后冲入小区",
+    "受害者为5岁女童严某某（小璇），被马缰绳缠绕拖拽",
+    "女童送医抢救无效死亡，法医鉴定符合勒颈致机械性窒息合并颅脑损伤死亡",
+    "饲养人何某某因涉嫌过失致人死亡被刑事拘留并提请批准逮捕"
+  ],
+  "exclude_if": [
+    "发生于2026年5月12日以外其他日期的动物伤人事件",
+    "发生地点不在贵阳市白云区都溪林场家属小区的事件",
+    "涉事动物非受惊马匹的意外事件",
+    "受害者非5岁女童严某某的事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "小区马匹受惊，缠绕拖拽5岁女童致死，官方通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDd6NPGPJtAYxiHvZN2YHwUYCjkqMFVQhD6UXE2TMkR06n8CRyIcbSS9KsFtR2YGzrOm9_GGNLqUIaluKwWnDiYZT1kUOtVmoDgpV7LbxBUJwwY2SF4L4rq_DCV0Y5vXQ8kLhqJGDjWfmz8-c=",
+      "publisher": "观察者网（贵阳市白云区人民政府办公室通报）",
+      "published_at": "2026-05-25"
+    },
+    {
+      "title": "两匹马受惊闯入小区，贵州5岁女童被缰绳绕颈拖拽近2000米后不幸身亡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdSsqBBWtnhLcNotS4_pSjQGRSiSoVkxrXguyW8ypgTAgH6Lu47LlrAMIdp3HRA0NtJqUKQgeZIfTvrrCGP8uHbyrAPgJjiOslSRjc4CjR9BwffpAnDtzmhZHCzZHLQ7rd7mMnpbO-",
+      "publisher": "纵览新闻",
+      "published_at": "2026-05-23"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:32"
+}

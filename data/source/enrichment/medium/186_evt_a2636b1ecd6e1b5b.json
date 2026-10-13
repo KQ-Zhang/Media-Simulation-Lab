@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_a2636b1ecd6e1b5b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "天津6岁女孩攒20元为妹妹买新衣获童装店主免单赠羽绒服事件",
+  "factual_description": "2026年2月4日临近春节期间，在天津市一家儿童服装店内，一名年仅6岁的女童手持自己积攒的20多元零钱，带着妹妹前来选购新衣。女童向店主表示，父母因在外打工过年无法回家，而自己的钱只够买一件衣服，因此只想给妹妹买，自己不买。当时姐妹俩衣着单薄且双手冻得通红。店主了解情况后深受触动，不仅没有收取女童的零花钱（将钱悄悄塞回女童口袋），还当场免单并免费赠送了姐妹俩两件保暖外套（其中一件为店内较贵重的鹅绒服）以及保暖手套。换上新衣后，6岁的姐姐拉着妹妹向店主深深鞠躬致谢。该过程被发布至网络后，经中国青年报、海报新闻、大象新闻等多家媒体报道，引起广泛关注与好评。",
+  "event_time": {
+    "start": "2026-02-04",
+    "end": "2026-02-04",
+    "precision": "day",
+    "evidence": "猛犸新闻、洛阳网及海报新闻等报道明确提及2026年2月4日事件发生于天津一家服装店，2月5日媒体采访店主核实。"
+  },
+  "locations": [
+    "中国/天津市"
+  ],
+  "aliases": [
+    "6岁姐姐拿攒的20元为妹妹买新衣",
+    "姐姐攒20元为妹妹买新衣店主免费送",
+    "6岁女孩带妹妹买新衣店主免单送鹅绒服",
+    "天津6岁姐姐带妹妹买新衣获免单",
+    "姐姐攒20多元给妹妹买外套店主送两件鹅绒服"
+  ],
+  "retrieval_queries": [
+    "6岁姐姐 20元 妹妹 买新衣 免单",
+    "天津 6岁姐姐 攒钱 买衣服 羽绒服",
+    "6岁姐姐 鹅绒服 店主 免单 鞠躬",
+    "6岁姐姐 20多元 妹妹 外套 父母过年回不来",
+    "天津 童装店 6岁姐姐 妹妹 鹅绒服"
+  ],
+  "must_match_facts": [
+    "事件发生于中国天津市的一家服装/童装店",
+    "6岁姐姐手持积攒的20余元零钱带妹妹进店买衣",
+    "孩子表示父母过年不回家且钱只够买一件所以只给妹妹买",
+    "店主免单并免费赠送姐妹俩两件羽绒外套（含一件鹅绒服）和手套",
+    "姐姐穿上新衣离开前向店主深深鞠躬致谢"
+  ],
+  "exclude_if": [
+    "发生在天津以外其他省市的未成年人购物或救助事件",
+    "商户与顾客之间的消费维权或虚假宣传纠纷",
+    "官方通报为自媒体团队虚构剧本摆拍的虚假摆拍事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "主播说｜6岁姐姐拿攒的20元为妹妹买新衣，老板直接免单",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExHELwmLoDhYcmF-6LH0UttvI2RGYHPEENa16SkR3jWGlaNPMC4Ed0yw-UicASNAuAXe97Snp3BF-9ZDzTk3QJweOKPRYpmD19sUKzyv1ImPZAAISfhNJiWTzu9YIoGLVS",
+      "publisher": "海报新闻（综合中国青年报）",
+      "published_at": "2026-02-06"
+    },
+    {
+      "title": "姐姐攒20元为妹妹买新衣店主免费送温暖举动感动人心",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCsHjcAJS-cRmn6OGKj--hG7Lfus8SyxuK7Wp2peKiSLMiv5WzIP1fCwpoo7LjWRBwmDAhId2bKrhS4Z-f0mAkvNEugk8C_V6vY6bMFgD9dGdM3CstxSBS38YplbYmDXUoU06KaFeZzvt4kmqMqsMUqqJ1kpU=",
+      "publisher": "中华网",
+      "published_at": "2026-02-06"
+    },
+    {
+      "title": "父母过年无法回家，女孩攒20元为妹买新衣获老板免费赠送",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnpyhosnN_ZfxNsaKG8R2f3iNuK2qQFxKZzIQFDm0yEkY5RScy4AM8g41zdhFujiPA5JT4LAp5zJK2BcphtYxMM5aBTqT-cYUhOFX-N2K7d1c6bx-cTZ8rxAMZpPkDrIICLLPyEo48pFTo",
+      "publisher": "猛犸新闻 / 洛阳网 / 网易",
+      "published_at": "2026-02-05"
+    }
+  ],
+  "uncertainties": [
+    "涉事童装店的具体店名及位于天津市的具体区县在主流报道中未详细透露",
+    "两名幼童的具体家庭监护情况和常住地址未予公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:00"
+}

@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_35b50dea8b366b21",
+  "verification_status": "partially_verified",
+  "confidence": 0.75,
+  "canonical_event_name": "呼和浩特维多利摩尔城地下停车场被曝污水湿滑致顾客摔伤事件",
+  "factual_description": "2026年8月12日，有网民及博主在社交平台公开发布视频和图文反映，内蒙古自治区呼和浩特市维多利摩尔城地下停车场管理存在安全隐患。反映内容称，该地下停车场地面存有污水积聚未及时清理，且现场未摆放防滑警示标识，导致地面湿滑并致使顾客滑倒摔伤；同时，事发后拨打商场对外客服电话长期无法接通，投诉与沟通反馈渠道受阻。该内容发布后，多名呼和浩特本地博主及网民转发并艾特政务热线“呼和浩特12345”，呼吁监管部门督促商场对地下停车场展开全面排查整改、消除湿滑隐患并保障投诉渠道畅通。目前公开信息主要为消费者与网民网络投诉及现场画面，监管部门或涉事商场的后续调查通报尚未见公开披露。",
+  "event_time": {
+    "start": "2026-08-12",
+    "end": "2026-08-12",
+    "precision": "day",
+    "evidence": "博主于2026年8月12日10时许在微博平台发布图文与视频公开投诉并艾特政务部门，引发本地网络关注。"
+  },
+  "locations": [
+    "中国/内蒙古自治区/呼和浩特市/赛罕区/维多利摩尔城地下停车场"
+  ],
+  "aliases": [
+    "呼和浩特摩尔城存在严重安全隐患",
+    "呼和浩特摩尔城地下停车场安全隐患投诉",
+    "呼和浩特摩尔城停车场污水致顾客摔伤",
+    "维多利摩尔城地下停车场积水安全隐患"
+  ],
+  "retrieval_queries": [
+    "呼和浩特摩尔城 严重安全隐患",
+    "呼和浩特摩尔城 地下停车场 污水",
+    "呼和浩特摩尔城 客服电话 摔伤",
+    "摩尔城 地下停车场 湿滑 警示标识",
+    "呼和浩特12345 摩尔城 停车场",
+    "维多利摩尔城 地面湿滑 安全隐患"
+  ],
+  "must_match_facts": [
+    "涉事地点为内蒙古呼和浩特市维多利摩尔城地下停车场",
+    "投诉核心为地下停车场地面存有污水未清理且未设警示标识",
+    "事件包含地面湿滑导致顾客摔伤的指控",
+    "消费者指出商场客服电话长期无法接通并向监管部门及12345反映求助"
+  ],
+  "exclude_if": [
+    "呼和浩特通达商场消防疏散通道违规封堵事件",
+    "呼和浩特昭君旅游景区演出意外烫伤事件",
+    "包头维多利摩尔城相关商演或明星应援活动",
+    "其他省市商场或超市保洁拖地滑倒纠纷案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "呼和浩特摩尔城停车场安全隐患投诉",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHg3CThKsiFwcironkI9-gO91HXz2Flb6zg7qo67wcxzqX4fTZcHG0dc3zz4TLwuSSjweMKohTUKwDpW-pvkiUW0VK7mnjDAGKnL3VrO1Db1F2NHtIZrnXIjLGMJ2Z4mJnNLBj5et3K4gkL",
+      "publisher": "新浪新闻",
+      "published_at": "2026-08-12"
+    },
+    {
+      "title": "塞外游侠的微博_新浪新闻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlLstvQIzE3YQ08iGqaEk3X56bipumkU_eNgnULYa-jAJnmG8O9AwCKauFrD1AS5VAY2JBJoCgvuuErApuMThxGZ3aDWVWU46YzgVxjh9JLLU_oXVlQBirMw==",
+      "publisher": "新浪新闻",
+      "published_at": "2026-08-17"
+    }
+  ],
+  "uncertainties": [
+    "摔伤顾客的具体就医情况与伤情程度尚未有官方或医疗机构信息披露",
+    "涉事商场管理方及呼和浩特市场监管或住建等行政部门的调查结论和整改处置情况尚未见公开通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:50"
+}

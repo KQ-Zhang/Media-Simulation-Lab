@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_854055fed0398011",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "意大利波代诺内入室盗窃案窃贼误将两块肾结石当黄金偷走",
+  "factual_description": "当地时间2026年2月15日傍晚约19时，意大利弗留利-威尼斯朱利亚大区波代诺内市发生一起入室盗窃案。受害者为意大利《威尼托信使报》（Messaggero Veneto）前副主编朱塞佩·拉戈尼亚（Giuseppe Ragogna）。案发时拉戈尼亚外出散步，窃贼撬开阳台窗户潜入公寓翻箱倒柜搜寻贵重财物，并将公寓大门从内反锁。窃贼未发现大量现金或贵重珠宝，最终盗走拉戈尼亚过往旅行剩余的少量美元与英镑纸币及硬币（总值约合不足150欧元，约合人民币1200元），并顺手盗走一个小盒。小盒内装有两枚刚做完医学化验留存的人体肾结石，窃贼误将其当作贵重天然金块或宝石偷走。拉戈尼亚回家后在消防员与警方协助下进入屋内并正式报案，该事件随后因其荒诞性引发多国媒体报道。截至目前，盗窃嫌疑人身份及去向仍在调查中。",
+  "event_time": {
+    "start": "2026-02-15",
+    "end": "2026-02-15",
+    "precision": "day",
+    "evidence": "意大利主流媒体Fanpage与Torino Cronaca报道，盗窃案发生在2026年2月15日（周日）傍晚约19时。"
+  },
+  "locations": [
+    "意大利/弗留利-威尼斯朱利亚大区/波代诺内市"
+  ],
+  "aliases": [
+    "意大利小偷误将肾结石当作黄金偷走",
+    "意大利小偷把肾结石当黄金偷走",
+    "波代诺内小偷盗窃肾结石案",
+    "意大利前副主编肾结石被当黄金盗窃事件",
+    "Ladri scambiano calcoli renali per pepite d'oro a Pordenone"
+  ],
+  "retrieval_queries": [
+    "意大利 小偷 肾结石 黄金",
+    "意大利 波代诺内 肾结石 盗窃",
+    "拉戈尼亚 肾结石 黄金 偷走",
+    "Giuseppe Ragogna calcoli renali oro",
+    "Pordenone ladri calcoli renali pepite",
+    "威尼托信使报 肾结石 盗窃"
+  ],
+  "must_match_facts": [
+    "案发地点位于意大利波代诺内市（Pordenone）",
+    "失主为《威尼托信使报》前副主编朱塞佩·拉戈尼亚（Giuseppe Ragogna）",
+    "窃贼撬窗潜入公寓并偷走装在盒子里的两块肾结石",
+    "窃贼误将盒中肾结石当作黄金或宝石",
+    "被盗的其他财物为不足150欧元的外币零钱"
+  ],
+  "exclude_if": [
+    "其他国家的医院或诊所盗窃人体组织或结石案件",
+    "真正的黄金首饰或金条盗窃案",
+    "发生在意大利其他城市且无肾结石情节的入室盗窃"
+  ],
+  "source_evidence": [
+    {
+      "title": "Ladri entrano in casa e rubano una scatolina con dentro due pepite: 'Pensavano fossero oro o pietre preziose, ma erano i miei calcoli renali'",
+      "url": "https://www.ilfattoquotidiano.it/2026/02/17/ladri-entrano-in-casa-e-rubano-una-scatolina-con-dentro-due-pepite-pensavano-fossero-oro-o-pietre-preziose-ma-erano-i-miei-calcoli-renali/8301543/",
+      "publisher": "Il Fatto Quotidiano",
+      "published_at": "2026-02-17"
+    },
+    {
+      "title": "Rubano in casa e portato via due pepite dal cofanetto ma erano due calcoli renali: ladri beffati a Pordenone",
+      "url": "https://www.fanpage.it/attualita/rubano-in-casa-e-portato-via-due-pepite-dal-cofanetto-ma-erano-due-calcoli-renali-ladri-beffati-a-pordenone/",
+      "publisher": "Fanpage.it",
+      "published_at": "2026-02-18"
+    },
+    {
+      "title": "Pordenone, rubano 'pepite' pensando siano oggetti preziosi: erano calcoli renali",
+      "url": "https://www.tgcom24.mediaset.it/cronaca/pordenone-rubano-calcoli-renali-scambiati-pepite-oro_109116296-202602k.shtml",
+      "publisher": "Tgcom24",
+      "published_at": "2026-02-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:51"
+}

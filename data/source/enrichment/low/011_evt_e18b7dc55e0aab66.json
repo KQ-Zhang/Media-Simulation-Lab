@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_e18b7dc55e0aab66",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "抖音乒乓百分大战张继科战队对阵奥恰洛夫战队",
+  "factual_description": "2026年6月26日晚，由乒乓球奥运冠军张继科与抖音联合打造的国内首场“乒乓百分大战”在浙江省杭州市临安体育文化会展中心打响，抖音平台全程独家直播。该赛事借鉴街头篮球百分赛制，取消传统的11分局制，各局总分累加不清零，由两队通过单打、双打及混双等多轮对抗，率先获得100分的队伍获胜。首战由张继科领衔的“张继科战队”（成员包含张继科、尹航、梁家怡、刘家良等）对阵德国乒乓名将奥恰洛夫领衔的“奥恰洛夫战队”（成员包含奥恰洛夫、程靖淇、赵子豪、李仁思佳等）。经过约三个半小时的激烈角逐，奥恰洛夫战队最终以100比88击败张继科战队赢得首胜。比赛期间张继科多次登场展现标志性技术，并出现回球击中奥恰洛夫腹部后上前关切的互动花絮；赛后张继科向奥恰洛夫赠送2012年伦敦奥运会领奖台合影，双方均表示输赢次要、乒乓友谊与推广运动更为珍贵。",
+  "event_time": {
+    "start": "2026-06-26",
+    "end": "2026-06-26",
+    "precision": "day",
+    "evidence": "2026年6月26日晚19时至22时许，赛事在杭州临安体育文化会展中心现场开赛并在抖音进行直播。"
+  },
+  "locations": [
+    "中国/浙江省/杭州市/临安区/杭州临安体育文化会展中心"
+  ],
+  "aliases": [
+    "抖音乒乓百分大战",
+    "张继科奥恰洛夫百分大战",
+    "乒乓球百分大战首战",
+    "全网挑战张继科百分大战",
+    "张继科战队88:100奥恰洛夫战队"
+  ],
+  "retrieval_queries": [
+    "张继科 奥恰洛夫 百分大战",
+    "抖音乒乓百分大战",
+    "张继科战队 奥恰洛夫战队 88 100",
+    "杭州临安体育文化会展中心 乒乓百分大战",
+    "张继科 奥恰洛夫 杭州 88比100",
+    "全网挑战张继科 百分大战"
+  ],
+  "must_match_facts": [
+    "赛事是由张继科与抖音联合推出的首创乒乓球百分大战表演赛",
+    "比赛于2026年6月26日晚在杭州临安体育文化会展中心举行",
+    "参赛对阵双方为张继科战队与奥恰洛夫战队",
+    "比赛结果为奥恰洛夫战队以100比88击败张继科战队",
+    "比赛规则为多轮单双打累加比分、先达到100分者获胜"
+  ],
+  "exclude_if": [
+    "张继科与奥恰洛夫在奥运会、世乒赛、世界杯等国际乒联正式赛事中的历史对决",
+    "街头篮球或其他非乒乓球项目的百分大战赛事",
+    "张继科后续组织对阵其他选手的后续百分大战赛事"
+  ],
+  "source_evidence": [
+    {
+      "title": "终于又看到张继科打球了！虽然88-100败给奥恰洛夫，但这场百分大战他赚大了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3DJEF7xfgjRSoIUuMeadAUPzpumozFZ4Vbi3OdADORNBbCQqKdU6nRcoXJBO9fiRS-61VvbEGI8qIxf41BFWrW8BdR_-yxZZTkjIbkI-TafmfnH792WdBCzsRMpHS9TCi",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-06-27"
+    },
+    {
+      "title": "6月26日杭州！张继科奥恰洛夫百分大战，樊振东缺席却跨界刷屏名单揭晓",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFCgRcnGRHipVAGynZ9rDWAbrR3hWgz9Nw92DMfImcINsyCkYeiokElcMQ8gaTWbLjPAEDAD9nZxwxpbvXIQ91Jf50DPGQyUrYDJUdkqRpAtdVaKSNXNFkrFn3DrsIPVmzhzjXZwA3OY9q",
+      "publisher": "网易新闻",
+      "published_at": "2026-06-24"
+    },
+    {
+      "title": "张继科奥恰洛夫百分大战- 抖音",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwyaHqBwhfdj17i3l6bFxYAAvyUdd4xLAE9Itis6uU2xC3xuhOjvmTUqUzY8suHrKc96aIlLM0nhWMHWzRu_jH3SiX_oWJN0MQ9ImlNzO3xdcibR10y51SEx8ognSGHDfv9E6a53KQKZj0og==",
+      "publisher": "新浪网/抖音官方",
+      "published_at": "2026-06-25"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:18"
+}

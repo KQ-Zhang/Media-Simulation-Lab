@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_16df8fe621cb8a28",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "北京亦庄小马智行无人车变道追尾后驶离事件",
+  "factual_description": "2026年6月1日18时许，在北京市大兴区北京经济技术开发区（亦庄）某路段，一辆印有“小马智行”标识及“K9150”编号的无人驾驶汽车在向左变道过程中突然减速刹车，导致后方正常行驶的机动车避让不及发生追尾碰撞。碰撞发生后，该无人车未在事发现场停靠等候，而是径直驶离现场。后车车主随后报警，当地交管部门经调查认定，小马智行自动驾驶车辆因变更车道时影响相关车道内行驶的机动车正常行驶，承担此次交通事故的全部责任。6月5日，小马智行方面向澎湃新闻、红星新闻等媒体回应称，事故未造成人员受伤；事发时车内虽无安全员，但后台远程安全员已监测并知情，车辆驶出后停在安全区域，地勤人员已登记拍照并报警；公司第一时间主动上报交管部门并联络车主，妥善跟进定责、理赔与善后工作。",
+  "event_time": {
+    "start": "2026-06-01",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "行车记录仪及媒体报道记录事故发生于2026年6月1日18时许，小马智行于2026年6月5日向媒体作出公开回应。"
+  },
+  "locations": [
+    "中国/北京市/大兴区/北京经济技术开发区（亦庄）"
+  ],
+  "aliases": [
+    "小马智行无人车撞车后驶离事件",
+    "北京亦庄小马智行变道追尾事故",
+    "小马智行自动驾驶车辆撞车后驶离事件",
+    "小马智行无人车变道急刹致追尾事件",
+    "小马智行Robotaxi北京亦庄全责事故"
+  ],
+  "retrieval_queries": [
+    "小马智行 无人车 变道 驶离",
+    "北京亦庄 小马智行 追尾 全责",
+    "小马智行 碰撞 驶离 6月1日",
+    "小马智行回应无人车撞后驶离",
+    "小马智行 K9150 追尾 驶离",
+    "小马智行 自动驾驶 驶离 现场 亦庄"
+  ],
+  "must_match_facts": [
+    "事故发生于2026年6月1日傍晚",
+    "地点位于北京亦庄路段",
+    "涉事主体为小马智行无人驾驶车辆（Robotaxi）",
+    "事故形态为无人车变道急刹导致后方社会车辆追尾",
+    "碰撞发生后无人车径直驶离事故现场",
+    "交管部门出具认定书判定小马智行车辆负事故全部责任"
+  ],
+  "exclude_if": [
+    "2025年5月小马智行无人驾驶车辆在北京撞绿化带起火事件",
+    "2026年4月或6月小马智行Robotaxi在广东深圳压实线变道险情或剐蹭事件",
+    "2026年9月湖南株洲涉及哈啰或百度自动驾驶出租车卷入行人事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "无人驾驶汽车事故后直接驶离？小马智行：第一时间主动上报交管部门并联络车主",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1NiFyGLHEYnhaA9JdhyZFvd9k5NwnlWIXI9Q-dsd3FXlqOP9IsWjlpXM581YQwCwF-9Qhx4sIXqw_SYnfm3o7nRy6s4W0qVtS-SfAKfrgGvCzCLy9oHItAcdCIso6h9pNYVLywZdgGjfr",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "无人驾驶汽车变道致后车追尾，交管部门认定其全责 小马智行：远程安全员当时已监控到并报警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERmdobHsSoUSvxLFLR7lGD4N5BgRkkMsYKvRJVa20h3DgYAeave_ghY2Ci7QJJ7XItnRJKLbnjLDgNIKhvG6pzvpOg4udA1lZV5HaO1mb3-i5e09ENvEQlHA==",
+      "publisher": "红星新闻",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "小马智行无人车撞车后直接驶离 网友：没有人开不算肇事逃逸",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeRCswX3Z1SSyY0KH2pfBeYZvN5NO4I15-mVNWRVQEo9dXEYTTEhUtMRFG-AizdsP3xkan2bqhaMLW7fatcIv-swbU8Ki5jairJePcVyXmTjF6r_S7s1E_myTPYK0YelsrEA==",
+      "publisher": "快科技",
+      "published_at": "2026-06-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:00"
+}

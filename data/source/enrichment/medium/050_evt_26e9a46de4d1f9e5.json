@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_26e9a46de4d1f9e5",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "张颂文凭借电影《纸盒藏迷》获得第28届上海国际电影节金爵奖最佳男演员",
+  "factual_description": "2026年6月20日晚，第28届上海国际电影节金爵奖颁奖典礼在上海大剧院举行。由翁子光监制、谭广源执导的律政悬疑电影《纸盒藏迷》（改编自1974年香港“跑马地纸盒藏尸案”）在主竞赛单元获奖，主演张颂文凭借在片中饰演跨度二十余年的主角“司徒伟平”一角，荣获金爵奖主竞赛单元最佳男演员奖。这是张颂文职业生涯中首次全粤语出演电影，也是其首次斩获国际A类电影节最佳男演员奖项。张颂文在颁奖典礼登台领奖并致辞，表示信奉“择一事终一生，干一行爱一行专一行”，并在交流中分享了方言表演与角色塑造心得。",
+  "event_time": {
+    "start": "2026-06-20",
+    "end": "2026-06-20",
+    "precision": "day",
+    "evidence": "2026年6月20日晚，第28届上海国际电影节金爵奖颁奖典礼在上海大剧院举行并现场揭晓主竞赛单元各奖项。"
+  },
+  "locations": [
+    "中国/上海市/黄浦区/上海大剧院"
+  ],
+  "aliases": [
+    "张颂文获第28届金爵奖影帝",
+    "张颂文凭《纸盒藏迷》斩获金爵奖最佳男演员",
+    "张颂文上海国际电影节封帝",
+    "张颂文金爵奖最佳男主角",
+    "纸盒藏迷张颂文拿影帝"
+  ],
+  "retrieval_queries": [
+    "张颂文 纸盒藏迷 金爵奖",
+    "张颂文 纸盒藏谜 金爵奖",
+    "张颂文 第28届上海国际电影节 最佳男演员",
+    "张颂文 金爵奖影帝",
+    "纸盒藏迷 张颂文 最佳男主角",
+    "张颂文 上海大剧院 金爵奖 2026"
+  ],
+  "must_match_facts": [
+    "获奖主体为演员张颂文",
+    "获奖奖项为第28届上海国际电影节金爵奖主竞赛单元最佳男演员（影帝/最佳男主角）",
+    "获奖作品为电影《纸盒藏迷》（部分网络帖文别写为《纸盒藏谜》）",
+    "事件发生时间为2026年6月20日晚",
+    "颁奖地点位于上海大剧院"
+  ],
+  "exclude_if": [
+    "张颂文获得其他电影节或电视奖项（如白玉兰奖、飞天奖、金鸡奖等）",
+    "提及其他届次上海国际电影节金爵奖最佳男演员（非第28届）",
+    "仅报道《纸盒藏迷》开机、杀青或首映排片而未提及张颂文获奖"
+  ],
+  "source_evidence": [
+    {
+      "title": "张颂文获金爵奖最佳男演员！“广州出品”《纸盒藏迷》上影节喜获殊荣",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOQvsTMGN2ndeSCnSEKNYM9Y_DCPDfwZ2gRTMz8DPXAOOsUgKeSkOKrNsAID1S1dhYSwTLM9wIxDxZRDyg4M9yenP9rPNbpjECzDHcQJVS793TgN3IexcU-Hk8L2hej9ZakCXIiuxjUjC_yY5fpGUWzQ6JTSX_VTTPq65fz9ScxzRZtIyUXGSI",
+      "publisher": "广州日报新花城",
+      "published_at": "2026-06-20"
+    },
+    {
+      "title": "电影《纸盒藏迷》张颂文演技入魂荣获金爵奖最佳男演员",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRBWAcSIs3SBjUSqMnBpFa6dzcSDYF-1zsIxwJFFuKZmuzpxnNZIpIEkHMI2iy4I6LIjhSqTvZYD80AK-qTbS_5A43-vMks2ihYYmBfKGCavgetnEkFtfcPqcdtQ==",
+      "publisher": "360娱乐",
+      "published_at": "2026-06-20"
+    },
+    {
+      "title": "金爵佳作丨看张颂文、谭耀文在《纸盒藏迷》中的表演",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaT4ZFI8cHnfIv1DyR4pa7_tYoSukyDrNr8wtp0FbNiT7khcmlevkFkd1XxN53dc8xdDdnkW5bCdCNDQ3GdfzER48aSLnfnjep5a_whNY4ghy0TLsepjwawIxlaQ0Zv7MMXVtJvw43uJI=",
+      "publisher": "上观新闻/搜狐",
+      "published_at": "2026-08-24"
+    }
+  ],
+  "uncertainties": [
+    "社交平台及部分自媒体将官方片名《纸盒藏迷》误写作《纸盒藏谜》，或将官方奖项名称“最佳男演员”通俗转述为“金爵影帝”或“最佳男主角”。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:17"
+}

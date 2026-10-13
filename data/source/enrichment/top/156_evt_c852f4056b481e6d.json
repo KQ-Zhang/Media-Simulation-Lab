@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_c852f4056b481e6d",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "上海宝山市民举报小区违建个人信息被泄露事件",
+  "factual_description": "2026年2月24日，上海市宝山区乾泽园小区居民邱先生通过12345市民服务热线反映小区某楼楼顶存在疑似违建行为。12345平台将工单派至大场镇综合行政执法队主办、乾溪物业协办。2月25日，涉事小区物业经理贺某某应被投诉人索要，违规将包含投诉人姓氏及手机号的热线工单截图微信发送给被投诉人。被投诉人随后联系邱先生要求撤单，并凭借邻里熟悉度推测出邱先生住址及家庭成员信息，致使邱先生遭受威胁和恐慌并报警。经执法部门核实该处确系违法建筑，被投诉人于3月6日自行拆除。3月12日前后，贺某某因违规泄露信息被警方依法行政处罚。3月14日，大场镇人民政府发布情况说明，确认贺某某违规泄露工单截图，已被撤职并受到行政处罚。",
+  "event_time": {
+    "start": "2026-02-24",
+    "end": "2026-03-14",
+    "precision": "day",
+    "evidence": "邱先生于2026年2月24日拨打12345举报违建，大场镇人民政府于2026年3月14日发布通报说明处理结果。"
+  },
+  "locations": [
+    "中国/上海市/宝山区/大场镇/乾泽园小区"
+  ],
+  "aliases": [
+    "上海市民打12345举报违建信息被泄露事件",
+    "上海宝山邱先生举报违建个人信息被泄露事件",
+    "上海物业经理违规泄露12345工单事件",
+    "上海大场镇违建举报泄密事件",
+    "举报违建10分钟后信息被泄露事件"
+  ],
+  "retrieval_queries": [
+    "上海 12345 举报违建 信息泄露",
+    "宝山 乾泽园 举报违建",
+    "大场镇 贺某某 撤职 行政处罚",
+    "邱先生 12345 违建 10分钟",
+    "上海 乾溪物业 贺某某",
+    "大场镇 违建工单 截图泄露",
+    "宝山 举报违建 个人信息",
+    "上海 12345 工单 泄露 撤职"
+  ],
+  "must_match_facts": [
+    "2026年2月24日上海宝山区乾泽园小区邱先生通过12345举报楼顶违建",
+    "12345工单派发至大场镇综合行政执法队与乾溪物业",
+    "乾溪物业经理贺某某违规将带有举报人姓氏和电话的工单截图发给被举报人",
+    "被举报人推测出邱先生住址并电话交涉威胁",
+    "涉事违建于2026年3月6日被自行拆除",
+    "物业经理贺某某被公安机关依法行政处罚并撤职，大场镇政府于3月14日通报核查结果"
+  ],
+  "exclude_if": [
+    "深圳李先生投诉停车场乱象个人信息泄露事件",
+    "非2026年2月发生在上海宝山区的大场镇违建举报泄密事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "上海官方通报“12345投诉被泄露”调查结果",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPWE-PEHwm5dld2xpsWiFaekIB78MPFrhspyoSixo1TuV1A6LIEz72mU6wTFqT9i-bk3bY30-DQTdgxcsR913kHpIGvHcn1ccfziLgUkdnbWl-0mXNhDUku5bwuLqnuADqu3sa184UiUoPTU-aOCP0xuj7X5mNFA==",
+      "publisher": "央广网",
+      "published_at": "2026-03-14"
+    },
+    {
+      "title": "业主实名举报后隐私泄露！上海官方通报：物业经理被行政处罚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQER_0N-6DMn3Btdz2rLNrtonyQ2cffIvetTI6xk0Radt3mXmhA7xKnq29kitbtZfeq9fIodRjTi9uFEvQPbOosCinbJnsffxyiZ3SmRuVoyHCQpDvy2OUClJ6BMYUjesUMKeV9gcL_HNpiBXUwD-bHsB_v_0Kts",
+      "publisher": "北京日报",
+      "published_at": "2026-03-14"
+    },
+    {
+      "title": "向12345投诉，个人信息却遭泄露！上海通报：泄露者被撤职、行政处罚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkHbfRjZWHlm7Wpey04l6hJ05appM1MU8PGHpd3FuvshmCgD5hV9Rf0ouQ-rKNJifhmxy424_39E6CwZfzm3VOpFTzAcaTZmVFgj7p9lxqWuHK9wwzGV7ae3HB",
+      "publisher": "川观新闻",
+      "published_at": "2026-03-14"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:40"
+}

@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_8e310b9f5faf5d31",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "山东菏泽3岁女童墨墨与父亲黄河大堤失联事件",
+  "factual_description": "2026年8月11日，山东菏泽一名离异男子按月度探视约定，从东明县接走由前妻抚养的3岁8个月大女儿墨墨。8月12日清晨6时许，该男子驾车将女童带至菏泽市牡丹区李村镇油楼村黄河大堤。车内行车记录仪录音显示，女童曾询问“来这里干啥”，男子回答“我要去找你爷爷”（女童爷爷此前已离世），随后二人失去踪迹。8月12日当天，鄄城斑马义务救援队在下游约40公里处的鄄城黄河旧城浮桥东侧水域打捞起一具溺亡男性遗体，后经核实验证为该父亲。因8月13日约定归还时间男子失联，女童母亲顾女士于当晚报警。8月15日，警方在大堤发现遗留的完好私家车辆。菏泽警方、当地政府及多支民间公益救援队动用无人机、搜救艇沿黄河下游持续开展拉网式搜寻，截至8月下旬报道时，女童仍处于下落不明状态。",
+  "event_time": {
+    "start": "2026-08-12",
+    "end": "",
+    "precision": "day",
+    "evidence": "行车记录仪记录二人于2026年8月12日清晨6时许抵达李村镇油楼村黄河大堤失联，同日男子遗体在下游被发现打捞。"
+  },
+  "locations": [
+    "中国/山东省/菏泽市/牡丹区/李村镇油楼村黄河大堤",
+    "中国/山东省/菏泽市/鄄城县/旧城浮桥东侧黄河水域"
+  ],
+  "aliases": [
+    "菏泽父女黄河大堤失踪事件",
+    "山东菏泽3岁女童黄河大堤失联事件",
+    "菏泽墨墨失联事件",
+    "菏泽男子接走3岁女儿黄河失踪事件",
+    "父女黄河大堤失踪车上录音曝光事件"
+  ],
+  "retrieval_queries": [
+    "菏泽 3岁 女童 墨墨 黄河大堤",
+    "菏泽 油楼村 黄河大堤 失联",
+    "菏泽 父女 黄河大堤 录音 爷爷",
+    "牡丹区 李村镇 黄河大堤 墨墨",
+    "鄄城 旧城浮桥 父亲 遗体 女童"
+  ],
+  "must_match_facts": [
+    "事件发生于山东菏泽牡丹区李村镇油楼村黄河大堤",
+    "当事女童墨墨年仅3岁8个月，父母已离异，由母亲抚养",
+    "2026年8月12日清晨父亲驾车带女童至黄河大堤后二人失联",
+    "行车记录仪记录父亲称要去找已去世的爷爷",
+    "父亲遗体于事发当日在黄河下游约40公里处（鄄城旧城浮桥附近）被找到打捞确认溺亡",
+    "事发后女童下落不明，多方救援力量沿黄河搜寻"
+  ],
+  "exclude_if": [
+    "发生于2024年及更早年份的已结案黄河落水事件",
+    "山东烟台父亲吊女儿进墙缝/下水道救狗事件",
+    "云南大关县女童遭恶犬撕咬事件",
+    "非山东菏泽牡丹区李村镇油楼村黄河大堤水域的失踪溺水案"
+  ],
+  "source_evidence": [
+    {
+      "title": "山东菏泽一对父女在黄河大堤失踪，最新进展：父亲遗体已在河中找到，女儿仍下落不明，救援队等各方力量正在全力搜寻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA2KxwRSq2P23KU5-tErgyWQr_H6i3vw5Q5MLKvNKMqgUdZQS3jYOtVjplpmtmG71drEVlFWmTfB5xE2JR43VexOuTIJNHfSkg_mbda5oVAdr9fFJvGSpw9cwYvZJ9L3ohJnR-Zw==",
+      "publisher": "极目新闻 / 纵览新闻",
+      "published_at": "2026-08-20"
+    },
+    {
+      "title": "山东3岁女童黄河大堤失踪超9天，父亲已溺亡，救援队称其父从几十公里外隔壁县将孩子带来，推测其遭流沙掩埋或被水流带至下游，会继续搜救",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrz3YydaFlxEbmPwotXglE7gwwrgnkw56iFKyrjMiFi_6Vhy9wImJfmsyVztPIXajd8YMk7IbT3V6qi6hEeoPmHbPq79DmBEjX8E-J-f5kesKFaaN92c2B9pp8mENFQxOKeA1CN6gORAx88dkNCCTG_K9_owQ7vmPdCz5zFNKKIkMCE-FrlZhbh1gaK7f4JUVoGA==",
+      "publisher": "大河报",
+      "published_at": "2026-08-21"
+    },
+    {
+      "title": "菏泽3岁女童失联9天仍无消息，孩子父亲遗体在下游被发现，救援队：线索中断于黄河大堤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiFGHfFREG5p_Q-oi7Z__8HS-7Vx6eRNBZZGY8UkgwWUSXc2QTIxDPOgASG9w8L0qm1c9ob9kFgH1avJeDg5c_CWSivxxArmJw590ABKBp87K64e49LNlgZ20=",
+      "publisher": "津云新闻",
+      "published_at": "2026-08-22"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中提及年份为2024年，经核查权威报道实际发生于2026年8月",
+    "截至媒体最新报道时，女童是否落水以及具体下落尚未最终证实"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:20"
+}

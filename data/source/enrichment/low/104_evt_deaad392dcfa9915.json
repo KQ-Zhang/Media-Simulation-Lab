@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_deaad392dcfa9915",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "山西晋城肉铺老板连杀合伙人及两名顾客案",
+  "factual_description": "2025年9月4日上午11时许，山西省晋城市发生一起故意杀人案件。被告人王某忠（生于1970年）前往其与合伙人李某生共同经营20余年的生鲜肉铺，因两人在此前肉铺合伙退股等问题上存在经营分歧与矛盾，且王某忠自身伴有抑郁等情绪问题，在店内产生杀念，持刀将李某生杀害致其当场死亡。作案后，王某忠拨打110报警并在肉铺门口等待，期间遇同村顾客高某玲与其侄子高某阳驾车前来买肉，王某忠遂再次返回店铺取刀，将车内2名顾客刺伤致失血性休克抢救无效死亡。2026年6月16日，该案在山西省晋城市中级人民法院一审开庭审理；8月，晋城市中院一审判决王某忠犯故意杀人罪，判处死刑，剥夺政治权利终身。法院与司法精神鉴定认定王某忠案发时虽属抑郁发作，但具备完全刑事责任能力。王某忠随后提出上诉。",
+  "event_time": {
+    "start": "2025-09-04",
+    "end": "2025-09-04",
+    "precision": "day",
+    "evidence": "案件司法材料及法院审理查明，凶案发生于2025年9月4日上午11时许。"
+  },
+  "locations": [
+    "中国/山西省/晋城市"
+  ],
+  "aliases": [
+    "山西晋城肉店老板杀害合伙人及顾客案",
+    "山西晋城肉铺老板连杀3人案",
+    "肉铺老板杀害合伙人及两名顾客事件",
+    "王某忠故意杀人案"
+  ],
+  "retrieval_queries": [
+    "山西晋城 肉店老板 杀害合伙人 顾客",
+    "王某忠 李某生 故意杀人 晋城中院",
+    "肉店老板杀害合伙人及顾客共3人",
+    "肉铺老板杀害合伙人 两名顾客 晋城"
+  ],
+  "must_match_facts": [
+    "案发地点位于山西省晋城市",
+    "案发时间为2025年9月4日",
+    "凶手为肉店老板王某忠",
+    "被害人共3人（合伙人李某生、顾客高某玲及高某阳）",
+    "晋城市中级人民法院一审判处王某忠死刑"
+  ],
+  "exclude_if": [
+    "唐山肉铺老板娘遇害案",
+    "张扣扣案",
+    "北京西单肉包子案",
+    "非山西晋城肉店杀人案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "肉店老板连杀3人，一审死刑",
+      "url": "https://www.fj.chinanews.com.cn/2026/0902/U969P4DT20260902121330.png",
+      "publisher": "中国新闻周刊 / 中新网福建频道",
+      "published_at": "2026-09-02"
+    },
+    {
+      "title": "山西晋城“肉店老板杀害3人案”一审将择期宣判",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9r-Sb5BVlENptqwd227aWFrJ4CLadIcjrcVH6SO10h22OCN7npXe2gF_8vqEn446Gzih7oJ1N7JszPUEtheMAeXfG6NfP58fWBbHlBMGsCFVnEQFQDG875VPMqkOKd47rhLfVuCT1YFA=",
+      "publisher": "极目新闻 / 澎湃新闻",
+      "published_at": "2026-06-16"
+    }
+  ],
+  "uncertainties": [
+    "二审最终判决结果截至核验时仍在审理或尚未公开宣判。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:37"
+}

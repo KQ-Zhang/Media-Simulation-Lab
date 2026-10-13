@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_8e1e846d0b320bf1",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "浙江温岭演唱会主办方当众焚烧门票邀请函事件",
+  "factual_description": "2024年5月29日晚，“乐来越好”巡回演唱会在浙江省台州市温岭市体育中心举行。演唱会期间，有网友在现场拍到在体育中心“官方售票处”外，佩戴工作证的人员将大量崭新的演唱会邀请函票品投入地面火堆中当众焚烧。待火熄灭后，有市民捡拾未燃尽的残票，发现票面印有座位、票价及领取码，并注明“禁止转售”及实名登记核销要求。该行为引发舆论关于“宁愿烧毁也不降价”以及“公共场所涉嫌纵火”的质疑。温岭市公安部门及辖区派出所随后回应称，现场火堆仅脸盆大小，火势微小且未蔓延或伤及人员财物，当事人佩戴工作人员证件，焚烧处理的是自家主办方未发放或未售完的内部票品，不属于危害公共安全的纵火行为；事发时无人现场报警，后续接到网友反映后已登记跟进。",
+  "event_time": {
+    "start": "2024-05-29",
+    "end": "2024-05-29",
+    "precision": "day",
+    "evidence": "温岭发布、极目新闻及都市现场等多家媒体报道，“乐来越好”巡回演唱会温岭站于2024年5月29日晚在温岭市体育中心举办，当众焚烧票品行为亦发生在当晚演唱会现场附近。"
+  },
+  "locations": [
+    "中国/浙江省/台州市/温岭市/温岭市体育中心"
+  ],
+  "aliases": [
+    "温岭演唱会邀请票被当众焚烧事件",
+    "浙江温岭演唱会门票焚烧事件",
+    "乐来越好温岭站当众烧票事件",
+    "温岭拼盘演唱会门票被烧"
+  ],
+  "retrieval_queries": [
+    "温岭 演唱会 邀请票 焚烧",
+    "温岭 乐来越好 烧票 门票",
+    "温岭 体育中心 演唱会 官方售票处 焚烧",
+    "温岭 派出所 演唱会 门票 纵火",
+    "温岭 演唱会 邀请函 焚烧 极目新闻",
+    "温岭 演唱会 宁愿烧毁也不降价"
+  ],
+  "must_match_facts": [
+    "事发地点位于浙江省温岭市体育中心演唱会官方售票处周边",
+    "涉事演出为“乐来越好”巡回演唱会（温岭站）",
+    "现场佩戴工作牌人员在地面点火焚烧门票或邀请函",
+    "警方或派出所核实后回应称焚烧自家未售完门票且火势极小、不属于纵火"
+  ],
+  "exclude_if": [
+    "其他城市体育场馆发生的演唱会假票或黄牛倒票刑事案件",
+    "实际造成人员伤亡或重大财产损失的公共场所火灾或纵火案件",
+    "温岭市体育中心举办的其他体育赛事或非涉事演唱会"
+  ],
+  "source_evidence": [
+    {
+      "title": "温岭一演唱会大量邀请票被当众焚毁，网友猜测“票没卖完直接烧了”，警方回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGLzNPmQJ7NHs-cbmOjQz2W2k89Jh0W5sk70Z6lNQbfSh13i1idiXR_JFAZ8cxUXfvc53K8UFZTxXTGziEphyTvhwNVqeQOd0c-ksVWg4c6IYOfOmlaYDN2P4DwvVkE7x20JOXSw==",
+      "publisher": "极目新闻",
+      "published_at": "2024-05-30"
+    },
+    {
+      "title": "【#温岭演唱会邀请票被当众焚烧# 官方票价最高1088元】#多方回应演唱会邀请票被当众焚烧#",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFePTDtLgTO0lIh7b0icRlv0_6JttgH0gTgdLcLZS6RUE4w_PRUX6DkU8VwKAfGrel0Ezd_Q1_SUT5YzAXECHk_4tccE80xhIjciydTenOk4ZES6MbgCZbWJkRYuvQRotVefcr-i5AX2Xr5zA==",
+      "publisher": "中国新闻周刊 / 都市现场 / 极目新闻",
+      "published_at": "2024-05-31"
+    }
+  ],
+  "uncertainties": [
+    "样本帖子标注时间及部分文本将年份写为2026年，经权威媒体报道比对核实，实际事件真实发生年份为2024年，系样本数据中的年份替换干扰。",
+    "官方通报及媒体未公开焚烧门票的具体工作人员个人姓名或其所属具体承办执行公司的工商注册全称。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:19"
+}

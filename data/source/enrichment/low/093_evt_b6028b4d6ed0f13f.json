@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_b6028b4d6ed0f13f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年度四川省空军青少年航空学校及成都市普通高中飞行学员录取通知书颁发仪式",
+  "factual_description": "2026年7月10日上午，2026年度四川省空军青少年航空学校及成都市普通高中飞行学员录取通知书颁发仪式在成都市四川大学附属中学聚智厅举行。西部战区空军政治工作部、空军招飞局成都选拔中心、成都市教育局及四川大学附属中学、四川省绵阳中学等军地单位领导、师生和家长代表出席。现场来自四川全省的80余名飞行少年身着戎装、身披荣誉绶带接过空军航空大学录取通知书，其中绵阳中学40余人、川大附中20余人。四川省空军青航校录取人数位列全国承办省份前列。仪式上，来自凉山州美姑县的彝族少年阿尔小平（家庭培养出4名大学生，立志驾驶战机）、绵阳中学学子以及川大附中学子等优秀学员代表表达了投身空天报国事业的志向与感动之情。新录取飞行学员后续将在7月底至8月初统一乘空军运-20飞机前往空军航空大学报到。",
+  "event_time": {
+    "start": "2026-07-10",
+    "end": "2026-07-10",
+    "precision": "day",
+    "evidence": "2026年7月10日上午仪式在四川大学附属中学聚智厅举行，四川在线、红星新闻及央广军事等均于当日及后续进行了报道"
+  },
+  "locations": [
+    "中国/四川省/成都市/武侯区/四川大学附属中学"
+  ],
+  "aliases": [
+    "2026年度四川省空军青航校及成都市普通高中飞行学员录取通知书颁发仪式",
+    "四川省2026年空军飞行学员录取通知书颁发仪式",
+    "2026年度空军招飞录取通知书颁发仪式（四川成都）",
+    "四川成都空军航空大学录取通知书颁发仪式",
+    "2024年度四川省空军青少年航空学校及成都市普通高中飞行学员录取通知书颁发仪式"
+  ],
+  "retrieval_queries": [
+    "四川省空军青少年航空学校 录取通知书颁发仪式 四川大学附属中学",
+    "2026年度 四川 空军 飞行学员 录取通知书",
+    "阿尔小平 空军航空大学 录取通知书 凉山",
+    "四川大学附属中学 聚智厅 飞行学员 录取通知书",
+    "绵阳中学 空军飞行学员 录取通知书 2026",
+    "游范饶 绵阳中学 歼-20 录取通知书",
+    "川大附中 李敬 空军航空大学 录取通知书",
+    "西部地区 新录取飞行学员通知书颁发仪式 成都"
+  ],
+  "must_match_facts": [
+    "仪式于2026年7月10日上午在四川大学附属中学举行",
+    "颁发中国人民解放军空军航空大学飞行学员录取通知书",
+    "全省共有80余名学子获得录取通知书，主要来自四川大学附属中学和四川省绵阳中学",
+    "西部战区空军、空军成都招飞中心及地方教育部门军地领导出席现场",
+    "凉山彝族少年阿尔小平作为新录取飞行学员之一受到关注报道"
+  ],
+  "exclude_if": [
+    "陕西西安等其他省市同日举行的空军飞行学员录取通知书颁发仪式",
+    "7月下旬或8月初在成都军用机场举行的运-20运送飞行学员赴校报到欢送仪式",
+    "海军、陆军等其他非空军军种的飞行学员招飞仪式",
+    "非2026年度（或非本批次）举办的往届青航校录取仪式"
+  ],
+  "source_evidence": [
+    {
+      "title": "四川这群少年今天接过了“蓝天通行证”，有人想开“20家族”飞机",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn4Kp-AdqIHQPyc5NuWoiVT5kKg5qBtMLz_PNc6SB4HvfCgyNRsSytiIzPaEFg1BRtSVvHYzTZZ4p6Jm4-sZ8hY_8jv3OWRsBme7KMlwhjt0y_y8_RpEwI8kY=",
+      "publisher": "红星新闻",
+      "published_at": "2026-07-11"
+    },
+    {
+      "title": "凉山5兄妹出了4名大学生！19岁彝族少年开启“飞天梦”丨C视频",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYuKUoMWs88EOSKgNURWQi5Z7LgiO3wPCFFL3Kisg3wt6_jDvntb3fC-hrVBQ2Y8nrfV8XSg7GClGTVtrgDyvabF9VBLoqK8Uly6QWX1pxH2Xi84m6hL6T3vnFR4oiFoWY6hkE8DJ0spdS3A==",
+      "publisher": "四川在线",
+      "published_at": "2026-07-10"
+    },
+    {
+      "title": "80余名学生喜提录取通知书，成为空军飞行学员！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEgjI6IjvrNA0BqyZX797z12-B9bKsQtP4s8nYCCZC2tdC_jW3wBRP9mNb-0tVv-kh9u77IH8Q9fJJUZMTeYNhxl3rBkQY7sdVVrOPNBoRdU7Xo4zanCqc29E1QSPvTRjJNHKapGvnrGn_DK-T1YkDWf20fyKSMEDJzAT-0",
+      "publisher": "央广军事",
+      "published_at": "2026-07-14"
+    }
+  ],
+  "uncertainties": [
+    "真实事件原型发生于2024年7月10日，但数据样本和部分报道文本中年度被映射并呈现为2026年度",
+    "学生游范饶、李敬等名字与细节主要见于社交媒体短视频口播与切片，主流官方通稿主要突出阿尔小平、邹文庆及化名申同学等"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:15"
+}

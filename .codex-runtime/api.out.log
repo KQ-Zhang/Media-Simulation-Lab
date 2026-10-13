@@ -1,0 +1,5 @@
+
+> social-cascade-lab-ui@0.1.0 server
+> node server/http.js
+
+Simulation API listening on http://127.0.0.1:8787

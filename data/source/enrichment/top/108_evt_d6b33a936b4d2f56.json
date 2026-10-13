@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_d6b33a936b4d2f56",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "西安男子伪装快递员入室杀害前女友案",
+  "factual_description": "2025年11月23日上午，陕西省西安市发生一起入室杀人案。22岁男子张一洒（张某洒）因不满与前女友万某某（化名雯雯）分手及求和遭拒，在进行多日跟踪踩点后，携带大号行李箱及带铁钉的木棍，伪装成快递员骗开房门强行进入万某某家中将其杀害，并试图转移尸体未遂。案发当晚，警方将张一洒抓获归案。经法医鉴定，万某某系被外力作用于颈部致机械性窒息死亡。西安市人民检察院以故意杀人罪对张一洒提起公诉。2026年7月13日，该案在西安市中级人民法院一审开庭审理，被告人张一洒当庭否认杀人意图，辩称仅构成故意伤害致人死亡罪并主张自首，检方建议判处死刑。2026年8月12日，西安市中级人民法院一审公开宣判，以故意杀人罪判处张一洒死刑，剥夺政治权利终身。",
+  "event_time": {
+    "start": "2025-11-23",
+    "end": "2026-08-12",
+    "precision": "day",
+    "evidence": "案发时间为2025年11月23日，2026年7月13日一审开庭，2026年8月12日一审宣判。"
+  },
+  "locations": [
+    "中国/陕西省/西安市/未央区",
+    "中国/陕西省/西安市/西安市中级人民法院"
+  ],
+  "aliases": [
+    "西安男子伪装快递员入室杀害前女友案",
+    "张一洒故意杀人案",
+    "西安冒充快递员入室杀人案",
+    "男子假装快递员入室杀害前女友案",
+    "西安22岁女子遭前男友入室杀害案"
+  ],
+  "retrieval_queries": [
+    "西安 伪装快递员 入室杀害前女友",
+    "张一洒 故意杀人 案",
+    "西安 22岁女子 快递员 前男友 杀害",
+    "西安中院 假装快递员 入室杀人 开庭",
+    "张某洒 伪装快递员 行李箱 木棍"
+  ],
+  "must_match_facts": [
+    "2025年11月23日发生在西安市的伪装快递员入室杀人案",
+    "犯罪嫌疑人/被告人为张一洒（张某洒）",
+    "被害人为其22岁前女友万某某（雯雯）",
+    "作案工具包括大号行李箱和带铁钉的木棍",
+    "2026年7月13日在西安市中级人民法院一审开庭",
+    "2026年8月12日西安市中级人民法院一审判处张一洒死刑"
+  ],
+  "exclude_if": [
+    "发生在西安以外地区的入室杀人案件",
+    "涉案被告人非张一洒（张某洒）的案件",
+    "真实快递员在履职过程中引发的刑事案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子伪装成快递员入室杀害前女友案开庭，携带木棍和行李箱作案",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoBM100xFMIW8an8doM1OSCZaChMkxNq7q7d9IDkf6azwBhpNA6LktzKGAwYfD9z8-N_2gnhYMJkwrhtQaWiLJHkh8W5VdmK33Trr1R9JiBgqmYpPq3-OjM05Aiuju_x6A2w4uzUuWCzqjtg==",
+      "publisher": "新京报",
+      "published_at": "2026-07-14"
+    },
+    {
+      "title": "男子假装快递员入室杀害前女友案一审：嫌疑人当场翻供，辩称只是故意伤害",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuz805meFF1JeYVQxSfKzF9sHqhgVbhgtvoa4lLyg__vjlcqFsgEii-z3GhVZqjF4m6vp8rS7g0U_eBuxVPhtVdSuCOQNZguG12BWdqvv0yi9Az2YfxK60o636IvKJ8m2u9Ua7rUJw==",
+      "publisher": "封面新闻",
+      "published_at": "2026-07-14"
+    },
+    {
+      "title": "男子冒充快递员入室杀害22岁前女友，一审被判死刑；曾不满女方找到银行工作",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGdNGl2sf00LOq8DXx9ZugSjx7UN8-XRcX6cq23rscLoacQMrWKPqZQvI8tVcXl11o9QKHtglSAPZNGqzvPFjgsiEglGHWEvP0kDj7Wir1sJg-9wtBMF8kj78lSrPODAUF43cVxN6Xww86L==",
+      "publisher": "羊城晚报",
+      "published_at": "2026-08-12"
+    }
+  ],
+  "uncertainties": [
+    "二审复核及后续最高人民法院死刑复核结果"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:01"
+}

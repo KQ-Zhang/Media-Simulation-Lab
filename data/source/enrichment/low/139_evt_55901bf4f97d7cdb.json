@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_55901bf4f97d7cdb",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年UFC格斗之夜上海站",
+  "factual_description": "2026年7月8日，UFC（终极格斗冠军赛）官方正式官宣重返上海的赛事阵容及票务信息。该赛事由上海市体育局和浦东新区人民政府主办，中国移动咪咕承办，橙狮体育联合承办，门票于7月17日正式开启预售。2026年8月28日，UFC精英之路第五季半决赛率先打响；8月29日晚，2026UFC格斗之夜在上海浦发银行东方体育中心正式举行，现场共有16188名观众观赛，创下UFC亚洲格斗之夜最高上座纪录。在头条主赛雏量级较量中，中国选手宋亚东在第二回合以一记上勾拳KO击败俄罗斯名将乌马尔·努曼格莫多夫；在联合主赛女子草量级较量中，中国选手闫晓楠在首回合不敌巴西选手丹妮斯·戈麦斯；其他主赛中，中国选手苏木达尔基判定击败佩雷兹，刘策在UFC首秀中首回合KO击败罗德里格斯。",
+  "event_time": {
+    "start": "2026-08-28",
+    "end": "2026-08-29",
+    "precision": "day",
+    "evidence": "2026年8月28日举行UFC精英之路第五季半决赛，8月29日晚在东方体育中心举行格斗之夜正赛"
+  },
+  "locations": [
+    "中国/上海市/浦东新区/上海东方体育中心（浦发银行东方体育中心）"
+  ],
+  "aliases": [
+    "2026UFC格斗之夜上海站",
+    "UFC上海站",
+    "UFC格斗之夜286",
+    "UFC格斗之夜：努曼格莫多夫vs宋亚东",
+    "2026UFC格斗之夜暨精英之路上海站"
+  ],
+  "retrieval_queries": [
+    "UFC上海站 宋亚东 乌马尔",
+    "UFC格斗之夜上海站 2026",
+    "UFC上海 闫晓楠 戈麦斯",
+    "UFC格斗之夜 努曼格莫多夫vs宋亚东",
+    "东方体育中心 UFC上海站",
+    "UFC精英之路第五季半决赛 上海"
+  ],
+  "must_match_facts": [
+    "比赛地点为上海浦东新区东方体育中心（浦发银行东方体育中心）",
+    "比赛举行时间为2026年8月28日至8月29日（格斗之夜正赛为8月29日）",
+    "头条主赛为宋亚东对阵乌马尔·努曼格莫多夫（宋亚东次回合KO胜）",
+    "联合主赛为闫晓楠对阵丹妮斯·戈麦斯（戈麦斯首回合TKO/KO胜）",
+    "门票销售于2026年7月中旬启动，咪咕为主要承办及转播平台"
+  ],
+  "exclude_if": [
+    "2017年UFC上海梅赛德斯奔驰文化中心首秀",
+    "2023年原定举办后改至拉斯维加斯的UFC格斗之夜赛事",
+    "2024年或2026年5月举行的UFC澳门站赛事"
+  ],
+  "source_evidence": [
+    {
+      "title": "UFC格斗之夜上海站：宋亚东KO取胜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTVnxtH-YLZsbJmU5gxMGWe0F3t7UjjwbeJ7cum6zhdP4sZD8DqBbffEFqZYmFbZcCfS987LIUhxo7ovUiy2oVP7cz9onb3qLvs-uRJEXWG4oBCdch1XxcKdV6qIQpQQPCym94AIeslRtoYdtIXXn_ym6sLtlgdNlL4riuITSYX_0-",
+      "publisher": "新华网",
+      "published_at": "2026-08-31"
+    },
+    {
+      "title": "宋亚东KO击败乌马尔！距离梦想中的冠军战又近一步",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFchEgt_6NAHk6aloORbx_6zaq4ybPhgpFdAIDFFxKTKPuWI6dXnQRKvFc1W4mnFLDbZjXZ7bPEOcPENIWAXtXOhN3rilAel0hdlOZNEur5a52qKXyTB7qcuBRo73wsnD2FO_1LxhKU-Co=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-08-29"
+    },
+    {
+      "title": "宋亚东领衔UFC上海站，7月17日12点正式开启预售",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_4dp3dgp8HHhsj_hz_8j4jgc5dQXouF3q22vu2ic8Ly4kP77HzrmuN-Y-bbZaAaynig8KBtLC0Sbpm-FQPzCvTg9HSI9p8W4YZzO4fNrQG_UI8E4jsjSDv-9ArjFFyXaaI60R87Xu",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-07-08"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:35"
+}

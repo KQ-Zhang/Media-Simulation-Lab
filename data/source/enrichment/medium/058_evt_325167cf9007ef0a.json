@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_325167cf9007ef0a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "河北中坛食品科技回应零食包装印“勿忘国耻是每个中国人的出厂设置”",
+  "factual_description": "2026年4月16日，有网民在社交平台发布视频展示其购买的平价小零食（孜然味鸡蛋馍丁），外包装显著印有“勿忘国耻是每个中国人的出厂设置”字样，引发网络关注与讨论。信息显示该款产品委托方为位于河北省邯郸市的河北中坛食品科技有限公司。2026年4月17日，极目新闻等媒体联系该公司，工作人员回应称外包装标语系企业老板的个人情怀，认为企业和品牌活着应当提供价值、感恩时代，希望通过产品传递爱国正能量主张，其公司生产的其他产品也有类似标语。针对网络上部分关于“爱国营销”的质疑，企业后续正面回应表示将严格把控食品质量、深耕产品。",
+  "event_time": {
+    "start": "2026-04-16",
+    "end": "2026-04-19",
+    "precision": "day",
+    "evidence": "2026年4月16日网民发布零食包装视频引热议；4月17日极目新闻等多家媒体报道厂家回应；4月19日河北新闻网等媒体报道企业回应质量与情怀营销质疑。"
+  },
+  "locations": [
+    "中国/河北省/邯郸市"
+  ],
+  "aliases": [
+    "中坛食品零食包装印爱国标语事件",
+    "零食包装印勿忘国耻是每个中国人的出厂设置",
+    "厂家回应零食包装上印勿忘国耻",
+    "河北平价零食印爱国标语引发热议"
+  ],
+  "retrieval_queries": [
+    "中坛食品 勿忘国耻是每个中国人的出厂设置",
+    "河北中坛食品 零食包装 爱国标语",
+    "零食包装 勿忘国耻 厂家回应 老板情怀",
+    "鸡蛋馍丁 勿忘国耻是每个中国人的出厂设置",
+    "中坛食品 鸡蛋馍丁 回应",
+    "厂家回应零食包装印勿忘国耻"
+  ],
+  "must_match_facts": [
+    "涉事零食包装印有标语‘勿忘国耻是每个中国人的出厂设置’",
+    "涉事产品委托方为河北中坛食品科技有限公司（位于河北邯郸）",
+    "涉事产品为鸡蛋馍丁等平价零食",
+    "厂家工作人员回应称印制该标语是老板的情怀，旨在通过产品传达正能量"
+  ],
+  "exclude_if": [
+    "中小学生‘吃掉作业’可食用纸零食包装相关事件",
+    "不涉及河北中坛食品科技有限公司的其他食品安全或商标包装纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "零食包装上写着“勿忘国耻是每个中国人的出厂设置”，厂家回应：这是老板的情怀",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3Thz2WE9_t5hzUvNDMQBXMNvdbg8k_4_mpPkrKI-ZrQbjPsJZrz2BjaEZ_tmCTTNcJ28yjopwuBfekrZuFP0_u__L2MSxvAFWEMRqsHBGdctF0YtSVgk9R3vD5l_u95qMeM3Y2Q==",
+      "publisher": "极目新闻",
+      "published_at": "2026-04-17"
+    },
+    {
+      "title": "零食包装印「勿忘国耻」语句厂家：是老板的情怀",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa56R_9log2fgnnF73zDIR5lXTMNReiCEdqGvTAPF7ywM1AY1juUY-2MAXF66AhDoRJWSHv65bFsNpD-3UIqZG63bMrsDhwNkvRjvLjqh3cDS5mE7QS5twbXAL5FLAT93dQ3q1QCyjFcu133tJIkg9",
+      "publisher": "星岛头条",
+      "published_at": "2026-04-17"
+    },
+    {
+      "title": "【#零食印勿忘国耻企业正面回应#】",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOVF4IdqitvAdslKwSTSFWQWrt2wmr_ACwXynEEG3qwmKbIlRj1hCINoHuj_fXZxCsx2Ej49ELcIEjh1RPUlB3fbLj4om6OWNSOL5ybz8axyAPYfLGavj5g4dDaC0V5CmIdpEMmFfX2kHaQQ==",
+      "publisher": "河北新闻网",
+      "published_at": "2026-04-19"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:33"
+}

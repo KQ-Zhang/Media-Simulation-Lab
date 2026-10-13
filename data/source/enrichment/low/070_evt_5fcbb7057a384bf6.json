@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_5fcbb7057a384bf6",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年孟加拉国库米拉火车客车相撞事故",
+  "factual_description": "当地时间2026年3月22日凌晨约2时45分至3时10分，孟加拉国吉大港专区库米拉县（Cumilla）南萨达尔乌帕齐拉的帕杜尔巴扎尔（Paduar Bazar）铁路平交道口发生一起严重交通事故。一列客运列车（Chattogram Mail）撞上一辆正在横穿铁轨的载客大客车（车名“Mamun Special”），并将该客车沿铁轨拖行近1公里。事故造成客车严重损毁，致至少12人死亡（包括多名妇女与儿童），另造成约20至26人不同程度受伤。孟加拉国警方、消防和救援部门随即赶赴现场展开救援，伤者被送往库米拉医学院医院救治。初步调查表明，事发时该铁路道口无道口工在岗执勤且道口未及时关闭。孟加拉国铁路部门随后成立两个调查委员会调查事故原因，并对两名擅离职守的道口工予以停职，执法部门已对相关责任人立案拘捕。",
+  "event_time": {
+    "start": "2026-03-22",
+    "end": "2026-03-22",
+    "precision": "day",
+    "evidence": "央视新闻、孟加拉国国家通讯社（BSS）及《每日星报》等媒体报道，事故发生在当地时间2026年3月22日凌晨约2时45分至3时10分。"
+  },
+  "locations": [
+    "孟加拉国/吉大港专区/库米拉县/南萨达尔/帕杜尔巴扎尔铁路平交道口"
+  ],
+  "aliases": [
+    "孟加拉国库米拉火车客车相撞事故",
+    "孟加拉国3·22火车与客车相撞事故",
+    "库米拉火车与客车相撞致12死",
+    "Cumilla train bus collision",
+    "Paduar Bazar level crossing train crash"
+  ],
+  "retrieval_queries": [
+    "孟加拉国 库米拉 火车 客车 相撞",
+    "库米拉 火车 巴士 12人死亡",
+    "Cumilla train bus collision 12 killed",
+    "Paduar Bazar level crossing train accident",
+    "Mamun Special Cumilla train collision",
+    "Chattogram Mail train bus crash Cumilla"
+  ],
+  "must_match_facts": [
+    "事故发生在2026年3月22日凌晨",
+    "事故地点位于孟加拉国库米拉地区（Cumilla）帕杜尔巴扎尔（Paduar Bazar）铁路平交道口",
+    "事故涉事交通工具为一列客运火车与一辆名为Mamun Special的客运巴士",
+    "事故造成至少12人死亡、20余人受伤",
+    "事故发生时铁路平交道口看守人员缺勤失职"
+  ],
+  "exclude_if": [
+    "2020年12月孟加拉国焦伊布尔哈德（Joypurhat）火车与客车相撞事故",
+    "2026年3月18日孟加拉国博古拉县（Bogra）火车脱轨事故",
+    "孟加拉国两列火车相撞事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "孟加拉国一列火车与一辆客车相撞12人死亡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOTHOBuGKeJeXEWLjGxzgL6jELc8NnIKnoMlis2blO0nl3jLqKtpKzxs1vAN6VJpX_w1seEe-MMROaW-8cTgvdPencMJCiwfbOoqhvJCVvxzOJUOHTJWV6DwGUqlksC2dsz5K4oU7USbVdlB8dVzI=",
+      "publisher": "中国新闻网（引自央视新闻客户端）",
+      "published_at": "2026-03-22"
+    },
+    {
+      "title": "12 killed in Cumilla as train hits bus at unmanned level crossing",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuCYqmPS1qYI3_GBJdXyUhdUY68WQghCzVnefToiJHoJQTggJVkrPwwiKziiGcBQ8dPN5okiAcuX8M4WWowXunENyhi4Ysx9s9hCdqKvS7iFOwldaXjlHJIXQqtgZmPXd8APyGxLVvkeaJZuBOZT1xMSi2iceANLL1z8FntHQDENqNBp9OYd8rwpsrfHFSOc0w2owi9salL9R--WiFZogOTnqSgYQyZHYizw==",
+      "publisher": "The Daily Star",
+      "published_at": "2026-03-22"
+    },
+    {
+      "title": "Identities of 12 killed in train-bus collision in Cumilla revealed",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpiPiQmkYwzmg6plxhh3WazZluGhxgFa1ihbmgIGjzC67A4tHhtNOnoTMe0IwWsBnWgblOvJzcDCm9k5KuqHO9xoVVN_23hDbNpNiIGSoZseBlmhx4A3aTog==",
+      "publisher": "Bangladesh Sangbad Sangstha (BSS)",
+      "published_at": "2026-03-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:44"
+}

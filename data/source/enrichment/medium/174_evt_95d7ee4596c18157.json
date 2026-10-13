@@ -1,0 +1,82 @@
+{
+  "event_id": "evt_95d7ee4596c18157",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "白宫称正稳步推进控制伊朗领空并阐释“无条件投降”表态",
+  "factual_description": "当地时间2026年3月6日，美国白宫新闻秘书卡罗琳·莱维特在华盛顿白宫举行的新闻发布会上表示，美国正稳步推进控制伊朗领空的进程，预计美方在此次对伊军事行动中可实现的目标将在四到六周内完成。当天早些时候，美国总统特朗普在社交媒体发文称，除了“无条件投降”之外，美国不会与伊朗达成任何协议。对此，莱维特在发布会上解释称，所谓“无条件投降”是指当美方认定伊朗已不再构成威胁、且军事行动目标全部实现时，无论伊朗方面是否公开作出该项表态，伊朗实际上都将处于“无条件投降”状态。原有描述中提及的“2020年”系年份错误，实际发生时间为2026年3月6日。",
+  "event_time": {
+    "start": "2026-03-06",
+    "end": "2026-03-06",
+    "precision": "day",
+    "evidence": "央视新闻、央广网及外媒报道均明确记录莱维特在当地时间2026年3月6日（周五）的白宫记者会上发表上述表态"
+  },
+  "locations": [
+    "美国/华盛顿特区/白宫",
+    "伊朗"
+  ],
+  "aliases": [
+    "白宫称美正稳步控制伊朗领空",
+    "白宫称美国正稳步控制伊朗领空：预计在四到六周内完成",
+    "白宫回应特朗普称伊朗须无条件投降",
+    "莱维特称4至6周内实现控制伊朗领空目标"
+  ],
+  "retrieval_queries": [
+    "白宫 稳步控制 伊朗领空",
+    "莱维特 伊朗领空 四到六周",
+    "白宫称美正稳步控制伊朗领空",
+    "特朗普 无条件投降 莱维特",
+    "Karoline Leavitt Iranian airspace",
+    "Leavitt Iran four to six weeks",
+    "White House unconditional surrender Iran"
+  ],
+  "must_match_facts": [
+    "事件发生于当地时间2026年3月6日白宫例行记者发布会",
+    "主要发言人为白宫新闻秘书卡罗琳·莱维特（Karoline Leavitt）",
+    "莱维特表示美方正稳步推进控制伊朗领空，行动目标预计在四到六周内完成",
+    "涉及对特朗普关于伊朗须“无条件投降”社交媒体言论的解释与找补"
+  ],
+  "exclude_if": [
+    "2020年苏莱曼尼遭美军空袭身亡相关事件",
+    "2024年或2025年美伊间其他非本轮冲突的外交争议",
+    "2026年3月下旬美伊关于15项停火条件及巴基斯坦调解谈判的事件",
+    "仅报道伊朗防空部队拦截且未提及白宫新闻秘书四到六周控制领空表态的内容"
+  ],
+  "source_evidence": [
+    {
+      "title": "白宫称美国正“稳步控制”伊朗领空",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjE3EeP5AruiNSNl06NEAEiQLYRlk16-GxkxTwmMDlred6cQ9M8OSEEDBN47Qh2M0oftb0nF2GWLpGUrxFx4NjAYeM467Kg8crPpMjwKEFxK4lhrydDvp68Sngdd_pSy0cZyR8se87qvoZxcXd1AQ=",
+      "publisher": "央广网（引自央视新闻客户端）",
+      "published_at": "2026-03-07"
+    },
+    {
+      "title": "White House: US well on way toward controlling Iran airspace",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGx5tyvrqP5Z6ubCl_mJxTcEGvwMYEuz22nB1Umnm3X1tK8XuV7YXTJn7q8_QGu-aKHW3trPhy6I2dqzSlpaE7AeRR5y00ux1tB_GZ_kLvWljfoB0cSSmzcClihkwk29g==",
+      "publisher": "Arab News",
+      "published_at": "2026-03-06"
+    },
+    {
+      "title": "Iran war could end in 4–6 weeks, White House says",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcpiePUnS2C0HRu2Qt9vGwa7XzhSJW8eQaJ9LOcqPNw2NSQf4jDoiNT3PrsQ7tQ8bRYd96Bb-y8HwJv-3TV0r-L7YitWSPVZOX8wNhVBqmDakR2ck1n8XbOE-kBQVQd8Y=",
+      "publisher": "Ynet News",
+      "published_at": "2026-03-06"
+    },
+    {
+      "title": "白宫称美国正“稳步控制”伊朗领空：预计在四到六周内完成",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0p8c_nQE7P1NurrBxMJC_Py5m272HDNzDGEPTpDUESXOXbGyctCd_9GHjy_UF4c58COpo4OIyxM7WhJKTHNq6qk_y3Hg6KSBG8mrzCMRwPgfJeckx8i_p6Yn5kuHT8MZROtExn2wRNcyi3KzR6tAT",
+      "publisher": "扬子晚报",
+      "published_at": "2026-03-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:36"
+}

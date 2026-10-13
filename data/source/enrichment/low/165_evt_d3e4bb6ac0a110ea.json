@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_d3e4bb6ac0a110ea",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "中国外长王毅访问韩国并会见韩国总统李在明与外长赵显",
+  "factual_description": "2026年8月19日至20日，中共中央政治局委员、外交部长王毅对韩国进行正式访问。8月19日，王毅在首尔同韩国外长赵显举行会谈，双方表示将以中韩元首共识为指引，推动双边关系健康稳定可持续发展，加快推进中韩自贸协定第二阶段谈判，并就半岛局势交换意见。8月20日，韩国总统李在明在首尔青瓦台会见王毅。李在明肯定韩中关系恢复成果，表示期待于2026年11月赴深圳参加亚太经合组织（APEC）领导人非正式会议；王毅转达中国领导人问候，强调双方应抓住机遇推进战略合作伙伴关系。访问期间，王毅还与韩国国家安保室长魏圣洛进行了战略对话。",
+  "event_time": {
+    "start": "2026-08-19",
+    "end": "2026-08-20",
+    "precision": "day",
+    "evidence": "新华社与中国外交部官方通报明确记载王毅于2026年8月19日在首尔同韩国外长赵显会谈，8月20日在青瓦台会见韩国总统李在明。"
+  },
+  "locations": [
+    "韩国/首尔/青瓦台",
+    "韩国/首尔"
+  ],
+  "aliases": [
+    "韩国总统李在明会见王毅",
+    "王毅同韩国外长赵显会谈",
+    "王毅2026年8月访韩",
+    "中韩外长首尔会谈2026"
+  ],
+  "retrieval_queries": [
+    "王毅 韩国总统 李在明",
+    "王毅 赵显 首尔 会谈",
+    "李在明 青瓦台 王毅",
+    "王毅 魏圣洛 战略对话 2026",
+    "李在明 深圳 APEC 王毅",
+    "王毅 访韩 2026年8月"
+  ],
+  "must_match_facts": [
+    "时间为2026年8月19日至20日",
+    "地点在韩国首尔（含青瓦台）",
+    "韩国总统李在明在青瓦台会见王毅",
+    "王毅同韩国外长赵显举行会谈",
+    "涉及中韩自贸协定第二阶段谈判或11月深圳APEC会议议题"
+  ],
+  "exclude_if": [
+    "韩国前总统尹锡悦执政时期的中韩高层会晤",
+    "涉及韩国前外长赵兑烈、朴振的会谈",
+    "非2026年8月王毅首尔之行的其他中韩外交接触"
+  ],
+  "source_evidence": [
+    {
+      "title": "韩国总统李在明会见王毅",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA9Ajge52AIIvxupOXZ2dtdG_xLI_T_4q0XpYSqdbO1yuN682m2ad1X5dckL60es_PQxaGR_mESQ1_UAu5ENtK9sj2RAembl04brekYUz5upZnPoTRlIvDHFst78lGHz2H9QJkQkxEUepQ4MttqTkuISvEYGDsIHpEP9N3nsc5Giqh4GvtQN9BJA==",
+      "publisher": "中华人民共和国外交部",
+      "published_at": "2026-08-20"
+    },
+    {
+      "title": "王毅同韩国外长赵显会谈",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwHX8RC7VgXRLoDMDljZwmuaS9SPBKAS7hE5zQzh_9D8PEfTAhvjUBKTxVkDfqUY-KcT8VZnYMKsSA2g3dgW4Zm4QGTw267KtmWOvkUU5HjBxqAqDfqTsYqFZZZzAD0IYUgo1t_E9wTkT0cMyYeUYVQGBufkI7flFhFrKTt6QkmVzACYN9Gi6HoYU7",
+      "publisher": "新华网",
+      "published_at": "2026-08-19"
+    },
+    {
+      "title": "李在明会见中国外长王毅：就韩半岛问题保持密切战略沟通",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIlj9wTfSHCQjsInLURvAzxMAGrs5xM5WbQzHr_Gbxyeo-FoEKiGt1oHOWdTJZkPYdbx4KjeTmprZfQcSFUYAObT6c53O73FS82KD23wQ-pbfwWDJtWJkgMzTz5_TJSWkkd60_-KI=",
+      "publisher": "韩民族日报",
+      "published_at": "2026-08-21"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将事件发生年份记为2024年，经官方公报核验实际发生时间为2026年8月19日至20日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:17"
+}

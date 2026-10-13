@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_4a36616cbc94031b",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年8月英国英格兰近四分之三地区进入干旱状态",
+  "factual_description": "2026年8月10日，英国政府国家干旱小组（National Drought Group）与英国环境局等部门发布公告指出，因持续少雨和高温，英格兰干旱形势恶化。随着东米德兰兹、林肯郡与北安普敦郡、肯特与东萨塞克斯、索伦特与南唐斯等区域转入干旱状态，英格兰处于干旱状态的区域占比扩大至71.3%（近四分之三），覆盖约4500万人口，超过2700万人受到软管用水禁令等临时限水措施限制。在此之前，英格兰与威尔士刚刚经历了自1836年（190年）以来最干旱的7月；进入8月后降雨量仅为预期均值的5%，7月水库蓄水量下降16%（创至少30年来7月最大降幅），仅14%的河流水量处于正常水平，水资源压力对农业、公共供水、航运及生态环境构成全面冲击。",
+  "event_time": {
+    "start": "2026-08-10",
+    "end": "2026-08-10",
+    "precision": "day",
+    "evidence": "英国国家干旱小组于2026年8月10日召开会议，英国环境局等部门于当日发布公告更新英格兰干旱范围达到近四分之三"
+  },
+  "locations": [
+    "英国",
+    "英格兰"
+  ],
+  "aliases": [
+    "英格兰近四分之三地区进入干旱状态",
+    "英格兰71.3%地区进入干旱状态",
+    "英格兰干旱波及4500万人口超2700万人限水",
+    "Nearly three-quarters of England in drought"
+  ],
+  "retrieval_queries": [
+    "英格兰近四分之三地区进入干旱状态",
+    "英格兰 干旱 4500万 2700万",
+    "英格兰 71.3% 干旱",
+    "国家干旱小组 英格兰 干旱 2026",
+    "Nearly three-quarters of England in drought",
+    "England drought National Drought Group August 2026",
+    "Environment Agency flash drought 71.3 percent"
+  ],
+  "must_match_facts": [
+    "发生于2026年8月10日前后英国国家干旱小组会议通报的干旱危机",
+    "英格兰干旱区域占比达到约71.3%（近四分之三）",
+    "干旱波及英格兰约4500万人口，超过2700万人用水受限",
+    "背景包括经历190年来最干旱7月及8月降雨量仅为预期5%"
+  ],
+  "exclude_if": [
+    "2022年夏季英格兰干旱及水危机事件",
+    "2025年英格兰干旱事件",
+    "涉及欧洲大陆其他国家（如法国、西班牙）的独立干旱事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "英格兰近四分之三地区进入干旱状态",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRiUkxCabQZkFKes12k6BOmPV8MPJfrxsM2SZRu_HJ8h6IJXvemh9i88_vXJuBqRjcF2UIl0-OQWC9Q-zJphvrkn567-x-p8mr8CkOE4tHDFkqH43AOwvwE2LcEEM-ho9ljrgoiDt1nE4gDJemlntJyTUiVdrARogFD7UZ7wUMWA==",
+      "publisher": "新华网",
+      "published_at": "2026-08-11"
+    },
+    {
+      "title": "英格兰近四分之三地区进入干旱状态",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMsBB3kRzFXKgkE5WbpvcQ2OufcX6QDzYtrP6Amy5zC-Keem5LFYmhdH6ETqoNpD_VSVdle_bploDSmcRkh4VJqmJbQPaQNcqXLnchmzRWEglD2fjRBJRhDTF92dFMwKcjNI2sg3LikxHrv-uWk-6oHg3RKZIU",
+      "publisher": "央视新闻客户端",
+      "published_at": "2026-08-11"
+    },
+    {
+      "title": "Nearly three-quarters of England in drought as another heatwave approaches",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIvJ_3wYpXIBzwATSSaJTSof9r-CxNrrtMGPDJ4nx_9oN52PkTKy9Y_H9Fd8TXe9f5iJqwbdSSOt9BZNvo-4MYPXZs94HOv3VS-k6iItXnNVfzEHFhf0zNofmBD9qdCLW_RIc9LAQIw7UE-iB84z6en1tUj38dz5Lz5BUOBdhZ8in0Fpz3",
+      "publisher": "Xinhua News Agency",
+      "published_at": "2026-08-11"
+    },
+    {
+      "title": "Almost three-quarters of England in drought as conditions worsen in dry August",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG_b_Co-LA9spFFvwNvuUpkpPeGrr12KO2m-nBkDPTXc-Tc5TJdsSBhuQMqhRwuFZerYTBBLTVa9dRLge3Aia8q3GHBhxL3IS7zb3YBZK2COl1oP_gAbACRyY7FyPCTb-XL2KBlEXWf5w60DdqwiN8oVFUWqUjPcBCbNH78cP5S7wqvLyPXe-CO26JXQJwXgCEfZt-zaH9AiVqD7KhlV67FGXlvWu0IGvaStqUXU48-MtPfh0=",
+      "publisher": "PA Media / The Standard",
+      "published_at": "2026-08-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:32"
+}

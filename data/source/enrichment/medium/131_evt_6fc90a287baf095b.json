@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_6fc90a287baf095b",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "孙龙夺得2026年米兰冬奥会短道速滑男子1000米银牌",
+  "factual_description": "当地时间2026年2月12日晚（北京时间2月13日凌晨），在意大利米兰举行的2026年米兰-科尔蒂纳冬奥会短道速滑男子1000米A组决赛中，中国选手孙龙在比赛中段一度跌至第四位的不利局面下，于最后两圈奋起直追连续超越，最终以1分24秒565的成绩获得银牌。荷兰选手延斯·范特·沃特以1分24秒537的成绩摘得金牌，孙龙仅以0.028秒（半个冰刀距离）的微弱劣势屈居亚军；韩国选手林钟彦以1分24秒611获得铜牌。这枚银牌不仅是孙龙个人获得的首枚冬奥会个人单项奖牌，也是中国短道速滑队在本届冬奥会上斩获的首枚奖牌。",
+  "event_time": {
+    "start": "2026-02-12",
+    "end": "2026-02-12",
+    "precision": "day",
+    "evidence": "决赛于当地时间2026年2月12日晚（北京时间2月13日凌晨）在意大利米兰滑冰馆进行。"
+  },
+  "locations": [
+    "意大利/伦巴第大区/米兰/米兰滑冰馆"
+  ],
+  "aliases": [
+    "米兰冬奥会短道速滑男子1000米孙龙摘银",
+    "孙龙米兰冬奥会1000米银牌",
+    "孙龙0.028秒之差摘银",
+    "孙龙短道速滑男子1000米亚军",
+    "米兰冬奥会中国短道队首枚奖牌"
+  ],
+  "retrieval_queries": [
+    "孙龙 米兰冬奥会 1000米 银牌",
+    "孙龙 1000米 1分24秒565",
+    "孙龙 范特沃特 0.028秒",
+    "米兰冬奥会 短道速滑 男子1000米 A组决赛",
+    "短道速滑 孙龙 摘银 2026"
+  ],
+  "must_match_facts": [
+    "中国选手孙龙获得短道速滑男子1000米银牌",
+    "赛事为2026年米兰-科尔蒂纳冬季奥林匹克运动会",
+    "比赛地点在意大利米兰滑冰馆",
+    "孙龙决赛成绩为1分24秒565",
+    "金牌由荷兰选手延斯·范特·沃特获得（1分24秒537），两人差距为0.028秒",
+    "该枚银牌为中国短道速滑队在本届冬奥会上获得的首枚奖牌"
+  ],
+  "exclude_if": [
+    "2022年北京冬奥会短道速滑比赛",
+    "2024年鹿特丹世界短道速滑锦标赛",
+    "米兰冬奥会短道速滑男子500米、1500米或混合团体接力等其他小项",
+    "孙龙参加的非冬奥会世界杯或世巡赛单项赛事"
+  ],
+  "source_evidence": [
+    {
+      "title": "冬奥会｜短道速滑——孙龙获男子1000米银牌",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHal60TT_yGrUNJ8Hv3XLnwuSalrFojVqO0AyfI1PLj6DP5C6gGAlSQOA98hmZ7-p34w0EVKlP9YAnjk_UzMlOjpvvH_qhbFexiThDenSCB88fe73tRK_IwxZnU3xe0X6kOUrpaTccGwZ4dhsIv5GE7K21wdl2Mp6oUqhjhFLk0FoE=",
+      "publisher": "新华网",
+      "published_at": "2026-02-13"
+    },
+    {
+      "title": "（米兰冬奥会）中国选手孙龙夺得短道速滑男子1000米银牌",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ229KDd3jTwoOFOThlxDIRirz-HNaMtOWt-4kymt114A8TPlDfEad8Xd45MZRChRKJRifcvStFOrkuAup7663fB5s81f2fk6NXM1GzInHRR7VdeXM8BIeYipZMYHJPO4jIDBDMeLdKGeVFNc=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-02-13"
+    },
+    {
+      "title": "0.028秒！半个冰刀！孙龙最后两圈极限逆转摘银",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0SFpsQb2lq-TkyaCKEcq_QsJG9PU3U3Et2ZaRfMUmDM09FfScmaSy3Jk_KaQBK21RV1KCU1smiYnUcdH_HVbXQ67nft4eMmUVYDVQ0KomEXOWJjvWd9HYha7bUSh0SFl4DHkawp7ipB8UhwMv-Ws=",
+      "publisher": "扬子晚报/紫牛新闻",
+      "published_at": "2026-02-13"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:23"
+}

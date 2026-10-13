@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_d764e1acb3358bc8",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "全球最大蓝绿钻石“海洋之梦”在日内瓦佳士得以1.17亿元成交",
+  "factual_description": "当地时间2026年5月13日，在瑞士日内瓦贝尔格四季酒店举行的佳士得“瑰丽珠宝”（Magnificent Jewels）春季拍卖会上，全球已知最大的一颗艳彩蓝绿色钻石“海洋之梦”（The Ocean Dream）压轴登场。该钻石重5.50克拉，采用改良三角形切割，被美国宝石研究院（GIA）认定为有史以来鉴证过的最大颗天然艳彩蓝绿钻。经过来自多个国家藏队长达约20分钟的竞价，该拍品最终以1356.75万瑞士法郎（约合1730万美元，折合人民币约1.17亿元）成交，买家为一名未公开姓名的私人藏家。此次成交刷新了全球艳彩蓝绿钻石的公开拍卖最高价纪录。这也是“海洋之梦”时隔12年（前次为2014年5月以约860万美元成交）第二次登上日内瓦拍卖场并实现大幅增值。",
+  "event_time": {
+    "start": "2026-05-13",
+    "end": "2026-05-13",
+    "precision": "day",
+    "evidence": "佳士得拍卖日程及路透社、福布斯等多家媒体报道均确认拍卖于当地时间2026年5月13日举行并成交。"
+  },
+  "locations": [
+    "瑞士/日内瓦州/日内瓦/贝尔格四季酒店"
+  ],
+  "aliases": [
+    "海洋之梦钻石拍卖",
+    "全球最大蓝绿钻石拍卖破纪录",
+    "佳士得日内瓦春拍海洋之梦",
+    "The Ocean Dream Diamond Auction"
+  ],
+  "retrieval_queries": [
+    "海洋之梦 钻石 拍卖",
+    "海洋之梦 蓝绿钻石 1.17亿",
+    "佳士得 日内瓦 海洋之梦",
+    "Ocean Dream diamond Christie's Geneva",
+    "Ocean Dream 17.3 million"
+  ],
+  "must_match_facts": [
+    "拍品为5.5克拉艳彩蓝绿色钻石“海洋之梦”（The Ocean Dream）",
+    "拍卖行与地点为瑞士日内瓦佳士得（Christie's）拍卖会",
+    "成交价格约为1350余万瑞士法郎（折合人民币约1.17亿元或1730万美元）",
+    "创下同类蓝绿色钻石的世界拍卖纪录",
+    "买家为未公开姓名的私人藏家"
+  ],
+  "exclude_if": [
+    "2014年5月该钻石首次在日内瓦以850万左右美元成交的历史拍卖",
+    "其他蓝钻或绿钻（如奥本海默蓝钻、德累斯顿绿钻等）的拍卖事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "World's Largest Vivid Blue-Green Diamond Fetches Record $17.3 Million",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAYjmJ7dwjR911xL76vgis8bLU-QstFTrY1HRV9vW3XqG3VDdtRX9uOkK-SW9MdZhQGH5GmWgOfI2aiC1x2aso7VnnUvqnZLi7kLS21tPo_hideE4B20zLog40t0H8awvIeZo6aDB0hJDobsS57l8hUqyLTmXaZYkTcLMP7m6O6muIVBICQ3I--EUkSi4L65n1XThaL94AgBiKpATeEhocR05kCk_MRiVWGGoRbykaqQ==",
+      "publisher": "Forbes",
+      "published_at": "2026-05-13"
+    },
+    {
+      "title": "约合1.17亿元人民币、20分钟成交：“海洋之梦”蓝绿钻石创拍卖新纪录",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeKenAJZxpQA3PYperQ6Nf6RltKj2EY9y9JMGvfPdIBffkWBi4DOuSzYEFfG4SiMwuQ-UQI-UOH1I_O_9EdUqPPOZPK8lRrn7A9zmZ-nItOQpERp7sgermEa0xOxLTybc4jGTSJDF0UZneonhBlWs-TdQ=",
+      "publisher": "中新网转中央日报",
+      "published_at": "2026-05-15"
+    },
+    {
+      "title": "THE OCEAN DREAM SPECTACULAR COLOURED DIAMOND AND DIAMOND RING",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSbwvuBe04cg7PYD1-bUfwUcz8RN15-KJCNhJ4PAznGIg2pRbNH0CcZMXKNyn-HTXvYMKF2oOd1kPV952D4Zx_7ATX7OGd-M0bVZXIBqTfx5VxjCOAIFfTZqVJjz1vDZJLyw==",
+      "publisher": "Christie's",
+      "published_at": "2026-05-13"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:16"
+}

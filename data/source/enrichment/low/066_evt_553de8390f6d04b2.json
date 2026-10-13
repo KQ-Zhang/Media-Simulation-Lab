@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_553de8390f6d04b2",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "豫剧教育家陈小香病逝",
+  "factual_description": "2026年6月7日13时02分，豫剧大师常香玉次女、著名豫剧教育家、河南省级非物质文化遗产（豫剧）代表性传承人陈小香在河南省人民医院因病逝世，享年80岁。陈小香出生于梨园世家，13岁开始学戏，深得母亲常香玉与父亲陈宪章教益。自1978年起，她在河南省戏曲学校任声乐唱念教师，并长期担任常香玉助教，主讲常派声腔，培养了大批戏曲专业人才。她毕生专注于常派声腔理论的研究与教学规范整理，曾出版《常香玉演唱艺术研究》《常香玉声腔艺术专题讲座》（CD）、《探究常香玉的艺术人生及声腔艺术》等著作与教学资料，并参与制作专题片《豫剧常派声腔艺术100讲》，为常派声腔艺术的传承留下了重要理论财富。",
+  "event_time": {
+    "start": "2026-06-07",
+    "end": "2026-06-07",
+    "precision": "day",
+    "evidence": "多家媒体报道及讣告确认，陈小香于2026年6月7日13点02分在河南省人民医院病逝"
+  },
+  "locations": [
+    "中国/河南省/郑州市/河南省人民医院"
+  ],
+  "aliases": [
+    "常香玉次女陈小香去世",
+    "常派声腔艺术传承人陈小香病逝",
+    "豫剧大师常香玉次女陈小香辞世",
+    "陈小香老师病逝享年80岁"
+  ],
+  "retrieval_queries": [
+    "陈小香 病逝",
+    "常香玉次女 陈小香 去世",
+    "常派传承人 陈小香 80岁",
+    "豫剧教育家 陈小香 辞世",
+    "陈小香 河南省人民医院",
+    "陈小香 常香玉演唱艺术研究"
+  ],
+  "must_match_facts": [
+    "逝者为常香玉次女陈小香",
+    "陈小香为豫剧教育家、常派声腔艺术传承人",
+    "逝世时间为2026年6月7日（13时02分）",
+    "逝世地点为河南省人民医院",
+    "享年80岁"
+  ],
+  "exclude_if": [
+    "常香玉逝世（2004年事件）",
+    "涉及小香玉（陈百玲）本人逝世的不实传闻",
+    "其他戏曲名家或豫剧演员逝世事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "痛悼！豫剧大师常香玉次女陈小香去世享年80岁",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7g1FM8vEK3-uwTKFwLMlTo8RApLzrLnHtvgO3h5bwyVTAxVzaxr3LtKe8TD5gGPdGf4H5fMrnM2Pn3AalUSFJs-FXx6Qe-C3Ysir5pWnDnva6X95kT49YJrD4O7jmKRGTfLZ5dQ==",
+      "publisher": "文汇报 / 上观新闻",
+      "published_at": "2026-06-08"
+    },
+    {
+      "title": "豫剧大师常香玉次女、著名豫剧教育家陈小香辞世，享年80岁",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtlzt2Gh4o-ENRP4tJo1x7kj9tiR1PmYqDaiN_hR8ri5wp_v1SGR0mzKEJ--ALIvce2tGkpgdjSjaBABBOKmN2KIEhoRXjDUGUEk7GBBezhynqlLJ3N-YorYc5TQnwm-gi9sfcbtPU",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-06-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:38"
+}

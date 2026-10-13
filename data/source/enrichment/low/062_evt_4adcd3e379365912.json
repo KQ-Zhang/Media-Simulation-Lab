@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_4adcd3e379365912",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "《蜘蛛侠：崭新之日》中国内地上映3天票房突破4亿元",
+  "factual_description": "2026年7月29日，由漫威影业与索尼影视联合出品的超级英雄电影《蜘蛛侠：崭新之日》（Spider-Man: Brand New Day）在中国内地率先公映。截至2026年7月31日，该片上映第3天中国内地累计票房突破4亿元人民币。影片上映后排片占比超过40%，以明显优势超越同档期热映的动画电影《八仙！》以及周星驰执导的《功夫女足》，持续蝉联并领跑内地暑期档单日票房榜。口碑方面，该片开画在猫眼专业版获得9.5分、淘票票9.2分、豆瓣7.8分，创下该系列多项开画票房新纪录，成为2026年暑期档表现最为强劲的进口电影之一。",
+  "event_time": {
+    "start": "2026-07-31",
+    "end": "2026-07-31",
+    "precision": "day",
+    "evidence": "影片于2026年7月29日在中国内地上映，大象新闻及票房专业机构于2026年7月31日报道其上映3天累计票房破4亿元。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "《蜘蛛侠：崭新之日》上映3天票房破4亿",
+    "《蜘蛛侠：崭新之日》上映3天总票房破4亿元超越《八仙！》",
+    "蜘蛛侠4上映3天破4亿领跑单日票房"
+  ],
+  "retrieval_queries": [
+    "蜘蛛侠 崭新之日 票房 4亿",
+    "蜘蛛侠 崭新之日 上映3天 破4亿",
+    "蜘蛛侠 崭新之日 八仙 暑期档 单日票房",
+    "蜘蛛侠4 3天破4亿",
+    "蜘蛛侠 崭新之日 2026年7月31日 票房",
+    "蜘蛛侠 崭新之日 大象新闻 4亿"
+  ],
+  "must_match_facts": [
+    "涉及电影为《蜘蛛侠：崭新之日》（《蜘蛛侠4》）",
+    "时间节点为2026年7月31日（上映第3天）",
+    "中国内地累计票房突破4亿元人民币",
+    "在单日票房上超越同期热映的《八仙！》并领跑"
+  ],
+  "exclude_if": [
+    "报道《蜘蛛侠：崭新之日》上映7天破9亿或全球总票房记录",
+    "报道《蜘蛛侠：崭新之日》北美票房超越《星球大战：原力觉醒》",
+    "报道《蜘蛛侠：英雄无归》等系列前作票房",
+    "报道国产动画《八仙！》自身的票房破纪录里程碑"
+  ],
+  "source_evidence": [
+    {
+      "title": "《蜘蛛侠：崭新之日》上映3天票房破4亿",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKynEq3fxyMzs2qhkKz5KWycFuJNRc74j__Wt8DtLWSFYJ66K0cHm6IOqY1PZteCnDumxUSQIrAtZzDEyTvzKwfKUBQbnlk8pQ20hWKYhsVOoUc2WhQqn-CxMOtM9UoWB76jxiYGlqe52qOgK6yjQgnRkb4quy_3BwFv9zJxXUQjCr4UCtgHuWZoZ0",
+      "publisher": "大象新闻 / 腾讯网",
+      "published_at": "2026-07-31"
+    },
+    {
+      "title": "“蜘蛛侠”能否打破“超英题材”疲软困局",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMJyc6rw651pPH6I57ZyvVZMVjE3yvQb2TPTT84vEC_OvyHWDIOeYsoco5EJyVp1qaoKO-BEcFgqfTMD9NTkHddB2pVft8ZTl1dC7uD0T-EtPoEWG5NFUpuQ1sGdoiKaYNHT6Auo4LZqCpfkB34f2hjsC0bxglOhoaSA==",
+      "publisher": "齐鲁晚报 / 新浪财经",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "3天破4亿，预测下跌至16亿，《蜘蛛侠4》内地暑期档票房冠军没戏了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2ofkt06O7W311gLPnsRGNPKH_c8Ix32NoF8bZ6O6qErkr6IHtxUCzWz46dY5w5cbxm1L61T3zS691e9c7PKIymGFSJriHoP-c7nkkFm72U7-zkYV3-edu6cXAndOGVrs0LrKUWvlOUm0=",
+      "publisher": "网易",
+      "published_at": "2026-07-31"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:37"
+}

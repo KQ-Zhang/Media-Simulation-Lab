@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_0737d9c295eea99d",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "联合国秘书长古特雷斯发表2026农历马年新春致辞中文拜年",
+  "factual_description": "美东时间2026年2月9日（北京时间2月10日），在农历丙午马年新春来临之际，联合国秘书长安东尼奥·古特雷斯通过视频致辞向中国人民及全球华人拜年。古特雷斯在致辞开头用中文表达“春节快乐”，并感谢中国和中国人民对联合国、多边主义与全球团结事业的坚定支持。他表示，生肖马象征着能量、成功和勇往直前，在当今世界面对冲突、不平等和气候危机等多重挑战的背景下，国际社会迫切需要这些品质；唯有齐心协力，才能建设更安全、更包容的未来。他祝愿骏马精神为大家带来健康、幸福和繁荣，并在结尾用中文“谢谢”致谢。同日晚，该视频在中国常驻联合国代表团于纽约联合国总部举办的“骏启新程”马年新春庆祝活动上公开播放。",
+  "event_time": {
+    "start": "2026-02-09",
+    "end": "2026-02-09",
+    "precision": "day",
+    "evidence": "联合国官网、新华社及中新社报道确认，古特雷斯于当地时间2026年2月9日发表农历马年新春致辞并在中国常驻联合国代表团新春活动上播放。"
+  },
+  "locations": [
+    "美国/纽约/联合国总部"
+  ],
+  "aliases": [
+    "联合国秘书长古特雷斯马年新春致辞",
+    "古特雷斯中文拜年贺马年新春",
+    "联合国秘书长古特雷斯2026农历新年致辞",
+    "古特雷斯愿骏马精神带来健康幸福繁荣",
+    "古特雷斯马年春节致辞"
+  ],
+  "retrieval_queries": [
+    "古特雷斯 马年 春节",
+    "古特雷斯 中文拜年 骏马精神",
+    "联合国秘书长 马年新春致辞 2026",
+    "古特雷斯 春节快乐 多边主义",
+    "古特雷斯 骏启新程 2026",
+    "Guterres Year of the Horse 2026 Lunar New Year",
+    "古特雷斯 农历新年 视频致辞 2026"
+  ],
+  "must_match_facts": [
+    "主体为联合国秘书长安东尼奥·古特雷斯",
+    "时间为2026年农历丙午马年春节前夕（当地时间2026年2月9日）",
+    "形式为农历新年视频致辞",
+    "致辞中使用中文说“春节快乐”和“谢谢”",
+    "阐述马年象征能量、成功和勇往直前，祝愿骏马精神带来健康、幸福和繁荣",
+    "致谢中国和中国人民对多边主义和全球团结事业的支持"
+  ],
+  "exclude_if": [
+    "2023年农历兔年古特雷斯新春拜年致辞",
+    "2024年龙年或2025年蛇年古特雷斯新春拜年致辞",
+    "古特雷斯发表的公历元旦新年致辞（非农历马年春节）",
+    "其他国际组织或外国领导人的马年春节贺电贺辞"
+  ],
+  "source_evidence": [
+    {
+      "title": "“春节快乐！”联合国秘书长向中国人民拜年",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC0ShPyp9lAeDL4XIdj_u9pRwmfJHsKYuX37JnF03U7nKXpPrjhu0tUdQISV_lwAbg05dZ-KRIddZZ31MpAm5aMOibs-LUBhIqlJh1WXKCu3oyDBcVXDUHpgjy9ZLTuR5wd8yEYgqhC7vhsGWHxvDLzID_agLkmxu2pdGvSjTAhg==",
+      "publisher": "新华网",
+      "published_at": "2026-02-10T16:03:33"
+    },
+    {
+      "title": "联合国秘书长新春致辞送农历马年祝福",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHwnOjPLmm7xDPZTqRPDI_SkGW4Z-S6It0KAWk94lStOKzAgavTrbGbEunJRfj9bz6TYOeNhd9eXheSo4KZtH9B6Us0EAKBe9ANkPmDMbOnSbhhZVlW-NJmRFKEJNPRK4DKV3SnLQTmCkAPNhctf4=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-02-10T11:07:00"
+    },
+    {
+      "title": "中国常驻联合国代表团举办“骏启新程”新春庆祝活动",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE8fQ9vff5nA6MmVxD3qIvd9Wbn6r3UrbruV3twicwmwhPAhgdLCLTHyfq7ldkeA9F5UKrOG-jjrm_48KNcgB9QJ7_u3ajRFxkw1UAhQl3MkogynoZMPMrbhAB1XiO9vEwFuFGwALNubMhag6hpkaRBr2uoR4TAVBaN",
+      "publisher": "中华人民共和国常驻联合国代表团",
+      "published_at": "2026-02-09T22:50:00"
+    }
+  ],
+  "uncertainties": [
+    "输入样本现有描述将年份误写为2023年（2023年为兔年），经核实马年致辞实际发生于2026年2月9日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:24"
+}

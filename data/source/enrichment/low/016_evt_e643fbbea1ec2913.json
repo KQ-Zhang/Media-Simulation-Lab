@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_e643fbbea1ec2913",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年5月3日新疆吉木萨尔县发生3.4级地震",
+  "factual_description": "据中国地震台网正式测定，北京时间2026年5月3日10时07分，在新疆维吾尔自治区昌吉回族自治州吉木萨尔县（北纬44.19度，东经89.06度）发生3.4级地震，震源深度25千米。震中5公里范围内平均海拔约596米。本次地震未见人员伤亡及建筑倒塌等灾情报导。原数据集部分样本显示的10时20分左右时间为媒体抓取发布时间，实际发震时间为10时07分。",
+  "event_time": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "precision": "day",
+    "evidence": "中国地震台网正式测定发震时刻为2026年5月3日10时07分"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/昌吉回族自治州/吉木萨尔县"
+  ],
+  "aliases": [
+    "新疆昌吉州吉木萨尔县发生3.4级地震",
+    "吉木萨尔3.4级地震",
+    "5·3吉木萨尔地震"
+  ],
+  "retrieval_queries": [
+    "吉木萨尔 3.4级地震",
+    "吉木萨尔 25千米 地震",
+    "昌吉州吉木萨尔县 3.4级",
+    "吉木萨尔 2026年5月3日 地震",
+    "北纬44.19度 东经89.06度 地震"
+  ],
+  "must_match_facts": [
+    "发震时间为2026年5月3日10时07分",
+    "震级为3.4级",
+    "震源深度25千米",
+    "震中位于新疆昌吉州吉木萨尔县（北纬44.19度，东经89.06度）"
+  ],
+  "exclude_if": [
+    "2023年12月23日吉木萨尔县3.4级地震（震源深度14千米）",
+    "2026年5月3日18时15分吉木萨尔县3.3级地震（震源深度19千米）",
+    "2026年9月3日昌吉市3.8级地震"
+  ],
+  "source_evidence": [
+    {
+      "title": "新疆昌吉州吉木萨尔县发生3.4级地震震源深度25千米",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7rl3Nk4CrzKly-ryiwR0sfFxml9DzSXNTi5QfOW9qIaa0VAmGYdaVJv84Qk6IQ1C1iz_hQPZt6FrAUDy-l1G0Qt2XRECIFcUj-rRplQYdPx1_uG0BOEnq00LE7g3O1Q==",
+      "publisher": "第一财经",
+      "published_at": "2026-05-03T10:26:00"
+    },
+    {
+      "title": "新疆昌吉州吉木萨尔县发生3.4级地震",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKStz0cnOJC84O1xEoW-pu00DfVAwrp9p-b-DSs_ksq-wlw7d_EpRysjeTXVrAf2D5tyjAAWeay6hLNInANxU186pVsh1nADmI0ubhH8H4VY0KDWobs9EqAPeXnTIFlqLdgKfAWDQn3J003sD0HDAPHlRo50knckcCEN7d43GmFMyqfw==",
+      "publisher": "新浪财经（中国地震台网速报）",
+      "published_at": "2026-05-03T10:17:38"
+    },
+    {
+      "title": "新疆昌吉州吉木萨尔县发生3.4级地震，震源深度25千米",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISFSdxccJuf8vBw_IGfGZqRTtCn9l0UWmzVyM88lr8yHC0uE3eS4lZqvTOrrpk_F9ZjR3kifec_XkFhGHqgdJp-L_5saVw0KdM4z4__Pn3iXhxCAn25EvZBTe65i08HvgglGiVo_yB_unZj6-JOhegXfNMX-afOMl",
+      "publisher": "界面新闻",
+      "published_at": "2026-05-03T10:19:00"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:28"
+}

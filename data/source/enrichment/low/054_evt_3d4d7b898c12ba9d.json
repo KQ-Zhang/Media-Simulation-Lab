@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_3d4d7b898c12ba9d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "南京鸡鸣寺“消息树”未如期开花专家辟谣枯死",
+  "factual_description": "2026年3月初，南京鸡鸣寺旁被市民视作樱花季“风向标”的网红“消息树”迟迟未如往年同期绽放，部分枝干光秃且几乎未见新芽，引发社交网络热议并出现“树已枯死”的猜测。2026年3月6日，媒体记者前往位于南京古生物博物馆门前的该树现场探访，并就相关情况向南京资深园林从业者郭春林求证。园林专家澄清表示，该株“消息树”本质上是一株樱桃树，通常花期早于樱花；从现场枝桠和芽体状态判断，其枝条仍具活性，树体并未枯死。延期开花主要由于3月初南京气温大幅剧烈波动，未能稳定维持在樱桃树开花所需的日均约15℃环境，同时该树树龄较老、对气温变化的敏感度有所变化；结合天气回暖趋势，专家预计该树将在一周左右陆续开花，鸡鸣寺樱花随后也将迎来盛花期。",
+  "event_time": {
+    "start": "2026-03-06",
+    "end": "2026-03-08",
+    "precision": "day",
+    "evidence": "2026年3月初网友关注未开花现象，记者于3月6日现场实地探访，扬子晚报紫牛新闻于3月8日晚正式刊发园林专家求证报道。"
+  },
+  "locations": [
+    "中国/江苏省/南京市/玄武区/鸡鸣寺路南京古生物博物馆门前"
+  ],
+  "aliases": [
+    "南京鸡鸣寺消息树未如期开花",
+    "鸡鸣寺消息树被传枯死",
+    "鸡鸣寺消息树受气温影响花期延后",
+    "鸡鸣寺樱花消息树今年失约"
+  ],
+  "retrieval_queries": [
+    "鸡鸣寺 消息树 枯死",
+    "鸡鸣寺 消息树 未如期开花",
+    "鸡鸣寺 消息树 郭春林",
+    "南京 消息树 樱桃树 气温波动",
+    "鸡鸣寺 消息树 预计1周开花",
+    "古生物博物馆 消息树 开花延后"
+  ],
+  "must_match_facts": [
+    "地点位于南京鸡鸣寺路古生物博物馆门前的消息树",
+    "消息树实际为樱桃树品种",
+    "网络传言猜测树体枯死",
+    "园林专家郭春林澄清树体并未枯死且枝条有活性",
+    "未如期开花原因为3月初气温剧烈波动及树龄偏老"
+  ],
+  "exclude_if": [
+    "往年（2025年及之前）鸡鸣寺消息树正常如期开花的新闻",
+    "玄武湖、莫愁湖等其他景区樱花树枯死或开花报道",
+    "其他城市樱花树或消息树开花花期预测"
+  ],
+  "source_evidence": [
+    {
+      "title": "南京鸡鸣寺网红“消息树”未如期开花，园林专家：受气温影响花期延后",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvLJzqzD4AKs5aPHaPXx22Tpy5q5ZdEiU5GYPb9HvCf-LdWuiyBbOzIwrleYvDW5E1wFwokOjAkY6_BWmF5BXaO8SwbB8PSAPCudNV2w5F1XxqgOg5GTFg8GxJaK4P8iYVOQ8hf4gJdvKnfy0XMGyOsS1q2wt1epdlKcw=",
+      "publisher": "扬子晚报·紫牛新闻",
+      "published_at": "2026-03-08"
+    },
+    {
+      "title": "南京鸡鸣寺网红“消息树”未如期开花园林专家：从目前枝桠状态来看树体并未枯死受气温影响花期延后",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2txAI4hbAP_T_sUwU0_bzV_f4zOtz3TbWZxp4ecHbFQ1fAm7adC7vTMqD1u2kljxz0c0j613SHJdV69dgFe9nPxZSAOkqh1mmLKcRmjzYMoNzIRQayD7YjAdpxDD8_jA=",
+      "publisher": "荔枝新闻 / 腾讯新闻",
+      "published_at": "2026-03-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:20"
+}

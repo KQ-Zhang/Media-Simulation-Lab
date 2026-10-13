@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_4f00eaff74052f47",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "寿司郎北京门头沟店金枪鱼疑似寄生虫卵事件",
+  "factual_description": "2026年3月1日，消费者在北京市门头沟区长安天街商场的寿司郎门店进餐时，反映金枪鱼生鱼片表面附有白色斑点，疑似寄生虫“虫卵”，双方就后续体检费用及赔偿事宜协商未果，现场沟通视频在社交网络传播引发公众关注。3月4日，北京市门头沟区市场监督管理局发布通报，表示已第一时间组织执法人员开展现场检查，对店内剩余的金枪鱼板块（赤身）进行证据保存并依法立案调查。受该事件影响，寿司郎母公司Food & Life Companies股价一度出现明显波动。3月23日，北京寿司郎餐饮有限公司发布《关于门头沟店金枪鱼食品安全相关事件的声明》，通报已从市场监管部门获悉调查结果，依据《食品安全国家标准 动物性水产制品》（GB 10136-2015）对涉事门店当日在售同批次金枪鱼采样送检，寄生虫项目检测结果表明未检出寄生虫，符合国家食品安全标准要求；寿司郎就导致顾客不适体验致歉，并表示将优化服务细节。",
+  "event_time": {
+    "start": "2026-03-01",
+    "end": "2026-03-23",
+    "precision": "day",
+    "evidence": "2026年3月1日消费者在寿司郎门头沟长安天街店进餐发现异物；3月4日门头沟区市监局通报立案调查；3月23日寿司郎发布声明通报市监局送检未检出寄生虫的检测结果并致歉。"
+  },
+  "locations": [
+    "中国/北京市/门头沟区/龙湖北京长安天街/寿司郎"
+  ],
+  "aliases": [
+    "寿司郎门头沟店金枪鱼异物事件",
+    "寿司郎金枪鱼寄生虫卵事件",
+    "北京门头沟寿司郎虫卵事件",
+    "寿司郎长安天街店金枪鱼事件"
+  ],
+  "retrieval_queries": [
+    "寿司郎 门头沟 金枪鱼",
+    "寿司郎 门头沟 虫卵",
+    "寿司郎 寄生虫 门头沟",
+    "门头沟市场监管 寿司郎 金枪鱼",
+    "寿司郎 门头沟店金枪鱼食品安全相关事件的声明",
+    "门头沟 长安天街 寿司郎 寄生虫卵"
+  ],
+  "must_match_facts": [
+    "涉事门店为北京市门头沟区长安天街的寿司郎门店",
+    "消费者反映金枪鱼生鱼片上疑似出现白色寄生虫卵",
+    "北京市门头沟区市场监督管理局对店内剩余金枪鱼实施证据保存并立案调查",
+    "2026年3月23日官方抽检结果确认同批次金枪鱼未检出寄生虫，企业发文致歉"
+  ],
+  "exclude_if": [
+    "2026年5月广州K11寿司郎金枪鱼被指含虫状异物（后解释为筋膜）事件",
+    "2025年广州寿司郎门店出现的蟑螂或毛发卫生投诉事件",
+    "2026年5月浙江省市场监管部门对省内寿司郎门店的集中检查与约谈"
+  ],
+  "source_evidence": [
+    {
+      "title": "“寿司郎吃出金枪鱼寄生虫卵”，北京门头沟区市监局通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwrk0Z_QXSEk6sXBjl1crfDy52y-Ezlj0QlWINZcukR4t3pm2bJHkYfxa0ahSGrW02aHaVL2lhljpj87DqvhA2d0nEbLQAawiGxtrOGN8r-XApRSCLx9jN4LEa-e09T12h44AtF_QDfQXRECu6",
+      "publisher": "观察者网",
+      "published_at": "2026-03-05"
+    },
+    {
+      "title": "寿司郎回应消费者吃出虫卵：未检出寄生虫",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqIWCsSsvBZ0VHojQz_TzfD6TOWGjS7zI4JZZ9m9EqV0fYYAweDrSg8mODf752gsP2b3Thoks7a4NmoH2ITS9iceYMWYJ2zuPZBL_G22BJ07J6xwNFpQI2yd1iVc3-M3zo-pKWDq07PoBCxeHBR3Si",
+      "publisher": "联合早报",
+      "published_at": "2026-03-23"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:30"
+}

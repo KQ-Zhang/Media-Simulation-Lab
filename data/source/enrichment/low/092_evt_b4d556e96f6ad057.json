@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_b4d556e96f6ad057",
+  "verification_status": "partially_verified",
+  "confidence": 0.75,
+  "canonical_event_name": "江苏五一假期游客就餐吃到变质鱼当场勇敢维权事件",
+  "factual_description": "据洛阳网、大象新闻等媒体及网络视频报道，五一假期期间，一名年轻女性游客在餐馆用餐时吃到不新鲜、变质的鱼。当事人先后两次向餐馆老板反映菜品质量问题，但老板均不予理睬。同行朋友劝其放弃维权，但女孩认为赚钱不易且合法权益应受尊重，遂鼓起勇气当场大声找老板交涉维权。事后该游客在社交网络发声感慨称“我当时真的很勇敢”。相关视频经媒体发布后引发公众对消费者日常维护自身权益和餐饮食品安全问题的关注与热议。",
+  "event_time": {
+    "start": "2023-05",
+    "end": "2023-05-06",
+    "precision": "month",
+    "evidence": "媒体于5月6日集中报道称事件发生于五一假期旅游期间。"
+  },
+  "locations": [
+    "中国/江苏省"
+  ],
+  "aliases": [
+    "老板无视游客诉求女孩当场勇敢维权",
+    "女孩回应吃到变质鱼鼓起勇气维权",
+    "五一外地旅游吃到不新鲜的鱼勇敢维权",
+    "江苏游客餐馆吃到变质鱼维权"
+  ],
+  "retrieval_queries": [
+    "老板无视游客诉求女孩当场勇敢维权",
+    "女孩回应吃到变质鱼鼓起勇气维权",
+    "五一 外地旅游 吃到不新鲜的鱼",
+    "五一 吃到不新鲜的鱼 老板 不予理睬",
+    "江苏 旅游 吃到变质鱼 维权",
+    "女孩大声找老板维权 我当时真的很勇敢"
+  ],
+  "must_match_facts": [
+    "游客在五一假期就餐时吃到不新鲜或变质的鱼",
+    "游客向老板反映两次遭到无视或不予理睬",
+    "当事人克服顾虑大声向餐馆老板维权",
+    "当事人事后感慨表达‘我当时真的很勇敢’"
+  ],
+  "exclude_if": [
+    "网红打假博主‘铁头’三亚海鲜市场缺斤短两案件",
+    "青岛大虾、雪乡宰客等传统恶性旅游宰客事件",
+    "与五一假期或餐馆变质鱼维权无关的民生纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "来看看老百姓：五一外地旅游时吃到不新鲜的鱼女孩讲了两遍老板都不予理睬最终女孩壮着胆子怒找对方维了权事后感慨:我当时真的很勇敢！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF--P7k74VkLzEFGAjkRfBw55ASHR31_7LQHRtYKWcTBZDyYsL7qZziXiTFoKTLNqH3UoOEJqPI2vM5K5uLGpZVtBEwsCfXlYeDI4imae1MKileNQTBw45r1-kSDD4nNCI=",
+      "publisher": "YouTube（转自国内网络视频平台）",
+      "published_at": "2026-05-07"
+    }
+  ],
+  "uncertainties": [
+    "涉事餐馆具体名称、所处江苏省具体地级市及区县在公开简讯中未详述",
+    "事件原始视频发布者的最初确切年份在公网长效索引中缺乏深度官方通报支持",
+    "餐馆后续赔偿细节及市场监督管理部门是否介入调查尚无官方通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:48"
+}

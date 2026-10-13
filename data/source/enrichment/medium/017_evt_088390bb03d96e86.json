@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_088390bb03d96e86",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "广州出租车司机吕伟斌免费送忘带钱退役老兵回家",
+  "factual_description": "2026年3月17日19时13分许，广东省广州市如约出行集团白云五分公司出租车司机吕伟斌在营运途中遇到一名年过八旬的老人招手求助。该老人此前出门探望战友，回家途中发现忘带手机、钥匙和现金，遂抱着试一试的心态向出租车求助前往越秀南路。吕伟斌随即热情让老人上车，并宽慰老人的尴尬情绪。行车交谈中，吕伟斌得知老人曾参军上过战场、保家卫国，便明确表示“您是上过战场的，保卫过我们的，我是不会收您钱的”，最终免费将老人安全送达目的地。事后，出租车内暖心对话监控视频在网络广泛传播，吕伟斌的敬老善举受到新华社、人民网等多家主流媒体报道点赞。",
+  "event_time": {
+    "start": "2026-03-17",
+    "end": "2026-03-17",
+    "precision": "day",
+    "evidence": "人民网、信息时报等权威媒体报道明确记录，事发具体时间为2026年3月17日19时13分左右。"
+  },
+  "locations": [
+    "中国/广东省/广州市/越秀区/越秀南路",
+    "中国/广东省/广州市"
+  ],
+  "aliases": [
+    "广州的哥免费送八旬老兵回家",
+    "老兵探望战友回家忘带钱司机爽快免单",
+    "您为我们上过战场送您回家不值一提",
+    "广州的哥吕伟斌免单老兵",
+    "您保卫过我们我不收钱"
+  ],
+  "retrieval_queries": [
+    "吕伟斌 老兵",
+    "广州 出租车 吕伟斌 退役军人",
+    "老人探望战友回家忘带钱司机爽快免单",
+    "您为我们上过战场送您回家不值一提",
+    "您保卫过我们我不收钱 吕伟斌",
+    "如约出行 吕伟斌 越秀南路",
+    "八旬老兵忘带钱 广州的哥"
+  ],
+  "must_match_facts": [
+    "出租车驾驶员为广州如约出行集团白云五分公司司机吕伟斌",
+    "乘客为年过八旬的退役老兵，外出探望战友忘带现金、手机和钥匙",
+    "发生地点在广东省广州市，目的地为越秀南路",
+    "司机因老兵保家卫国经历主动免除车费将其安全送回家"
+  ],
+  "exclude_if": [
+    "其他城市的出租车或网约车免单事件",
+    "非吕伟斌驾驶出租车的事件",
+    "2019年吕伟斌送医救助昏迷幼童事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“您保衛過我們，我不收錢！”八旬老兵忘帶錢，廣州的哥暖心回復",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTBDp8MkUR0SLyGQLIFvVFstwGmTcArycGO1du06SyUpe57QpSgHo2SITOwK4sdCtQCaVUczZ3uP7YQ-JfwSJJz5evShYeQrPEpZlsezowGm8iSiBCSZWfbSXbaZDT_S5oWTlMqIxOZl3tDC3Xv-1eEotqi5Q=",
+      "publisher": "人民网-广东频道",
+      "published_at": "2026-04-09"
+    },
+    {
+      "title": "“我没钱的，师傅……”“您不是没钱，是没带钱”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGENf-EN6XZ0_ADxFpB2Qa0LTfNfMST2axxGoPYQw7ES7qfmUsNYUrZhKBzNeYegoMwDDkyas_WCbMrOB7pmBEvFwBGfU7idX4IZHwMzwVR857BTDO_eHirVIhOraNXdYchhgmxkDE4nRIlbuwDt9vOJcQk7VNjuW5s0w==",
+      "publisher": "封面新闻（转新华社）",
+      "published_at": "2026-04-02"
+    },
+    {
+      "title": "“好司机”吕伟斌：方向盘上守初心，车厢之中传大爱",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3dqETj87hcflmXgiqXGr-B7FM6875XuFVkZrQErPPpBRHiAzFFm2fup0n5BjYC91NOWEbAFu6azv-9cbAcS3Ul46gUDKgVWJPQ3JmJDtEc_LCDeZY_U2387W3CsrBwRyI1sdyx6t6P4sXUdVAe9d-IF0Scu4lKoEFoCqWu832DPvPWxs=",
+      "publisher": "信息时报",
+      "published_at": "2026-05-11"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:36"
+}

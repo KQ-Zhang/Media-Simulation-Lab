@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_1d6cd4bc12b6dc65",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "28岁男子误吞两把12公分勺子卡在回肠末端经南京鼓楼医院内镜取出",
+  "factual_description": "2026年1月下旬，28岁的张先生（化名）自述食用新疆食品时意外误吞勺子，起初以为仅吞下一把且未及时就医。就诊前一周其因腹痛在陕西西安就诊，CT检查发现肠道异物，当地医院建议行开腹外科手术。为避免外科开刀，患者于2026年春节前夕乘飞机赴江苏南京，到南京鼓楼医院本部消化内科就诊。检查确认其回肠末端狭窄处卡着两把长约12公分的勺子，周围肠黏膜已形成溃疡，随时面临穿孔及大出血风险。南京鼓楼医院消化内科团队随后通过内窥镜微创技术，历时近一小时将两把勺子完整取出，成功避免了外科开腹手术，患者恢复平稳。",
+  "event_time": {
+    "start": "2026-01",
+    "end": "2026-02",
+    "precision": "month",
+    "evidence": "扬子晚报紫牛新闻与南京晨报报道，患者于2026年春节前夕（2月中旬）赴南京鼓楼医院就诊，自述在就诊前约3周误吞勺子。"
+  },
+  "locations": [
+    "中国/江苏省/南京市/鼓楼区/南京鼓楼医院",
+    "中国/陕西省/西安市"
+  ],
+  "aliases": [
+    "小伙腹痛CT查出肠道卡2把勺子",
+    "南京小伙不慎吞下2把长12公分勺子",
+    "西安男子误吞餐勺飞南京鼓楼医院内镜取出",
+    "28岁小伙肠道卡2把12公分勺子"
+  ],
+  "retrieval_queries": [
+    "小伙腹痛CT查出肠道卡2把勺子",
+    "南京鼓楼医院 误吞勺子",
+    "回肠末端 2把勺子 12公分",
+    "误吞新疆食品 勺子 南京",
+    "张先生 误吞餐勺 西安 南京鼓楼医院"
+  ],
+  "must_match_facts": [
+    "28岁男性患者肠道内卡有两把长约12公分的勺子",
+    "勺子嵌顿于回肠末端并导致黏膜溃疡",
+    "患者曾在西安查出异物后前往南京鼓楼医院就医",
+    "南京鼓楼医院消化内科通过内镜微创操作取出勺子，避免了外科开腹"
+  ],
+  "exclude_if": [
+    "异物系通过外科开腹手术取出",
+    "误吞异物非勺子（如误吞牙签、硬币、电池、枣核等）",
+    "发生于2025年或更早年份的消化道异物病例"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子误吞勺子后卡在肠道无法排出！内镜取勺，保肠免开刀",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOcG3BSqCwxvY181HJ19HLnVNA69SvkyIazgScHaTHSvrBsGt_xaF85a3t43PdPneZHTkb7l8iK9CGy5ET9oWtMDPlJrip3K6kZDSkS0prL1NBnaHW5bmKF72qU2ttCOINd7o148d6SOE3rBIYCs=",
+      "publisher": "紫牛新闻（扬子晚报网）",
+      "published_at": "2026-02-26"
+    },
+    {
+      "title": "男子误吞勺子腹痛打“飞的”来宁就医",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQd5xUFViot5GlA5UBj6kqq5oeLQfwNYWNiiGP34vN7MsmtHdZOZ4WpzFBSFpdCTZfTtf-R1eNjmUywnqUKYSiYgL4dBbXkXdyWD7QO2kfxvTsXv3qFUdIYRW_pa6AvWA0y-xdp4M5Yz89vUP3OSHY",
+      "publisher": "南京晨报",
+      "published_at": "2026-02-27"
+    },
+    {
+      "title": "西安男餐勺卡肠3周险穿孔医生内窥镜手术取出：误吞应及时就医",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdoytspRZ-nUx6rBG-d1j_5aQGqoTSrLe5ZSG7BIyYD5Yy5bCvMB371smGSJ63Qk1R_jRH0hbe8Rt4hKaH3JCED8LqbsMbjgUl3F-Rpw3DvHs22m9pxph3FsX6YOQHiD5w2XVBb7kpgP06KK_0XSSVUnGO4g0LlVqAOOZJtmJ0AhuTTCHJ-AmO91xl2gGNDMyB_bgQ5g3IVyss4diViQrlUR8lfzVqkjZhNixZeVSUF0P5_00USDeQjv3E3Er42S-xr47vjZyRa6xoR1_GAHNxky3L2pw0tUj4CCZNMpNO9epSQTWKuueZsqIYY0w_CWGRu3ixOsoxd8988SMlQH0kMaSkBfgvd7Bx2teMJ14dSOUN82hd_wP77iB5E1mQI3Uy4z0q6lkG4wptRzUIm9G-lxtlDIQIOW6yK0T9p6kPVIvEtLj6voGgnnytQjBL70zSnOX_Rv0BVp891WVEAvpWcwKzXxfeNWsHDPnUtbdekhgyGA==",
+      "publisher": "香港01",
+      "published_at": "2026-03-02"
+    }
+  ],
+  "uncertainties": [
+    "两把勺子的具体材质在不同媒体转述中存在金属与塑料的不同描述，但尺寸均核实为约12厘米",
+    "患者自称食用新疆食品时误吞，但医学常识上12公分长勺如何被成人连吞两把未察觉存在疑点"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:03"
+}

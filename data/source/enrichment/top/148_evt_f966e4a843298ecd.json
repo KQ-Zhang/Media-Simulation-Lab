@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_f966e4a843298ecd",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "2026年重庆彭水“7·17”山体崩塌灾害",
+  "factual_description": "2026年7月17日上午9时8分许，重庆市彭水苗族土家族自治县汉葭街道乌江三桥附近（211国道沿线）发生大规模山体崩塌灾害。经地质专家现场勘测，崩塌体总体积约1.8万立方米，大量土石倾泻导致山下多栋民房及居民楼倒塌掩埋，城区主干道交通中断，部分土石滚落至乌江边。灾害发生前，社区网格员在巡查中发现山体落石隐患，紧急组织核心区域60余名群众提前撤离；灾害发生后，应急管理部启动国家地质灾害二级应急响应并派工作组赶赴现场，重庆当地消防、应急、公安、武警及卫健等多部门救援力量全面展开现场搜救与抢险救治工作。",
+  "event_time": {
+    "start": "2026-07-17",
+    "end": "",
+    "precision": "day",
+    "evidence": "新华社、央视新闻等多家主流媒体报道，事故发生于2026年7月17日上午9时8分许。"
+  },
+  "locations": [
+    "中国/重庆市/彭水苗族土家族自治县/汉葭街道/乌江三桥附近"
+  ],
+  "aliases": [
+    "重庆彭水乌江三桥附近山体垮塌事件",
+    "重庆彭水汉葭街道山体崩塌事件",
+    "重庆彭水7·17山体垮塌",
+    "彭水山体崩塌灾害"
+  ],
+  "retrieval_queries": [
+    "重庆彭水 山体垮塌",
+    "重庆彭水 乌江三桥 山体崩塌",
+    "彭水汉葭街道 山体垮塌",
+    "重庆彭水 2026年7月17日 山体滑坡",
+    "彭水三桥 垮塌 有人员被埋",
+    "重庆彭水 7·17 山体崩塌"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年7月17日上午9时许",
+    "发生地点为重庆市彭水县汉葭街道乌江三桥附近",
+    "灾害类型为大规模山体崩塌（垮塌）",
+    "灾害导致多栋民房倒塌及人员被埋受困",
+    "应急管理部启动国家地质灾害二级应急响应救援"
+  ],
+  "exclude_if": [
+    "发生于2023年或其他年份的彭水山体滑坡事件",
+    "发生于重庆彭水县以外地区的地质灾害事件",
+    "彭水县境内非乌江三桥/汉葭街道区域的其他自然灾害"
+  ],
+  "source_evidence": [
+    {
+      "title": "重庆彭水山体垮塌现场已搜救出9名被困者",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp5ZsEgsI22jLb_jC1n6WDaH6ivDJ06R5sKw9whDyvWj9LMqeg1CNtgUEgXaOSkWwO-ookKQ5MT-gNzFT8VxBljTRgyAXLay1jHLxY3lWio4FLrBOKnYP2mQeaLnGL2kQ5NUTGrrn59yGpEZk7JOyLf-SWkSnuQg_ZFg==",
+      "publisher": "新华网",
+      "published_at": "2026-07-17"
+    },
+    {
+      "title": "重庆彭水突发山体垮塌，有房屋与人员被掩埋，多部门紧急搜救",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtV9jMHlhrIL_LYPHzwuZ9qo_AoT8BLY7c-eDWvNuWGFJsrJvsOOc4ErlsP4ueClChBWLRHCJ8gbZDODsvjOqmlwAhA2pMfWtBcbdwUA5_56S_-GTUc3JqIpqRPqCW7ibYhi1V9qVa72CN",
+      "publisher": "新京报",
+      "published_at": "2026-07-17"
+    },
+    {
+      "title": "重庆彭水乌江三桥附近发生山体垮塌有人员被埋",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6wik_1UtTl8NpHFyS0T-wJvxYmrcRNd2nsCmhIo0BFop_OI79NercbiTBWvRQ8J06Ku4MH38hPL43kfYhVTurB1nh-P3fKmJO5QkQPzmV90w7eIv9pjW_KkXygarIImNcejUfpMeBdpiBUJ1Aqt-VleZvtyOwKPp_",
+      "publisher": "央广网",
+      "published_at": "2026-07-17"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中误将发生年份记为2023年，经核验实际发生时间为2026年7月17日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:30"
+}

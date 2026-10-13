@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_a0491a2cd8b26ffd",
+  "verification_status": "partially_verified",
+  "confidence": 0.95,
+  "canonical_event_name": "李亚鹏关联成立云南麋鹿咖啡有限公司",
+  "factual_description": "2026年3月30日，云南麋鹿咖啡有限公司在云南省昆明市注册成立，法定代表人为杨凝，注册资本为100万元人民币。股权穿透信息显示，该公司由李亚鹏名下的北京艺莲文化科技有限公司持股90%、罗毓藻持股10%，李亚鹏最终受益股份为89.1%，系该公司实际控制人。公司经营范围涵盖咖啡豆种植、初级农产品收购、食用农产品批发与零售、旅游开发项目策划咨询及食品互联网销售等。2026年4月上旬，在李亚鹏因应对北京嫣然天使儿童医院欠租事件口碑反转、直播带货引发关注后，红星新闻、界面新闻等主流财经媒体相继报道了其再度创业进军咖啡产业链的相关工商动态。现有描述中‘2024年’年份有误，实际成立及报道时间为2026年。",
+  "event_time": {
+    "start": "2026-03-30",
+    "end": "2026-03-30",
+    "precision": "day",
+    "evidence": "天眼查工商注册信息及红星新闻、界面新闻等公开报道显示，云南麋鹿咖啡有限公司于2026年3月30日正式注册成立。"
+  },
+  "locations": [
+    "中国/云南省/昆明市"
+  ],
+  "aliases": [
+    "李亚鹏成立麋鹿咖啡公司",
+    "李亚鹏又创业成立麋鹿咖啡",
+    "李亚鹏名下成立咖啡公司",
+    "云南麋鹿咖啡公司注册成立"
+  ],
+  "retrieval_queries": [
+    "李亚鹏 麋鹿咖啡",
+    "云南麋鹿咖啡有限公司",
+    "李亚鹏 咖啡 创业",
+    "云南麋鹿咖啡 2026",
+    "李亚鹏 北京艺莲文化 麋鹿咖啡",
+    "李亚鹏 咖啡 100万 89.1%"
+  ],
+  "must_match_facts": [
+    "主体涉及云南麋鹿咖啡有限公司及李亚鹏（间接控股89.1%）",
+    "公司注册资本为100万元人民币，法定代表人为杨凝",
+    "公司实际注册成立时间为2026年3月30日",
+    "注册地点位于云南省昆明市",
+    "经营范围包含咖啡豆种植与食品互联网销售等"
+  ],
+  "exclude_if": [
+    "提及2024年或更早成立咖啡企业的事件",
+    "仅涉及丽江雪山艺术村/雪山小镇债务纠纷的旧闻",
+    "仅讨论北京嫣然天使儿童医院欠租事件而未提及咖啡公司成立的报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "李亚鹏又创业了，成立“麋鹿咖啡”公司",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfzXO-ipHo06CwIgVQs9Fvz2oVKsFTNmbjw-K3bC8vwMo-Lgw84k6cZW45S-rgOpEyUSC16cMh1Ry2pmTHmUfKcOyRzvn1P3ucdq71FjePtiIxtyh0QPwrXMGJprzI4f_OQ_mzaA==",
+      "publisher": "极目新闻（转自红星新闻）",
+      "published_at": "2026-04-02"
+    },
+    {
+      "title": "李亚鹏成立“麋鹿咖啡”公司，注册资本100万",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFc_ogfi85zk4sdcBHr1SQ5y-FWNRG1kKD19jJ7lBMKeBOLaWVOjgfQDXJ2tXMJXlQ53iMayPHAddH2ubQW6PP-fj5VAurvqX_tDdCQ87cTNQMN7JUhyym4Ayw-_tODcfOJ",
+      "publisher": "界面新闻",
+      "published_at": "2026-04-01"
+    }
+  ],
+  "uncertainties": [
+    "输入样本现有描述中误将公司注册年份记为2024年，经工商数据和媒体报道核验实际发生时间为2026年3月30日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:07"
+}

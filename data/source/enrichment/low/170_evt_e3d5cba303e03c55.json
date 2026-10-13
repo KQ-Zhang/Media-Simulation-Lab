@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_e3d5cba303e03c55",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年5月18日广西柳州柳南区5.2级地震及医院应对",
+  "factual_description": "2026年5月18日0时21分，广西壮族自治区柳州市柳南区（震中位于太阳村镇，北纬24.38度，东经109.26度）发生5.2级地震，震源深度8公里。地震导致太阳村镇多栋民房倒塌并造成人员伤亡。地震发生后，媒体就就诊与值守秩序联系震区附近的柳州市工人医院总院，院方工作人员回应称地震对医院正常就诊及值守秩序未造成太大影响，并表示已对可能发生的余震采取必要保障措施；随后获救伤员被陆续转送至该院接受救治。",
+  "event_time": {
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "precision": "day",
+    "evidence": "中国地震台网及柳州市官方通报，地震发生于北京时间2026年5月18日00时21分；大河报等媒体于当日上午联系柳州市工人医院总院采访核实。"
+  },
+  "locations": [
+    "中国/广西壮族自治区/柳州市/柳南区/太阳村镇",
+    "中国/广西壮族自治区/柳州市/柳南区/柳州市工人医院总院"
+  ],
+  "aliases": [
+    "广西柳州柳南区5.2级地震",
+    "柳州5.2级地震",
+    "柳州医院回应地震收治情况",
+    "柳州医院现状",
+    "5·18柳州地震"
+  ],
+  "retrieval_queries": [
+    "柳州 柳南区 5.2级地震",
+    "柳州地震 工人医院",
+    "柳州医院现状 5.2级地震",
+    "柳州医院回应地震收治情况",
+    "柳南区 太阳村镇 地震",
+    "广西柳州 5月18日 5.2级地震"
+  ],
+  "must_match_facts": [
+    "发生于2026年5月18日0时21分",
+    "地点位于广西柳州市柳南区（震中太阳村镇）",
+    "地震震级为5.2级、震源深度8公里",
+    "柳州市工人医院总院回应就诊值守秩序受影响不大并采取余震防范措施"
+  ],
+  "exclude_if": [
+    "2026年5月18日21时44分柳州第二次5.2级地震的独立处置报道",
+    "其他年份（如2023年）或广西其他地市的地震事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "柳南区发生5.2级地震",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcMaE1Hx1yFzv8WyjvxjIkepGcn3lQeG_Gsu8c3BmHJCl389LNbJae_NdQylNPABIV_-WvDDbUBkHO9GubCSw6odV_Ip_3432pJvAKDIGHNl9fc28LwpKBmHT7xqIw9bqaSgSxdcSoX-1BePa7tAXoJwNM9ELckhXnVF4o",
+      "publisher": "柳州市人民政府",
+      "published_at": "2026-05-18"
+    },
+    {
+      "title": "凌晨0时21分，广西柳州突发5.2级地震，前后又发生5次地震！已致13栋房屋倒塌，3人失联，官方通报：转移群众7000余人，正在全力搜救",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKgv_SGheUXrTIFu34Dy07szZ3hbJ5uQFJLY4xar9Jh8hIMiUN6_UkHVZ_MRv4OCNIMKudeLJ2FZbu4eTjOUf2gpaWbR1ZKY1oQc2EtgxwdSWAaPNuRIEKmuwhWdlqnj-3RJEX0PT-Cda6bBs=",
+      "publisher": "每日经济新闻",
+      "published_at": "2026-05-18"
+    },
+    {
+      "title": "广西柳州发生5.2级地震已致3人失联现场救援在进行中",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEh2GMAqIpQGugTCN1PSnR-SRHAHxKt-oqHURJpP3NaOmJkNExQ_ActK4kji3jzvKb3XAKlkOIsDCPXzglgB2z9o2YO5Ata6I_qbcXXMOgPpDSQQLuqKVFuCkPZ_APtFsbJd3OriptR5Nto6DlPMzGp_XtGrVjiNXOC3uYzkiObX7wM",
+      "publisher": "新华网",
+      "published_at": "2026-05-18"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将发生年份误写作2023年，实际发生年份为2026年"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:26"
+}

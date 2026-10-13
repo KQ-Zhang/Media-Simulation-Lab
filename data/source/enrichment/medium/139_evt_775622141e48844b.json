@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_775622141e48844b",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "河北石家庄男子生日杀妻案",
+  "factual_description": "2025年3月23日下午，河北省石家庄市桥西区发生一起命案。男子王某某（媒体化名王强）在生日当天，因带孩子、做家务等家庭琐事积怨，以及反对妻子小虹（媒体化名林嘉）前往云南西双版纳出差参加年会，与妻子发生激烈争吵与肢体冲突，随后将妻子按倒在床扼颈致其机械性窒息死亡。案发数小时后，王某某向家属谎称妻子系服药自杀，警方及急救人员到场后确认受害人死亡，当晚王某某被警方控制。2025年3月24日，王某某因涉嫌故意杀人罪被石家庄市公安局桥西分局刑事拘留并随后被批捕。案件办理过程中，精神疾病司法鉴定成为核心争议：首次由河北省保定精神疾病司法鉴定中心出具报告，认定其案发时抑郁发作，评定为限定刑事责任能力；受害人家属不服并申请重新鉴定，后上海司法鉴定科学研究院出具鉴定意见，认定其虽患抑郁发作且缓解不全，但作案动机现实、作案时意识清楚，评定为具有完全刑事责任能力。2026年5月22日，该案在石家庄市中级人民法院一审开庭审理，暂未宣判。",
+  "event_time": {
+    "start": "2025-03-23",
+    "end": "2026-05-22",
+    "precision": "day",
+    "evidence": "2025年3月23日下午案发；2026年5月22日在石家庄市中级人民法院一审开庭审理。"
+  },
+  "locations": [
+    "中国/河北省/石家庄市/桥西区"
+  ],
+  "aliases": [
+    "石家庄男子生日当天掐死妻子案",
+    "男子生日当天杀害妻子案",
+    "石家庄王强掐死妻子案",
+    "男子生日掐死妻子两次精神鉴定不一案",
+    "男子掐死妻子鉴定抑郁发作后被推翻案"
+  ],
+  "retrieval_queries": [
+    "石家庄 男子生日当天掐死妻子",
+    "男子生日杀妻 两次精神鉴定",
+    "石家庄 杀妻案 王强 林嘉",
+    "男子生日掐死妻子 抑郁发作 翻案",
+    "石家庄桥西区 杀妻 司法鉴定科学研究院",
+    "男子生日当天杀害妻子案 封面深镜"
+  ],
+  "must_match_facts": [
+    "案发时间为2025年3月23日男子生日当天",
+    "案发地点在河北省石家庄市",
+    "作案手段为丈夫掐住妻子颈部致机械性窒息死亡",
+    "嫌疑人曾向亲属谎称妻子系服药/喝药自杀",
+    "先后经历保定与上海两家机构进行精神疾病司法鉴定且责任能力结论相反",
+    "2026年5月22日在石家庄市中级人民法院一审开庭"
+  ],
+  "exclude_if": [
+    "河南中牟发小灭门案",
+    "上海杀妻藏尸冰柜案",
+    "杭州许国利杀妻碎尸案",
+    "非石家庄地区发生的家庭凶杀案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“男子生日当天杀害妻子案”庭审细节：两次精神鉴定结果不一成核心争议｜封面深镜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq0LaB_9zST2mmOYr3TmDSN-uX1DnmIdnF6g7J-yyXGcCvOORZrx1Jbkj8QXyeHrkJY2cd6aeHB0sUl4BlScsYYocWdcUT8FlVtKZWvnrGis-mHEuD77DPo9DL4X6xiM3o",
+      "publisher": "封面新闻",
+      "published_at": "2026-06-07"
+    },
+    {
+      "title": "反对妻子外地出差及琐事积怨，男子生日当天掐死妻子，鉴定为“抑郁发作，为限定刑事责任能力”，重新鉴定最终翻案",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIkvakVndMj0oGGcSC99BSOTsrkK-Nl-52qb9iqrRe3G7T2DGNTD5xbINMAS3bBderNgPO1hI09lH6JbLcPecDLnPN9CrJPpugGhzr1eDZOibjqQ90vYQZa-dr-lSjVzhiNFva3ZzI76flaqcrZhDM3nLNIs6G_LBa6piES9qihQXLpMfu196YDQCFmtntOEcyhz6mMaCyvv4Ns_td9Y9DBjML",
+      "publisher": "华商报大风新闻",
+      "published_at": "2026-07-03"
+    }
+  ],
+  "uncertainties": [
+    "一审判决结果及最终采信哪份精神鉴定意见尚未公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:34"
+}

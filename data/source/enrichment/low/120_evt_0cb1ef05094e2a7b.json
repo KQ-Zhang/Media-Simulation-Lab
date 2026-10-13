@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_0cb1ef05094e2a7b",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "世卫组织与非洲疾控中心启动5.18亿美元埃博拉疫情防控计划",
+  "factual_description": "2026年6月5日，世界卫生组织（WHO）与非洲疾病预防控制中心（Africa CDC）联合举行线上新闻发布会，正式宣布启动一项为期6个月（2026年6月至11月）、预算为5.18亿美元的埃博拉疫情防控联合应对计划。该计划旨在应对刚果民主共和国（刚果（金））和乌干达暴发的本迪布焦型埃博拉疫情，加强受影响及周边高风险非洲国家的疾病监测、实验室检测、感染预防与控制、临床救治、应急协调、社区参与、科研与后勤保障。世卫组织总干事谭德塞与非洲疾控中心总干事让·卡塞亚出席发布会并呼吁国际社会提供资金与政治支持。非洲疾控中心在会上同时通报，截至6月3日，本轮疫情已导致34名医护人员感染，其中7人殉职、6人康复。",
+  "event_time": {
+    "start": "2026-06-05",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "世卫组织与非洲疾控中心于2026年6月5日联合举行线上新闻发布会，共同宣布启动该计划。"
+  },
+  "locations": [
+    "瑞士/日内瓦",
+    "埃塞俄比亚/亚的斯亚贝巴",
+    "刚果民主共和国",
+    "乌干达"
+  ],
+  "aliases": [
+    "世卫与非疾控启动超5亿美元埃博拉疫情防控计划",
+    "世卫组织启动5.18亿美元埃博拉防控计划",
+    "非洲疾控中心与世卫组织发布埃博拉应对计划呼吁筹集5.18亿美元",
+    "WHO Africa CDC $518M Ebola response plan"
+  ],
+  "retrieval_queries": [
+    "世卫 非疾控 5.18亿美元 埃博拉",
+    "世卫组织 启动 5.18亿美元 埃博拉",
+    "谭德塞 让·卡塞亚 5.18亿 埃博拉",
+    "刚果金 乌干达 埃博拉 5.18亿美元",
+    "WHO Africa CDC 518 million Ebola",
+    "埃博拉 34名医护人员感染 7人殉职"
+  ],
+  "must_match_facts": [
+    "由世界卫生组织（WHO）与非洲疾病预防控制中心（Africa CDC）联合宣布启动",
+    "计划预算为5.18亿美元（周期为2026年6月至11月）",
+    "应对的是刚果（金）及乌干达等国蔓延的本迪布焦型埃博拉疫情",
+    "宣布启动时间为2026年6月5日"
+  ],
+  "exclude_if": [
+    "2014-2016年西非埃博拉疫情国际援助计划",
+    "猴痘（Mpox）疫情联合应对计划",
+    "2026年9月世卫组织等后续呼吁的13亿美元埃博拉应对预算"
+  ],
+  "source_evidence": [
+    {
+      "title": "世卫与非疾控启动超5亿美元埃博拉疫情防控计划",
+      "url": "http://www.news.cn/world/20260606/33130d2fc41042788e07a3c310468ae3/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-06-06"
+    },
+    {
+      "title": "非洲疾控中心与世卫组织发布埃博拉应对计划呼吁筹集5.18亿美元",
+      "url": "https://news.un.org/zh/story/2026/06/1144061",
+      "publisher": "联合国新闻（UN News）",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "Inside WHO and Africa CDC's $518M Ebola response plan",
+      "url": "https://www.devex.com/news/inside-who-and-africa-cdc-s-518m-ebola-response-plan-112687",
+      "publisher": "Devex",
+      "published_at": "2026-06-08"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:08"
+}

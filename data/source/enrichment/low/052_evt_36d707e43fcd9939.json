@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_36d707e43fcd9939",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "《歌手2026》第七期联名赛张远淘汰出局",
+  "factual_description": "2026年7月3日晚，湖南卫视与芒果TV音乐竞演节目《歌手2026》第七期（联名赛八进七）进行现场直播。本期赛制采取帮唱嘉宾助阵及两两1v1对抗模式，获胜者直接晋级，落败的4组歌手进入危险区接受现场大众听审二次投票，决出3个晋级名额，得票末位者淘汰。在首轮对决中，张远搭档萨顶顶演唱歌曲《时候》，不敌胡彦斌与李玖哲合唱的《偏爱》，进入危险区。在万妮达、齐豫、窦靖童与张远四人的危险区突围投票中，张远最终以0.4%、仅6票之差惜败于窦靖童，位列第八遭到淘汰，成为当期唯一出局歌手。胡彦斌、尤长靖、艾略特、刘惜君、万妮达、齐豫、窦靖童共七位歌手晋级月度决赛。赛后现场特邀串讲人苏醒情绪激动并发言鼓励好友张远“得到了歌手这个身份的尊重”，张远在淘汰感言中表示为调整舞台两天仅睡5小时、全力以赴问心无愧。",
+  "event_time": {
+    "start": "2026-07-03",
+    "end": "2026-07-03",
+    "precision": "day",
+    "evidence": "2026年7月3日晚湖南卫视与芒果TV现场直播《歌手2026》第七期联名赛并决出淘汰结果"
+  },
+  "locations": [
+    "中国/湖南省/长沙市/开福区/湖南广播电视台节目生产基地（七彩盒子）"
+  ],
+  "aliases": [
+    "《歌手2026》第七期联名赛",
+    "《歌手2026》第七期淘汰赛",
+    "《歌手2026》张远淘汰",
+    "歌手2026张远6票之差淘汰"
+  ],
+  "retrieval_queries": [
+    "歌手2026 第七期",
+    "歌手2026 张远 淘汰",
+    "歌手2026 联名赛",
+    "张远 萨顶顶 时候 歌手2026",
+    "胡彦斌 李玖哲 偏爱 歌手2026",
+    "张远 6票之差 歌手2026",
+    "苏醒 张远 歌手这个身份的尊重",
+    "歌手2026 7月3日"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年7月3日晚《歌手2026》第七期联名赛直播中",
+    "张远与萨顶顶合作演唱《时候》",
+    "胡彦斌与李玖哲合作演唱《偏爱》并在首轮对决中战胜张远组",
+    "张远在危险区二次投票中以6票（0.4%）之差落后于窦靖童，位列末位遭淘汰",
+    "胡彦斌、尤长靖、艾略特、刘惜君、万妮达、齐豫、窦靖童共七位歌手晋级",
+    "现场串讲人苏醒公开发表感言鼓励张远"
+  ],
+  "exclude_if": [
+    "《歌手2024》张远参与冲榜赛事件",
+    "《歌手2026》其他期数的常规淘汰或突围赛事件",
+    "《披荆斩棘》第三季节目相关事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "张远歌手淘汰引热议！仅差6票出局，舞台背后真相令人心疼",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLH1sN_hRzBGhaw0PjF8dRL9wdHa_7qqzKVi4w1vaFd5wBFL9Kg4RYmdaMjRB9FcaTcFZR3dJ017_SZXBXtyqPvOkP26T6OwoJ1jwxdmsxp5vzEEgD013xkEOd",
+      "publisher": "360娱乐",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "《歌手2026》张远以6票之差淘汰，苏醒发表走心感言：他得到了歌手这个身份的尊重",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdpMCre09CoXfXUIpgMaRUDX2NSgQtTsIakiTAA1KcQMzTHImZGTCnhU5bQgg5ctP665jc4DPV4aJ-d7l4Uh7bSMOHg7Nw2449je0ugsZ1ZM2_c1wxRTycWIZ0PPgHE4PvU0oTWOiK4JT59v0f_SCVJHwsvUMbeA-bwskOetasJKSLFdl9c7qYPERazHKdtEON2L--vFjUcJ4ShY1Fz1ieiY_SEII72aPAAbsKHcyKFvmluBgfbMvS1C8GtAk=",
+      "publisher": "潇湘晨报 / 凤凰新闻",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "歌手：胡彦斌请来李玖哲把张远淘汰了，苏醒对此可能比张远难熬",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwGSW5_ZeBdMO7a3As33ew2kO9lJtXH4ES9Ec5sKso7Q7aHNVSYq7WObBhfW0lkvciBxWFNnxQOn-XXWytmZ25AVXJHhRnCo8odRKzdeqKDtPr1WZGTlMr03YTRA6XWAHBCRjdBVB62MY=",
+      "publisher": "网易新闻",
+      "published_at": "2026-07-04"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:22"
+}

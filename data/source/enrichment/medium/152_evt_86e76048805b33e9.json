@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_86e76048805b33e9",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "杭州西湖区网传老人公园搂抱女童辟谣事件",
+  "factual_description": "2026年6月初，一段拍摄于浙江省杭州市西湖区某小区公园（游乐区）的视频在网络流传，画面显示一名老人从身后搂抱一名小女孩，部分网络言论质疑其双手疑似触碰女孩胸部，引发公众关注与涉嫌猥亵的担忧。网传视频引发热议后，属地派出所曾回应称已掌握线索并走访排查。2026年6月2日，杭州市西湖区官方发布平台“西湖发布”通报公安部门核查结果：视频中老人实为该小女孩的亲外公，事发时系祖孙之间的正常搂抱互动，并不存在任何不当行为，网传猥亵质疑不实。官方同时呼吁广大网民不信谣、不传谣，避免对当事人尤其是未成年人造成二次伤害。",
+  "event_time": {
+    "start": "2026-06-01",
+    "end": "2026-06-02",
+    "precision": "day",
+    "evidence": "网传视频于2026年6月1日至2日流传发酵，杭州市西湖区官方与公安部门于2026年6月2日完成核实并发布辟谣通报"
+  },
+  "locations": [
+    "中国/浙江省/杭州市/西湖区"
+  ],
+  "aliases": [
+    "浙江杭州老人小区游乐区搂抱女孩疑触胸部事件",
+    "官方回应公园老人搂抱小女孩",
+    "杭州公园老人搂抱小女孩系祖孙正常互动",
+    "西湖区老人搂抱女童辟谣"
+  ],
+  "retrieval_queries": [
+    "杭州 老人 搂抱女孩",
+    "西湖发布 老人 搂抱小女孩",
+    "杭州公园 老人 亲外公 正常互动",
+    "杭州 游乐区 老人 搂抱 辟谣",
+    "杭州西湖区某小区公园 老人搂抱小女孩"
+  ],
+  "must_match_facts": [
+    "网传事发地点位于浙江省杭州市西湖区某小区公园或游乐区",
+    "网络传言称老人从背后搂抱小女孩疑似触碰胸部",
+    "经公安机关调查核实，涉事老人为女童的亲外公",
+    "官方辟谣通报确认系祖孙间正常搂抱互动，无不当行为"
+  ],
+  "exclude_if": [
+    "杭州电梯女租客捏造遭邻居猥亵案",
+    "其他确有违法事实的未成年人受侵害刑事或治安案件",
+    "非杭州西湖区且非祖孙正常互动的其他涉及儿童争议事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "官方回应公园老人搂抱小女孩：系祖孙间正常搂抱互动，未有不当行为",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuYggbJ-70ZbnHp_9zM_kk8ruwvfJ6Y9twPLle5zfP8oyaGc48OlJKPRYTiMhiXY_GMVmRWha_4rjxJS3ZZowiy3q2ObdScPlHYQUdyXJGq8Qlf9eG9KsmnK_JQA03enRi71c=",
+      "publisher": "界面新闻（转引自@西湖发布）",
+      "published_at": "2026-06-02"
+    },
+    {
+      "title": "网传“老人搂抱女孩”视频，公安核查：系祖孙间正常互动，无不当行为",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK3eOAlqQCbnZomOHW5sk7jtHi8GW9ckB2ukBuhY8OAiTPzxKme9NaJnKMZ1AbyzfJrr7aFrHWn810i3w8QExRFJzanZnIdLADnieJ-YLAcSqDK8wGOOJdRM4T5_uet5NoyoPCDpNnOxMoNILIx1Zyo9sZW01vmarTUw==",
+      "publisher": "潮新闻 / 腾讯新闻",
+      "published_at": "2026-06-02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:02"
+}

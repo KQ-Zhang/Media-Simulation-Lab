@@ -1,0 +1,148 @@
+{
+  "event_id": "evt_dc0af73211284663",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "广东陈女士乘哈啰顺风车遇司机高速开智驾打瞌睡报警事件",
+  "factual_description": "2026年6月14日晚，乘客陈女士与两名朋友乘坐哈啰顺风车从广东湛江徐闻前往深圳罗湖。途中在车速超100公里/小时（最高达114公里/小时甚至飙车至150公里/小时）的高速公路上，司机全程高度依赖智能辅助驾驶系统，双手离开方向盘，频繁玩手机刷视频、与他人激烈吵架聊天，并多次（达6次）歪头打瞌睡。乘客提醒无果且因司机情绪不稳定不敢直接下车，遂发短信报警。深圳市公安局罗湖区分局莲塘派出所民警短信安抚其冷静并指导发送定位。6月15日凌晨车辆到达深圳，民警在下车点接应处置。事件曝光后，哈啰官方于6月17日回应致歉，认定司机行为构成危险驾驶，已对其账号实施永久封禁，并与乘客协商全额退费及补偿事宜。",
+  "event_time": {
+    "start": "2026-06-14",
+    "end": "2026-06-15",
+    "precision": "day",
+    "evidence": "新闻报道指出陈女士于6月14日晚搭乘顺风车，6月15日凌晨抵达深圳罗湖，警方在下车点到场处置。"
+  },
+  "reporting_time_range": {
+    "start": "2026-06-16",
+    "end": "2026-06-18"
+  },
+  "locations": [
+    "中国/广东省/湛江市/徐闻县",
+    "中国/广东省/中山市",
+    "中国/广东省/江门市",
+    "中国/广东省/深圳市/罗湖区"
+  ],
+  "people": [
+    {
+      "name": "陈女士",
+      "role": "顺风车乘客、报警及事件曝光人"
+    },
+    {
+      "name": "涉事顺风车司机",
+      "role": "哈啰顺风车车主，危险驾驶责任人"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "哈啰出行",
+      "role": "涉事顺风车平台运营方（上海钧丰网络科技有限公司）"
+    },
+    {
+      "name": "深圳市公安局罗湖区分局莲塘派出所",
+      "role": "接报警并现场处置的公安机关"
+    }
+  ],
+  "trigger": "陈女士等人在乘坐顺风车途中发现司机在高速行驶时过度依赖智驾、打瞌睡6次且玩手机跟人争吵，安全受到严重威胁。",
+  "key_actions": [
+    "陈女士多次提醒司机注意力集中但未果，司机甚至飙车并绕远路",
+    "陈女士因害怕刺激司机在车辆行驶至中山段时发短信报警",
+    "深圳罗湖莲塘派出所民警短信安抚乘客，指导加微信发送实时定位",
+    "6月15日凌晨车辆抵达深圳罗湖，莲塘派出所民警提前到达下车点拦截调查",
+    "陈女士将录制的现场视频发布至社交平台，河南广电《大参考》等媒体跟进报道",
+    "6月17日哈啰平台判定司机行为构成危险驾驶并永久封禁账号，向乘客致歉并协商退费补偿"
+  ],
+  "outcome_and_status": "哈啰平台向陈女士致歉，涉事司机账号已被永久封禁，平台与陈女士就退还车费及补偿进行协商，深圳警方介入调查处置。",
+  "timeline": [
+    {
+      "time": "2026-06-14",
+      "fact": "陈女士一行三人从湛江徐闻搭乘哈啰顺风车前往深圳罗湖，途中司机多次开智驾睡觉、玩手机。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpaaipKcdLI06OaxkRZvpiQNjgwH21_a5YXx7y25ZmitllVRCodXBps-cj0q_9PN0qiN4oA5M4GWQ4SCAFQiWtcvPoK1gUEYQ9JPlaOgCgEQkeReowBrpV4bvL2xeD5eLjnC41tL2QdrMHh9uOos1Ex3Yz0tSoyRK7aiUN0ogGQInrYdHeuHdw8wO0UkB5tDGh4QF50CCt9xgse3Y1TDAMypwBzhvmUpf8hnoCOpsn0k-jDISP4vliXb5mGHYeG3j6bPJar7K52Fe73vweEgRVAVFcMq6L9T-eY8t5mmiWG8UWTgIJmfMvI2bDIMNCq34i53dYuhr1wRh22brtyY9wdJnDteYZpWLywPdgyvMZS7imnedzYaZJXS6Q4NAanJ04ldSDGnLgtWL2vFQj_pQBjoL3VXsOVMwPdQfwJ_pnE7NVL5D32cttJJyewFK1NHvQD9ifpYLm2or9sZlAefszq5UdVtI-8caFkvFJ2t9ihRiIFt2h1z0="
+      ]
+    },
+    {
+      "time": "2026-06-15",
+      "fact": "陈女士发送短信向深圳罗湖莲塘派出所报警；凌晨到达罗湖下车点时民警现场处置询问。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpaaipKcdLI06OaxkRZvpiQNjgwH21_a5YXx7y25ZmitllVRCodXBps-cj0q_9PN0qiN4oA5M4GWQ4SCAFQiWtcvPoK1gUEYQ9JPlaOgCgEQkeReowBrpV4bvL2xeD5eLjnC41tL2QdrMHh9uOos1Ex3Yz0tSoyRK7aiUN0ogGQInrYdHeuHdw8wO0UkB5tDGh4QF50CCt9xgse3Y1TDAMypwBzhvmUpf8hnoCOpsn0k-jDISP4vliXb5mGHYeG3j6bPJar7K52Fe73vweEgRVAVFcMq6L9T-eY8t5mmiWG8UWTgIJmfMvI2bDIMNCq34i53dYuhr1wRh22brtyY9wdJnDteYZpWLywPdgyvMZS7imnedzYaZJXS6Q4NAanJ04ldSDGnLgtWL2vFQj_pQBjoL3VXsOVMwPdQfwJ_pnE7NVL5D32cttJJyewFK1NHvQD9ifpYLm2or9sZlAefszq5UdVtI-8caFkvFJ2t9ihRiIFt2h1z0="
+      ]
+    },
+    {
+      "time": "2026-06-16",
+      "fact": "陈女士将事件视频发布在网络，媒体进行采访报道，舆情开始发酵。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHX-_G96KhwkzospAsYIv6bJolsUazw3gnMhOppGDGX8tG-3KzBpi7et9ZJF6Sl5weMmO2cX_rWH0E2JCykYovEgZn4556G_3ks_43NT7aLUDlCvFJk2O9KAgnhx9tirNXXvcWGrX_kcIM="
+      ]
+    },
+    {
+      "time": "2026-06-17",
+      "fact": "哈啰回应称司机行为构成危险驾驶，平台已将其账号永久封禁并致歉沟通补偿。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFc8rNVgHbRjXWwmpMkxG74zQ8xUzq0WkkkkXqACMP9DyVEE2HEwIYfYIexU1jOJ5uxdouJ7_qS635EB9t-mELSYBEPRpewRJzcMEMBYWSb4SfF9PFoQbX1Ek="
+      ]
+    }
+  ],
+  "aliases": [
+    "顺风车司机高速开智驾连睡6次事件",
+    "哈啰顺风车司机高速睡觉事件",
+    "女子坐顺风车遇司机高速开智驾打瞌睡报警"
+  ],
+  "retrieval_queries": [
+    "顺风车 司机 高速 智驾 睡觉",
+    "顺风车司机 歪头睡觉 114km/h",
+    "陈女士 湛江徐闻 深圳罗湖 顺风车",
+    "哈啰顺风车 司机 睡了六次 报警",
+    "莲塘派出所 不要刺激司机 顺风车",
+    "顺风车 智驾 睡了6次 永久封号"
+  ],
+  "must_match_facts": [
+    "当事人陈女士乘坐顺风车从湛江徐闻前往深圳罗湖",
+    "司机在时速超100km/h的高速公路上开智驾打瞌睡达6次",
+    "司机在行驶中用手机聊天刷视频且情绪偏激争吵",
+    "陈女士通过短信向深圳市公安局罗湖区分局莲塘派出所报警",
+    "涉事平台为哈啰顺风车且官方已永久封禁司机账号"
+  ],
+  "optional_supporting_facts": [
+    "车速曾达到114km/h甚至150km/h",
+    "司机频频开错路绕远且在湛江、中山、江门、深圳均有打瞌睡情况",
+    "平台客服最初提出赔偿30元优惠券后升级至300元现金"
+  ],
+  "exclude_if": [
+    "2025年4月杭州至浦东机场顺风车司机开智驾睡觉事件"
+  ],
+  "distinctive_entities": [
+    "陈女士",
+    "湛江徐闻",
+    "深圳罗湖",
+    "莲塘派出所",
+    "哈啰顺风车",
+    "114km/h",
+    "睡了6次"
+  ],
+  "source_evidence": [
+    {
+      "title": "網約車司機高速開智駕玩手機睇片兼瞌眼瞓 平台致歉並永久封號",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpaaipKcdLI06OaxkRZvpiQNjgwH21_a5YXx7y25ZmitllVRCodXBps-cj0q_9PN0qiN4oA5M4GWQ4SCAFQiWtcvPoK1gUEYQ9JPlaOgCgEQkeReowBrpV4bvL2xeD5eLjnC41tL2QdrMHh9uOos1Ex3Yz0tSoyRK7aiUN0ogGQInrYdHeuHdw8wO0UkB5tDGh4QF50CCt9xgse3Y1TDAMypwBzhvmUpf8hnoCOpsn0k-jDISP4vliXb5mGHYeG3j6bPJar7K52Fe73vweEgRVAVFcMq6L9T-eY8t5mmiWG8UWTgIJmfMvI2bDIMNCq34i53dYuhr1wRh22brtyY9wdJnDteYZpWLywPdgyvMZS7imnedzYaZJXS6Q4NAanJ04ldSDGnLgtWL2vFQj_pQBjoL3VXsOVMwPdQfwJ_pnE7NVL5D32cttJJyewFK1NHvQD9ifpYLm2or9sZlAefszq5UdVtI-8caFkvFJ2t9ihRiIFt2h1z0=",
+      "publisher": "HK01",
+      "published_at": "2026-06-17",
+      "supports": [
+        "陈女士与2名朋友6月14日晚从湛江徐闻坐哈啰顺风车到深圳罗湖",
+        "司机在高速上95%依赖智驾打瞌睡6次",
+        "乘客在中山报警，莲塘派出所民警短信安抚并于6月15日凌晨在罗湖下车点接收处置",
+        "平台致歉并永久封禁账号"
+      ]
+    },
+    {
+      "title": "女子打顺风车，称司机高速上时速100多公里开智驾睡觉：睡了6次，提醒都没用，还玩手机！平台道歉：车主构成危险驾驶，已永久封禁",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFc8rNVgHbRjXWwmpMkxG74zQ8xUzq0WkkkkXqACMP9DyVEE2HEwIYfYIexU1jOJ5uxdouJ7_qS635EB9t-mELSYBEPRpewRJzcMEMBYWSb4SfF9PFoQbX1Ek=",
+      "publisher": "新京报贝壳财经 / 凤凰网",
+      "published_at": "2026-06-17",
+      "supports": [
+        "哈啰回应称司机行为构成危险驾驶并已永久封禁",
+        "陈女士记录司机打瞌睡6次并向莲塘派出所报警",
+        "哈啰平台客服向乘客致歉并协商补偿"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:34:49"
+}

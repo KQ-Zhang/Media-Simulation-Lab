@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_411a10fa8a3f11c9",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年闽超联赛第二阶段莆田队主场6:0大胜龙岩队",
+  "factual_description": "2026年8月8日晚19时35分，兴业银行2026年福建省城市足球联赛（简称“闽超”）第十轮暨第二阶段甲级组首轮比赛在莆田市体育中心体育场举行，莆田队坐镇主场迎战龙岩队。比赛吸引了超过1.7万名观众到场观战。上半场第22分钟，莆田队16号黄嘉溢推射空门拔得头筹，第25分钟7号陈熙腾破门扩大比分；下半场第51分钟黄嘉溢再下一城完成梅开二度，随后台胞球员57号潘彦宏在第58分钟和第66分钟连入两球，伤停补时阶段51号林金涵主罚点球命中，最终莆田队以6:0大胜龙岩队，取得第二阶段开门红。该场大胜不仅报了常规赛客场2:3惜败龙岩队的一箭之仇，也刷新了闽超联赛开赛以来莆田队单场最高进球纪录。",
+  "event_time": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "precision": "day",
+    "evidence": "比赛于2026年8月8日19时35分在莆田市体育中心开赛并于当晚完赛"
+  },
+  "locations": [
+    "中国/福建省/莆田市/城厢区/莆田市体育中心体育场"
+  ],
+  "aliases": [
+    "闽超甲级组莆田队主场6：0大捷",
+    "闽超第十轮莆田队6-0龙岩队",
+    "闽超第二阶段首轮莆田主场6比0大胜龙岩",
+    "2026福建闽超莆田VS龙岩6:0"
+  ],
+  "retrieval_queries": [
+    "闽超 莆田 6 0",
+    "闽超 莆田 龙岩 6:0",
+    "闽超甲级组首轮 莆田主场大胜",
+    "闽超 第十轮 莆田队 龙岩队 6:0",
+    "莆田市体育中心 闽超 6比0",
+    "潘彦宏 黄嘉溢 闽超 6:0"
+  ],
+  "must_match_facts": [
+    "赛事为2026年福建省城市足球联赛（闽超）第二阶段甲级组（第十轮）比赛",
+    "对阵双方为莆田队与龙岩队，莆田队主场作战",
+    "比赛最终比分为莆田队6:0大胜龙岩队",
+    "比赛时间为2026年8月8日晚",
+    "比赛地点在莆田市体育中心体育场"
+  ],
+  "exclude_if": [
+    "2026年5月10日闽超常规赛福州队主场6:0战胜南平队的比赛",
+    "2026年8月15日闽超甲级组莆田队主场0:2负于泉州队的比赛",
+    "2025年莆田市足球联赛（莆超）相关比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "6：0！ “闽超”第十轮，莆田队主场大胜龙岩队！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6DsScftihVrVto--BEMat24K__XkXdFRxRqt2L-ww5R73GBOpZCWAw0zLB-gj-KuKDc0JKemQ0V-a2Io2CToNs1ZAJyTaBQyGXuO-aohOq9hbvrjZshFMP4jS7K9m-DgW",
+      "publisher": "莆田发布（转自莆田广播电视台）",
+      "published_at": "2026-08-08"
+    },
+    {
+      "title": "闽超第二阶段甲级组首轮战罢莆田主场6:0大胜龙岩",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEMqhaoUnndvyz8npxfOzk4qSLnckVT0sF-Bmdutt5IhLYsjX16m_UWSEBaMRK6zKqRel3oUDVTEu5a5Whifmo7cV4VOuLzehHGDnXah5dFAC9_fpc4DLcWU44HY0qxMcVa76ZtQdR-ivut",
+      "publisher": "东南网 / 网易",
+      "published_at": "2026-08-09"
+    },
+    {
+      "title": "“闽超”战火重燃台胞球员打进6球",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzIyc66VOWFjTCmEker2iRv4zFtqfHlpHV7FCDGOHn5bD9hu0Ay1tVlLM1wXjITYa2qHXRBWvxxvTh3ftfIoI3JqrD1C9di9M_3wRuKhAi5si0Yv4glPqYC0A=",
+      "publisher": "海峡导报 / 凤凰网",
+      "published_at": "2026-08-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:45"
+}

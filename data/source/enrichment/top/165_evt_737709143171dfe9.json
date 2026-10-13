@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_737709143171dfe9",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "湖南石门救灾女村支书向金元因佩戴金色耳环遭网络暴力事件",
+  "factual_description": "2026年5月中旬（17日起），湖南省常德市石门县遭遇极端强降雨过程引发洪涝灾害。壶瓶山镇龙池河村党支部书记向金元连续多日扎根防汛救灾一线，在交通与通讯中断的严峻情况下，坚守岗位组织全村900余名群众转移安置及自救抢险。5月下旬，在接受新闻媒体采访介绍灾情时，向金元因声音嘶哑、眼眶红肿落泪引发社会关注，但部分网民却将焦点对准其佩戴的一对金色耳环，大肆进行恶意揣测、攻击与网络暴力。随后向金元澄清回应，耳环系网购平价饰品，且一心扑在救灾与复工复产中，无暇顾及网络恶评。各大主流媒体相继发声批评无端捏造与歪风邪气。2026年6月2日，公安部网安局通报已依法查处相关网暴行为15起，对秦某某、未某某等多名涉事违法人员给予行政处罚。",
+  "event_time": {
+    "start": "2026-05-17",
+    "end": "2026-06-02",
+    "precision": "day",
+    "evidence": "2026年5月17日石门县强降雨致灾，向金元坚守一线救灾；5月下旬因受访视频中佩戴耳环遭遇舆论网暴；2026年6月2日公安机关通报依法处罚网暴涉事人员。"
+  },
+  "locations": [
+    "中国/湖南省/常德市/石门县/壶瓶山镇/龙池河村"
+  ],
+  "aliases": [
+    "湖南石门女村支书向金元耳环事件",
+    "龙池河村支书向金元戴耳环遭网暴事件",
+    "石门灾区女干部戴耳环风波"
+  ],
+  "retrieval_queries": [
+    "湖南石门 向金元 金耳环",
+    "龙池河村 向金元 网暴",
+    "石门县 救灾 女村支书 耳环",
+    "向金元 壶瓶山镇 救灾",
+    "石门暴雨 女干部 耳环",
+    "灾区女干部戴耳环回应",
+    "向金元 公安部网安局 行政处罚"
+  ],
+  "must_match_facts": [
+    "事件主体为湖南省石门县壶瓶山镇龙池河村党支部书记向金元",
+    "发生在2026年5月湖南石门防汛救灾期间",
+    "起因是向金元救灾采访视频中佩戴金色耳环引发部分网友恶意揣测与网暴",
+    "当事人回应耳环为网上购买的平价饰品",
+    "公安机关在2026年6月依法对网暴涉事人员予以行政处罚"
+  ],
+  "exclude_if": [
+    "2022年鄂尔多斯李少莉精致妆容及耳环舆论争议",
+    "2023年郑州社区书记刘红英疫情防控舆情事件",
+    "非湖南石门县龙池河村向金元防汛救灾背景的其他官员配饰讨论"
+  ],
+  "source_evidence": [
+    {
+      "title": "网暴救灾村支书戴“金耳环”涉事人员被处罚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgrrp9K2QeYVW8ZP8mA0K7bxQCT_i3kHCAyzKDtpwLCSdNtcLAb4O-euRlB5Y2RmrL6IBDCUqEovaTfVNNZlfZbIx1QTDAtM312owtj0YILK58hngzn-dxJRsgJPzIpqigXmNR6i6Wp-pw2BYGxZPtFv2qTedWDhqq",
+      "publisher": "新华网",
+      "published_at": "2026-06-02"
+    },
+    {
+      "title": "专访因耳环被网暴的女村支书：我格局很大的，从不计较、从不内耗",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpBIcoZWELE6mjNcuMYdw_630brP3k6BTLj87vpXaavcdzfUPJW8vbKNAZIkiNao_FM45XPbSYclBtyCTjtHBJnWmMoUaSTDgKW4Uxsz1h6kFiqb9I5zdZFYg56lNX1p_HAjqknbY=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-06-04"
+    },
+    {
+      "title": "救灾女干部回应戴耳环遭恶评：“打击我的使我成长”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEakHf3jWtoF837Klgx4tTyP9ZUU1frR_8Cf8p2ZNWl5uH2VQ49XWLMUe9UyMDdSFRMaMLt2Dk0zSUmd8KwunBBj2OuGAP6pLchsTRRjdrIDEp-jugwPN9IlbHLJx-2PqaFok_Rdwsx3d5MYA==",
+      "publisher": "新京报",
+      "published_at": "2026-05-26"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:38"
+}

@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_6f10695c3dfbfb6a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "周深2026「深深的」巡回演唱会广州站",
+  "factual_description": "2026年4月18日至19日，歌手周深2026「深深的」巡回演唱会广州站在广东省奥林匹克体育中心体育场连续举办两场。本站演出是周深「深深的」巡演在2026年度的首站，也是其时隔六年再度重返广州开办个人演唱会。2026年2月，广州市文化广电旅游局通过该演出的营业性演出行政许可；3月16日晚，大麦网、猫眼等平台正式开启双场门票预售，门票开售后迅速售罄，周深工作室随即发布预售售罄公告；4月16日，针对舞台搭建释放的余票和退票，主办方进行了补充售票。4月18日至19日晚，两场演唱会如期举行，吸引了大量省内外歌迷跨城观演。",
+  "event_time": {
+    "start": "2026-04-18",
+    "end": "2026-04-19",
+    "precision": "day",
+    "evidence": "演唱会于2026年4月18日和19日举行，门票预售于2026年3月16日开启并售罄。"
+  },
+  "locations": [
+    "中国/广东省/广州市/天河区/广东省奥林匹克体育中心体育场"
+  ],
+  "aliases": [
+    "周深2026广州演唱会",
+    "周深2026深深的巡回演唱会广州站",
+    "周深「深深的」巡演广州站",
+    "周深广州演唱会双场售罄"
+  ],
+  "retrieval_queries": [
+    "周深 2026 广州演唱会",
+    "周深 深深的 广州 演唱会",
+    "周深 广东省奥林匹克体育中心 4月18日",
+    "周深 广州站 门票售罄",
+    "周深 2026深深的巡回演唱会",
+    "周深广州演唱会 3月16日 预售"
+  ],
+  "must_match_facts": [
+    "演出主体为歌手周深及周深工作室",
+    "巡回演唱会主题为「深深的」",
+    "演出地点为广东省奥林匹克体育中心体育场",
+    "演唱会实际举行时间为2026年4月18日至19日",
+    "2026年3月16日双场门票预售开售并售罄"
+  ],
+  "exclude_if": [
+    "周深2024至2025年「9.29Hz」巡回演唱会相关场次",
+    "周深「深深的」巡回演唱会其他城市站点（如上海、武汉、苏州、重庆、沈阳等）",
+    "2026年4月18日广州同日举行的其他歌手演唱会（如李健、张震岳、李佳薇）",
+    "周深在广州举办的非奥体中心场次或拼盘演出"
+  ],
+  "source_evidence": [
+    {
+      "title": "周深时隔6年重返广州开演唱会",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXcbEC1TC2ttdw4yeYxQ6AC0CMDsER-C-Ge1rN0ie9-c3uHnnSmWMng5NbjNUY4CVH6WubSyClS3uflOeSfJRM1yEvQHL0deoohSF5gFj_46_4KYkVYAUL4MA9icbsWm5atNB-",
+      "publisher": "极目新闻",
+      "published_at": "2026-02-11"
+    },
+    {
+      "title": "5场演唱会同日开！不愧是广州",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFII6ISONNSRuXTyROr5u9sbR2pnb3jTCmcVg8nHT_GEZYXqx1FF9p243j4Xmi4WwhEx1yxA9YIhiRA9D_33Z35HFL1D9Um6HxocWNGD_5-OXCgzB7QevKXJCdI2jHfHdsKzwBYYx0=",
+      "publisher": "澎湃新闻（广东发布）",
+      "published_at": "2026-04-13"
+    },
+    {
+      "title": "周深广州站抢票秒罄",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGV48GN6i5wmLaPZTURBADkZRdE_hFkb632Zl0862W7CezHmGKtjAl_gqgsKD21g9J4Ga6zhj7oDRHh6Qnus2wLHdEDoUwCHXWI7Mi7ubI46qQCs_nU4NZnD2Y99IdJ54xnYOwjcdtIkuiG",
+      "publisher": "荔枝新闻（新浪新闻）",
+      "published_at": "2026-03-16"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:58"
+}

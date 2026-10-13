@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_4113c2669ab6fae0",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "AU100型车载无人机综合反制系统亮相2026北京军博会",
+  "factual_description": "2026年5月中旬，在北京市举办的第十一届中国（北京）军事智能技术装备博览会上，由普宙科技有限公司研发的AU100型无人机综合反制系统公开亮相，随后经央视《砺剑》等媒体广泛报道引发展会关注。该系统采用普通箱型车等机动车辆作为载台，集成雷达、红外热成像及信号干扰等多类传感与对抗装备，集“察、打、联、布、数”功能于一体，可在单车平台上闭环完成对空中目标的探测发现、持续锁定、无线电干扰与击落处置全流程。系统可对5公里范围内的违规飞行或“黑飞”无人机进行精准探测与处置，具备无线电干扰（软杀伤）和网捕、巡飞网捕、高能激光等物理手段（硬杀伤）；据参展方介绍，研发团队后期还将拓展专门针对高速FPV无人机的动能拦截无人机，其动能拦截飞行速度最高可达110米/秒。",
+  "event_time": {
+    "start": "2026-05-14",
+    "end": "2026-05-16",
+    "precision": "day",
+    "evidence": "第十一届中国（北京）军事智能技术装备博览会于2026年5月14日在北京国家会议中心开幕，媒体于博览会期间及5月29日前后对展出的AU100系统进行了集中报道。"
+  },
+  "locations": [
+    "中国/北京市/朝阳区/国家会议中心"
+  ],
+  "aliases": [
+    "AU100无人机反制系统亮相北京军博会",
+    "新型无人机克星AU100亮相军事智能展",
+    "AU100型无人机综合反制系统",
+    "普宙科技AU100反无人机系统"
+  ],
+  "retrieval_queries": [
+    "AU100 无人机综合反制系统",
+    "AU100 军事智能技术装备博览会",
+    "AU100 普宙科技",
+    "无人机克星 AU100 110米每秒",
+    "AU100 砺剑 无人机"
+  ],
+  "must_match_facts": [
+    "涉及AU100型无人机综合反制系统",
+    "由普宙科技有限公司研发",
+    "集成于单辆机动车辆实现全流程反制",
+    "具备软杀伤与硬杀伤多手段拦截能力",
+    "动能拦截无人机速度可达110米/秒",
+    "于2026年5月军事智能技术装备博览会展出并由央视等报道"
+  ],
+  "exclude_if": [
+    "英国AUDS反无人机系统相关报道",
+    "美国吸血鬼（VAMPIRE）反无人机系统",
+    "2024年珠海航展地面装备展销报道",
+    "无AU100型号的普通民用无人机干扰枪新闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "第十一届中国（北京）军事智能技术装备博览会在京开幕",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv0EkgY1r_Oz4y-o6ZUGZiBH1qk2EjSJKwnMRuTSbb2U9XVX8UXnHdvR34kD22qPVvfFRV2x2Q1W12omIeph8Tdbg-KbEU3-EL30UCuwP7rRvcw-LpmgLCt5NMtjlD6ttMx5u4HfH62Agj6fePD0i_zurUK4L7U4JDdemwF6du9_Y=",
+      "publisher": "新华网",
+      "published_at": "2026-05-14"
+    },
+    {
+      "title": "我国新型“无人机克星”AU100 亮相军博会：从锁定到击落一车完成",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMoI5DLYg4yreXReOmX8V1js8MNtgeMX2YW6zC5e4iBPh2nL2wMawQen6yF4FwWkIKObnjBT1a6nO1OGNzUbuLdf7q54695y1fK7i1w4KuV-w0whyO5kBrsPeJEd7B-8Ery_3J40Qpilj50dVkz2QZ99TSmyXC6PRtohQcncYsNw==",
+      "publisher": "IT之家 / 新浪财经",
+      "published_at": "2026-05-31"
+    },
+    {
+      "title": "「無人機剋星」亮相AU100車載反制系統可鎖定5公里內黑飛目標",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSTXicevqfwdTSdg8ofLH7cVoGaOmeDtzii3XrZaPX3AOWutkDObWi_k4UtR2MF1KQuDPmUjRXR9ML6ea9M9vvavSBsS90297hjfBPVeY6fa5hKYvqeSgbTuqbegjAphLBp46Ub-0OuGFrb5aD8MFw2S26n9XZPxwL6iYZTXcZy_Z7cw6LAZ_pY9_22fLEZwNS1apTGEQWrPBvZGFup8jLgorlBXTnQ_V_ry5Wka1LXJX94-ABYD3wl_uUDnOI9YZsyycdTPrtKPH2jQDNsJvF9eQ1aO3qJy_lJTNAuIztQZDA1IsbV_bvCj9ImUsI38aPkayl3PUmGvvRLj3PtxHYwa2rdGeSu3G5yKNQ27S7ah2GcTFaweX6cJnuWFa5UQfQzY4HVGyPdGJrTGAPuQkZa5M5AOWHJ5Q_r19qL8ZZcMk3gJ2irkEiEu2xJQRnE4zj",
+      "publisher": "香港01",
+      "published_at": "2026-05-29"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将博览会年份误写为2024年，核验确认该系统公开亮相及央视《砺剑》集中报道的展会为2026年5月第十一届北京军博会；该系统同月亦在深圳世界无人机大会展示。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:22"
+}

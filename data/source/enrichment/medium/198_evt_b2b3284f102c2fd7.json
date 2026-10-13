@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_b2b3284f102c2fd7",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "大连金普新区2026年“2·3”客货相撞交通事故",
+  "factual_description": "2026年2月3日6时38分许，辽宁省大连市金普新区七顶山街道发生一起严重道路交通事故。经大连市公安局交通管理支队调查，周某涛（男，45岁）驾驶核定载客6人、实载6人的小型客车沿金普新区十七路由南向北行驶至莲付路路口向左转弯时，与由北向南行驶的肖某（男，45岁）驾驶的货车发生碰撞。事故造成小型客车内5名乘客当场死亡，双方驾驶员受伤。事发后，公安、消防、120急救等部门迅速赶赴现场处置，两名伤者送医救治后伤情稳定。交管部门通报已排除双方驾驶员酒驾、毒驾嫌疑，事故具体原因展开进一步调查。",
+  "event_time": {
+    "start": "2026-02-03",
+    "end": "2026-02-03",
+    "precision": "day",
+    "evidence": "大连市公安局交通管理支队警情通报明确事故发生于2026年2月3日6时38分许"
+  },
+  "locations": [
+    "中国/辽宁省/大连市/金普新区/七顶山街道/十七路与莲付路路口"
+  ],
+  "aliases": [
+    "大连金普新区2·3交通事故",
+    "大连金普新区客货相撞致5死2伤事故",
+    "大连2月3日车祸致5人死亡",
+    "大连七顶山街道交通事故"
+  ],
+  "retrieval_queries": [
+    "大连 金普新区 交通事故 5人死亡",
+    "金普新区 七顶山街道 交通事故",
+    "大连 2月3日 客车 货车 相撞",
+    "大连交警 七顶山街道 排除酒驾毒驾",
+    "大连金普新区 十七路 莲付路 车祸",
+    "周某涛 肖某 大连 交通事故"
+  ],
+  "must_match_facts": [
+    "事故发生于2026年2月3日6时38分许",
+    "事发地点在大连金普新区七顶山街道十七路与莲付路路口",
+    "涉及一辆小型客车（核载6人实载6人）与一辆货车相撞",
+    "造成客车内5名乘客当场死亡、双方2名驾驶员受伤",
+    "警方通报已排除双方驾驶员酒驾和毒驾嫌疑"
+  ],
+  "exclude_if": [
+    "2021年5月22日大连市中山区五惠路宝马轿车撞人致5死逃逸案件",
+    "非2026年2月3日发生的大连其他交通事故",
+    "未涉及金普新区七顶山街道客车货车相撞的其他事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "大连金普新区交通事故致5死2伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9luFiX2wgioq2ZgEfx2mUbChH5oAO_eiCTUWsMu0hzjhlnsJbDxgAwZ6M4-WbnAPaA5jvefsHWI1wlU3UyNg6s8sjcRtm5rnl_xxWMBP8K2ocYf1--REaqkvThhqpwfIBtW2DxpG_7B-OOUzExqPH3NHibwccA7WvKWBxPR4D",
+      "publisher": "新华网",
+      "published_at": "2026-02-03"
+    },
+    {
+      "title": "大连发生一起道路交通事故致5人死亡2人受伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH01iyVu5E1aZcHJaj1UJ9s_jnHjVSGXRVdhcFai2hzcLqfn3mOiLXo8grxZKc4tWd2hkLfWgRLz3PZn8VgYqUh4hUhwZRdMVTtkbcotnMALZQSuvKX0dmiAr4bHAZxMFLOAcxxqcZ8oG5_9IN1jj8=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-02-03"
+    }
+  ],
+  "uncertainties": [
+    "事故最终责任认定及事故深层起因的后续官方通报尚未公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:19"
+}

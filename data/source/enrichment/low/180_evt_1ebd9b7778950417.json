@@ -1,0 +1,85 @@
+{
+  "event_id": "evt_1ebd9b7778950417",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年6月美国内华达州帕伦普热气球硬着陆起火事故",
+  "factual_description": "当地时间2026年6月18日清晨6时30分至7时左右，美国内华达州南部奈县帕伦普市以西、靠近加利福尼亚州边界的斯图尔特谷干湖床（Stewart Valley dry lake bed）区域发生一起热气球飞行事故。涉事热气球搭载包括飞行员在内共10人，在尝试着陆过程中遭遇强风并发生硬着陆，吊篮侧翻触地并引发燃气爆燃起火。事故造成气球上多名人员受伤，其中1名乘客头部严重受伤且情况危急，数名乘客遭受二度至三度烧伤，另有人受钝器伤和骨折。因现场无手机信号，相关人员通过短信向911报警，伤者随后被私家车转运至帕伦普的沙漠景观医院（Desert View Hospital），部分重伤员被转送至拉斯维加斯大学医疗中心救治。美国联邦航空管理局（FAA）与奈县警长办公室随即对该起事故原因展开调查。",
+  "event_time": {
+    "start": "2026-06-18",
+    "end": "2026-06-18",
+    "precision": "day",
+    "evidence": "美国联邦航空管理局（FAA）通报及奈县警长办公室确认，事故发生在当地时间2026年6月18日早晨6时30分至7时左右。"
+  },
+  "locations": [
+    "美国",
+    "内华达州",
+    "奈县",
+    "帕伦普",
+    "斯图尔特谷干湖床"
+  ],
+  "aliases": [
+    "美国内华达州热气球坠落事故",
+    "6·18美国内华达州热气球坠落事故",
+    "内华达州帕伦普热气球事故",
+    "内华达州热气球硬着陆起火事件",
+    "Pahrump hot air balloon crash"
+  ],
+  "retrieval_queries": [
+    "内华达州 热气球 坠落 2026",
+    "帕伦普 热气球 硬着陆",
+    "Pahrump hot air balloon crash",
+    "Stewart Valley dry lake balloon crash",
+    "Nye County hot air balloon hard landing",
+    "内华达州 斯图尔特山谷 热气球",
+    "热气球 10人 硬着陆 内华达"
+  ],
+  "must_match_facts": [
+    "事故发生于当地时间2026年6月18日早晨",
+    "事发地点位于美国内华达州奈县帕伦普以西的斯图尔特谷干湖床区域",
+    "涉事热气球共载有10人（含飞行员）",
+    "事故形态为热气球降落时发生硬着陆、吊篮侧翻并起火",
+    "造成多人受伤，伤情包括头部重伤、烧伤及钝器伤",
+    "美国联邦航空管理局（FAA）介入调查"
+  ],
+  "exclude_if": [
+    "2024年1月美国亚利桑那州埃洛伊（Eloy）热气球坠毁事故（致4人死亡）",
+    "2021年6月新墨西哥州阿尔伯克基热气球撞线坠毁事故",
+    "未造成人员伤亡的热气球迫降或飘移事件",
+    "发生在内华达州以外地区的热气球事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "Several injured in hot air balloon crash west of Pahrump",
+      "url": "https://www.reviewjournal.com/local/local-nevada/several-injured-in-hot-air-balloon-crash-west-of-pahrump-3071343/",
+      "publisher": "Las Vegas Review-Journal",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "Hot air balloon with 10 on board crashes in Nevada; several injured",
+      "url": "https://bnonews.com/index.php/2026/06/hot-air-balloon-crashes-in-nevada-several-injured/",
+      "publisher": "BNO News",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "美国内华达州一热气球坠落，致多人重伤",
+      "url": "https://news.sina.com.cn/w/2026-06-20/doc-ineamxxm8980124.shtml",
+      "publisher": "央视新闻客户端 / 北京日报",
+      "published_at": "2026-06-20"
+    }
+  ],
+  "uncertainties": [
+    "现有部分网络传言将事故年份误标为2024年，并将6月19日媒体报道时间误作为事发时间（经核实实际发生于当地时间2026年6月18日）",
+    "热气球硬着陆具体操作失误或机械故障细节仍有待FAA最终航空事故调查报告公布"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:38"
+}

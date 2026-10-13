@@ -2,6 +2,31 @@
 
 本地多实验社交媒体传播仿真工作台。当前使用明确标记的演示数据，未连接远程服务器、vLLM 或真实仿真引擎。
 
+## 本地背景事件库
+
+轻量 SQLite 候选库位于 `database/background-events.sqlite`。它由远端 16,337 个社交媒体事件聚类生成，只保存简短事件信息、传播统计和少量代表性更新，不复制视频或全量帖子正文。全量事件的名称、简述和传播规模来自 `event_topics.parquet` 与 `event_summary.parquet`；现有浏览样本提供代表性传播片段。
+
+```sh
+# 重新建库
+npm run events:build
+
+# 随机查看 10 个候选
+npm run events:query
+
+# 全文检索
+npm run events:query -- 公交 司机
+```
+
+主要数据表：
+
+- `events`：事件名称、简述、时间、热度、可信状态和传播规模。
+- `event_updates`：按真实发布时间排列的 1–5 条简短信息片段。
+- `event_sources`：每条更新使用的代表帖子，支持来源追溯。
+- `event_aliases`：已有精筛事件的常见别名。
+- `simulation_candidates`：默认可供模拟器抽样的事件视图。
+
+输入快照位于 `data/source/`。`cluster_only` 表示只经过语义聚类和帖子相关性筛选，并不代表新闻事实已经联网核验；这些文本用于模拟信息传播，不应作为权威新闻引用。
+
 ## 启动
 
 ```sh
@@ -10,6 +35,14 @@ npm run dev -- --port 5173
 ```
 
 访问 http://127.0.0.1:5173/ 。生产构建使用 `npm run build`。
+
+第一阶段的本地仿真 API 使用纯 Node.js，可单独启动：
+
+```sh
+npm run server
+```
+
+默认监听 `http://127.0.0.1:8787`。健康检查为 `GET /api/health`；创建运行使用 `POST /api/runs`。当前使用内存消息总线，消息接口按 Kafka Topic 契约设计，后续可替换为 Kafka 适配器。运行测试使用 `npm test`。
 
 ## 已有功能
 
@@ -38,3 +71,7 @@ npm run dev -- --port 5173
 `src/AppShell.jsx` 管理当前的标签页、页面路由、前端演示状态与调度。后续应由后端管理长时运行和状态持久化，前端通过接口订阅进度。关闭浏览器后演示任务不会继续推进。
 
 当前 `NetworkMap` 为示意图，时间轴只演示回放交互；验证曲线和指标均为固定样例。vLLM 调用、Agent 画像、真实传播状态与数据导入留待后续实现。
+
+## 后端架构设计
+
+Kafka 异步数据流、时间步屏障、实验子进程管理、检查点恢复、图谱增量与真实趋势校验的工程方案见 [`docs/kafka-simulation-architecture-v1.md`](docs/kafka-simulation-architecture-v1.md)。

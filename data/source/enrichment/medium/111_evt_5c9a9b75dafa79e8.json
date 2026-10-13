@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_5c9a9b75dafa79e8",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "重庆两江新区悦江府小区物业经理因物业费纠纷上门打伤业主事件",
+  "factual_description": "2026年7月22日晚，重庆市两江新区悦来街道悦江府小区二期发生一起伤人事件。该小区因前期物业撤场，自2026年1月起由重庆助友创美物业管理有限公司临时应急接管，后因业主普遍对服务质量存异议导致缴费率仅约12%，该物业于7月20日宣布撤场。撤场后，派驻该小区的物业经理李某某多次在微信群指责未缴费业主。7月22日下午，李某某指责业主王先生妻子带头拒缴，双方发生激烈争执。当晚9时许，李某某前往王先生家中理论并发生肢体冲突，李某某使用餐具等实施殴打，导致王先生妻子右侧上颌骨骨折、父亲眉弓处形成2厘米创口。7月23日，物业公司称李某某已离职，两江新区悦来派出所表示该案正在侦办中。",
+  "event_time": {
+    "start": "2026-07-22",
+    "end": "2026-07-22",
+    "precision": "day",
+    "evidence": "封面新闻报道证实冲突发生于2026年7月22日晚9点多，伤者家属次日向媒体反映并报案。"
+  },
+  "locations": [
+    "中国/重庆市/两江新区/悦来街道/悦江府小区二期"
+  ],
+  "aliases": [
+    "因物业费起争执物业经理上门与业主起冲突致其骨折",
+    "物业经理深夜上门致业主骨折受伤",
+    "上门致业主骨折物业经理已离职",
+    "警方介入物业经理上门将业主打伤",
+    "重庆两江新区悦江府物业经理打人事件"
+  ],
+  "retrieval_queries": [
+    "悦江府 助友创美 物业经理 骨折",
+    "两江新区 悦来派出所 物业经理 业主",
+    "因物业费起争执 物业经理上门与业主起冲突致其骨折",
+    "重庆 助友创美 李某某 骨折",
+    "物业经理深夜上门致业主骨折受伤"
+  ],
+  "must_match_facts": [
+    "发生于重庆两江新区悦来街道悦江府小区二期",
+    "涉案人员为重庆助友创美物业管理有限公司派驻的物业经理李某某",
+    "起因系应急临时物业撤场后的物业费催缴争执",
+    "李某某深夜上门导致业主妻子右侧上颌骨骨折、父亲眉弓受伤",
+    "重庆两江新区悦来派出所已受案侦办"
+  ],
+  "exclude_if": [
+    "其他城市同类物业催缴冲突事件",
+    "非悦江府小区或非助友创美物业的纠纷",
+    "普通民事催缴物业费起诉无殴打伤人情节的案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "因物业费起争执，前物业经理上门与业主发生冲突致其骨折，警方已介入",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrP2v6VJORbzYgVs6p_f9EznihYKW2F_Hdo8JELGlk6cAZ2KOwIRXB-kslcoVNvESP58nEvelGv0RpNIvYO4Yd5oZua2zADJjKuLz8EEXma8FNc4nUdAyXxQy6XSCSkP46ZdSZUaByOeza",
+      "publisher": "封面新闻",
+      "published_at": "2026-07-24"
+    }
+  ],
+  "uncertainties": [
+    "部分网传信息曾将发生年份误写为2024年，报道原文合同期与退场时间明确证实为2026年",
+    "涉事人李某某后续司法定性与行政或刑事处罚最终结果尚未见公开通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:57"
+}

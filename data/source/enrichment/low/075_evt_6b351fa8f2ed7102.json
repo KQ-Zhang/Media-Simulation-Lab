@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_6b351fa8f2ed7102",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年春运首日杭新景高速建德服务区入口轿车违规倒车事件",
+  "factual_description": "2026年2月2日上午8时20分左右，正值2026年春运首日，在杭新景高速建德服务区入口处，徐女士驾驶一辆黑色小车从二车道压白线往服务区驶去。因车辆即将耗尽燃油，徐女士原计划进入服务区加油，但因对路况不熟悉误以为开错方向，随后又将车开回高速公路主线，并停在三车道与应急车道之间违规倒车驶回服务区入口。监控发现险情后，杭州高速交警立即指令现场警力进行拦截，随后在建德服务区停车位将该车辆及驾驶员徐女士查获。民警对其进行了严厉的批评教育，并因其在高速公路主线上倒车的违法行为，依法处以罚款200元、驾驶证记12分的行政处罚。",
+  "event_time": {
+    "start": "2026-02-02",
+    "end": "2026-02-02",
+    "precision": "day",
+    "evidence": "杭州公安交管支队官方通报显示，该事件发生在2026年春运首日（2月2日）上午8时20分左右。"
+  },
+  "locations": [
+    "中国/浙江省/杭州市/建德市/杭新景高速建德服务区"
+  ],
+  "aliases": [
+    "杭新景高速建德服务区黑色轿车倒车被扣12分",
+    "汽车没油高速倒车司机12分没了",
+    "春运首日女司机高速倒车进建德服务区被查",
+    "分流岛当斑马线司机12分没了"
+  ],
+  "retrieval_queries": [
+    "杭新景高速 建德服务区 倒车 12分",
+    "建德服务区 黑色小车 倒车 徐女士",
+    "汽车没油 高速倒车 建德服务区",
+    "分流岛当斑马线司机12分没了",
+    "2026 春运 杭新景高速 倒车 记12分",
+    "杭州高速交警 建德服务区入口 倒车 罚款200"
+  ],
+  "must_match_facts": [
+    "事发时间为2026年2月2日上午约8时20分（2026年春运第一天）",
+    "事发地点位于杭新景高速建德服务区入口处",
+    "涉事车辆为黑色小车，驾驶人为徐女士",
+    "司机因汽车即将没油且不熟悉路况，进服务区途中折返并于主线违规倒车",
+    "杭州交警对司机处以罚款200元、驾驶证记12分的处罚"
+  ],
+  "exclude_if": [
+    "2026年4月杭新景高速建德服务区白色小车逆行掉头事件",
+    "2024年2月杭新景高速国女士应急车道倒车事件",
+    "G50沪渝高速湖州段新能源车缺电倒车事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "电车亏电、油车没油、高速倒车、剐蹭追尾……春运第一天事故多发追尾为主两司机竟在一车道讨论车损有人高速上倒车当场被扣12分",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF0dJwJmxLaQxz75dEzjs_1UxymAwz6QQ3eS70cn-WF_dLKn37vkUs8bWyGRFSH4STIwwdQQA7_ie0ldYRGeZyk4tpoKO_nkJ6tT_xEnUf1Ut50ZP3uJMZObypy4ejh6nlwmvZkRvFioe48FI9AnGy0t1ykEWXNiGoLhRI9HiPXHM-",
+      "publisher": "都市快报橙柿互动 / 杭州新闻",
+      "published_at": "2026-02-04"
+    },
+    {
+      "title": "杭州交警公布2026 春运高速三大典型危险案例：汽车抛锚人员未撤离、服务区入口逆行倒车",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnSt9hiC7M7inCwlMwXyB-d5yh2ZoJFlM0lhlOMyif6O4kX_wt8Disk5paxNc_Nx8G8u-Yo6zyogyq2n1EESpej7jtM4W51UvevBGXr1q27B3Z6yFP3JvyVkA=",
+      "publisher": "IT之家",
+      "published_at": "2026-02-04"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:50"
+}

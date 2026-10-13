@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_1097f6a53de2ce78",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "英伟达公布2027财年第二财季财报",
+  "factual_description": "当地时间2026年8月26日美股收盘后（北京时间8月27日），英伟达（NVIDIA）公布2027财年第二财季财务业绩。财报显示，英伟达第二财季营收达到962.21亿美元，同比增长106%，创两年来最快同比增速，超出市场预期的923.8亿美元；核心数据中心业务营收890亿美元，同比增长117%；调整后每股收益2.22美元，同比增长120%，营收与利润均实现翻倍增长。英伟达同时预计第三财季营收约1080亿美元（1058.4亿至1101.6亿美元区间），单季营收将首破千亿美元。此外，管理层在财报电话会议上罕见提前给出了2028财年营收增长约70%的乐观预期，远超此前分析师预估的45%。首席执行官黄仁勋在电话会上强调AI已迈过商业化拐点，Token正在产生实际生产力和收入，“计算即收入”。财报发布后，英伟达美股盘后股价先跌后涨，涨幅一度超过5%。",
+  "event_time": {
+    "start": "2026-08-26",
+    "end": "2026-08-27",
+    "precision": "day",
+    "evidence": "当地时间2026年8月26日美股盘后（北京时间8月27日清晨），英伟达发布财报并召开电话会议"
+  },
+  "locations": [
+    "美国/加利福尼亚州/圣克拉拉"
+  ],
+  "aliases": [
+    "英伟达2027财年Q2财报",
+    "英伟达第二财季营收962亿美元",
+    "英伟达Q2营收利润翻倍下财年预计再增70%",
+    "英伟达2027财年第二季度业绩"
+  ],
+  "retrieval_queries": [
+    "英伟达 2027财年第二财季 财报",
+    "英伟达 962亿美元 同比增长106%",
+    "英伟达 Q2 营收利润双双翻倍",
+    "英伟达 2028财年 营收 增长70%",
+    "黄仁勋 计算即收入 AI拐点",
+    "黄仁勋 Token 生产力 收入"
+  ],
+  "must_match_facts": [
+    "主体为英伟达（NVIDIA）公布2027财年第二财季（Q2）财报",
+    "发生时间为2026年8月26日美股盘后（北京时间8月27日）",
+    "第二财季营收约为962亿美元（同比增长106%），数据中心业务达890亿美元",
+    "英伟达管理层给出下一财年（2028财年）营收增长约70%的指引",
+    "黄仁勋在业绩电话会上发表'AI拐点已至'、'计算即收入'等观点"
+  ],
+  "exclude_if": [
+    "英伟达2025财年或2026财年第二财季财报",
+    "英伟达第一财季（Q1）或第三财季（Q3）财报",
+    "单季度营收在300亿美元左右的历史财报"
+  ],
+  "source_evidence": [
+    {
+      "title": "英伟达公布财报：第二财季营收962亿美元，同比增长106%；预计2028财年营收将增长约70%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZvdhGoWWvcmAWYJso2X8QEtTPrgQhG4tpD7lRrIBIoGccBHAMZ2jXVXlVd1FP7uyLw6WQug-PVJrlkX3KO-CmuUOrzEKb_K-Q97xR-JTbFRrqlMKbpYw=",
+      "publisher": "中新经纬/凤凰网",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "英伟达盘后大涨近5%，上季营收同比翻倍至962亿美元，本季料首破千亿美元，下财年预计将再增70%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAakGVF9o_R1H6iR8BMZJInKnvzar_R0oCicPo3u6e_B2MsxS1KISiGnOU92DF1KSf9a4TTc1EeW5bN_4v3RwPvJ7yvQM2CtG6nsHX6mThs7yTs4vta0Yj8BxVk4OGUFztB4vlUdv4795M8crc3kUod2w5ELd19eW1esg=",
+      "publisher": "21世纪经济报道/新浪财经",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "英伟达2027财年第二财季营收962亿美元同比增长106%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaUbqbhiSTiO2Av8mqEHhP_c8bB6ZTPPriqKpdAjQ9V96Q_4HhcmaKLcms4bhRCTF85v5LIKrFrKK7KdUGn9J-DrsJ8lIywmRfTdXy1_-yazsREdHCJQP8MF258NxxGMl1FuSlok4Ou4Y=",
+      "publisher": "东方财富",
+      "published_at": "2026-08-27"
+    }
+  ],
+  "uncertainties": [
+    "原输入标题及描述将该财报误称为'2028财年第二季度财报'，经核验实际发布的是2027财年第二财季业绩，'2028财年增长约70%'为电话会上对下一财年的业绩展望指引。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:59"
+}

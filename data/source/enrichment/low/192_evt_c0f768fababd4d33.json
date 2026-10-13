@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_c0f768fababd4d33",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "天津独腿店主被称“麻辣拌界史铁生”走红事件",
+  "factual_description": "2026年2月中下旬（农历大年初二起），位于天津市武清区杨村街道香江广场的抚顺麻辣拌小店“与你相‘拌’”因一条顾客随手拍摄的短视频在网络走红。店主赵磊因多年前意外导致右腿截肢佩戴假肢，在春节期间依然克服不便稳稳站立拌菜，其乐观坚韧的生活态度被广大网友称为“麻辣拌界史铁生”，前往支持排队的食客则戏称自己为“大馋余华”。走红前，该店因经营惨淡原本计划节后关店转行；视频发酵后，小店订单激增、门前排起长队，周围菜贩以极低利润供应蔬菜，热心顾客还送来史铁生与余华的著作、足球等物资表达善意。面对巨大关注度，赵磊夫妇保持清醒，坚持每份15元不涨价并保障食材分量，同时主动关闭线上外卖、采取早晚限号出餐维持秩序，随后在当地相关部门支持下改善经营环境，引发新华社、津云等多家主流媒体报道点赞。",
+  "event_time": {
+    "start": "2026-02-18",
+    "end": "2026-04-04",
+    "precision": "day",
+    "evidence": "2026年农历大年初二（2月18日）短视频发布后走红，2月27日前后登上热搜，热度持续至4月新店开业堂食。"
+  },
+  "locations": [
+    "中国/天津市/武清区/杨村街道/香江广场"
+  ],
+  "aliases": [
+    "麻辣拌界史铁生爆火事件",
+    "天津独腿店主被称麻辣拌界史铁生",
+    "麻辣拌界有自己的史铁生",
+    "武清独腿老板麻辣拌走红",
+    "大馋余华奔赴麻辣拌界史铁生"
+  ],
+  "retrieval_queries": [
+    "麻辣拌界史铁生",
+    "天津武清 赵磊 麻辣拌",
+    "大馋余华 麻辣拌",
+    "武清 独腿老板 麻辣拌",
+    "与你相拌 正宗抚顺麻辣拌 赵磊",
+    "麻辣拌界的史铁生 方芳"
+  ],
+  "must_match_facts": [
+    "事件主体为天津市武清区香江广场麻辣拌小店店主赵磊（因车祸佩戴假肢）",
+    "事件起因于2026年春节期间顾客拍摄赵磊佩戴假肢做麻辣拌的视频在网络走红",
+    "网友将店主赵磊戏称为“麻辣拌界史铁生”，前往支持排队的食客自称“大馋余华”",
+    "走红前原本面临关店，走红后线上线下订单激增但坚持15元不涨价且关闭外卖实行限号"
+  ],
+  "exclude_if": [
+    "作家史铁生或余华本人的文学作品与生平传记报道",
+    "甘肃天水麻辣烫走红或“痛苦表情哥”等其他餐饮爆火事件",
+    "非天津武清赵磊经营的抚顺麻辣拌店的其他残障人士创业报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "方寸店面见情义",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELfCndx6eVKH2jI1kSLYVfqQHDT7KTMJ52TmS6_t_uvwaaN44jLxw_JYLlKH4MlBg7w76wMwmsNphbjC1ri5BGt6sv20Z9ex5kdFTztbiKz0Sj-0nfs62ZqtFzXkfMONvVZAmgnlhX60IkharZYQOrkS4ZC8JjDZLN",
+      "publisher": "新华网",
+      "published_at": "2026-03-19"
+    },
+    {
+      "title": "爆火一个月后，曾上热榜第一的“麻辣拌界的史铁生”，怎样了？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgqKu5vVvkSdCipRCl_tkW2dEYp2e7gWsFgG2WeFUSxmg8pti_g3V3P0MTIKKYU8ZZsTA-ZehHqf_cQp_21PlcHvVzIJF_HUjHwoEeGHDW-Cbn-cIVnAvgL_4lboVvioOBOqEL",
+      "publisher": "极目新闻",
+      "published_at": "2026-03-29"
+    },
+    {
+      "title": "武清有个“麻辣拌界史铁生”！开年第一个火的小店来了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYQu_yB1y2fMzZP660jOP6OyHgwWjKehprUMbTIY1iS4L2vxKQxnKe-UMflD0PqJgeGR0ot_Iqf089RFX8JDSVAqbsKrhOZmNnOy5LeS2vPv8fIFga59dXjYo=",
+      "publisher": "川观新闻（引自津云）",
+      "published_at": "2026-02-28"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:00"
+}

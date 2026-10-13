@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_8c8fa2c49439862d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "孙东旭与东方甄选前主播明明、天权合伙成立“美丽明天”科技公司",
+  "factual_description": "2026年7月10日，美丽明天（北京）科技有限公司在北京正式注册成立，注册资本1000万元人民币。工商信息显示，东方甄选前CEO孙东旭出资340万元，持股34%，担任公司法定代表人、经理、董事及财务负责人；东方甄选前主播石明（明明）和郭天权（天权）各出资330万元，分别持股33%。7月13日，该公司同名官方账号在抖音发布首条视频宣布三人合体创业。因公司经营范围涵盖生鲜农产品零售、网络文化经营等直播带货相关业务，且三人均为东方甄选离职核心人员，引发舆论对“新东方旧部另起炉灶”与老东家竞争的广泛关注。7月13日至14日，新东方创始人、东方甄选董事长俞敏洪在直播中公开回应，表示老员工离职后从事熟悉领域创业很正常，新东方除少数岗位外并无严苛竞业限制，对三人创业送上祝福并表示若需要会提供帮助。",
+  "event_time": {
+    "start": "2026-07-10",
+    "end": "2026-07-14",
+    "precision": "day",
+    "evidence": "美丽明天（北京）科技有限公司于2026年7月10日注册成立，7月13日发布首条视频亮相，俞敏洪于7月13日至14日直播公开回应。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "东方甄选前高管主播集体创业",
+    "孙东旭明明天权成立新公司",
+    "美丽明天成立",
+    "俞敏洪回应孙东旭明明天权创业",
+    "小作文事件后孙东旭另起炉灶"
+  ],
+  "retrieval_queries": [
+    "美丽明天 孙东旭",
+    "美丽明天 北京 科技有限公司",
+    "孙东旭 明明 天权",
+    "孙东旭 石明 郭天权",
+    "俞敏洪 孙东旭 美丽明天",
+    "俞敏洪回应 孙东旭 明明 天权",
+    "美丽明天 东方甄选"
+  ],
+  "must_match_facts": [
+    "美丽明天（北京）科技有限公司于2026年7月10日成立",
+    "孙东旭持股34%并任法定代表人",
+    "石明（明明）与郭天权（天权）分别持股33%",
+    "注册资本为1000万元人民币",
+    "俞敏洪直播回应称无竞业协议并送上祝福"
+  ],
+  "exclude_if": [
+    "董宇辉与辉同行独立成立公司事件",
+    "2023年东方甄选‘小作文’风波免职孙东旭事件",
+    "2026年4月石明、郭天权从东方甄选离职声明事件",
+    "2026年8月2日美丽明天直播间正式开播及带货数据报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "东方甄选前CEO孙东旭：新公司“美丽明天”8月份将首播",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQIrFe5dihgkLrsvzlvKwL7dgenMgaSVHjpw9Ogek_ZQ1bvvC6YYXJgFeyyYc8x-_vWIe8aJRToEYqmZiQIdaYl740x5n0a4XNJPJvrPIKjnuXs6Dda0mPiKxnp0h29mMuxqLAhJA8poU=",
+      "publisher": "北京商报",
+      "published_at": "2026-07-22"
+    },
+    {
+      "title": "孙东旭成了董宇辉的真正对手",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIthmkqlHbEPEUov1CwP8dEpP-XkJYmtHX8ERxa_3ThGoerB5aSLK8-2MLMFVSTGGPM_SrW9JVydTLZPOXwsTiVVJqqeYSaXzMKObixv9tRUIiezV8BjsgezEzRQPbZNjICDvffDhX",
+      "publisher": "澎湃新闻 / 财经天下",
+      "published_at": "2026-07-14"
+    },
+    {
+      "title": "俞敏洪回应东方甄选前CEO孙东旭与主播明明、天权合伙开公司",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_4kHiVtQBVEVS3Bo3zWPtb_scY4K_4dXe6Ygv_Oj2kYcEEdwcSs6Cq2560_wpSl4Vr9lkPBq8h0M7rv5usie5_2GOYptraA7J9QbZT4T8Ng-jM7YeQSezp8fzQmDc01Iq9Bbtys8=",
+      "publisher": "网易新闻",
+      "published_at": "2026-07-14"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:11"
+}

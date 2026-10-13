@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_ffd4aab84b72069f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "国防部回应日菲启动台湾以东海域划界谈判",
+  "factual_description": "2026年6月9日下午，中国国防部新闻发言人张晓刚大校就近期涉军问题发布消息。针对记者关于“日菲单方面宣布启动在中国台湾岛以东海域划界谈判，中国海警随即位相关海域进行执法巡查，交通运输部接续开展海上交通专项执法行动”的提问，张晓刚回应指出，针对日菲擅自宣布启动中国台湾岛以东海域划界谈判，外交部已多次阐明坚决反对的严正立场。中方敦促日菲立即停止非法侵权挑衅行径，警告“若一意孤行只会求锤得锤”，并强调中方将以坚决有力的行动举措维护国家领土主权和海洋权益。",
+  "event_time": {
+    "start": "2026-06-09",
+    "end": "2026-06-09",
+    "precision": "day",
+    "evidence": "2026年6月9日下午，国防部新闻发言人张晓刚大校就近期涉军问题发布消息并回应记者提问。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "国防部回应日菲行为称若一意孤行只会求锤得锤",
+    "国防部：日菲若一意孤行只会求锤得锤",
+    "日菲若一意孤行只会求锤得锤",
+    "国防部回应日菲划界谈判"
+  ],
+  "retrieval_queries": [
+    "国防部 日菲 求锤得锤",
+    "张晓刚 日菲 划界谈判",
+    "国防部 台湾岛以东海域划界谈判",
+    "日菲若一意孤行只会求锤得锤",
+    "张晓刚 涉军问题 2026年6月9日"
+  ],
+  "must_match_facts": [
+    "国防部新闻发言人张晓刚大校就近期涉军问题发布消息",
+    "针对日本与菲律宾单方面启动中国台湾岛以东海域划界谈判作出回应",
+    "表态敦促日菲立即停止非法侵权挑衅行径，并使用“若一意孤行只会求锤得锤”警告",
+    "事件发生于2026年6月9日"
+  ],
+  "exclude_if": [
+    "外交部例行记者会关于仁爱礁或黄岩岛等南海问题的常规表态",
+    "仅报道中国海警或交通运输部在台湾以东海域执法巡查行动而无国防部发言",
+    "非2026年6月9日的其他国防部例行或专题发布会"
+  ],
+  "source_evidence": [
+    {
+      "title": "国防部：日菲若一意孤行只会求锤得锤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErUDnBSXVSag0SqxBSMntZmPP-UWyqtTNAaMWVIqpF7xR9bx9xDCs-PvofNOHqN9cx0paldqMHxyfnsLWE7WVoLfyj5KjyWCtx7KhB1PpVJG-BzeBY3X_LplG9FYwgAgGYVQLh-1dKd9mZkEXjr-dMgXyl",
+      "publisher": "人民网",
+      "published_at": "2026-06-09"
+    },
+    {
+      "title": "日菲若一意孤行只会求锤得锤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjBoj8CT-udXHODCMX4wQrK3b2Y5ZiruPpiU3BwoV-V3Xgm0RbtCtauspT1-4MEnQiWJyd6oUGdv0pPu3toKaKQi195xanhWueVa2AmZsvxYuo3a-emRS_wycUoaStJVf0J4Uj2Zg11aBjDZz4Rm-hJyiPj85RgfaVpa5-hWp4ekq3AcGaakq0vCjsOdTmWi91VM8=",
+      "publisher": "新华网客户端",
+      "published_at": "2026-06-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:11"
+}

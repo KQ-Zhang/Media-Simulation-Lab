@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_7c27041b4d96c256",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年粤BA常规赛第八轮广州队主场击败江门队",
+  "factual_description": "2026年5月16日晚，2026年首届广东省城市篮球联赛（粤BA）常规赛第八轮在广州市花都东风体育馆打响，由广州队坐镇主场迎战江门队。这是广州队在本赛季首次将粤BA主场设在花都东风体育馆。比赛开始后江门队进入状态较快一度以12比7领先，随后广州队依靠防守反击反超比分，首节以23比21领先，上半场战罢广州队将领先优势扩大为48比32。下半场广州队继续加强防守和内线篮板控制，最终以86比62战胜江门队，豪取联赛七连胜并提前锁定季后赛八强席位。除赛事对抗外，本场比赛兼具体育文化交流特色，现场设置了空乘方阵、凤鸣战鼓方阵、北胜蔡李佛拳非遗武术及连南瑶族长鼓舞等演出，两队还在中场互赠了新会陈皮、广式腊味等地方特色礼品，场外亦配套了美食集市等嘉年华活动。",
+  "event_time": {
+    "start": "2026-05-16",
+    "end": "2026-05-16",
+    "precision": "day",
+    "evidence": "广州日报、南方+等媒体报道，2026年5月16日晚（19时30分），2026年首届广东省城市篮球联赛常规赛第八轮广州队主场迎战江门队并在当晚完赛。"
+  },
+  "locations": [
+    "中国/广东省/广州市/花都区/花都东风体育馆"
+  ],
+  "aliases": [
+    "粤BA常规赛第八轮广州队迎战江门队",
+    "2026粤BA广州队86比62大胜江门队",
+    "广州队花都主场首秀胜江门豪取七连胜",
+    "粤BA第八轮广州VS江门"
+  ],
+  "retrieval_queries": [
+    "粤BA 广州 江门 86 62",
+    "粤BA 第八轮 广州队 江门队",
+    "花都东风体育馆 广州队 江门队",
+    "广州队 86比62 七连胜 粤BA",
+    "粤BA 广州队 季乐 花都首秀",
+    "凤鸣战鼓 空乘方阵 粤BA 广州队",
+    "粤BA 广州 江门 互赠礼物 陈皮"
+  ],
+  "must_match_facts": [
+    "赛事为2026年广东省城市篮球联赛（粤BA）常规赛第八轮",
+    "比赛时间为2026年5月16日晚",
+    "比赛场馆为广州花都东风体育馆",
+    "广州队主场以86比62击败江门队",
+    "广州队借本场胜利达成粤BA七连胜并锁定季后赛八强"
+  ],
+  "exclude_if": [
+    "2015年广东省男篮联赛季后赛广州客场负于江门队",
+    "2026年5月16日同日举行的粤超足球联赛湛江队对阵江门队",
+    "2026年粤BA常规赛第九轮广州队对阵阳江队",
+    "2026年粤BA季军争夺战广州队对阵中山队"
+  ],
+  "source_evidence": [
+    {
+      "title": "七连胜！粤BA广州队未赢够",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE66diPuttCqcJZVR3B1ept1dsP_rokLreQVDXNZSJFIKvXlNUXI1RRfhrm8z2tklRIvqas0tGphIgvYnm0lE6Nr-aEgTqvuyM7yANPH1_3omasJNfnjXWeImAXF5WQwfH-T_QrbH19lcfoOU4_J_jlpU1ub4v55VFn0zK6g18i6g==",
+      "publisher": "南方+",
+      "published_at": "2026-05-16"
+    },
+    {
+      "title": "广州日报-广州队换主场力夺七连胜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYfp2EPEp7_8uFQ0d8CsG1qu_3neNHNb1moN_XJzOE80wtJDV4y69Jr6yPWblMuEIZMjrc5TTXhWSc3xk5Jbmq4Ki0GOpKSQfGFYmNAcbGcCd7Cfww6UGkTrnFBKgqW6jChWRH9LzHXMXApYJTGPEu2gMGJkoYx9mjELs=",
+      "publisher": "广州日报",
+      "published_at": "2026-05-17"
+    },
+    {
+      "title": "主场大胜江门队，广州队豪取七连胜！｜粤BA赛况",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8UYfDWP6tmSvNmZGSmSnXWM-rgcpX4Fha-EHMgTMi6ExMrTDD1XeR3_RlGeXwnaLGzp8TNX4CbeMHG8DwCuvD2PnKJVrUY7lxNe3LLoR3Jp-U4cpRABOO7i6Sbpp0ngnoyypk_DILYgX_Dv0heS1J1S2cOQOo5w==",
+      "publisher": "羊城晚报",
+      "published_at": "2026-05-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:54"
+}

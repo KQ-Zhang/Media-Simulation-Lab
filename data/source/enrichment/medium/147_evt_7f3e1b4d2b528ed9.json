@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_7f3e1b4d2b528ed9",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "上海租客出租屋上锁柜中发现遗像引纠纷事件",
+  "factual_description": "2026年4月，租客杰瑞（化名）与室友通过房屋中介机构“我爱我家”上海田东店承租了位于徐汇区龙华地铁站附近的一套两居室，6月1日正式起租入住。交房时房东曾表示主卧阳台上锁柜中为杂物。7月20日晚10时许，两名租客在整理房间时查看阳台上锁柜子，通过柜缝拉开处用手机光照，在红布包裹中发现一张黑边逝者遗像。租客受惊后连夜离开房屋入住酒店，并于次日重新找房冒雨搬离。事后房东承认柜内存放遗像，并沟通退还了剩余租金与全部押金；但中介机构“我爱我家”拒绝退还2650元中介费。租客表示将对“我爱我家”提起诉讼要求退还中介费，并追讨酒店住宿与搬家等经济损失；中介公司相关部门随后表示已有人员跟进处理。",
+  "event_time": {
+    "start": "2026-07-20",
+    "end": "2026-08-05",
+    "precision": "day",
+    "evidence": "租客于2026年7月20日晚在柜中发现遗像并连夜搬离，7月22日完成退房，8月5日媒体向中介平台核实采访时中介费争议仍未解决。"
+  },
+  "locations": [
+    "中国/上海市/徐汇区/龙华地铁站附近"
+  ],
+  "aliases": [
+    "上海租客出租屋柜内发现遗像连夜搬离",
+    "租客深夜在出租屋上锁柜发现逝者遗像",
+    "出租房上锁柜留遗像租客吓哭搬走",
+    "租客发现上锁柜有遗像中介拒退中介费"
+  ],
+  "retrieval_queries": [
+    "租客 遗像 上锁柜 搬离 我爱我家",
+    "上海 租客 遗像 吓哭 搬离 中介费",
+    "出租屋 阳台柜 遗像 2650 中介费",
+    "杰瑞 我爱我家 遗像 龙华地铁站"
+  ],
+  "must_match_facts": [
+    "租客在上海徐汇区通过我爱我家整租两居室",
+    "租客在主卧阳台上锁的柜子中发现红布包裹的逝者遗像",
+    "租客受惊吓连夜搬出入住酒店并退房",
+    "房东退还租金和押金，我爱我家拒绝退还2650元中介费",
+    "租客计划起诉中介索赔中介费、酒店安置费及搬家费"
+  ],
+  "exclude_if": [
+    "房屋涉及非正常死亡凶宅刑事案件",
+    "租客租住骨灰房并在壁橱内发现骨灰盒的事件",
+    "非上海徐汇区或非我爱我家平台中介费争议事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "租客夜间在上锁的柜子里发现逝者遗像，当场吓哭连夜搬离",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFa69vHxkBA5NpytU9WKhOdA_3xDD19uhFqsXH11FQ8PFZP2Q3E25pj1nFGTOKp43vC_msgnkdkUskXYSQWwOY3LQgf8vB90CMwTMSyEkIQw-dH4VlQy4Tw6NgoiwpVLuspbsgvmz5HhGJs",
+      "publisher": "津云新闻（转网易新闻）",
+      "published_at": "2026-08-06T15:49:00"
+    },
+    {
+      "title": "入住一个半月，租客半夜发现上锁柜中留有逝者遗像，被吓哭连夜搬离，租客：将起诉要求退还中介费并赔偿损失",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6Zhwumn5GTI0_9IUEVZQPqqF4yozrp9BnfyIIYOvkSYMyASIXFqkUNHR4IzZR5JWo4p9HuzeKu7p-FCFotrGqKZgMe5CrbGlNZHsXmUbClSfTL4vZ51JyqoGkUpLMR2TgzMcqgtEHzlRpTVDpH-1kczIzpkClDLSP",
+      "publisher": "江南都市报（转新浪财经）",
+      "published_at": "2026-08-07T06:00:00"
+    },
+    {
+      "title": "新租单位神秘上锁柜竟藏遗照租客吓怕连夜搬走怒告代理促退佣金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUC4JmGxSUIU9rkJzpZZnPvuUk7N1ai-x5l5RzqRDd1SBbMqL0RD2Bm3NvRsLAOED8rM2SvFz9trpeKS_bLBNV6rXKD4LIvhIeF4wmWWfXU390KU0_hJDUcx7jfTrXlnm8P0Nbm6RjcQSmraR-uZRlrkpd8dweaFjrh_FocmXR2Wfd3AZVRo5p6eE52haH8cbGSN0vXaxdKVlz3E7nztvD32_ov16uGPPamLfjX_4oK1pn5q09iLnmdSN5bUogBWXBRlTaToqy5kds07WOgMfZTTCUHXhvg4d4qPvJ_wmLBBUZnK2wuiswEbG_WI4H00fpNVabTBhwcgkxkMo1MdSvzCSQWE02wigs4gZxOxH7K-3x7GpuLEuBoJA8VNnuwBfzhNn1BYs7vl17j_OKjpNroPr-z_tu_Pf3HOPZH2t28M3BdbfevcvXFGEQKtQJzHHLuQFyyMBskoJiJ0MXxxTrfX4U0pMQz9TBhJtGkrHu-4mUQmvjTBxduVaf",
+      "publisher": "星岛头条",
+      "published_at": "2026-08-10T00:00:00"
+    }
+  ],
+  "uncertainties": [
+    "租客最终是否正式向法院立案起诉我爱我家及起诉具体结果尚未公开",
+    "我爱我家后续是否通过私下协商与租客达成退费或赔偿方案未见官方通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:50"
+}

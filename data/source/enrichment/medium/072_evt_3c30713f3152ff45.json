@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_3c30713f3152ff45",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "江苏徐州睢宁男子戴人脸面具入室盗窃案",
+  "factual_description": "2026年1月24日早晨，江苏省徐州市睢宁县岚山镇居民孙师傅返回家中，发现价值约1.8万元的烟酒、电脑、首饰等财物失窃。孙师傅调取室内监控发现，一名戴着逼真人脸面具、手套和口罩的男子深夜技术开锁入室作案。睢宁县公安局刑侦大队与岚山派出所接警后介入侦查，通过梳理周边公共视频发现嫌疑人“提包进村、空手离开”且有一辆白色轿车在田间异常停留，以此锁定嫌疑人行踪。接警16小时后，警方成功将43岁犯罪嫌疑人吕某某抓获归案。经查，吕某某因投资失败负债累累，自2025年6月起网购工具自学开锁手法，并网购逼真人脸面具和假发进行伪装，流窜至岚山镇专挑无人房屋入室盗窃，累计作案6起，销赃获利5万余元，赃款全部用于打赏网络主播。目前，犯罪嫌疑人吕某某已被警方依法刑事拘留，案件正在进一步办理中。",
+  "event_time": {
+    "start": "2026-01-24",
+    "end": "2026-01-25",
+    "precision": "day",
+    "evidence": "官方及主流媒体报道孙师傅于2026年1月24日早上8点报案家中被盗，警方接警后用时16小时抓获犯罪嫌疑人吕某某。"
+  },
+  "locations": [
+    "中国/江苏省/徐州市/睢宁县/岚山镇"
+  ],
+  "aliases": [
+    "徐州戴人脸面具盗窃案",
+    "睢宁戴面具盗窃案",
+    "男子网购人脸面具入室盗窃案",
+    "16小时撕下人脸面具案",
+    "43岁男子戴人脸面具入室盗窃被刑拘"
+  ],
+  "retrieval_queries": [
+    "徐州 睢宁 人脸面具 盗窃",
+    "吕某某 岚山镇 开锁 人脸面具",
+    "男子网购人脸面具入室盗窃 打赏主播",
+    "孙师傅 人脸面具 16小时 睢宁警方",
+    "徐州 戴人脸面具 刑拘"
+  ],
+  "must_match_facts": [
+    "案发地点位于江苏省徐州市睢宁县（岚山镇）",
+    "被害人家中监控拍摄到嫌疑人佩戴人脸面具实施开锁盗窃",
+    "犯罪嫌疑人为吕某某（43岁男性）",
+    "睢宁警方接警后用时约16小时破案并抓获嫌疑人",
+    "嫌疑人作案6起、销赃5万余元，赃款用于打赏网络主播，已被刑事拘留"
+  ],
+  "exclude_if": [
+    "上海、浙江等其他省市发生的硅胶人脸面具盗窃案",
+    "非江苏徐州睢宁县管辖的盗窃案件",
+    "未涉及佩戴人脸面具伪装的普通开锁盗窃案"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子戴诡异人脸面具入室盗窃，赃款全打赏了网络主播",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeCB4t2dMaSOoC44uDSKGqkmumUh2oVNhS0KgM9g_EXPqGCPpHSbb_jsPr_sGv4ChvVDo2eqyaewZVOnin2yvP8cwpFsnvUwQSUWOxNF5m51aNow-vy_ucaNcZ_z_4FF6axBlChoyAexN-",
+      "publisher": "现代快报",
+      "published_at": "2026-01-30"
+    },
+    {
+      "title": "徐州睢宁公安：16小时，撕下“面具人”伪装",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECKpmFBgGyXMnkEI53PHAoBqwapp8w_JZ0nJsErIO5gLabwYjK098GAr2pLQanUm6cwGN4eFGc7_mQe5eQrObB0G4FxE5MvkPgeHK6t6WdXeBJsb4KVO1KD2ZEJnKFuf15",
+      "publisher": "上游新闻 / 睢宁公安",
+      "published_at": "2026-01-30"
+    },
+    {
+      "title": "16小时，警方撕下“人脸面具”！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUKj31XjPfoBz2KFFOhzXhDzVNLCnSk2RChjXqUUjJ9NBsNOgwoxGfA7J_3IHO9jYfIERy4N97HarL64s5M644q3U1KKakYQuloaT2pzy_Uv69ynbnWhFr1pvLVeuRPZYTKp5ZXvy1ZOiDGrDdtOfDjMy6prhxYAJBId-4PNTlArCjoA==",
+      "publisher": "中国新闻网 / 江苏警方",
+      "published_at": "2026-02-02"
+    }
+  ],
+  "uncertainties": [
+    "输入样本现有描述将案发时间记为2024年1月24日，经多份权威报道核对确认为2026年1月24日案发。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:57"
+}

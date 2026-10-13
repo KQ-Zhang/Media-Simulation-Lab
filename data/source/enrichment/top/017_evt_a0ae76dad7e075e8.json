@@ -1,0 +1,156 @@
+{
+  "event_id": "evt_a0ae76dad7e075e8",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "广州警方通报全红婵遭网暴案违法人员徐某被行政拘留十日事件",
+  "factual_description": "2026年3月底起，针对跳水奥运冠军全红婵的网暴及私密微信群谩骂攻击言论在网络引发广泛关注。2026年4月8日，全红婵所属的广东省二沙体育训练中心发文表示已就全红婵遭受网络暴力一事向公安机关报案，国家体育总局游泳运动管理中心亦发表声明支持维权。4月10日，广州市公安局越秀分局发布警情通报，依法查明徐某（男，31岁，跳水运动爱好者）在其创建的微信群内变换昵称，多次发表针对广东省二沙体育训练中心运动员全红婵的侮辱性言论，恶意拉踩引战，造成恶劣影响。公安机关已对徐某依法作出行政拘留十日并处罚款的处罚，并对群内其他相关行为人员依法作出处理。",
+  "event_time": {
+    "start": "2026-04-08",
+    "end": "2026-04-10",
+    "precision": "day",
+    "evidence": "广东省二沙体育训练中心于2026年4月8日向警方报案，广州市公安局越秀分局于2026年4月10日发布警情通报并对徐某实施行政拘留十日及罚款处罚。"
+  },
+  "reporting_time_range": {
+    "start": "2026-04-10",
+    "end": "2026-04-12"
+  },
+  "locations": [
+    "中国/广东省/广州市/越秀区"
+  ],
+  "people": [
+    {
+      "name": "徐某",
+      "role": "涉案人员、31岁跳水运动爱好者、微信群主"
+    },
+    {
+      "name": "全红婵",
+      "role": "受害运动员、跳水奥运冠军"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "广州市公安局越秀分局",
+      "role": "办案及通报公安机关"
+    },
+    {
+      "name": "广东省二沙体育训练中心",
+      "role": "全红婵所属单位、报案单位"
+    },
+    {
+      "name": "国家体育总局游泳运动管理中心",
+      "role": "主管部门、维权表态单位"
+    },
+    {
+      "name": "公安部网络安全保卫局",
+      "role": "通报该案的上级网安部门"
+    }
+  ],
+  "trigger": "全红婵在采访中提及遭受身心与舆论压力，随后网络流传涉嫌有组织网暴其个人的微信群截图，广东省二沙体育训练中心于2026年4月8日向公安机关报案。",
+  "key_actions": [
+    "2026年3月底，网络流传涉嫌攻击全红婵的微信群截图及网暴言论。",
+    "2026年4月8日，广东省二沙体育训练中心发文确认已向公安机关报案，国家体育总局游泳运动管理中心表态坚决维权。",
+    "广州市公安局越秀分局接报后立案查明徐某在其创建的微信群内变换昵称多次发表侮辱性言论的事实。",
+    "2026年4月10日，广州市公安局越秀分局发布通报，依法对徐某处以行政拘留十日并处罚款，并处理群内其他相关行为人员。",
+    "2026年4月10日晚，公安部网安局发布通报严厉抨击体育饭圈网暴乱象。"
+  ],
+  "outcome_and_status": "违法人员徐某已被广州越秀警方依法行政拘留十日并处罚款，微信群内其他相关人员正依法接受处理；国家体育管理部门及警方明确表态将严厉打击体育“饭圈”网暴违法行为。",
+  "timeline": [
+    {
+      "time": "2026-04-08",
+      "fact": "广东省二沙体育训练中心就全红婵遭网暴案向公安机关报案。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsBdwOr9MhIaRRtzmysqUrvtNWa-dkeDgX3Ujf72SfFubUG6ifif4XSJBBEizruy2-wx6q2ndYXC0BR-tXjRW0k-h47u1g0uZeIaVYTWs4a3iPTk11d8-LrVnSizLhTm20TpYDTXIlbHGxUMfRMYjoOs_m"
+      ]
+    },
+    {
+      "time": "2026-04-10",
+      "fact": "广州市公安局越秀分局发布警情通报，对涉案31岁男子徐某依法作出行政拘留十日并处罚款的处罚。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLEcRUJtwiN-RDWwu9D9QXFpNEOdovqvnIbj6-QnByhY3tiEar_WjEvTstMaIvPxCZCzUOSPGvf7gssjMnQDLUq6n5cBVOfNnZMXiBdoc1JJvUt8JKzU_yYM90NczL9wBXYPqnVA0aIj05MFUeT26MEEcAinwmjNabOlm7jiy7RQ==",
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYI4FHNT1q4ySbP5OfGj_pWSdxBhRV_YVD7MLllK-wb6L71u-bvF-B87FMnLUEcfbCIBM2sXEVNEZvUCBk5DLSDqe3VlhmhyLiJ_AfRx2OwTPb6DqHcbknu14_-IDO03RabwUMY4EcEjJfww=="
+      ]
+    },
+    {
+      "time": "2026-04-10",
+      "fact": "公安部网安局通报全红婵遭网暴案，强调严惩“饭圈”化人身攻击与恶意拉踩引战行为。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_HufzF8ZHjLOT8nLrF2vwjupFtS444JCq740tCzNkDvIwLyHhua3FwG-MHkBYWcRz7_nfE4Xv5hfdduBSZo8Jmrgn9tV1oomqWgfgdEAGjrk0Ll6zdhDuURicFOTD589fOcLCIuszq-gkImL62NVFS6N7z3QmV0yU"
+      ]
+    }
+  ],
+  "aliases": [
+    "警方通报全红婵遭网暴事件",
+    "徐某微信群侮辱全红婵案",
+    "全红婵网暴案徐某被行拘",
+    "广州越秀警方通报全红婵被网暴"
+  ],
+  "retrieval_queries": [
+    "广州越秀警方 警情通报 徐某 全红婵",
+    "徐某 31岁 跳水运动爱好者 行政拘留",
+    "二沙体育训练中心 报警 全红婵 网暴",
+    "全红婵 微信群 变换昵称 侮辱性言论",
+    "徐某 行政拘留十日 罚款 广州越秀",
+    "全红婵遭网暴案 广州公安局越秀分局"
+  ],
+  "must_match_facts": [
+    "涉案违法人员为31岁男子徐某（跳水运动爱好者）。",
+    "徐某在其创建的微信群内变换昵称，多次发表针对广东省二沙体育训练中心跳水运动员全红婵的侮辱性言论。",
+    "广州市公安局越秀分局依法对徐某作出行政拘留十日并处罚款的处罚。",
+    "事件起源于广东省二沙体育训练中心就全红婵遭受网暴向公安机关报案。"
+  ],
+  "optional_supporting_facts": [
+    "公安机关同时对群内其他相关行为人员依法作出处理。",
+    "广州市公安局越秀分局于2026年4月10日发布警情通报。"
+  ],
+  "exclude_if": [
+    "属于南方报业记者朱小龙针对全红婵发表不当言论被处分事件",
+    "属于涉及其他体育运动员（如王楚钦、樊振东等）的独立网暴或侵权案件"
+  ],
+  "distinctive_entities": [
+    "徐某",
+    "全红婵",
+    "广州市公安局越秀分局",
+    "广东省二沙体育训练中心",
+    "行政拘留十日",
+    "31岁",
+    "跳水运动爱好者"
+  ],
+  "source_evidence": [
+    {
+      "title": "广州警方通报全红婵遭网暴案违法人员已被行政拘留",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLEcRUJtwiN-RDWwu9D9QXFpNEOdovqvnIbj6-QnByhY3tiEar_WjEvTstMaIvPxCZCzUOSPGvf7gssjMnQDLUq6n5cBVOfNnZMXiBdoc1JJvUt8JKzU_yYM90NczL9wBXYPqnVA0aIj05MFUeT26MEEcAinwmjNabOlm7jiy7RQ==",
+      "publisher": "新华网",
+      "published_at": "2026-04-10",
+      "supports": [
+        "广州越秀警方查明徐某在其创建微信群内多次发表针对广东省二沙体育训练中心运动员的侮辱性言论",
+        "徐某为31岁跳水运动爱好者",
+        "徐某被依法行政拘留十日并处罚款"
+      ]
+    },
+    {
+      "title": "警方通报全红婵被网暴：31岁男子徐某，行拘！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYI4FHNT1q4ySbP5OfGj_pWSdxBhRV_YVD7MLllK-wb6L71u-bvF-B87FMnLUEcfbCIBM2sXEVNEZvUCBk5DLSDqe3VlhmhyLiJ_AfRx2OwTPb6DqHcbknu14_-IDO03RabwUMY4EcEjJfww==",
+      "publisher": "观察者网",
+      "published_at": "2026-04-10",
+      "supports": [
+        "广州市公安局越秀分局2026年4月10日通报",
+        "广东省二沙体育训练中心于4月8日报警"
+      ]
+    },
+    {
+      "title": "公安部网安局通报全红婵遭网暴事件",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_HufzF8ZHjLOT8nLrF2vwjupFtS444JCq740tCzNkDvIwLyHhua3FwG-MHkBYWcRz7_nfE4Xv5hfdduBSZo8Jmrgn9tV1oomqWgfgdEAGjrk0Ll6zdhDuURicFOTD589fOcLCIuszq-gkImL62NVFS6N7z3QmV0yU",
+      "publisher": "央视新闻 / 江苏网信",
+      "published_at": "2026-04-10",
+      "supports": [
+        "徐某在跳水饭圈微信群内不断变换昵称恶意拉踩引战",
+        "公安机关网安部门严厉打击体育饭圈侮辱诋毁行为"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "警方通报中提及的微信群内其他相关行为人员的具体身份及后续处罚细节尚未公开。"
+  ],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:29:01"
+}

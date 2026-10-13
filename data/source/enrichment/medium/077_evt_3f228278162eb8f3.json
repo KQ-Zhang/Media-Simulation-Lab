@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_3f228278162eb8f3",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "中国气象局及多国机构预警2026年超强厄尔尼诺事件正在形成（或为150年来最强）",
+  "factual_description": "2026年8月1日起，央视新闻、新华社等主流媒体报道中国气象局国家气候中心及国际气象机构监测研判：赤道中东太平洋持续增强的厄尔尼诺气候现象发生超强厄尔尼诺事件的概率显著增大，或将成为现代气象观测记录150年来最强的一次。监测数据显示，赤道中东太平洋于2026年5月达到厄尔尼诺状态标准，6月海温持续增暖，7月进入强厄尔尼诺事件监测行列；预计该事件夏秋季发展为东部型强至超强厄尔尼诺，秋冬季达到峰值，并至少持续到2027年春季。中国气象局专家陈丽娟、贾小龙指出，厄尔尼诺作为全球气候“放大器”，将加剧区域高温、极端暴雨、干旱与强台风风险；受海洋对大气影响滞后性作用，其对全球气候冲击往往在峰值次年达顶峰，2027年极有可能打破历史纪录成为新的全球最暖年份。",
+  "event_time": {
+    "start": "2026-08-01",
+    "end": "2026-08-04",
+    "precision": "day",
+    "evidence": "央视新闻于2026年8月1日首发权威通报，中国气象局随后于8月4日新闻发布会进一步发布监测数据与预警分析。"
+  },
+  "locations": [
+    "赤道中东太平洋",
+    "中国",
+    "全球"
+  ],
+  "aliases": [
+    "超强厄尔尼诺事件正在形成，或为150年来最强",
+    "150年来最强厄尔尼诺",
+    "2026年超强厄尔尼诺预警",
+    "2027年或成史上最热一年厄尔尼诺事件"
+  ],
+  "retrieval_queries": [
+    "超强厄尔尼诺 150年来最强",
+    "中国气象局 厄尔尼诺 150年",
+    "国家气候中心 强厄尔尼诺 2026",
+    "2027年 最暖年份 厄尔尼诺",
+    "超强厄尔尼诺事件正在形成",
+    "陈丽娟 厄尔尼诺 150年来最强",
+    "贾小龙 超强厄尔尼诺概率增大"
+  ],
+  "must_match_facts": [
+    "中国气象局国家气候中心监测并通报厄尔尼诺发展态势",
+    "赤道中东太平洋海温持续升高进入强厄尔尼诺事件监测",
+    "气象部门或专家判断其可能成为150年来最强的一次厄尔尼诺",
+    "预测该事件秋冬季达峰值并持续至2027年春季，2027年或成最暖年份"
+  ],
+  "exclude_if": [
+    "2015至2016年超强厄尔尼诺事件的历史总结报道",
+    "2023至2024年厄尔尼诺事件的复盘分析",
+    "拉尼娜事件专题报道且未提及2026年超强厄尔尼诺预警"
+  ],
+  "source_evidence": [
+    {
+      "title": "超强厄尔尼诺事件正在形成或为150年来最强一次",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNcqcx4K-xkzki74_AFYPNUjy2z5-g1BxW2nWVbPSBlJfYdilXztoKEAhe8mswNhgOmX_5yQjmUQKIIXyF_gqT32hmKF1tWbGu1YxSd67LY3RsgBfplhM6ZhjfwgUyGvNVkVK-cmQUqortsfAdV_2AgKLUAMPernd9t9BP_9I=",
+      "publisher": "中国日报网（转自央视新闻客户端）",
+      "published_at": "2026-08-01"
+    },
+    {
+      "title": "超强厄尔尼诺概率增大！国家气候中心回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHD9QwhcXQANJCsfFlXMHQ6ygvRIw0ciXxENuGGIlbm9xa5NOjoryrKLOTkwfNsxzXsn6VE-z4IYo5ltsweVZLeFYjv1uLVqb41LxoEYesplE_tCLGKF7_9mau4oO0tqebo8qAv--zwzrI=",
+      "publisher": "东方财富网（每日经济新闻）",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "中国气象局：超强厄尔尼诺事件正在形成，或为150 年来最强",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Wva5Zy7WFdzHpMrhT2NPuPDg_7aWo8VMdN6_SyYVf70iNFvQ6Qe5NOToXPB2KgywVq2uUlia5YH3Ie2yA3UTFj9WAxtlCw82Z1H_1qn3wAtLDCyG_rR_bS53AJGVBwYQ69OP341d2n608_CdOf4yQpoUBGXiXJemknhUfj4ing==",
+      "publisher": "新浪财经（转自IT之家/新华社）",
+      "published_at": "2026-08-02"
+    }
+  ],
+  "uncertainties": [
+    "本次厄尔尼诺事件峰值强度是否最终能突破1997/1998年和2015/2016年极值、坐实“150年最强”，仍取决于秋冬季实际演化与后期海气耦合强度[1.2.8]。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:08"
+}

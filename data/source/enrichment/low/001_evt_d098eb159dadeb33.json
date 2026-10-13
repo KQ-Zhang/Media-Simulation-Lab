@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_d098eb159dadeb33",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2025年度个税汇算清缴截止及逾期加收滞纳金",
+  "factual_description": "根据国家税务总局规定，2025年度个人所得税综合所得汇算清缴的法定期限为2026年3月1日至6月30日。2026年6月下旬，随着汇算清缴截止日临近，国家税务总局及各地税务部门、官方主流媒体广泛发布催报催缴提示，提醒尚未办理汇算的纳税人抓紧通过个人所得税App或自然人电子税务局完成申报。按照税收征管法及相关规定，需办理汇算补税（年综合所得超过12万元且补税金额超过400元）的纳税人，如未在2026年6月30日24时前依法完成申报并足额缴纳税款，自2026年7月1日起，税务机关将依法按日加收滞纳税款万分之五的滞纳金（折合年化利率约18.25%），并在个人所得税纳税记录中予以标注；对经催报催缴仍拒不配合的，还可能面临立案稽查、行政处罚及信用惩戒。",
+  "event_time": {
+    "start": "2026-06-30",
+    "end": "2026-07-01",
+    "precision": "day",
+    "evidence": "2025年度个人所得税综合所得汇算清缴于2026年6月30日24时正式截止，逾期未补缴税款自2026年7月1日起按日加收滞纳金。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "2025年度个人所得税综合所得汇算清缴截止",
+    "2025年度个税汇算截止",
+    "个税汇算逾期补税加收滞纳金",
+    "2025个税汇算6月30日结束"
+  ],
+  "retrieval_queries": [
+    "2025年度 个税汇算 6月30日 滞纳金",
+    "2025年度个人所得税综合所得汇算清缴 截止",
+    "个税汇算 7月1日 滞纳金 万分之五",
+    "2025年度个税汇算 逾期补税",
+    "个税汇算 补税提醒 滞纳金 2026"
+  ],
+  "must_match_facts": [
+    "涉及税种为2025年度个人所得税综合所得年度汇算清缴",
+    "汇算申报及缴税截止日期为2026年6月30日",
+    "自2026年7月1日起对逾期未缴税款按日加收万分之五滞纳金",
+    "主管机关为国家税务总局及各级税务机关"
+  ],
+  "exclude_if": [
+    "2024年度及更早年份的个税汇算清缴截止事件",
+    "2026年度（2027年执行）的个税汇算清缴",
+    "企业所得税年度汇算清缴",
+    "针对特定逃税案的个案行政处罚通报"
+  ],
+  "source_evidence": [
+    {
+      "title": "注意！个税汇算6月30日结束，个人不补税7月1日起将付滞纳金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrYs7MS5JGX1MWdjgG3ITk20lhV-SvJitwr3jRQtngLE8Lg3qJ4Ng5weROlhGbXHvfU181VbfVDtMDT9lrW6x0KUbSo5f_7bQZLuSA7DktlM1IjdGuW_al5TH2AB0FPgBXxSRZ0SCKBWFCxmApmX2cJXxnPubkQg==",
+      "publisher": "武汉市人民政府 / 长江日报",
+      "published_at": "2026-06-23"
+    },
+    {
+      "title": "个税汇算6月30日截止，逾期未补缴税款将加收滞纳金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDVZenlIGgv7FT8PQh-HytMsAR4lp26nMBX0zPz0qz54wuYEzuRi1w6wxXdsYzak331WHC3uaVqtavOJMKxaQdsK7jRIGnFEOwBAqDhBBIrUcvH-Na-ATtmC2hmHiVwzlZjLf0",
+      "publisher": "解放日报",
+      "published_at": "2026-06-29"
+    },
+    {
+      "title": "明天起，个税补税1万每日加收5元滞纳金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdvzWANspHjf9zaTQB9w5kX_VLJl6z3KAO3t-gSdPc3xmco1QWGQW-oVjEgGDS3uba3VLanLJI0WRBy08NXG-Ew_Hr0UaNQn3ZK1gDy3GYXmZO-Gy6RPxOxCYr8QMpWROipfvH-dI=",
+      "publisher": "证券时报",
+      "published_at": "2026-06-30"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:08"
+}

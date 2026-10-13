@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_abec63d4df719b0a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "文班亚马在2026年NBA季后赛次轮G1单场送出12次封盖刷新历史纪录",
+  "factual_description": "北京时间2026年5月5日（当地时间5月5日），在2025-26赛季NBA季后赛西部半决赛（次轮）G1圣安东尼奥马刺队主场迎战明尼苏达森林狼队的比赛中，马刺队当家球星维克托·文班亚马（Victor Wembanyama）全场出战39分钟，贡献11分、15个篮板、5次助攻和12次封盖的盖帽三双表现。其单场12次封盖打破了此前由哈基姆·奥拉朱旺、马克·伊顿和安德鲁·拜纳姆共同保持的NBA季后赛单场10次封盖历史纪录，同时也超越了蒂姆·邓肯保持的9次队史纪录，成为NBA季后赛历史单场盖帽第一人及马刺队史季后赛单场盖帽王。本场比赛马刺队最终以102比104惜败于森林狼队，大比分0比1落后。",
+  "event_time": {
+    "start": "2026-05-05",
+    "end": "2026-05-05",
+    "precision": "day",
+    "evidence": "北京时间2026年5月5日，NBA季后赛西部半决赛G1马刺主场对阵森林狼的比赛正式进行。"
+  },
+  "locations": [
+    "美国/德克萨斯州/圣安东尼奥/弗罗斯特银行中心"
+  ],
+  "aliases": [
+    "文班亚马季后赛单场12记盖帽",
+    "文班亚马12帽创NBA季后赛纪录",
+    "文班亚马季后赛盖帽三双",
+    "文班亚马季后赛单场12次封盖刷新历史纪录",
+    "马刺对阵森林狼西部半决赛G1文班12帽"
+  ],
+  "retrieval_queries": [
+    "文班亚马 12次封盖 季后赛",
+    "文班亚马 季后赛 12盖帽 森林狼",
+    "文班亚马 单场12记封盖",
+    "文班亚马 季后赛 单场盖帽纪录",
+    "马刺 森林狼 102 104 季后赛",
+    "文班亚马 11分 15篮板 12盖帽"
+  ],
+  "must_match_facts": [
+    "比赛为2025-26赛季NBA季后赛西部半决赛G1圣安东尼奥马刺主场对阵明尼苏达森林狼",
+    "文班亚马单场送出12次封盖（盖帽）并取得11分15篮板12盖帽的三双数据",
+    "单场12次盖帽打破NBA季后赛单场盖帽历史纪录及马刺队史季后赛纪录",
+    "全场比赛马刺以102比104惜败于森林狼"
+  ],
+  "exclude_if": [
+    "2024年NBA季后赛森林狼对阵掘金比赛",
+    "文班亚马常规赛盖帽相关赛事",
+    "2026年西部半决赛第二场（G2）及后续比赛",
+    "NBA 2K等电子游戏模拟比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "【NBA·季后赛】文班亚马12帽创历史，马刺不敌森林狼吞系列赛首败",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmK_c1uNB6JMVauy6f_jR1Wja3r2YWBWZ6Auy-sxQU41t5X4EEN8UWlejPPgzJLd0hACl5okMRs5kpoytSJY0RSuoZ7cpV7OuNXCPEAMCkZWN7V009zY3aQY7bHa3w_beYoTKEodNeihcE5uclSSeaX1s1wR4=",
+      "publisher": "新浪",
+      "published_at": "2026-05-05"
+    },
+    {
+      "title": "快訊／NBA史上首見馬刺溫班亞瑪單場12阻攻還寫季後賽火鍋大三元",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHq8Y-0ZFZmnr5ljHQVoGO61w4fML-VzfOdlrs5gAWlMqUpiMHDeV4kDrwYhIzhGUZXxxRyAaFkyWlVvB27pj4_OERTfbvlMijb7u97DUUMReT0-k_1vvb1O6fmVP4=",
+      "publisher": "ETtoday運動雲",
+      "published_at": "2026-05-05"
+    },
+    {
+      "title": "文班亚马高效创季后赛新高马刺再伤灰狼NBA次轮占优",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExiT2olT_StglP39Q0sI1DCjmHnF7um1LSGi6goJshRnvGuaewKZWqTrwzS_S-qItpMDuPUXcPF8WCLc5h2PtsB-kgKbjwlKy2Jv9QM1-TZjwCqfH90tHz7F2YcMDvKA2_xzWar_AqZJp_6qHrc3CX6w==",
+      "publisher": "联合早报",
+      "published_at": "2026-05-09"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中误将比赛年份写为2024年，经核验实际发生于2026年5月（2025-26赛季季后赛）。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:22"
+}

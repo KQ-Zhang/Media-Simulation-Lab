@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_66698b9b8b513098",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年8月12日宁波环城南路高架面包车自燃事件",
+  "factual_description": "2026年8月12日8时20分许，浙江省宁波市鄞州区环城南路高架西往东方向广德湖路合流处发生一起小型面包车自燃警情。事发时正值早高峰，涉事白色五菱面包车在行驶中车尾突发冒烟，驾驶员迅速开启双闪灯靠边停车并撤离至安全地带。随后车辆起火且火势迅猛，因车内装载有食用植物油，油料起火后顺着高架桥体流淌滴落，火势一度蔓延至高架下方的环城南路地面道路，高架上下出现浓烟与流火，并引发早高峰路段严重拥堵。宁波消防及交警部门迅速赶赴现场处置灭火并疏导交通。8时47分，现场明火被扑灭。该事故未造成人员伤亡，事故具体原因由交警等部门进一步调查。",
+  "event_time": {
+    "start": "2026-08-12",
+    "end": "2026-08-12",
+    "precision": "day",
+    "evidence": "宁波市交警局官方通报及媒体报道确认事故发生于2026年8月12日8时20分许，8时47分明火被扑灭。"
+  },
+  "locations": [
+    "中国/浙江省/宁波市/鄞州区/环城南路高架（广德湖路合流处）"
+  ],
+  "aliases": [
+    "宁波高架面包车自燃",
+    "宁波环城南路高架火瀑布",
+    "8·12宁波环城南路面包车自燃事件",
+    "宁波高架运油面包车突发自燃",
+    "宁波广德湖路合流处面包车起火"
+  ],
+  "retrieval_queries": [
+    "宁波 环城南路高架 面包车自燃",
+    "宁波 广德湖路 面包车 起火",
+    "宁波高架 火瀑布 面包车",
+    "宁波交警通报 环城南路高架 面包车自燃",
+    "宁波 环城南路 食用油 面包车 自燃"
+  ],
+  "must_match_facts": [
+    "事发时间为2026年8月12日早高峰（8时20分许发生，8时47分扑灭）",
+    "事发地点位于浙江省宁波市鄞州区环城南路高架西往东方向广德湖路合流处",
+    "涉事起火车辆为载有食用植物油的小型面包车",
+    "火势蔓延至高架下方环城南路地面",
+    "现场无人员受伤，明火被迅速扑灭"
+  ],
+  "exclude_if": [
+    "发生于海南三亚或其他城市的车辆自燃事故",
+    "重庆石柱刀背梁看流星雨坠崖事件",
+    "发生在宁波市其他时间或非环城南路高架路段的交通事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "甬派求证|早高峰宁波高架面包车自燃？官方回应来了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwK6h46fojjIXcN1C4xOPdCgohAfIn66vbF5PDvpX3ZaLznFqDjldp0qfHkNwbVeXfbmJ-1woEu0cEH0bdFWhwCc16avbWs5ZsQ09x5_8-gFDtNu6ilAJNLskQnEq00bxU3N5Pl6B6EEUR4tzDlg==",
+      "publisher": "甬派客户端（中国宁波网/宁波日报报业集团）",
+      "published_at": "2026-08-12 12:00:27"
+    },
+    {
+      "title": "宁波一面包车自燃疑引燃绿化火团掉下高架！当地交警：原因调查中",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFL507WdQiDCJS3d_566eZ3vx71-OnF3jPmtsdw4KuVhaiPFn4Oy7Ds7jxDoy8QprI31oqcazCxmEaSyWh1YmrxYw7m658TZZ7FaMctAxJUmN2r0Rb0YCQVK6TbqCwsnoTsD6AB2wc=",
+      "publisher": "澎湃新闻 / 福建电视台第一帮帮团",
+      "published_at": "2026-08-12 16:15:00"
+    },
+    {
+      "title": "宁波环城南路高架下起“火瀑布”？交警通报：系面包车自燃，无人员受伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOI80tChn7DcJSbJx8PLuQchHucHLUia3ZLCd_l1_eSLMBosctAtCI_rOCL5oww_4P_A6boK7EQ9bM8Z2FRpnpK9Mp1JEmC1uFwznGBpydc7adzxrVqrlB2TP4CgE4GvK3",
+      "publisher": "大众报业·齐鲁晚报",
+      "published_at": "2026-08-12 12:52:00"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:12"
+}

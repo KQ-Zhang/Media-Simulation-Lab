@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_0c666c6eb932ef71",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "宁夏银川青银高速韩某驾车逆行事件",
+  "factual_description": "2026年7月29日，宁夏交警接到网友举报，反映一辆白色小型客车在青银高速公路宁夏银川市辖区路段逆向行驶，正常行驶车辆的行车记录仪记录下迎面遭遇逆行车辆并紧急避让的惊险过程。公安交管部门迅速展开调查并联系到涉事驾驶员韩某。经核查，韩某因未提前规划行程错过高速出口，遂就地掉头逆行，并从就近收费站驶出高速。2026年7月30日，银川交警高速三大队民警对韩某进行了严肃批评教育；依据《中华人民共和国道路交通安全法》等相关法律法规，交管部门对韩某在高速公路上逆行的违法行为依法处以驾驶证记12分、扣留驾驶证及罚款200元的行政处罚。",
+  "event_time": {
+    "start": "2026-07-29",
+    "end": "2026-07-30",
+    "precision": "day",
+    "evidence": "宁夏交警于2026年7月29日接到网友行车记录仪视频举报并展开调查，银川交警高速三大队于2026年7月30日对涉事驾驶员韩某作出行政处罚。"
+  },
+  "locations": [
+    "中国/宁夏回族自治区/银川市/青银高速宁夏银川段"
+  ],
+  "aliases": [
+    "宁夏高速逆行事件",
+    "错过路口竟掉头逆行 宁夏高速上演惊险一幕",
+    "一小轿车高速逆行九秒行车记录仪拍下惊险画面",
+    "宁夏青银高速韩某逆行事件"
+  ],
+  "retrieval_queries": [
+    "宁夏 青银高速 逆行 行车记录仪",
+    "银川交警高速三大队 韩某 逆行",
+    "宁夏高速 错过路口 掉头 逆行 记12分",
+    "一小轿车高速逆行九秒 行车记录仪",
+    "宁夏高速逆行 行车记录仪拍下惊险画面"
+  ],
+  "must_match_facts": [
+    "涉事地点位于青银高速宁夏银川市辖区路段 [1.3.1]",
+    "涉事司机为韩某，驾驶白色小型客车",
+    "违法原因为错过路口后掉头逆行从就近收费站驶出",
+    "事件由后车/正常行驶车辆行车记录仪拍下并向交警举报",
+    "处理部门为银川交警高速三大队，处罚结果为记12分、扣留驾驶证、罚款200元"
+  ],
+  "exclude_if": ",\n    \"发生在山西菏宝高速、二广高速等地的逆行或倒车事故\",\n    \"发生在宁夏京藏高速青铜峡段的疲劳驾驶事故\",\n    \"发生在青银高速宁东南收费站智能驾驶撞护栏事故\"\n  ]",
+  "source_evidence": [
+    {
+      "title": "一小轿车高速逆行九秒行车记录仪拍下惊险画面",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-0dJgGIvediAt1RcsnF_5e2fWRPYopjOxmvzMVRrHhGhqXbjSPRFh5vOKl8cDXpcGE_CGtZISBo18LgbGeN8gr7Uxvd4KzA-IdZ2rDzOulhl1dx1cUsaqwUBncXy_XpCH",
+      "publisher": "央视新闻",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "[新闻直播间]宁夏高速逆行行车记录仪拍下惊险画面",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAhpJNpkPc6sv-YXKkyLU5RyR6moz9L53AUte3VetdNI9LZ6HB6hz7C0GtDnWxPLJzbwSH5O-FY1N5hRJlQAtAL8fRX1Z7YpHDw0pCtalGGhpfyk-mVbwV5SKtOMRVyiTtWhiXqufIKQHHBnnRvYeOles3a1romDCn",
+      "publisher": "央视网",
+      "published_at": "2026-08-03"
+    }
+  ],
+  "uncertainties": [
+    "行车记录仪拍摄逆行行为的具体发生精确时分未在公开报道中披露，但官方核查确认举报时间为2026年7月29日、处罚时间为7月30日 [1.3.1]"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:35"
+}

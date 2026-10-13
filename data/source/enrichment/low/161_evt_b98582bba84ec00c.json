@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_b98582bba84ec00c",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "国家药监局发布关于修订感冒灵口服制剂说明书的公告（2026年第66号）",
+  "factual_description": "2026年7月20日，国家药品监督管理局官网发布2026年第66号公告（落款时间为2026年7月16日），决定根据药品不良反应评估结果对感冒灵口服制剂（颗粒、胶囊、片、茶）说明书中的【警示语】、【不良反应】、【禁忌】和【注意事项】等项进行统一修订。公告及附件要求：在【警示语】项明确标注该药含对乙酰氨基酚、马来酸氯苯那敏、咖啡因，服药期间不得饮酒或含有酒精的饮料，服药期间不得驾驶机、车、船，从事高空作业、机械作业及操作精密仪器等；在【禁忌】项增加严重肝肾功能不全者及过敏者禁用等内容。公告同时要求所有相关药品的上市许可持有人须于2026年10月15日前向省级药监部门备案，备案之日起生产的药品不得使用原说明书，并在备案后9个月内对已出厂药品的说明书及标签予以更换或告知患者。",
+  "event_time": {
+    "start": "2026-07-20",
+    "end": "2026-07-20",
+    "precision": "day",
+    "evidence": "国家药监局网站于2026年7月20日公开发布《国家药监局关于修订感冒灵口服制剂说明书的公告（2026年第66号）》，公告署期为2026年7月16日"
+  },
+  "locations": [
+    "中国",
+    "北京市"
+  ],
+  "aliases": [
+    "国家药监局2026年第66号公告",
+    "感冒灵口服制剂说明书修订",
+    "感冒灵纳入服药后禁驾清单",
+    "吃完感冒灵不能开车新规",
+    "感冒灵说明书修订公告"
+  ],
+  "retrieval_queries": [
+    "国家药监局 修订感冒灵口服制剂说明书",
+    "感冒灵 2026年第66号公告",
+    "感冒灵 服药期间不得驾驶机车船",
+    "感冒灵 禁驾 马来酸氯苯那敏",
+    "感冒灵 2026年10月15日 备案"
+  ],
+  "must_match_facts": [
+    "国家药品监督管理局发布2026年第66号公告",
+    "修订对象为感冒灵口服制剂（颗粒、胶囊、片、茶）",
+    "警示语中要求明确标注服药期间不得驾驶机、车、船及操作精密仪器等",
+    "药企须于2026年10月15日前报省级药品监督管理部门备案"
+  ],
+  "exclude_if": [
+    "2024年国家药监局发布的《关于修订复方感冒灵制剂和银黄口服制剂说明书的公告（2024年第81号）》",
+    "2021年发布的《关于修订感冒清热制剂等4种药品说明书的公告（2021年第88号）》",
+    "其他非感冒灵药品的说明书修订或安全警示事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "国家药监局修订感冒灵口服制剂说明书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZJlx-_t_lBLi_SP5UsZ9cXfOonhoAWEL8floAycNBqLAWJ556FSQhgFDdZ4NM4Pe8sFHJnMtrjdasE8HUXV2A_6GaesUMPpjrbeBHoyrx4py1tfJHf1eZVgy-rzQ2oTpXzJh_qgw=",
+      "publisher": "中国食品药品网（中国医药报社）",
+      "published_at": "2026-07-20"
+    },
+    {
+      "title": "感冒灵正式纳入禁驾清单，国家药监局明确：服药期间不得开车",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiDklPNioQlBkdgjun0VDEZ-5JNN-WekHBgrgxWHuNkAA-4aS0XpJ6tUaKI7lLa4XSt8bsjqlzBDJwn-nPJzjo2lhJ-DdgSVXl4Hl70RNZpyRMEj2mLuBdHHJ7G1YSClv-uw==",
+      "publisher": "每日经济新闻 / 极目新闻",
+      "published_at": "2026-07-28"
+    },
+    {
+      "title": "服药期间不得驾车国家药监局修订感冒灵说明书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSN_mGz41WsnGFVFrQxySlftW2CjWbGFlDoc1_7oDbCmQvP8Oikf0oeR7rOVvpLimYWSlDRDJ1qp6P-oyhM_lQ096vWlN1DRUlutguqg78y7vsTzQZXIcNiqTuSu9nL-RRlOO5LPIK5q2I7o2PR4qO1Nx-rTOgM29xSC4CldE=",
+      "publisher": "丽水网",
+      "published_at": "2026-08-02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:09"
+}

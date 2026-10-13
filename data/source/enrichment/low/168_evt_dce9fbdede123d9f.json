@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_dce9fbdede123d9f",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "国家统计局发布2026年2月份居民消费价格指数（CPI）数据",
+  "factual_description": "2026年3月9日，国家统计局正式发布2026年2月份全国居民消费价格指数（CPI）和工业生产者出厂价格指数（PPI）数据。数据显示，2026年2月份全国居民消费价格同比上涨1.3%，环比上涨1.0%；1—2月平均，全国居民消费价格比上年同期上涨0.8%。在各类构成中，城市价格同比上涨1.4%，农村上涨0.9%；食品价格同比上涨1.7%，非食品价格同比上涨1.3%；消费品价格上涨1.1%，服务价格上涨1.6%。扣除食品和能源价格的核心CPI同比上涨1.8%。国家统计局解读表示，2月份价格走势主要受到春节假期消费需求集中释放、服务价格涨幅较多等因素影响。同期公布的2月份全国工业生产者出厂价格（PPI）同比下降0.9%，环比上涨0.4%。",
+  "event_time": {
+    "start": "2026-03-09",
+    "end": "2026-03-09",
+    "precision": "day",
+    "evidence": "国家统计局官网于2026年3月9日9时30分发布《2026年2月份居民消费价格同比上涨1.3%》及解读文章，央视新闻、中国证券报等主流媒体于当日进行了报道。"
+  },
+  "locations": [
+    "中国",
+    "北京"
+  ],
+  "aliases": [
+    "2026年2月份居民消费价格同比上涨1.3%",
+    "国家统计局发布2026年2月CPI数据",
+    "2026年2月份CPI同比上涨1.3% 环比上涨1.0%",
+    "2026年2月全国居民消费价格指数发布"
+  ],
+  "retrieval_queries": [
+    "国家统计局 2026年2月份居民消费价格同比上涨1.3%",
+    "2026年2月 CPI 同比上涨1.3% 环比上涨1.0%",
+    "国家统计局 3月9日 2026年2月份居民消费价格",
+    "董莉娟 2026年2月份CPI 1.3%",
+    "2026年2月 核心CPI 同比上涨1.8%"
+  ],
+  "must_match_facts": [
+    "国家统计局于2026年3月9日发布官方统计数据",
+    "统计期为2026年2月份全国居民消费价格（CPI）",
+    "全国CPI同比上涨1.3%",
+    "全国CPI环比上涨1.0%",
+    "核心CPI同比上涨1.8%"
+  ],
+  "exclude_if": [
+    "2024年2月份CPI数据（同比上涨0.7%）",
+    "2025年同期CPI数据发布",
+    "2026年其他月份（如1月、3月、8月）物价指数统计发布"
+  ],
+  "source_evidence": [
+    {
+      "title": "国家统计局：2月份居民消费价格同比上涨1.3%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEaiFJCxnJqcUpgVtThCArk6xSdJgXitkcMVfb4Iv6iFtTYHvQlGYr6xksY1tsOrt03-DgF3eEwtchZYErvdFmszVe3IYIhV5RG44bCYgTe8s6vA42x44dcwFYpVJ-q2dtoxJkdSJs_VlPc4czsLw2hZN7RXV6D_KQm-c=",
+      "publisher": "央视网",
+      "published_at": "2026-03-09"
+    },
+    {
+      "title": "国家统计局：2月份CPI同比上涨1.3%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdsqZXl-bnHwtpJ0GZ6YTUEusLj_2KAhCVH1Gr7jjqmLkau5Egy1yHF-_f2s1TOmEkdXpjpn5gQiKFAoTddhymHhWv6y-HW5fOYgTYvJdtzNbI4t0c970dxere648Nyw3W9Lx7F8m6imYB",
+      "publisher": "中国证券报·中证网",
+      "published_at": "2026-03-09"
+    },
+    {
+      "title": "统计局：2026年2月份居民消费价格同比上涨1.3%",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF37625QrtOcqZhDtR8UTc31O7ilIQ_s4OLTOGEWExNM5CrjrYIOtqkh_GpQh7pzPHwQmhLfwUEQrejTptmcVJf1RtRlNNA8r0Fer3tmeANcn2Qj-n0Is5u46WMPaES6ij4Oe08XXyaie1s3wi3qEQoq0w1trylztdpXN1gaJhoY2g=",
+      "publisher": "新浪财经（转自国家统计局）",
+      "published_at": "2026-03-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:21"
+}

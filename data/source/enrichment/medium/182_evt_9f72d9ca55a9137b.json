@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_9f72d9ca55a9137b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "姚晨与曹郁官宣离婚",
+  "factual_description": "2026年3月16日，演员姚晨与摄影师曹郁通过社交平台发布联合声明，正式对外宣布离婚。声明中表示，两人多年前已协议结束婚姻关系，因考虑到当时子女年幼而未对外公布；未来二人将以“家人一样的朋友”身份继续共同抚养孩子，并继续在艺术影视工作上携手合作。姚晨与曹郁于2012年结婚，婚后育有一子一女。在离婚声明发布后，媒体及企业征信平台信息显示，两人曾共同持股的“北京入射角管理咨询有限公司”已于2024年5月注销，双方已无直接持股的合资实体，但仍通过各自的工作室间接共同投资坏兔子（上海）影业有限公司。",
+  "event_time": {
+    "start": "2026-03-16",
+    "end": "2026-03-16",
+    "precision": "day",
+    "evidence": "2026年3月16日下午，姚晨与曹郁在微博正式发布联合离婚声明"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "姚晨曹郁官宣离婚",
+    "姚晨曹郁联合声明",
+    "姚晨曹郁称多年前已离婚",
+    "姚晨曹郁合伙公司注销"
+  ],
+  "retrieval_queries": [
+    "姚晨 曹郁 官宣离婚",
+    "姚晨 曹郁 联合声明",
+    "姚晨 曹郁 多年前 婚姻关系",
+    "姚晨 曹郁 北京入射角管理咨询有限公司 注销",
+    "姚晨 曹郁 家人一样的朋友"
+  ],
+  "must_match_facts": [
+    "姚晨与曹郁于2026年3月16日公开发布联合离婚声明",
+    "声明中称双方多年前已结束婚姻关系",
+    "声明指出因当时孩子年幼未对外公布",
+    "两人共同持股的北京入射角管理咨询有限公司已于2024年5月注销"
+  ],
+  "exclude_if": [
+    "姚晨与前夫凌潇肃2011年宣布离婚事件",
+    "将官宣离婚时间误定为2024年5月的错误报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "姚晨曹郁声明：多年前已结束婚姻关系",
+      "url": "https://www.jiemian.com/article/10904323.html",
+      "publisher": "界面新闻",
+      "published_at": "2026-03-16"
+    },
+    {
+      "title": "姚晨官宣离婚！两人仍有商业关联",
+      "url": "https://www.stcn.com/article/detail/1138402.html",
+      "publisher": "证券时报",
+      "published_at": "2026-03-16"
+    },
+    {
+      "title": "姚晨夫妇名下咨询公司注销",
+      "url": "https://www.jiemian.com/article/11189382.html",
+      "publisher": "界面新闻",
+      "published_at": "2024-05-26"
+    }
+  ],
+  "uncertainties": [
+    "声明中仅提及“多年前”结束婚姻关系，双方办理离婚登记或协议解除婚姻的具体确切时间未予公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:51"
+}

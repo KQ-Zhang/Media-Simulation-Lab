@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_06897a98db78bced",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "昆明金宝山艺术园林墓碑贴欠费通知单事件",
+  "factual_description": "2026年4月5日清明节期间，云南昆明一网民在社交平台发布视频称，前往昆明金宝山艺术园林祭扫先人时，发现墓碑上被张贴了一张催缴护墓管理费的通知单。通知单内容称亲人墓位管理费已欠费且联系方式变更无法联系，要求家属及时续缴，并称若6个月内未缴纳将依据《云南省公墓管理规定》处理，但通知单上并未加盖公章。该做法引发公众对公墓收费及对待逝者尊严方式的广泛讨论。4月6日，金宝山艺术园林工作人员对此回应称，管理费包含园区绿化、卫生、安保等服务支出，缴费周期可按10年、20年或一次性缴清；园方欠费通常先电话通知家属，因部分家属换号无法取得联系才在现场张贴，后续补齐即可。墓园所在的昆明市西山区民政局工作人员同日表示，公墓管理费用金额并不高。",
+  "event_time": {
+    "start": "2026-04-05",
+    "end": "2026-04-06",
+    "precision": "day",
+    "evidence": "潇湘晨报报道，4月5日清明期间云南网友发视频称上祖坟发现被贴欠费通知；4月6日媒体向金宝山艺术园林及民政部门采访并核实回应。"
+  },
+  "locations": [
+    "中国/云南省/昆明市/西山区/金宝山艺术园林"
+  ],
+  "aliases": [
+    "云南网友称上坟发现墓碑被贴欠费通知单",
+    "昆明金宝山公墓墓碑贴催缴单事件",
+    "昆明墓园墓碑贴欠费通知事件",
+    "上坟发现墓碑被贴欠费通知单"
+  ],
+  "retrieval_queries": [
+    "墓碑被贴欠费通知单",
+    "金宝山艺术园林 欠费通知",
+    "昆明 墓碑 欠费通知单",
+    "上坟发现欠费了 金宝山",
+    "云南省公墓管理规定 无主墓 金宝山"
+  ],
+  "must_match_facts": [
+    "事发地点为云南省昆明市的金宝山艺术园林公墓",
+    "清明节期间家属祭扫时发现墓碑上被张贴催缴管理费通知单",
+    "通知单无公章并提示逾期未缴将依据公墓管理规定处理",
+    "园方回应称管理费含绿化、保洁、安保等，因电话联系不上家属才在现场张贴"
+  ],
+  "exclude_if": [
+    "其他公墓墓穴产权到期收回或强拆事件",
+    "非昆明金宝山艺术园林的公墓纠纷",
+    "天价墓地或违建豪华墓地相关案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "网友上坟发现墓碑被贴欠费通知单，昆明一园林回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERImybjpKbBH6wGB_1KE8hCwQf5TfCyMUp2yLWII0OVW-_R2lAaKAPqIA6bzAcI_QBmXl1nWRTpi1P_KtMczvkLkrJU2ePmp3EZ042w25sTZks1bEg_BhK2gg=",
+      "publisher": "潇湘晨报 / 凤凰网",
+      "published_at": "2026-04-06"
+    },
+    {
+      "title": "网友称上坟发现墓碑被贴欠费通知单，工作人员回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh-l2CcQJFO9RyzNnFkidDJ27hw4ezN_9nRYVmQLjeFX8so66eaF63khEEcexBjn3oUIsxYreTCbKO1GjTobDTH8PiI3Ouj-QXxonCyJJIcki-f6rqfH_NPhHdK4hyaa_Pxcs2wTDHuNFIEkQOtER9E0AFhBK-6BHXZq7u2Yb-",
+      "publisher": "羊城晚报·羊城派 / 新浪财经",
+      "published_at": "2026-04-06"
+    },
+    {
+      "title": "昆明一墓园在墓碑贴欠费通知催缴管理费",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHKoqndwO_6yx2-oVgvc6nSmyZLdvfQaEKv_BbAi_GpYuj9YyqFwHylaitVBKo0iLFXGSbaCC_K-4d2kjg66RK6uG52zJHrLos8S3NWSENwBltCcaUNIS7q1KRSOmaTtjD8kwa-L801jYpFe2ohM5Dq",
+      "publisher": "联合早报",
+      "published_at": "2026-04-07"
+    }
+  ],
+  "uncertainties": [
+    "输入描述中所提年份为2024年，但公开权威报道均证实该具体事件发生并曝光于2026年4月清明节期间，输入描述的年份存在笔误"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:18"
+}

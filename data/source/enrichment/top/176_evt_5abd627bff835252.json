@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_5abd627bff835252",
+  "verification_status": "partially_verified",
+  "confidence": 0.95,
+  "canonical_event_name": "美国国土安全部将洽洽食品、思念食品、七匹狼等43家中企列入涉疆法案实体清单",
+  "factual_description": "美东时间2026年7月31日，美国国土安全部（DHS）代表强迫劳动执法工作组（FLETF）宣布，将洽洽食品、郑州思念食品、福建七匹狼等43家中国企业增列至《防止强迫维吾尔人劳动法》（UFLPA）实体清单，相关措施于2026年8月3日正式生效。本次扩充涉及食品、服装、医药、电子元件、有色金属等多个行业，清单中的中国实体总数由144家增至187家，为该清单设立以来规模最大的一次扩容。美方规定自8月3日起，美国海关和边境保护局（CBP）对清单企业相关产品适用‘可反驳的推定’原则限制入境，除非进口商能证明供应链不涉及强迫劳动。针对美方做法，中国商务部于2026年8月1日回应表示，美方做法毫无事实依据，系典型的经济胁迫，对此予以强烈谴责和坚决反对。",
+  "event_time": {
+    "start": "2026-07-31",
+    "end": "2026-08-03",
+    "precision": "day",
+    "evidence": "美东时间2026年7月31日美国国土安全部发布公告，清单变更于2026年8月3日生效；中国商务部于2026年8月1日回应。"
+  },
+  "locations": [
+    "美国",
+    "中国"
+  ],
+  "aliases": [
+    "美国制裁洽洽瓜子思念水饺",
+    "43家中企被列入UFLPA实体清单",
+    "美国将洽洽瓜子、思念水饺等43家中企列入涉疆法案实体清单",
+    "美国国土安全部扩增涉疆实体清单",
+    "美涉疆实体清单新增43家中企"
+  ],
+  "retrieval_queries": [
+    "美国 洽洽瓜子 思念水饺 七匹狼",
+    "美国国土安全部 43家中企 UFLPA",
+    "维吾尔强迫劳动预防法 洽洽食品 思念食品",
+    "涉疆法案实体清单 洽洽瓜子",
+    "43家中企 涉疆清单 8月3日",
+    "美国制裁洽洽瓜子思念水饺"
+  ],
+  "must_match_facts": [
+    "美国国土安全部（DHS）于2026年7月31日宣布将43家中国企业增列至UFLPA实体清单，2026年8月3日生效。",
+    "清单新增企业包含洽洽食品（洽洽瓜子）、郑州思念食品（思念水饺）、福建七匹狼等知名企业。",
+    "涉疆法案实体清单企业数量从144家扩大至187家。",
+    "美方依据《防止强迫维吾尔人劳动法》（UFLPA）对清单企业产品适用‘可反驳的推定’限制入境。",
+    "中国商务部于2026年8月1日发表回应，对美方无理打压中国企业的行为表示强烈谴责和坚决反对。"
+  ],
+  "exclude_if": [
+    "讨论2021年美国签署《防止强迫维吾尔人劳动法》（UFLPA）立法过程",
+    "讨论2026年8月3日前其他批次的涉疆实体清单调整",
+    "涉及非涉疆法案的美国商务部实体清单（Entity List）或SDN清单制裁事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "商务部新闻发言人就美国将中国企业列入所谓涉疆法案实体清单答记者问",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_27pSl2ApM7ws0e1grJjh-cwDZi20gwMrzbpqEUiipnfHcpBzb9716KdOQ0Di-CSGoe2Fy2BAR8bIs3170KN-Y7vAwsK2Vo26ydEjUtaZj07y3yKsRTwOvkVyp4mD9t0IdGoH9dxNbbyAZHoqsto5cqDX9fcP7t9DpoRqincMChcKXoFX8vnGt1Zty1hMwA==",
+      "publisher": "中华人民共和国商务部",
+      "published_at": "2026-08-01"
+    },
+    {
+      "title": "美国将洽洽瓜子、思念水饺列入制裁清单",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg0u_SAF7Bkn-iZU8_8isiytCATOMDf5aFTxGkY-mNrg5EYZXsb8gnM-VNDOcr8qJ88Kin7-8STlN3wUTUWItD-kMUvUCqGzuW8Oxw1WsK36s1ZsKa-lZ359wX4RFDlX2oConFq9_8Y0qdino=",
+      "publisher": "观察者网",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "美国将43家企业加入《防止强迫维吾尔人劳动法》实体清单，禁止其产品入境美国",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyTC6T1a1R4UjIuqWQQr3_ukfvtYSB0PEugDD7MHAamE1T9J_QRmjVxab-CWWJkiwWgDO8RiTuarQPekAUDLimBCFI9gzzt4StrJsDvHuhqFW7PZqNeB8QRxTeTh_TwUFK3o5Jtl5BTAKEx1D2U-JrcJoTnDlL384lwVNRIFRjjuFe_LLsgzet4IAvyDWQrvBjpyp7e5bu6RSWI6vu2J-tHJyITT_RgzQc-6m13ePDqXIHaPfRPRzCT23R76qcgOiIgXyRsRbqOsAkyJ1X_lxdAygm_Aq5jvbkIwMisw==",
+      "publisher": "美国之音",
+      "published_at": "2026-08-01"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中记录的事件发生年份有误（现有描述标注为2023年8月3日，实际美方公告于2026年7月31日发布，2026年8月3日生效）。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:09"
+}

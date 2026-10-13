@@ -1,0 +1,131 @@
+{
+  "event_id": "evt_f6621f841f7a9415",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "新疆巴楚女子怀疑丈夫出轨扒货车车尾跟踪事件",
+  "factual_description": "2026年3月24日21时许，在新疆维吾尔自治区喀什地区巴楚县友谊路与银花路交会路口，巴楚县公安局交管大队执勤民辅警在巡逻时发现，一辆行驶中的小型货车车尾处竟双手攀附着一名女子。该女子毫无防护悬空挂在车厢后挡板上，情况十分危险。民警立即鸣笛并示意货车靠边停车，随后将体力近乎透支的女子安全扶下。经核实，涉事女子因怀疑丈夫玉某出轨，遂趁丈夫准备驾车出门时偷偷攀附在车尾试图跟踪。货车司机玉某对妻子扒车一事完全不知情。所幸事发路段车流量小且车速慢，未造成人员伤亡。民警对该女子的危险行为进行了严肃的口头批评教育；同时，公安交管部门依据交通安全法律法规，以司机玉某上车前未绕车一周检查车辆安全状况及后方人员为由，依法对其处以驾驶证记3分、罚款200元。",
+  "event_time": {
+    "start": "2026-03-24",
+    "end": "",
+    "precision": "day",
+    "evidence": "据《新疆法治报》报道，事件发生的具体时间为2026年3月24日21时许。"
+  },
+  "reporting_time_range": {
+    "start": "2026-03-26",
+    "end": "2026-03-31"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/喀什地区/巴楚县/友谊路与银花路交会路口"
+  ],
+  "people": [
+    {
+      "name": "玉某",
+      "role": "涉事货车司机（女子的丈夫）"
+    },
+    {
+      "name": "未公开",
+      "role": "攀附车尾跟踪的女子（玉某的妻子）"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "巴楚县公安局交通管理大队",
+      "role": "出警拦截处置及行政处罚单位"
+    },
+    {
+      "name": "新疆法治报社",
+      "role": "首发及权威报道媒体"
+    }
+  ],
+  "trigger": "妻子因长期怀疑丈夫玉某出轨，趁其开车出门时偷偷扒挂在货车车尾试图跟踪其行踪。",
+  "key_actions": [
+    "涉事女子趁丈夫玉某准备驾驶小型货车出门时偷偷攀附在货车车尾挡板上",
+    "货车司机玉某未绕车一周检查即开车上路，对其妻子扒在车尾全然不知",
+    "巴楚县公安局交管大队执勤民警在友谊路与银花路交会路口发现后拦停货车并救下女子",
+    "民警对女子的危险行为进行口头批评教育",
+    "交警部门以未绕车一周检查车辆周围安全状况为由，依法对玉某记3分、罚款200元"
+  ],
+  "outcome_and_status": "涉事女子被民警安全扶下并予以批评教育；司机玉某因未履行开车前绕车检查义务被依法记3分、罚款200元。事件经媒体报道后引发网民对处罚依据及公共安全的热议。",
+  "timeline": [
+    {
+      "time": "2026-03-24 21:00",
+      "fact": "新疆喀什巴楚县一女子扒在丈夫驾驶的小货车车尾跟踪，被执勤交警在友谊路与银花路交会路口查获并救下。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJB1mu488aNe3NQRmmw7sk9xS7DTRMFr3LzukRFrYyqHesukT9pXgAZalBSh3JqQ9dpKxDqFt1b90EaKhkg_Nu8_Rw7UTe1h-8NC1sT3vvIn64NY1MqXN2fH_NxHFvYIpey-LwHkHfIFv009FQzRmb0Ispv0AXM5YemLiVNQr273l7sGmX"
+      ]
+    },
+    {
+      "time": "2026-03-26",
+      "fact": "《新疆法治报》报道该事件，随后全国多家 mainstream 媒体跟进转载。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETF_acAYoOGaKXRNjqzsbPzQZ0Cm2IwLheW3PyjbishpXucrtsIKe9awrUhxQNXKIZVQdSv5J-Vuaz3Q1CQmZPvaOHmCP3JlyU8XAmanbsxpBP6l690E_vQQk-hKa-q2QTN2lyzKgTwdsp5A=="
+      ]
+    }
+  ],
+  "aliases": [
+    "女子怀疑丈夫出轨扒货车车尾跟踪事件",
+    "新疆巴楚女子扒车尾捉奸事件",
+    "女子疑夫出轨肉身扒车尾事件",
+    "货车司机未绕车一周被记3分罚200元事件"
+  ],
+  "retrieval_queries": [
+    "女子怀疑丈夫出轨扒货车车尾跟踪",
+    "新疆巴楚 扒货车车尾 跟踪",
+    "玉某 货车 妻子 扒车尾",
+    "巴楚交警 绕车一周 记3分 罚款200",
+    "新疆法治报 扒车尾 跟踪",
+    "友谊路与银花路交会路口 货车 女子"
+  ],
+  "must_match_facts": [
+    "发生在新疆喀什地区巴楚县",
+    "女子因怀疑丈夫出轨而偷偷悬空扒挂在丈夫驾驶的小型货车车尾",
+    "货车司机因未绕车一周检查车辆周围安全状况被公安交管部门记3分、罚款200元"
+  ],
+  "optional_supporting_facts": [
+    "事发具体交叉路口为友谊路与银花路交会路口",
+    "出警单位为巴楚县公安局交管大队",
+    "货车司机姓玉"
+  ],
+  "exclude_if": [
+    "发生在2025年及以前的旧闻或发生在其他省市的扒车跟踪案件",
+    "涉事车辆为私家轿车、公交车或出租车"
+  ],
+  "distinctive_entities": [
+    "巴楚县",
+    "玉某",
+    "友谊路与银花路交会路口",
+    "巴楚县公安局交管大队",
+    "绕车一周",
+    "记3分罚款200元"
+  ],
+  "source_evidence": [
+    {
+      "title": "查老公出轨新疆女扒货车车尾跟踪交警这处理让全网炸锅",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJB1mu488aNe3NQRmmw7sk9xS7DTRMFr3LzukRFrYyqHesukT9pXgAZalBSh3JqQ9dpKxDqFt1b90EaKhkg_Nu8_Rw7UTe1h-8NC1sT3vvIn64NY1MqXN2fH_NxHFvYIpey-LwHkHfIFv009FQzRmb0Ispv0AXM5YemLiVNQr273l7sGmX",
+      "publisher": "新疆法治报 / 万维读者网",
+      "published_at": "2026-03-28",
+      "supports": [
+        "事件发生时间为2026年3月24日21时许",
+        "地点为新疆喀什巴楚县友谊路与银花路交会路口",
+        "货车司机名为玉某",
+        "玉某因未绕车一周被处记3分、罚款200元"
+      ]
+    },
+    {
+      "title": "女子怀疑丈夫出轨扒车尾跟踪，丈夫浑然不知开上路被查获",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETF_acAYoOGaKXRNjqzsbPzQZ0Cm2IwLheW3PyjbishpXucrtsIKe9awrUhxQNXKIZVQdSv5J-Vuaz3Q1CQmZPvaOHmCP3JlyU8XAmanbsxpBP6l690E_vQQk-hKa-q2QTN2lyzKgTwdsp5A==",
+      "publisher": "新疆法治报 / 新浪新闻",
+      "published_at": "2026-03-26",
+      "supports": [
+        "巴楚交警与新疆法治报报道源",
+        "妻子怀疑丈夫出轨扒车尾跟踪",
+        "警方要求司机开车前绕行一周检查"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "涉事女子的真实姓名未公开"
+  ],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:30:40"
+}

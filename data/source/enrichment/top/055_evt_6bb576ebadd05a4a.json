@@ -1,0 +1,81 @@
+{
+  "event_id": "evt_6bb576ebadd05a4a",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "26岁日本女网红Mina在韩直播轻生事件",
+  "factual_description": "2026年8月5日凌晨，居住在韩国首尔的一名26岁日本籍女网红（网名Mina，TikTok等平台粉丝约8万，系韩国男团ENHYPEN日籍成员西村力的资深粉丝）在首尔龙山区汉江路洞一处公寓式住宅内进行网络直播期间自杀身亡。韩国警方与消防部门接报后于当日凌晨5时33分赶赴现场，确认其已经死亡。据多家权威媒体报道与警方线索，事件起因于2026年7月底该女子在演唱会期间尝试转交向日葵道具引发追星争议，随后相关隐晦言论被部分粉丝对号入座并对其发起大规模人肉搜索与网络暴力。该女子随后发文道歉并关闭追星账号，但在8月5日凌晨直播期间因情绪崩溃采取极端举动。首尔龙山警察署随后对事件的确切死因及具体经过展开调查。8月7日，涉事男团成员西村力发布公开声明表达慰问与反省。",
+  "event_time": {
+    "start": "2026-08-05",
+    "end": "2026-08-05",
+    "precision": "day",
+    "evidence": "据韩联社及韩国警方通报，当地时间2026年8月5日凌晨，该女子在首尔龙山区汉江路洞公寓内直播期间轻生，警方于凌晨5时33分接报赶抵现场确认死亡。"
+  },
+  "locations": [
+    "韩国/首尔/龙山区/汉江路洞"
+  ],
+  "aliases": [
+    "26岁日本女网红Mina在韩直播自杀",
+    "首尔龙山区日籍女网红直播轻生案",
+    "西村力粉丝Mina追星纠纷网暴自杀事件",
+    "ENHYPEN粉丝向日葵网暴事件"
+  ],
+  "retrieval_queries": [
+    "日本女网红 韩国 直播 自杀",
+    "Mina 西村力 网暴",
+    "26岁日本女网红 首尔 龙山区 汉江路洞",
+    "ENHYPEN 向日葵 站姐 轻生",
+    "日本籍女网红 在韩直播自杀",
+    "西村力 站姐 Mina"
+  ],
+  "must_match_facts": [
+    "事件发生时间为2026年8月5日凌晨",
+    "发生地点位于韩国首尔市龙山区汉江路洞",
+    "死者为26岁日本籍女性网红（网名Mina）",
+    "死者生前为韩国男团ENHYPEN成员西村力（NI-KI）资深粉丝/站姐",
+    "事件起因涉及演唱会转交向日葵道具引发的网络暴力",
+    "警方与消防部门于8月5日凌晨5点33分赶到现场确认其死亡"
+  ],
+  "exclude_if": [
+    "与韩国男团ENHYPEN或西村力无关的其他网红直播自杀事件",
+    "发生在首尔龙山区以外地区的非涉案人员轻生事件",
+    "并非发生在2026年8月的其他追星争议事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "20多岁日本籍女网红在韩国直播时自杀，网友急求警方介入",
+      "url": "https://www.thepaper.cn/newsDetail_forward_28330752",
+      "publisher": "红星新闻 / 澎湃新闻",
+      "published_at": "2026-08-05"
+    },
+    {
+      "title": "日本女网红在韩直播自杀，生前因追Kpop男团遭网暴",
+      "url": "https://www.guancha.cn/internation/2026_08_06_764724.shtml",
+      "publisher": "观察者网",
+      "published_at": "2026-08-06"
+    },
+    {
+      "title": "26歲日籍女網紅在南韓直播時自殺或因生前遭受網暴警方介入調查",
+      "url": "https://www.orangenews.hk/international/1231804/",
+      "publisher": "橙新闻",
+      "published_at": "2026-08-06"
+    },
+    {
+      "title": "韩国男团成员西村力发“谢罪文”，回应日籍女网红直播自杀",
+      "url": "https://news.ifeng.com/c/8bwQ7fS1p6U",
+      "publisher": "红星新闻 / 凤凰网",
+      "published_at": "2026-08-07"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:00:09"
+}

@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_d2591a2b670b45e6",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "浙江职业足球俱乐部就李镇全辱骂米特里策向中足联提出纪律处罚申请",
+  "factual_description": "2026年4月5日，中超联赛第4轮浙江绿城队主场对阵重庆铜梁龙队的比赛中，重庆铜梁龙球员李镇全贴身盯防浙江队外援米特里策，两人发生冲突，米特里策因拉扯李镇全头发被红牌罚下，赛后米特里策被中足联停赛4场罚款4万元，浙江俱乐部亦对其处以6万欧元内部罚款。4月9日，浙江职业足球俱乐部经视频核查取证后，正式向中国足球职业联赛联合会（中足联）提交纪律处罚申请，指控李镇全在比赛中对米特里策存在言语辱骂等非体育道德行为，并附上完整现场视频证据要求同等尺度追责。4月10日，中足联纪律与道德委员会发布处罚通告，认定李镇全辱骂对手行为属实，对其处以停赛2场、罚款人民币2万元的追加处罚。",
+  "event_time": {
+    "start": "2026-04-09",
+    "end": "2026-04-10",
+    "precision": "day",
+    "evidence": "浙江媒体于2026年4月9日披露俱乐部已正式向中足联提交申请；中足联于2026年4月10日正式对李镇全作出停赛罚款决定。"
+  },
+  "locations": [
+    "中国/浙江省/杭州市/黄龙体育中心体育场",
+    "中国/北京市"
+  ],
+  "aliases": [
+    "浙江队就李镇全比赛中辱骂对手行为向中足联提出追责申请",
+    "浙江队向中足联申请处罚李镇全",
+    "浙江队申诉李镇全辱骂米特里策",
+    "李镇全辱骂米特里策停赛事件"
+  ],
+  "retrieval_queries": [
+    "浙江队 李镇全 追责申请",
+    "浙江队 李镇全 辱骂 中足联",
+    "李镇全 米特里策 停赛",
+    "中足联 李镇全 申诉",
+    "潮新闻 浙江队 李镇全",
+    "浙江俱乐部 李镇全 纪律处罚"
+  ],
+  "must_match_facts": [
+    "涉及2026赛季中超第4轮浙江队对阵重庆铜梁龙队的比赛",
+    "核心当事球员为重庆铜梁龙球员李镇全与浙江队外援米特里策",
+    "浙江职业足球俱乐部向中足联提交李镇全言语辱骂/非体育行为的处罚申请及视频证据",
+    "中足联纪律与道德委员会最终认定违纪并对李镇全作出停赛2场、罚款2万元的处罚"
+  ],
+  "exclude_if": [
+    "中足联单纯对米特里策拉拽头发开出罚单的事件",
+    "重庆铜梁龙官员杜宇因辱骂裁判受罚事件",
+    "重庆球迷组织后续要求核查浙江队刘浩帆的抗议事件",
+    "其他赛季或与其他球员相关的赛场非体育行为处罚事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "浙媒：浙江队就铜梁龙球员李镇全的违规行为提出追责申请",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4HGFF5jNP9fj2gfaEh3SKvUEuK_HoWyjiMRR3q5PodHbkIiZk9tQlJ-kEsxWDVUZeqn5_xuuGFB-0cVFTRPKL6mEc0eJ1uZiSi_LfX-RJLedpByzl0hxaWvBDdh1MSzcZr-emFv_a7Wf9EWWsEFld_jXvfVl0YXDyfZK9ioWhNws7Skm0vMmaKg0GluzZpYksiMUmOlDxBPlYz4B1",
+      "publisher": "懂球帝/潮新闻",
+      "published_at": "2026-04-09"
+    },
+    {
+      "title": "中足联官方：李镇全因辱骂米特里策被停赛两场，罚款两万元",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUVUS7bTeY3kcK5HXuOOmTg2iEbiY6vGMycm-y9MoXMoHbnRsl8HL2NVqPzCSJUkilmfhNsdTCKBcrr4SY2K851TySzkpWi7846uVDeFmtONZnjCUGYaYhwRCgxMekJJzLDOCvYsIR",
+      "publisher": "上观新闻（新民晚报）",
+      "published_at": "2026-04-10"
+    },
+    {
+      "title": "中足联官宣！李镇全停赛2场罚款2万，辱骂米特里策，浙江队申诉成功",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjBtMcwalEK9-pVS3VpP0yeUJRRwlBPQy8-dlz-CWG9UojW1nFLNoFCSEZvfZg6eCCapunqKrj4faKZy-InPIU3eeMwgaljR_y7zde9VPb1c0GUgAEjhrRdL4xa8MhvEbG",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-04-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:39"
+}

@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_cac4ccba5f8784b4",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "国家发改委回应大规模投建算力网报道强调市场力量起决定性作用",
+  "factual_description": "2026年6月18日上午，国家发展改革委举行6月份例行新闻发布会。针对近期有外媒报道称中国政府正在研究大规模投资建设算力网，国家发展改革委政策研究室副主任、委新闻发言人李超在回应媒体提问时表示，随着人工智能快速发展，全国一体化算力网建设正在加速推进。截至2026年3月底，我国已建成智能算力规模188.2万P，是去年同期的2.5倍，预计还将保持高速增长态势。我国已形成以8大国家算力枢纽、10个国家算力集群、3个算电协同发展区域为重点的“8+10+3”算力空间布局。李超明确强调，在算力网具体建设过程中，市场力量将起决定性作用；国家发改委将会同有关部门，加强统筹协调和政策引导。",
+  "event_time": {
+    "start": "2026-06-18",
+    "end": "2026-06-18",
+    "precision": "day",
+    "evidence": "2026年6月18日上午10时许，国家发展改革委在月度新闻发布会上回应媒体关于大规模投建算力网的关切。"
+  },
+  "locations": [
+    "中国/北京市/西城区/国家发展和改革委员会"
+  ],
+  "aliases": [
+    "国家发改委回应大规模投建算力网：市场力量将起决定性作用",
+    "发改委回应大规模投建算力网",
+    "国家发改委回应算力网建设：市场力量起决定性作用",
+    "发改委谈全国一体化算力网建设"
+  ],
+  "retrieval_queries": [
+    "国家发改委 算力网 市场力量将起决定性作用",
+    "发改委 李超 大规模投建算力网",
+    "国家发改委回应大规模投建算力网",
+    "发改委 6月份新闻发布会 算力网",
+    "已建成智能算力规模188.2万P 市场力量",
+    "全国一体化算力网 市场力量起决定性作用"
+  ],
+  "must_match_facts": [
+    "2026年6月18日国家发展改革委召开例行新闻发布会",
+    "国家发改委新闻发言人李超回应外媒关于大规模投建算力网的报道",
+    "表态在算力网具体建设过程中市场力量将起决定性作用",
+    "披露截至2026年3月底我国已建成智能算力规模188.2万P"
+  ],
+  "exclude_if": [
+    "工信部等六部门发布《算力基础设施高质量发展行动计划》",
+    "国家数据局就深入实施“东数西算”工程答记者问",
+    "地方发改委出台本地算力网建设补贴方案"
+  ],
+  "source_evidence": [
+    {
+      "title": "国家发展改革委举行6月份新闻发布会",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWCV-TGrcgDEZ3LhGXsnABulRfyZyIJthzhvQYd84Y4ojJxo-noH1CNmJnxsud97fo11uimroWWd1RUHEVCCsaPZ-d89lXLc2cRV_3VFpl_U9fRy48tDIgQCizgm_qFOujvT2I5O6sO8hl0LS_f3OuzbVE6dmBly0LdGVtwbuq5xQ_",
+      "publisher": "国家发展和改革委员会",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "国家发改委回应算力网建设：市场力量起决定性作用",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjb8vs0TK3bDNM8xtRh7H8ISKoaWxh-UtWiFeL9HMjoCS0_foLtBGUevItljEr1rAJ5lSgk6SqKzcpA4LP1eeLPUBUwW-FqRG5iKKySeZxzY215Oji3KcNDWpa6uSQaE_5ZaqQhD91gn3zv7281xS8UkKN",
+      "publisher": "人民网",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "发改委回应大规模投建算力网：市场力量将起决定性作用",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEU117XAUAedfc8d2TB0_EyPuvt-omU02s-okxJj_TRbEQVUgPaZ7-REhmMXntO62zuNBqFAd9WtWIrprkfacUw-E4ga95Qu6yHqJOfDxDHGZuoHMdmR5ySV1tyS3a8e-h",
+      "publisher": "界面新闻",
+      "published_at": "2026-06-18"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:35"
+}

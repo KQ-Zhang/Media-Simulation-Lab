@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_247c7374556d9b80",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年西班牙飞地休达大规模移民危机",
+  "factual_description": "2026年7月下旬至月底，受社交媒体虚假信息炒作（曲解西班牙最高法院关于海上截获移民不得直接遣返的裁决）及人口贩运网络煽动，大批来自摩洛哥的非法移民通过游泳、简易漂浮工具渡海及冲闯陆地边境围栏等方式，集中涌入西班牙位于北非的飞地休达。西班牙内政部官方统计显示，共有约7.2万人次非法越境进入休达。该事件造成至少72人因溺水、踩踏等意外身亡。危机爆发后，西班牙政府紧急调派军队和国民警卫队封锁边境并加强海陆巡逻，同时在近海增设浮动阻隔设施。截至8月上旬，在两国边境协调与自愿撤离机制下，约7万人已返回摩洛哥，但仍有数千名移民滞留当地。该事件引发西班牙国内强烈政治反弹，并导致欧盟内部围绕移民与申根边境管控展开紧急磋商，暴露出深层次政策分歧与地缘政治博弈。",
+  "event_time": {
+    "start": "2026-07-29",
+    "end": "2026-08-04",
+    "precision": "day",
+    "evidence": "西班牙内政大臣及新华社、央视等报道证实，偷渡潮于2026年7月底集中爆发，至8月4日官方通报约7万人已返回，后续善后与滞留人员安置持续至8、9月。"
+  },
+  "locations": [
+    "西班牙休达自治市",
+    "摩洛哥",
+    "西摩休达边境"
+  ],
+  "aliases": [
+    "西班牙飞地休达移民危机",
+    "休达移民危机",
+    "2026年休达偷渡潮",
+    "2026年摩洛哥—西班牙边境事件",
+    "休达边境危机"
+  ],
+  "retrieval_queries": [
+    "休达 移民危机",
+    "西班牙 休达 7.2万",
+    "休达 摩洛哥 越境 2026",
+    "西班牙飞地休达 偷渡",
+    "Ceuta migrant crisis 2026",
+    "休达 遣返 摩洛哥"
+  ],
+  "must_match_facts": [
+    "时间发生于2026年7月底至8月初",
+    "地点为西班牙位于北非的海外属地/飞地休达及摩洛哥边境",
+    "越境移民规模达约5万至7.2万人次，多通过泅渡或陆路冲关进入",
+    "事件造成数十人溺水或意外丧生（官方通报至少72人遇难）",
+    "绝大多数越境者在数日内被遣返或自愿返回摩洛哥"
+  ],
+  "exclude_if": [
+    "2021年5月休达因西撒哈拉领导人治病引发的万人越境危机",
+    "2022年6月西班牙梅利利亚铁丝网冲突惨案",
+    "涉及加那利群岛的常规海上偷渡事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "西班牙称约7万名非法入境休达的移民已返回摩洛哥",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqU_y8Yl3wLtQR1eUsuBUUDhn-P9wku7JV_Nw5I4PVudiWrCkRsqOkCaNeeESfdI2hkPi3z5b8ZydsqMExqMeEnfMc8BipXQabmzhUjrYX8AsnxTO2P1l2lQ1mx-Xnw9DCg6w-x68GQYfcBw_qIaPXc9Vtx71UExbH8A==",
+      "publisher": "新华网",
+      "published_at": "2026-08-05"
+    },
+    {
+      "title": "热点问答丨休达为何成为欧洲移民危机焦点",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEn69n_fMyt-hQ5thi3HUzWq1yeUU0zfeevi-AgAjCPXWHDj2qpBu7rjSNDL4Ho7xOYOf8u0lw3WVw-8gKppXECyI80bEev7kAwwtK7QgDdtihvbtb86sWYAdLW9w0qrnha3uCHzaJfs8PdoLzOtpmnqt4MJjGrGwCJQ8fHURD7Pg==",
+      "publisher": "新华网",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "西班牙飞地休达移民危机已造成72人死亡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtJfcX26LetYpLIBtlHA62-xAq3r4B0Pz3AMSWw3KdbrtusTQupBsxM6NCxvtx03CWTFq8yZaginJJFm5lXD12mBiFbBvTGJPmKKE6Bp_Row-oMVw1wrq_tIuGtsMvQLF6Q5F0lOKNHyWT1nclEcWGnD3nxXhT",
+      "publisher": "央视新闻客户端 / 北京日报",
+      "published_at": "2026-08-02"
+    }
+  ],
+  "uncertainties": [
+    "摩洛哥官方是否蓄意放松边境管控存在两国外交争议，摩洛哥官方对此予以否认",
+    "最终死亡人数存在媒体统计（67至111人不等）与官方不同阶段通报的差异"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:15"
+}

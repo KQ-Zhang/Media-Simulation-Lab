@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_391ccf2c7729d9e1",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年广东增城荔枝遭遇“小年”大幅减产事件",
+  "factual_description": "2026年3月中下旬，广东荔枝进入花期，广州市增城区等荔枝主产区迎来产量“小年”。央视新闻及广东广播电视台等媒体实地走访广州增城大型荔枝果园发现，果树成花率普遍较低，枝头多见嫩叶少见花穗。果园管理人员及农业专家指出，减产主要由于2025年荔枝为“超级大年”超负荷挂果透支树体养分，叠加2025年冬至2026年春季的暖冬干旱气候，低温积冷量不足导致花芽分化严重受阻。据种植户预估，中晚熟核心优质品种受损严重，桂味、糯米糍等产量预计仅为上一年的10%左右，仙进奉产量预计仅为上年四至五成，市场供应面临紧缺并可能引发价格大涨。2026年3月22日，该报道引发网络广泛关注，“爱吃荔枝的人今年天塌了”“今年桂味糯米糍等荔枝将严重减产”等相关话题迅速登上微博热搜第一。",
+  "event_time": {
+    "start": "2026-03",
+    "end": "2026-03-25",
+    "precision": "month",
+    "evidence": "2026年3月中旬中晚熟荔枝进入花期；2026年3月22日央视新闻报道增城果园减产情况并登上热搜"
+  },
+  "locations": [
+    "中国/广东省/广州市/增城区"
+  ],
+  "aliases": [
+    "广州增城荔枝小年减产",
+    "爱吃荔枝的人今年天塌了",
+    "今年桂味糯米糍等荔枝将严重减产",
+    "广州增城荔枝遇小年价格或将大涨",
+    "2026年广东荔枝减产"
+  ],
+  "retrieval_queries": [
+    "爱吃荔枝的人今年天塌了",
+    "广州增城 荔枝 小年 减产",
+    "增城 桂味 糯米糍 减产 一成",
+    "广州 荔枝 价格大涨 暖冬",
+    "今年桂味糯米糍等荔枝将严重减产",
+    "2026年 增城 荔枝成花率",
+    "增城大型荔枝果场 减产"
+  ],
+  "must_match_facts": [
+    "事件发生及集中报道时间为2026年3月",
+    "核心报道与调研发生地为广东省广州市增城区荔枝种植园/果场",
+    "减产原因归结为2025年超级大年透支养分及冬春暖冬干旱气候阻碍花芽分化",
+    "桂味、糯米糍等中晚熟荔枝品种成花率低、预计产量大幅下滑至往年约一成",
+    "央视新闻等走访报道引发“爱吃荔枝的人今年天塌了”登上全网热搜"
+  ],
+  "exclude_if": [
+    "2024年4月因持续暴雨导致广东荔枝落果与减产的报道",
+    "海南早熟荔枝（如桂花香、妃子笑）正常上市与保供的常规商贸新闻",
+    "过量食用荔枝导致低血糖反应的单纯医学健康科普（荔枝病）",
+    "其他非荔枝水果（如柑橘、苹果、龙眼）的大小年生产波动"
+  ],
+  "source_evidence": [
+    {
+      "title": "广州增城荔枝遇“小年”，桂味、糯米糍或只有去年一成产量，价格或将大涨！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvrH-34Izud0tgxNfIUlX25kGkPgmmRjGssmJboFGDtwBySgXPP_JYytdFuhewv5VcgtWegzUq12eyvrjPWC46myNh_lBq1wTTN6O3JeS_mgURWPBkla1ypNXlp3SoLUyKvzhh7OMCJFyAgfTXZYht7KN2Ew==",
+      "publisher": "广州日报大洋网",
+      "published_at": "2026-03-23"
+    },
+    {
+      "title": "热搜第一！爱吃荔枝的人今年天塌了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAYSebfI7JY5usbs2lwP19kRhEsi98KyaiUQa54n5ElXPyniHpO0Gfa99_13r2vk6EGOQ-F0uVUhoa6piK7nOyGbojC5UHwRG1mQrBljRY83uDkBtggqAQ7_5Q",
+      "publisher": "川观新闻",
+      "published_at": "2026-03-24"
+    },
+    {
+      "title": "爱吃荔枝的人“天塌了”？荔枝主产区“小年”来袭：有果农预计减产九成",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWRFofPNz8VnV36CzkRo_TaqBkGusBCs5S6Llwes-rvKT0vBcDAUUyDuVv1bWetJFuIuqRtLg2cMrGgrqB5SHkHwmwBERQsavpcAQhy3gEf5nPNdTBFeS_TQPVAgL4dc7mfLiIPA==",
+      "publisher": "极目新闻",
+      "published_at": "2026-03-25"
+    }
+  ],
+  "uncertainties": [
+    "现有事件名称与描述中将发生年份误标为2024年，经核验该特定报道与热搜舆情实际发生于2026年3月（针对2025年超级大年之后的2026产季）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:02"
+}

@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_4cc832a674c4be47",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "沙特媒体曝伊朗谈判方案提议将浓缩铀有条件转至俄罗斯",
+  "factual_description": "2026年5月18日，沙特阿拉伯阿拉比亚电视台（Al Arabiya）及哈达斯电视台援引获得的文件报道，伊朗在旨在结束中东军事冲突的最新修订谈判方案中，提出有条件地将本国高浓缩铀库存转移至俄罗斯进行保管，而非移交美国。方案内容显示，伊朗同意长期冻结其核计划，但坚决拒绝彻底拆除核设施。该方案经巴基斯坦等渠道向美方转交后，美国总统特朗普公开表示伊朗的最新提案令人失望且诚意不足，拒绝让俄罗斯接管相关核材料并拒绝作出让步；但在地区国家要求下，特朗普推迟了原定于5月19日针对伊朗的军事打击行动。该消息披露后，伊朗官员随后向法尔斯通讯社等媒体否认了同意将浓缩铀储备转移至第三国的说法。",
+  "event_time": {
+    "start": "2026-05-18",
+    "end": "2026-05-18",
+    "precision": "day",
+    "evidence": "沙特阿拉比亚电视台于当地时间2026年5月18日独家披露该方案，新华社利雅得电讯亦记载为18日报道"
+  },
+  "locations": [
+    "沙特阿拉伯/利雅得",
+    "伊朗",
+    "俄罗斯",
+    "美国/华盛顿"
+  ],
+  "aliases": [
+    "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯",
+    "沙特消息称伊朗提出有条件地将浓缩铀转移至俄罗斯",
+    "伊朗最新和平方案曝光浓缩铀转至俄罗斯",
+    "伊朗提议冻结核计划并将高浓缩铀运往俄罗斯"
+  ],
+  "retrieval_queries": [
+    "沙特媒体 伊朗 浓缩铀 俄罗斯",
+    "阿拉比亚电视台 伊朗 冻结核计划",
+    "伊朗 浓缩铀 转移 俄罗斯",
+    "伊朗 和平方案 浓缩铀 俄罗斯",
+    "Iran transfer enriched uranium Russia Al Arabiya",
+    "Iran freeze nuclear program Russia"
+  ],
+  "must_match_facts": [
+    "沙特阿拉比亚电视台于2026年5月18日披露伊朗最新谈判方案",
+    "方案核心内容包含有条件将浓缩铀移交至俄罗斯而非美国",
+    "方案提出伊朗同意长期冻结核计划但拒绝彻底拆除核设施",
+    "美方认定伊朗提案令人失望并予以拒绝"
+  ],
+  "exclude_if": [
+    "2015年伊核协议达成时伊朗浓缩铀运往俄罗斯的历史报道",
+    "2026年5月下旬沙特媒体称伊朗提议将浓缩铀转交中国事件",
+    "美国与沙特阿拉伯民用核能合作协议（123协议）相关报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFz5UMQ_5LTEvbtNEBMc4lxnkaVdJ_fxyBqxhMZk6-cr5uN50W-sfpGoN_LE2Y8uVZVAO-_n2kbIm9tfX25hdt3ELZoAgjoIrzKkKeIXBupJRVypG0oSrcKzFjkz9fYp6dovQRFB86OYJFpqhHfzjyjzlDIlaZnrqXdmQ==",
+      "publisher": "新华网",
+      "published_at": "2026-05-19"
+    },
+    {
+      "title": "沙特媒体：伊朗提出有条件地将浓缩铀转到俄罗斯，已同意长期冻结其核计划",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEe25F53awAgZG42wqoX986YV8C0i-YMDN1X3Wue6E6MBpyIUVpioyK3yH09_Kr6YbbrF5PuyJXfuZ_IRPq7d1Ozif9dhPsr9fSnqX9Kwr--WUUdSR2oSJsBCTyeo9ug-vTjGUgU73NWZ4=",
+      "publisher": "东方财富（转新华社）",
+      "published_at": "2026-05-19"
+    }
+  ],
+  "uncertainties": [
+    "伊朗官方在报道发布后通过媒体否认曾同意将浓缩铀转交第三国，该提议是否为伊朗正式谈判底线存在官方与媒体信源冲突"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:26"
+}

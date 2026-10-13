@@ -1,0 +1,139 @@
+{
+  "event_id": "evt_5d94831587746e3b",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "河北石家庄鹿泉区‘中园石化’加油站外观酷似‘中国石化’被立案调查并责令拆除门头",
+  "factual_description": "2026年3月下旬，河北石家庄车主在网络发帖反映，位于鹿泉区石清路的‘中园石化’加油站外观装潢、Logo设计、红底白字配色及英文标识（SNOPEC）与‘中国石化’（SINOPEC）高度相似，加油后才发现并非‘中国石化’，质疑其‘傍名牌’与‘碰瓷’。涉事加油站（全名：石家庄市鹿泉区中园石化百尺杆加油站）负责人杨先生回应称，该站成立于2010年，拥有正规营业执照和资质，名称与标识并非刻意模仿。2026年3月25日，央视新闻报道，鹿泉区相关部门现场核查认定该加油站擅自使用与‘中国石化’近似的门头装潢，已责令拆除；鹿泉区市场监督管理局已对其涉嫌擅自使用与他人有一定影响的装潢近似标识的行为立案调查。",
+  "event_time": {
+    "start": "2026-03-23",
+    "end": "2026-03-25",
+    "precision": "day",
+    "evidence": "2026年3月23日前后车主在社交平台发帖曝光；3月24日极目新闻跟进报道；3月25日央视新闻报道鹿泉区市场监管部门已赶赴现场核查并立案调查、责令拆除门头装潢。"
+  },
+  "reporting_time_range": {
+    "start": "2026-03-24",
+    "end": "2026-03-26"
+  },
+  "locations": [
+    "中国/河北省/石家庄市/鹿泉区/石清路（李村镇百尺杆村西）"
+  ],
+  "people": [
+    {
+      "name": "杨先生（杨五辰）",
+      "role": "石家庄市鹿泉区中园石化百尺杆加油站负责人/投资人"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "石家庄市鹿泉区中园石化百尺杆加油站",
+      "role": "涉事加油站"
+    },
+    {
+      "name": "石家庄市鹿泉区市场监督管理局",
+      "role": "调查及执法部门"
+    },
+    {
+      "name": "中国石油化工集团有限公司",
+      "role": "被模仿/被侵权品牌方"
+    }
+  ],
+  "trigger": "车主在石家庄鹿泉区一加油站加完油后，发现门头名称为‘中园石化’且英文缩写为‘SNOPEC’，与‘中国石化’极度相似，遂在网络发帖曝光质疑其‘傍名牌’。",
+  "key_actions": [
+    "车主在社交平台发帖曝光鹿泉区‘中园石化’加油站门头装潢与‘中国石化’高度撞脸",
+    "极目新闻等媒体介入采访，涉事加油站负责人称站名经审批且已经营10多年",
+    "鹿泉区市场监督管理局等部门第一时间赶赴现场核查",
+    "监管部门核查确认加油站擅自使用与‘中国石化’近似门头装潢，责令其整改并拆除相关字样",
+    "鹿泉区市场监督管理局对其涉嫌擅自使用与他人有一定影响的装潢近似标识的行为立案调查"
+  ],
+  "outcome_and_status": "涉事加油站已被责令拆除‘中园石化’近似门头装潢，加油站负责人已开始整改拆除；鹿泉区市场监督管理局已立案调查，将依法依规处理。",
+  "timeline": [
+    {
+      "time": "2026-03-23",
+      "fact": "车主发帖称在石家庄鹿泉区石清路一加油站加完油后才发现招牌是‘中园石化’，英文标识为SNOPEC。",
+      "source_urls": [
+        "https://img5.myhsw.cn/2026-03-24/SVlU0rUPddyv6jH1.jpg"
+      ]
+    },
+    {
+      "time": "2026-03-24",
+      "fact": "极目新闻报道此事，涉事加油站工作人员称名称经合法审批，鹿泉区市监局称将前往现场调查判定。",
+      "source_urls": [
+        "https://img5.myhsw.cn/2026-03-24/SVlU0rUPddyv6jH1.jpg"
+      ]
+    },
+    {
+      "time": "2026-03-25",
+      "fact": "央视新闻报道，鹿泉区相关部门责令涉事加油站拆除近似门头装潢，鹿泉区市场监管局已立案调查。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0BUp3_m7otfXCiUoJXZfovgwDyGYLeV7h7RxSOGiprbj0yoW1DyhiRIsaTW4O7muF1E4Le6k3McLfV6LVGXN5LQbQNqMiAXPG1rNz7WYcFwu7fB_ihC_3D5PK4Qj4XJmjFfVy50Ynemd6r0HZUy9z2IVCOjiNGl8dsAU9UT_2a7bpFyK1yP0tTzJtwtNOHwdwaMGm"
+      ]
+    }
+  ],
+  "aliases": [
+    "石家庄鹿泉中园石化加油站被立案调查",
+    "中园石化太像中国石化被查",
+    "中园石化拆除门头装潢事件",
+    "鹿泉区中园石化百尺杆加油站涉嫌侵权案"
+  ],
+  "retrieval_queries": [
+    "中园石化",
+    "鹿泉 中园石化",
+    "中园石化 立案调查",
+    "中园石化 中国石化",
+    "SNOPEC 中园石化",
+    "中园石化 拆除门头",
+    "鹿泉区市场监管局 中园石化",
+    "石家庄 鹿泉 中园石化"
+  ],
+  "must_match_facts": [
+    "涉事加油站位于河北石家庄鹿泉区，企业注册名为石家庄市鹿泉区中园石化百尺杆加油站",
+    "加油站门头装潢、Logo及英文标识SNOPEC与‘中国石化’（SINOPEC）高度相似",
+    "鹿泉区市场监督管理局已对该加油站立案调查并责令拆除近似门头装潢"
+  ],
+  "optional_supporting_facts": [
+    "加油站成立于2010年8月，注册资本20万元",
+    "加油站负责人姓杨（杨五辰）",
+    "英文标识SNOPEC比中国石化SINOPEC少了一个字母I"
+  ],
+  "exclude_if": [
+    "石家庄新乐市2011年北方加油站使用‘中园石化’被处罚案",
+    "湖南桃江2015年查处‘中园石化’加油站案",
+    "非2026年3月发生的河北石家庄鹿泉区中园石化事件"
+  ],
+  "distinctive_entities": [
+    "中园石化",
+    "SNOPEC",
+    "石家庄市鹿泉区中园石化百尺杆加油站",
+    "鹿泉区市场监督管理局",
+    "杨五辰",
+    "百尺杆村"
+  ],
+  "source_evidence": [
+    {
+      "title": "加完油才发现是“中园石化”！涉事加油站已被立案调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0BUp3_m7otfXCiUoJXZfovgwDyGYLeV7h7RxSOGiprbj0yoW1DyhiRIsaTW4O7muF1E4Le6k3McLfV6LVGXN5LQbQNqMiAXPG1rNz7WYcFwu7fB_ihC_3D5PK4Qj4XJmjFfVy50Ynemd6r0HZUy9z2IVCOjiNGl8dsAU9UT_2a7bpFyK1yP0tTzJtwtNOHwdwaMGm",
+      "publisher": "央视新闻 / 新华网",
+      "published_at": "2026-03-25",
+      "supports": [
+        "鹿泉区市场监管局已立案调查",
+        "责令拆除中园石化门头装潢",
+        "加油站负责人为杨先生",
+        "英文标识为SNOPEC"
+      ]
+    },
+    {
+      "title": "网友称有加油站叫“中园石化”太像“中国石化” 多方回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF52G_mXi_FPRgydn2nA2LKZgkUUFQQDSyE0o4y88P6gXoM69K2H3Wsr5XFF7c7D0kNtPU1U0K6UKBijqzSUlGEB07HxiaXBKfICG6wT66Y9sXzcIaP-FYCFmjExSELNIO6-sYgTIQbpQ==",
+      "publisher": "极目新闻",
+      "published_at": "2026-03-24",
+      "supports": [
+        "车主发帖曝光加完油发现是中园石化",
+        "全名石家庄市鹿泉区中园石化百尺杆加油站",
+        "涉事人员称名字已使用10多年且经过审批"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:30:39"
+}

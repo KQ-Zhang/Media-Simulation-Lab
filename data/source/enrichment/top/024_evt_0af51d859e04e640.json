@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_0af51d859e04e640",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "谢娜2026年北京演唱会审批争议与回应事件",
+  "factual_description": "2026年6月6日，艺人谢娜在节目直播中官宣启动《快乐万岁·我们的青春》2026全国巡回演唱会，首站定于7月11日在北京海淀区华熙生物·润百颜中心举行，票价为380元至1180元。由于其此前在成都演唱会中宣传为“纯粹圆梦、仅此一场”，火速转为商业巡演引发舆论反弹，部分网友拨打12345政务服务热线及文旅部门进行举报，质疑其涉嫌“未获审批先预售”。2026年6月9日，主办方深圳市赛恒文化传媒有限公司发布声明称，演出已于5月27日递交材料，并于5月28日取得海淀区文旅局批文（文号110108532026000003），流程全部合法合规。同日，北京市海淀区文化和旅游局回应媒体采访证实，该演唱会内容审核已通过，审批手续合法合规。6月28日，主办方赛恒文化发布公告宣布取消7月11日北京场演唱会并办理退票及交通住宿补偿。",
+  "event_time": {
+    "start": "2026-06-06",
+    "end": "2026-06-28",
+    "precision": "day",
+    "evidence": "2026年6月6日谢娜官宣北京演唱会引发网友打12345举报；6月9日海淀区文旅局与主办方回应审批合规；6月28日主办方发布公告取消北京演唱会。"
+  },
+  "locations": [
+    "中国/北京市/海淀区/华熙生物·润百颜中心"
+  ],
+  "aliases": [
+    "谢娜北京演唱会未批先售争议",
+    "谢娜演唱会被打12345投诉事件",
+    "海淀区文旅局回应谢娜演唱会争议",
+    "快乐万岁·我们的青春2026谢娜演唱会北京站争议"
+  ],
+  "retrieval_queries": [
+    "谢娜 2026 演唱会 北京 12345",
+    "谢娜 巡演 海淀区文旅局 审批",
+    "赛恒文化 谢娜演唱会 批文",
+    "快乐万岁 我们的青春 谢娜 北京",
+    "谢娜 演唱会 未批先售",
+    "谢娜 北京演唱会 取消"
+  ],
+  "must_match_facts": [
+    "2026年6月6日谢娜官宣7月11日北京演唱会及巡演引发网友打12345举报",
+    "网友质疑焦点为未获审批先预售以及从圆梦变商业巡演",
+    "主办方赛恒文化公布批文文号证明5月28日已取得营业性演出许可",
+    "北京市海淀区文旅局于2026年6月9日回应证实审批已通过",
+    "演唱会原计划于北京海淀区华熙生物·润百颜中心举办"
+  ],
+  "exclude_if": [
+    "谢娜成都演唱会现场报道",
+    "张杰演唱会审批争议",
+    "2026年之前发生的演唱会审批事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "谢娜官宣北京演唱会引争议，有网友打12345投诉，海淀区文旅：审批已通过",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElyzt7FSiDHLz2M_u-SVjqdx60BYMOnPn5Q0JwexE_YT6p-DLn2zwqOMX_p9Oo2msSA7QplBHB1dU9TXmvpNjbyAP_MANzuHGtXJiHO6an5yB39R8C7ipCKGNUZTtsYBKVj2MFRhY2ZGuasu1lkMChSGXQdrhsskuGMg==",
+      "publisher": "封面新闻",
+      "published_at": "2026-06-09"
+    },
+    {
+      "title": "谢娜北京演唱会被质疑“未获审批先预售”，主办方回应：5月27日向海淀区文旅部门提交报批材料",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6YOnNMT-3H2YxyvRFmmHQnDye9tXQRgNXPkksFliXZiyNDlGMonasmB7FaJOzUDz_l_5CanqO5G1HtMetqcavT9iJ9C3fgZzVBJXDypzzvZPxqGkitZW5GKHcnMDN5SyEVsEF",
+      "publisher": "极目新闻/红星新闻",
+      "published_at": "2026-06-10"
+    },
+    {
+      "title": "谢娜演唱会惹争议，主办方紧急回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGAfh3382BMgAMLR5LFNjcaBgxnxl2Jn27Rl20Mir0G38tEW7D1NMLcG1S5RsdTx_Yemwq7_cpjpLW_LnXMbLoigqBs41ltnSnUL73iWm6LSxNJ0QQKYf4Up-Silrf5hHc-lNGaSzWVAPmYtiOSfi1",
+      "publisher": "中国网新闻中心",
+      "published_at": "2026-06-10"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:38"
+}

@@ -5,8 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",
+    "server": "node server/http.js",
+    "test": "node --test",
     "build": "vite build",
-    "preview": "vite preview --host 127.0.0.1"
+    "preview": "vite preview --host 127.0.0.1",
+    "events:build": "node scripts/build-background-db.mjs",
+    "events:query": "node scripts/query-background-db.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",

@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_e5a94a23fcf57e01",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "《重庆市自然灾害避险人员转移条例》解读新闻发布会",
+  "factual_description": "2026年7月31日15时，重庆市人民政府新闻办公室举行《重庆市自然灾害避险人员转移条例》解读新闻发布会。重庆市人大法制委、市人大社会委、市规划自然资源局、市水利局、市应急管理局以及梁平区有关负责人出席并回答记者提问。发布会通报，《重庆市自然灾害避险人员转移条例》于2026年7月30日经重庆市第六届人民代表大会常务委员会第二十五次会议表决通过，自2026年8月1日起施行。条例共六章三十条，确立了“应转必转、应转尽转、应转早转”原则，明确避险转移为市民法定义务；核心制度包括向乡镇（街道）下放临机处置权，规定遇险情特别紧急时可先组织群众转移撤离并同步上报；同时固化重庆“44NN”递进预警叫应机制，依托“141”基层智治平台强化数字化全流程闭环管控，并提出落实隐患分类分级排查、推进灾害隐患有奖报告制度和健全安置保障网络。",
+  "event_time": {
+    "start": "2026-07-31",
+    "end": "2026-07-31",
+    "precision": "day",
+    "evidence": "重庆市政府新闻办于2026年7月31日15:00举行该条例解读新闻发布会，华龙网、重庆日报等媒体进行了现场报道和直播回顾。"
+  },
+  "locations": [
+    "中国/重庆市/重庆新闻发布厅"
+  ],
+  "aliases": [
+    "重庆市自然灾害避险人员转移条例解读新闻发布会",
+    "重庆市政府新闻办解读《重庆市自然灾害避险人员转移条例》发布会",
+    "《重庆市自然灾害避险人员转移条例》新闻发布会"
+  ],
+  "retrieval_queries": [
+    "重庆市自然灾害避险人员转移条例 解读新闻发布会",
+    "重庆市自然灾害避险人员转移条例 2026年7月31日",
+    "重庆 人大常委会 第二十五次会议 避险人员转移条例",
+    "重庆自然灾害避险人员转移条例 临机处置权",
+    "重庆市应急管理局 避险人员转移条例 发布会"
+  ],
+  "must_match_facts": [
+    "发布会由重庆市人民政府新闻办公室于2026年7月31日举行",
+    "解读对象为《重庆市自然灾害避险人员转移条例》",
+    "该条例于2026年7月30日经重庆市第六届人大常委会第二十五次会议通过，2026年8月1日起施行",
+    "发布会重点介绍了赋予基层临机处置权、固化递进预警叫应机制及数字赋能防灾等内容"
+  ],
+  "exclude_if": [
+    "其他省市出台的避险转移法规或发布会",
+    "涉及重庆市其他法规（如野生动物保护规定、未成年人保护条例等）的专题发布会",
+    "纯粹报道暴雨山洪灾害救援而未提及该条例解读新闻发布会的内容"
+  ],
+  "source_evidence": [
+    {
+      "title": "华龙直播回顾｜《重庆市自然灾害避险人员转移条例》解读新闻发布会",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbwqr_R_mLo_pAN6a2wZMAI6hOivitusVLrdY9kT7IsiV8KZ4ZKnjs7kRBbhNcLQcvbkT5dFvojcFpCq_J3CHbcG6Ee_TKG_e7REr6_wvNcQGuUtKcJC6o4lkObWVOf4rfL8cKolSfzhFDYgFkoEpi",
+      "publisher": "第1眼TV-华龙网",
+      "published_at": "2026-07-31"
+    },
+    {
+      "title": "官方详解《重庆市自然灾害避险人员转移条例》内容",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHL3mdCnxcf0vOV9r9wBJNsxEn-b7bA1k2JcyKiTu80B9IMgN7vllE0YMhqS0hxQ6IVFXy3Q7QdmBBX51KCKm0coT3QoDpRLtpd1PmszQD-lyXo2f84wDXLdV4T1GvXS4K-6ibC73FLahIVxgnORRQJ3A==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-08-01"
+    },
+    {
+      "title": "系统规范避险转移全流程工作机制《重庆市自然灾害避险人员转移条例》8月1日起施行",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2NCy7PZMh6TLXXIX9EbfWVg3ODG51N9L-NKh4Q5hz_50Vm4NnZna4wgFa7Mc40jtyTRg4H-dOYhgihkCFd9_6y-mioYB8aSzaQ2GDrB2H6YxoFhc9g5OPWE5-JX39GFLEneexLClslaxtn2IMtpQSK4fM5b9Jxtj-uilz",
+      "publisher": "重庆市人民政府网",
+      "published_at": "2026-07-31"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:22"
+}

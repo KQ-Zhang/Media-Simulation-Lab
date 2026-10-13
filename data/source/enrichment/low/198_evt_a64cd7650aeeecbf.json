@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_a64cd7650aeeecbf",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "《喜欢你我也是第五季》男嘉宾驾车约会突发爆胎失控事件",
+  "factual_description": "2024年5月，在爱奇艺青年社交观察恋爱真人秀《喜欢你我也是第五季》（肆意季）首期节目中，男嘉宾庄盛哲（小庄）驾驶保时捷跑车载女嘉宾于雯首次出门约会与采购途中，车辆突发爆胎并出现短暂失控险情，车内两人受到明显惊吓，所幸驾驶员及时控车，未发生严重碰撞与人员伤亡。事发后，庄盛哲下车检查车胎受损情况，并在返回“喜欢你小屋”后向于雯郑重道歉；演播室观察团嘉宾任家萱（Selina）、刘宇、刘些宁等在观看回放时亦表示震惊。节目播出后，该片段被节目组及自媒体以“恋综首个车祸现场”“初次约会遭遇车祸”“过命的交情”等标题进行二次剪辑与传播，随后在微博、抖音等社交平台引发广泛讨论。",
+  "event_time": {
+    "start": "2024-05-22",
+    "end": "2024-05-24",
+    "precision": "day",
+    "evidence": "《喜欢你我也是第五季》于2024年5月22日开播，第一期正片及官方宣发中展现了庄盛哲与于雯驾车途中爆胎失控的险情镜头。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "喜欢你我也是5车祸",
+    "恋综首个车祸现场",
+    "国产恋综初次约会遭遇车祸",
+    "庄盛哲于雯爆胎事故",
+    "喜欢你5女一男二过命的交情"
+  ],
+  "retrieval_queries": [
+    "喜欢你我也是 庄盛哲 于雯 车祸",
+    "喜欢你我也是5 爆胎",
+    "恋综首个车祸现场",
+    "国产恋综突发意外 初次约会居然遭遇车祸",
+    "喜欢你我也是第五季 庄盛哲 于雯"
+  ],
+  "must_match_facts": [
+    "发生在恋爱真人秀《喜欢你我也是第五季》节目拍摄录制期间",
+    "男嘉宾庄盛哲驾车搭载女嘉宾于雯首次外出约会或采购",
+    "车辆在行驶途中遭遇爆胎并发生失控险情，但无人员伤亡",
+    "网络博主及节目宣发常将其称作“恋综首个车祸现场”或“初次约会遭遇车祸”"
+  ],
+  "exclude_if": [
+    "造成人员伤亡的现实恶性交通事故新闻",
+    "其他综艺节目（如《心动的信号》《半熟恋人》等）的意外事故",
+    "以恋爱综艺为背景的网络言情虚构小说剧情"
+  ],
+  "source_evidence": [
+    {
+      "title": "《喜欢你我也是》第五季（肆意季）甜蜜首播，话题频爆令人回味",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6k3LSvQ09GPvtLTISK7h6Xj45xR9LM4nmj_qyH82fbsczBfOM_pGgPMamluPjYSj944DWE0p1gM4roh1TiDmBfwI0fH_vZuUX6KVYX5Y29dJHIYbv27Hq6_ky74iTrWMJOFdqIA09xfq6",
+      "publisher": "电影界",
+      "published_at": "2024-05-24"
+    },
+    {
+      "title": "史上最爽恋综，这是什么人间修罗场？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGdPKPEZWQbChJaUIhVCR4K21t1psm3dloGMZ5eldreu-_xCo0MljuRGa1811aOA63sg9M25w7azZa9fh-Gt99GSdnRNuS73iWEHrJ64UptibjJIjg0TapmmM6SMay3sA=",
+      "publisher": "腾讯新闻",
+      "published_at": "2024-05-24"
+    },
+    {
+      "title": "《喜欢你我也是5》进入多维度磕糖阶段，爆爽恋综的肆意与细腻！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-19RA05ahy8hH-OHSKvOdbsyqnmgzix_N8BLe211nfxRgoutz_LMuCHC-CoiBowLpMOg6ljFikD7Hncc8fEs9tnnBvaCr6ZffDO5hjjy5t1DQ-LRGCGvkfTPVcpox_TcGRD5qumOZ",
+      "publisher": "华人头条",
+      "published_at": "2024-06-06"
+    }
+  ],
+  "uncertainties": [
+    "具体录制发生日期早于节目播出日期，但官方节目未公开具体录制当天的确切日期。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:12"
+}

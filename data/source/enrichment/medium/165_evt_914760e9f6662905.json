@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_914760e9f6662905",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年陈思诚发文为佟丽娅庆生",
+  "factual_description": "2026年8月8日零点，导演、演员陈思诚在社交媒体平台卡点晒出前妻佟丽娅的单人礼服照并送上生日祝福，配文称“又启新岁，愿不逐喧嚣，且自逍遥”。自两人恋情公开以来，陈思诚长期保持在佟丽娅生日零点发文祝福的习惯，两人于2021年5月官宣离婚后该习惯依然延续。多家媒体与网络舆论关注到，陈思诚在此次生日文案中首次彻底去除了“老婆”或“朵朵妈”等身份标签与称谓，仅表达对个人的纯粹祝愿，这一转变引发外界对两人离异后“新型离婚关系”及相处模式的广泛讨论与报道。",
+  "event_time": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "precision": "day",
+    "evidence": "陈思诚于2026年8月8日零点在微博发布生日祝福动态，极目新闻、澎湃新闻等主流媒体报道均明确记录该时间。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "陈思诚卡点为佟丽娅庆生",
+    "陈思诚零点晒照为佟丽娅庆生",
+    "陈思诚首次未强调佟丽娅身份标签",
+    "陈思诚连续为佟丽娅庆生省略称谓"
+  ],
+  "retrieval_queries": [
+    "陈思诚 佟丽娅 庆生",
+    "陈思诚 又启新岁 愿不逐喧嚣 且自逍遥",
+    "陈思诚 首次未强调佟丽娅身份标签",
+    "陈思诚 朵朵妈 庆生 2026",
+    "陈思诚 卡点 佟丽娅 生日祝福"
+  ],
+  "must_match_facts": [
+    "发生于2026年8月8日零点",
+    "陈思诚发文并晒照为佟丽娅庆祝生日",
+    "祝福文案包含“又启新岁，愿不逐喧嚣，且自逍遥”",
+    "文案中首次未带有“老婆”或“朵朵妈”等身份标签称谓"
+  ],
+  "exclude_if": [
+    "2026年之前陈思诚称呼佟丽娅为‘老婆’或‘朵朵妈’的历史庆生微博",
+    "佟丽娅为陈思诚庆生的相关事件",
+    "陈思诚与其他艺人的恋情或绯闻事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "佟丽娅接受鲁豫采访，称儿子至今不知自己与陈思诚离婚；2021年两人宣布离婚，陈思诚至今每年为前妻卡点庆生",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0Z5Cr3mfDe6ZI_IkT2k7mKdk7XiLMaM-mAWdUHAmVANX6kUqX929Izv2QyTL-CYl6rWPPceOt1_qYhUtl2TPv7BRrGZH_B86KNnLOnMc5sTgjMX0SSArjQfdSCATK7u_GYpQYm3zr",
+      "publisher": "澎湃新闻（钱江晚报）",
+      "published_at": "2026-09-15"
+    },
+    {
+      "title": "佟丽娅接受鲁豫采访，称儿子至今不知自己与陈思诚离婚",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOHf4JcrSU_4l0gxELnjGkrvwBUJApUEEmOu3KYHMjj_SHGX-XEsi4IES6A5Q66Zmohx0gjBa1RCnk7kYTmlGn60i_RusQ2B_cWLY7X-u8Gw60A4mfHXSPLACCyEZN5t9wVxEzTg==",
+      "publisher": "极目新闻",
+      "published_at": "2026-09-15"
+    }
+  ],
+  "uncertainties": [
+    "关于陈思诚连续送出生日祝福的年数，不同媒体在统计起始年份时存在‘第14年’与‘第15年’的表述差异"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:20"
+}

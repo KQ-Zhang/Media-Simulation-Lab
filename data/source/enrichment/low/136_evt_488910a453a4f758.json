@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_488910a453a4f758",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年全国两会广西代表团开放团组陈刚脱稿亮家丑并点名蓝天立搞家族式腐败",
+  "factual_description": "2026年3月6日上午，在十四届全国人大四次会议广西代表团举行的全体会议及开放团组活动上，全国人大代表、广西壮族自治区党委书记陈刚在回答境内外记者提问时主动表示要“亮亮家丑”。陈刚将广西涉重金属环境污染问题与自治区政府原主席蓝天立被查处案结合阐述，指出“看起来是自然生态出了问题，实质是政治生态出了问题”，两者本质上是同一回事。陈刚脱稿点名批评蓝天立搞家族式腐败、背地里搞官商勾结并充当不法分子保护伞，并直言“像蓝天立这样搞家族式腐败，你还指望他真心地为老百姓办事儿？”。陈刚同时强调广西统筹推进政治生态与自然生态治理，绝不搞“击鼓传花”，下定决心从根子上化解历史矛盾与生态环保问题。",
+  "event_time": {
+    "start": "2026-03-06",
+    "end": "2026-03-06",
+    "precision": "day",
+    "evidence": "2026年3月6日上午，十四届全国人大四次会议广西代表团在驻地举行全体会议并向境内外记者举行开放团组活动，陈刚在现场答记者问发表上述讲话。"
+  },
+  "locations": [
+    "中国/北京市/广西代表团驻地"
+  ],
+  "aliases": [
+    "陈刚两会脱稿亮家丑点名蓝天立",
+    "广西书记陈刚批蓝天立搞家族式腐败",
+    "2026全国两会广西代表团开放团组陈刚亮家丑",
+    "陈刚谈广西政治生态与自然生态问题"
+  ],
+  "retrieval_queries": [
+    "陈刚 亮家丑 蓝天立",
+    "广西代表团 开放团组 陈刚 家族式腐败",
+    "陈刚 像蓝天立这样搞家族式腐败",
+    "广西党委书记陈刚 给大家亮亮家丑",
+    "十四届全国人大四次会议 广西代表团 陈刚 蓝天立",
+    "陈刚 政治生态 自然生态 蓝天立"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年3月6日十四届全国人大四次会议（2026年全国两会）期间",
+    "发言主体为全国人大代表、广西壮族自治区党委书记陈刚",
+    "发生场合为广西代表团举行的开放团组活动答记者问",
+    "陈刚使用“亮亮家丑”表述并脱稿点名批评广西原主席蓝天立搞家族式腐败",
+    "将广西涉重金属环境污染与干部腐败联系，指出自然生态问题实质是政治生态问题"
+  ],
+  "exclude_if": [
+    "中央纪委国家监委此前对蓝天立立案审查调查的原通报消息",
+    "辽宁省委书记许昆林在同日全国两会开放团组批评营商环境腐败事件",
+    "陈刚此前主政青海时期的讲话与廉政教育活动",
+    "往届全国两会广西代表团审议活动报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "广西壮族自治区党委书记陈刚：给大家“亮亮家丑”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqDOYrDJAq0kHmVz-jSdkSNyeyCYMNUQ9Uqxh-Mv8cmpy1a5YZ1GMunFyvQse-QECGoC0SniWZueMFMXMu1UuUbI622YFd_F-IXEkium4xZcs8NINxhmyAN9uRNctUaSJmSrH1zVGQgeoTWbzQGmw4cqLNJTyfqez4gdL1o9I=",
+      "publisher": "中国日报网（转自新京报）",
+      "published_at": "2026-03-08"
+    },
+    {
+      "title": "广西一把手脱稿亮家丑：蓝天立搞家族式腐败还指望他为百姓办事？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpvVPl2L8r7EvIaTf1B3BTNzIrXKO87mY-Xbg-puL5PXbNEwbrrMc9ib8gK1P7g9oVGlgyv4vhHoQ1IEcHOMMj81yAx6L4RTto6DFKKlmyXfycYS28iLYKen2LmvztNAYPZr63mxajonnriNaCTn0k",
+      "publisher": "联合早报",
+      "published_at": "2026-03-06"
+    },
+    {
+      "title": "两地“一把手”亮“家丑”，亮的是解决问题的决心",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJB3AGY0Ccy32XTco1CuhR4ex7HlaoU3FWn4uc5HbRMrApX1HZaI9jBKOQyhSW2PYpVao2jK9WgqgMFn6MxCjPGq1n1PXoMeKnGVeuNshQ_MDyfuHnoF3MD62IiI6n8OWAxtduBMEW_9Ey",
+      "publisher": "中国青年报客户端 / 网易",
+      "published_at": "2026-03-06"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:30"
+}

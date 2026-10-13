@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_a5c598860ca6d71d",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "28岁川大博士黄鹏在意大利多洛米蒂山区失联遇难事件",
+  "factual_description": "2026年1月19日，公派至意大利图西亚大学交换学习的四川大学水利水电学院2022级博士生黄鹏（男，28岁，贵州兴义人）从拉齐奥大区维泰博出发，前往意大利北部博尔扎诺自治省多洛米蒂山区开展生态水文考察并入住民宿。其在1月20日至21日左右外出后与外界失去联系，未按原计划于1月23日返回。1月26日，其室友与民宿经营者先后向当地警方报案。1月30日，中国驻米兰总领事馆通报留学生黄某在多洛米蒂山区失联，启动领保应急机制并敦促当地警方、宪兵和高山救援队搜救。因当地持续降雪与雪崩风险，搜救行动受阻。2026年3月30日上午，游客在多洛米蒂富内斯山谷梅兹迪山口附近雪崩区域发现一具遗体，随身发现黄鹏护照，经意方警方核验及家属确认系黄鹏遇难。3月31日，中国驻米兰总领事馆发布最新情况通报，意大利图西亚大学随后发表公开哀悼。",
+  "event_time": {
+    "start": "2026-01-19",
+    "end": "2026-03-30",
+    "precision": "day",
+    "evidence": "黄鹏于当地时间2026年1月19日从维泰博启程前往多洛米蒂，1月21日最后一次露面后失联；2026年3月30日遗体在富内斯山谷雪崩区域被发现并确认遇难。"
+  },
+  "locations": [
+    "意大利/特伦蒂诺-上阿迪杰大区/博尔扎诺自治省/多洛米蒂山区/加尔登纳谷/奥蒂塞伊",
+    "意大利/特伦蒂诺-上阿迪杰大区/博尔扎诺自治省/富内斯山谷/梅兹迪山口",
+    "意大利/拉齐奥大区/维泰博省/维泰博"
+  ],
+  "aliases": [
+    "川大博士在意大利失联",
+    "28岁川大博士在意大利北部多洛米蒂山区失联",
+    "中国留学生黄某多洛米蒂失联案",
+    "川大博士黄鹏意大利遇难",
+    "在意失联博士床上四件套用了7年"
+  ],
+  "retrieval_queries": [
+    "黄鹏 意大利 失联",
+    "川大博士 意大利 多洛米蒂",
+    "留学生黄某 多洛米蒂 驻米兰总领事馆",
+    "黄鹏 图西亚大学 四川大学",
+    "富内斯山谷 黄鹏 雪崩",
+    "黄鹏 奥蒂塞伊 避难所",
+    "在意失联博士 28岁 黄鹏"
+  ],
+  "must_match_facts": [
+    "当事人为四川大学水利水电学院博士生、图西亚大学交换生黄鹏（28岁，贵州兴义人）",
+    "2026年1月19日前往意大利北部博尔扎诺省多洛米蒂山区奥蒂塞伊后失联",
+    "中国驻米兰总领事馆于2026年1月30日通报留学生黄某失联并启动领保应急机制",
+    "2026年3月30日在多洛米蒂富内斯山谷梅兹迪山口雪崩区域发现其遗体并确认遇难"
+  ],
+  "exclude_if": [
+    "其他中国留学生在海外失联或遇害事件",
+    "非四川大学或非黄鹏本人的涉意求助事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "关于中国留学生失联案件的情况通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFVwTgIX0O7_KQZJjT-SgSN-kmXa3Dovwc5TyRW7HFqIIJ1Znir1U4nFvuT5u5R1xm-yCl1KYM2O3SYyi2CCiKSUizjLUlr-6J_js9pR6KNdLvO46Cg26OBc-Crwe3-4EIhLXPFa-QyssaPVjUz8kEdq2T8Dr_YOQXdrnww5c6yXZDv-amTfA=",
+      "publisher": "中华人民共和国驻米兰总领事馆",
+      "published_at": "2026-01-30"
+    },
+    {
+      "title": "关于留学生黄某失联案的最新情况通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqar5PxujJ6PTz_gsOUlXlLFJCSCbWwSVyMqSJlwViSOu2NlxNUUPn0Qw0GyRDLKGrW9tg9cmKD2QLrQGpKdVmKvmNsz6nIYdl73g8jeW_r2GhTEThsQoRRCIq9ToNibLPB_jMDzDETBCzy-0f01acUkVwzIYogGDkjN0G7aI0B1UEzLiuNyw=",
+      "publisher": "中华人民共和国驻米兰总领事馆",
+      "published_at": "2026-03-31"
+    },
+    {
+      "title": "在意失联两个多月的28岁川大博士确认遇难遗体在雪崩现场被发现",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFvgRnORNgfLkK491twJqAChrjI35c04cQvbmRLSieAHhwYP-yinOWhQHeqxbWgq2aFpdpmK32MFVzXRPwI8dN4V0s1udTdjmZ9V5GE4_TH3Hfnu9w7Ru4unTVmYpFuhTSc_RUhqTE9fu0gSNIlVT5JX2IYrXo3hQUqpkQWg==",
+      "publisher": "极目新闻",
+      "published_at": "2026-03-31"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:13"
+}

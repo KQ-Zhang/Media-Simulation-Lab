@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_2cdee730914da902",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "西安女护士被男友杀害案",
+  "factual_description": "2024年6月20日晚，在陕西省西安市灞桥区柳烟路附近，31岁的三甲医院女护士董某某（董某卉）在车内向同居男友师某豪（师某某）提出分手，遭师某豪持事先准备的双刃刀捅刺颈部，致右侧椎动脉破裂大出血死亡。警方及家属调查显示，两人交往期间，师某豪曾多次对董某某实施殴打与家暴。案发后师某豪驾车前往派出所投案。西安市中级人民法院于2026年2月2日一审以故意杀人罪判处师某豪死刑，剥夺政治权利终身。被告人师某豪不服判决提出上诉。2026年7月21日，陕西省高级人民法院对该案二审开庭审理，庭审持续近5个小时，未当庭宣判；被害人家属表示自愿放弃民事赔偿，坚决请求维持死刑原判。2026年9月9日，陕西省高级人民法院二审宣判，依法裁定驳回上诉，维持死刑原判，并报请最高人民法院核准。",
+  "event_time": {
+    "start": "2024-06-20",
+    "end": "2026-09-09",
+    "precision": "day",
+    "evidence": "2024年6月20日案发，2026年7月21日二审开庭审理，2026年9月9日二审宣判维持死刑原判。"
+  },
+  "locations": [
+    "中国/陕西省/西安市/灞桥区"
+  ],
+  "aliases": [
+    "西安女护士被男友杀害案",
+    "西安31岁女护士遭同居男友杀害案",
+    "西安女护士提分手遭前男友杀害案",
+    "西安女护士遭男友杀害案二审",
+    "师某豪故意杀人案"
+  ],
+  "retrieval_queries": [
+    "西安女护士 杀害 师某豪",
+    "西安护士 董某卉",
+    "西安女护士 被害 死刑",
+    "女护士遭男友杀害 7月21日 二审",
+    "西安女护士 董北海",
+    "西安女护士 灞桥区 柳烟路",
+    "女护士被同居男友杀害 二审宣判",
+    "西安护士 师某某 死刑维持"
+  ],
+  "must_match_facts": [
+    "2024年6月20日发生在陕西西安灞桥区的女护士董某某（董某卉）被同居男友师某豪（师某某）持刀杀害案",
+    "被害人为西安某三甲医院女护士董某某，被告人为师某豪",
+    "起因系被害人在车内向被告人提出分手引发争执，被告人持双刃刀捅刺被害人颈部致死",
+    "西安市中级人民法院一审以故意杀人罪判处被告人师某豪死刑",
+    "2026年7月21日陕西省高级人民法院对该案二审开庭审理",
+    "2026年9月9日陕西高院二审宣判裁定驳回上诉、维持死刑原判"
+  ],
+  "exclude_if": [
+    "发生在陕西西安以外其他地区的案件",
+    "被害人非护士或非因分手争执在车内被同居/前男友持刀刺颈身亡案",
+    "被告人非师某豪（师某某）的杀人案",
+    "其他医疗人员或护士受害案件（如温州女医生案等）"
+  ],
+  "source_evidence": [
+    {
+      "title": "西安“31岁女护士遭男友杀害案”二审宣判：维持死刑判决",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGKifNc4054dzyB-QZgx9HggVE1uKnURf5s4ONgD_C8JtZnxOCJmnieYenhQWrWqxQkg3r0EjxKXE_2KNYTFHX4nvxfE2ntZ61dvmi1MK5JxrmoW-IlOG8Nt9MHbNVXQNJlQz8W3LxQP3o=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-09-09"
+    },
+    {
+      "title": "西安“女护士遭同居男友杀害”案维持原判：案发至今已811天，被告人一审获死刑",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLD-96bylutulgX3xHCFeh8nUO3mWSRyQVw6iow0hmVsIJ7k9XKEdpPwdJrnRn2Gmc9bcTDKglt21kN3ezuaLTBX8_jdd9ISbW8V3C5vepKWrAOlvwFOLyJBTQmgXhtcHmoOUbQQ==",
+      "publisher": "极目新闻",
+      "published_at": "2026-09-09"
+    },
+    {
+      "title": "维持原判！西安“女护士被男友杀害案”最新进展",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF6YJ33RgmpHPdGbGg82VdPbdQFZGlg4tVx_K1G0fHyLHgN4wkkBzE_02MdV1XTuTq2u1ICNDAQBM6lV3ZQPwnTGJgP8PvUy7OHheY6S3BLqrhg6IEhrvvRInW6EcbPlKRgQ==",
+      "publisher": "潮新闻",
+      "published_at": "2026-09-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:30"
+}

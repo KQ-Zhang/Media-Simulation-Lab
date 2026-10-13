@@ -1,0 +1,87 @@
+{
+  "event_id": "evt_a7398e8320d90bcd",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "电影《给阿嬷的情书》官宣全球上映计划及港澳与东南亚首轮公映",
+  "factual_description": "2026年6月5日，由蓝鸿春执导、以潮汕下南洋历史与“侨批”文化为主题的方言电影《给阿嬷的情书》正式官宣全球上映计划。同日在香港会议展览中心揭幕的第五届“香港潮州节”上，香港旅游发展局主席林建岳向公众郑重推荐该片，片中多位主演到场与市民互动分享，现场特设剧情打卡专区及同款美食推广。2026年6月18日，该片首轮正式登陆中国香港、中国澳门、新加坡、马来西亚及文莱各大院线同步公映，并在香港铜锣湾等地举办专场观影活动。此后，影片进一步拓展至欧美及亚太其他国家和地区展映。该片的海外上映引发海内外华人对侨批文化、家国情怀的强烈共鸣，并带动了汕头侨批文物馆参观热潮及潮汕文旅关注。",
+  "event_time": {
+    "start": "2026-06-05",
+    "end": "2026-06-18",
+    "precision": "day",
+    "evidence": "2026年6月5日片方正式官宣全球上映计划并在香港潮州节推介；2026年6月18日在港澳及新马文莱院线正式公映。"
+  },
+  "locations": [
+    "中国/香港特别行政区/湾仔区/香港会议展览中心",
+    "中国/澳门特别行政区",
+    "新加坡",
+    "马来西亚",
+    "文莱",
+    "中国/广东省/汕头市/金平区/汕头侨批文物馆"
+  ],
+  "aliases": [
+    "《给阿嬷的情书》全球上映",
+    "电影《给阿嬷的情书》定档6月18日",
+    "《给阿嬷的情书》港澳及海外上映",
+    "《给阿嬷的情书》亮相第五届香港潮州节",
+    "Dear You film overseas release"
+  ],
+  "retrieval_queries": [
+    "给阿嬷的情书 全球上映",
+    "给阿嬷的情书 6月18日",
+    "给阿嬷的情书 香港潮州节",
+    "给阿嬷的情书 港澳公映",
+    "给阿嬷的情书 侨批",
+    "给阿嬷的情书 新加坡 马来西亚",
+    "Dear You 蓝鸿春",
+    "给阿嬷的情书 林建岳"
+  ],
+  "must_match_facts": [
+    "主体为蓝鸿春执导、讲述侨批与潮汕亲情故事的电影《给阿嬷的情书》（Dear You）",
+    "2026年6月5日正式宣布全球公映计划，并在第五届香港潮州节现场进行宣传推荐",
+    "2026年6月18日在中国香港、中国澳门、新加坡、马来西亚、文莱院线同步公映",
+    "宣传与放映活动聚焦华侨下南洋、“侨批”信义精神及潮汕特色文化"
+  ],
+  "exclude_if": [
+    "仅报道2026年4月至5月中国大陆早期点映或内地上映票房而未涉及海外/港澳公映",
+    "其他非蓝鸿春执导的同名或含“阿嬷”关键词的无关影视作品",
+    "与电影《给阿嬷的情书》上映推介无关的普通商业展览或学术研讨"
+  ],
+  "source_evidence": [
+    {
+      "title": "电影《给阿嬷的情书》定档6月18日在港上映",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkpqeZfEyuZISmI9AmSQI1yYe06DVMcSKS366s0LPqbTk2_4dyBtl6lrD8GQcpawpH2oAibqE81-YTiJ7Uc2co8MQACvglFU74UJFLomfxBZKZyP0OzESIm0bT_NiMoFYQqPir07PsaQRR2b2huI7ZHXz4wnyKMPoemtjDA94LBgjszw2ISw==",
+      "publisher": "新华网",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "特写：《给阿嬷的情书》港澳公映质朴温情触动民众",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRYNOG4Oc-j61ERkgjix7D3RdDFueVwUqB7SA5hdUgKNx2x4p43_m-MO8WIP4iKubkv6ysFi_yQLS3EKyF318qZIxhJLADuuKvcC_NQFYM39GpQikuYsdubbOy_WflsJUWWSlrOs9-D89Ea8ZXsUh46Au6gmRkI60-b6jRUcgrrw==",
+      "publisher": "新华网",
+      "published_at": "2026-06-18"
+    },
+    {
+      "title": "6月18日起登陸海外！《給阿嬤的情書》官宣全球上映計劃",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfQ71fIdh1qDnGoqXDLbhN3W_kBBnPM9_A4qhsrOZpzfb6x4aGhoo8vZ4SXY39ZqOe5jYlIrho7IQVosHcFL2oVWpBQjT7X5U4Ch7HD4u40OgjLWbziibj15q_6-e1xJz59I3KPxzds_XiDKBGmT4=",
+      "publisher": "南方网",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "随笔丨《给阿嬷的情书》：一封写给华人世界的家书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEg8g8_f5g_f5i-bQRn3Il8D3yKX7qfDbr3jBybtQu9xZRwN3gyHNkxs9DazrQUM4bpeTe0u2hQv5_DhUb3h5rr0zgmqORgkjtpJ1mDTPzsi3NbNRtfGmE5gcYV-q6pLM7BeT0a4S51Yj0tXBWbnlVJIrQSh3R9JfgxUSFY2OpChgf6qA==",
+      "publisher": "新华网",
+      "published_at": "2026-06-25"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:07"
+}

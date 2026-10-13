@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_91d347b70c095546",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "国家统计局发布《2025年国民经济和社会发展统计公报》",
+  "factual_description": "2026年2月28日，国家统计局受权正式发布《中华人民共和国2025年国民经济和社会发展统计公报》。公报显示，初步核算，2025年全年国内生产总值（GDP）为1401879亿元，按不变价格计算比上年增长5.0%，中国经济总量首次突破140万亿元大关，主要预期目标圆满实现。分三次产业看，第一产业增加值93347亿元，比上年增长3.9%；第二产业增加值499653亿元，增长4.5%；第三产业增加值808879亿元，增长5.4%。三次产业增加值占国内生产总值的比重分别为6.7%、35.6%和57.7%。全年人均国内生产总值99665元，比上年增长5.1%。此外，公报还公布了人口、就业、价格、对外经济和科技教育等多领域运行数据，全面展现了“十四五”规划收官之年国民经济社会的发展成果。",
+  "event_time": {
+    "start": "2026-02-28",
+    "end": "2026-02-28",
+    "precision": "day",
+    "evidence": "国家统计局与新华社于2026年2月28日正式播发《中华人民共和国2025年国民经济和社会发展统计公报》。"
+  },
+  "locations": [
+    "中国",
+    "北京"
+  ],
+  "aliases": [
+    "2025年国民经济和社会发展统计公报发布",
+    "2025年中国统计公报发布",
+    "国家统计局发布2025年统计公报",
+    "2025年中国GDP突破140万亿",
+    "2025年国民经济和社会发展统计公报出炉"
+  ],
+  "retrieval_queries": [
+    "2025年国民经济和社会发展统计公报",
+    "2025年统计公报 1401879亿元",
+    "2025年国内生产总值 1401879 5.0%",
+    "国家统计局 2025年国民经济和社会发展统计公报 2026",
+    "经济总量破140万亿 2025年统计公报"
+  ],
+  "must_match_facts": [
+    "国家统计局发布《中华人民共和国2025年国民经济和社会发展统计公报》",
+    "公报发布时间为2026年2月28日",
+    "初步核算2025年全年国内生产总值为1401879亿元",
+    "2025年全年国内生产总值比上年增长5.0%"
+  ],
+  "exclude_if": [
+    "2025年2月28日发布的《2024年国民经济和社会发展统计公报》",
+    "2026年1月19日国新办举行的2025年国民经济运行情况新闻发布会",
+    "2023年或更早年度的国民经济和社会发展统计公报"
+  ],
+  "source_evidence": [
+    {
+      "title": "受权发布丨中华人民共和国2025年国民经济和社会发展统计公报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_m9O6uTh8dawgAahcxbjBOfbAWPxFeuPVQ2RYUSpz2chszqfoWZ8Vxta3qxjVDJqaC-Fi5T4P34DL8kctDHgem6BdJZ0JxvSZb4cYtl6BdqZ8_NVYUCPbLUtA_bLs9AFZ1DFdkcwIjXEgpU66LkEPLcqwgu0H9xVcH9IEzfq-H7p5oQ==",
+      "publisher": "新华网",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "国家统计局发布2025年国民经济和社会发展统计公报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4dvzElrr6SP75Ja2II0nLSR2ut_V3ZBM9-JPH68JB-VAgovGaeCInO66QvHGCRI3e_7Oc2WwW5E5VyfxBrl-7WNqJ9Tr_vE-sgbtJ9VdVfKgZmYnW1NNVfJzmft0TL2NkN09I5_gPOSNcPHBZCh7PsuhoCyk-9weUg4M=",
+      "publisher": "央视网",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "中华人民共和国2025年国民经济和社会发展统计公报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0xNqJm2Y1BIe04EgBxqKS-DLnwV18rWyJYCDFIsrzTCGkc9SFVB5uppwxKlupwAdm_r3VP8J0Ii4f_5h6XAU8RmBZxqIKTE9brI86UNdx0MwcAhsHKaLbTI5nZ8Xgob9bw5NmWshDL0wPnOAcxDWLD6pspQ==",
+      "publisher": "人民网－人民日报",
+      "published_at": "2026-03-01"
+    }
+  ],
+  "uncertainties": [
+    "输入中的原有描述误将公报发布年份记作2025年2月28日，经权威发布信息核实，2025年度国民经济统计公报的实际发布日期为2026年2月28日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:25"
+}

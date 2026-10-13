@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_95d83118fcc12f61",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "李亚鹏发布聚餐小酌后由83岁母亲驾车接回视频引发关注",
+  "factual_description": "2026年2月15日晚，演员李亚鹏在社交平台发布一则题为“家有一宝，心有归处”的视频。李亚鹏在视频中表示，春节期间与老街坊聚餐小酌，因饮酒后不能驾车，便由其83岁高龄的母亲驾车接他回家。坐在副驾驶位置的李亚鹏拍摄了母亲专注驾驶的画面并夸赞母亲状态良好，感慨“家有老人是个宝”。视频发布后迅速引发网络热议，不少网民对母子间的温情互动以及高龄母亲硬朗的身体素质表示羡慕与祝福；同时，高龄老人驾车出行的话题亦引发讨论，多家媒体借此科普了中国现行机动车驾驶管理规定，指出小型汽车已取消驾驶年龄上限，但70周岁以上驾驶人每年须提交体检证明并通过“三力测试”（记忆力、判断力、反应力）。",
+  "event_time": {
+    "start": "2026-02-15",
+    "end": "2026-02-16",
+    "precision": "day",
+    "evidence": "李亚鹏于2026年2月15日晚发布相关视频，各大媒体集中于2026年2月16日报道"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "李亚鹏晒83岁母亲开车载自己",
+    "李亚鹏饮酒后83岁母亲开车接其回家",
+    "83岁母亲开车接李亚鹏回家",
+    "李亚鹏春节返乡小酌由83岁母亲接送"
+  ],
+  "retrieval_queries": [
+    "李亚鹏 83岁母亲 开车",
+    "李亚鹏 家有一宝 心有归处",
+    "李亚鹏 家有老人是个宝 母亲",
+    "李亚鹏 83岁母亲 接回家",
+    "李亚鹏 聚会小酌 母亲开车"
+  ],
+  "must_match_facts": [
+    "李亚鹏在社交平台发布饮酒后由其83岁母亲开车接其回家的视频",
+    "李亚鹏在视频中感慨‘家有老人是个宝’或配文‘家有一宝，心有归处’",
+    "事件发生及媒体集中报道时间为2026年2月春节前夕",
+    "驾车当事人为李亚鹏母亲且年龄为83岁"
+  ],
+  "exclude_if": [
+    "涉及北京嫣然天使儿童医院欠租风波或年会募捐",
+    "涉及李亚鹏与海哈金喜离婚财产及执行案件",
+    "涉及其他高龄司机交通事故或无证驾驶违法案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "83岁母亲开车接李亚鹏回家李亚鹏发视频点赞：家有老人是个宝",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5lT3sxs-hOJPEwQtJqjdMbA63pMJjXpoVCgaSzTByAVCmGs8iwSRoJyAeWwpMuwEtMqsKcY_Zq82xe26RL10s8wIrR5TLBeNzMXngYMoMyVGTCDSYD0iRoEMR4jSbDSx8QTVK_bokvQ==",
+      "publisher": "新湖南客户端",
+      "published_at": "2026-02-16"
+    },
+    {
+      "title": "李亚鹏饮酒后83岁母亲开车接其回家母子温情获赞",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKfWjhDrjvoAKUIzUpfgWcfJ2_C7ku7UiTM2cabNz3kJ0jReeNKBmzLs1ErYR4KXvF0c6NtTO72u3GbLNaeQkE65DbvE2crXu_6hHq8kI3Xb10kucffKNs9QPHmkHmbh_7eTN6rdYWpcFbZ2ddnTS-FQikmCk=",
+      "publisher": "中华网",
+      "published_at": "2026-02-16"
+    },
+    {
+      "title": "83岁母亲开车接李亚鹏回家：家里有老人是个宝！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcQBDgzeZx2czxcoB5tfDpngrDeE5LR_1e0XemzHpyz2V4uSh0UjPXV-FMTOLV-HyZcPqmtY-2lnuTRQev8J8J6dRTNcuwbA64JsRuBUMLnC3K63TZj3zLcx54HDDakk4O",
+      "publisher": "快科技 / QQ News",
+      "published_at": "2026-02-16"
+    }
+  ],
+  "uncertainties": [
+    "输入样本原描述将年份记为2024年，经多方报道核实实际为2026年春节期间",
+    "视频中聚餐及驾车的具体城市地点（北京、新疆乌鲁木齐或河北）在公开媒体报道中未予具体详述"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:46"
+}

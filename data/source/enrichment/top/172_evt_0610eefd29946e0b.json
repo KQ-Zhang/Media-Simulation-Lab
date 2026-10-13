@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_0610eefd29946e0b",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "河北石家庄曹某某驾车逃离致丈夫身亡案",
+  "factual_description": "2024年5月21日凌晨，河北省石家庄市发生一起驾车逃离致人死亡案。被告人曹某某（女）因感情琐事与丈夫刘某某发生争执，刘某某酒后持刀要求曹某某一同外出找人对质，并在途中对曹某某实施推搡、拉拽及撕扯衣服等强迫行为。随后曹某某趁刘某某在车外查看手机时进入驾驶席启动汽车欲自行离开，刘某某爬上车前机盖阻拦。曹某某明知刘某某趴在车上，仍加速行驶并大幅甩动方向盘，车辆行至石家庄市中华大街与新苑路交叉口碰撞花池发生事故，导致刘某某抢救无效死亡，曹某某亦受伤。2025年3月24日，石家庄市中级人民法院一审以故意杀人罪判处曹某某有期徒刑十一年，赔偿5.4万余元。曹某某提出上诉。2026年6月22日，河北省高级人民法院二审裁定驳回上诉、维持原判，认定刘某某生前行为不构成法定严重暴力家暴，曹某某无正当防卫和紧急避险必要。曹某某家属表示将申请再审及申诉。",
+  "event_time": {
+    "start": "2024-05-21",
+    "end": "2026-06-22",
+    "precision": "day",
+    "evidence": "案发时间为2024年5月21日凌晨；石家庄市中级人民法院于2025年3月24日作出一审判决；河北省高级人民法院于2026年6月22日作出二审裁定。"
+  },
+  "locations": [
+    "中国/河北省/石家庄市"
+  ],
+  "aliases": [
+    "女子遭家暴逃命致丈夫身亡案",
+    "河北女子遭殴打驾车逃跑致丈夫身亡案",
+    "石家庄女子驾车逃离致丈夫身亡案",
+    "曹某某故意杀人案",
+    "女子驾车逃跑致丈夫身亡案"
+  ],
+  "retrieval_queries": [
+    "石家庄 曹某某 故意杀人 11年",
+    "女子驾车逃离致丈夫身亡",
+    "河北高院 曹某某 刘某某 二审维持原判",
+    "女子遭殴打驾车逃跑致丈夫身亡",
+    "石家庄 中华大街 新苑路 撞花池 扒车"
+  ],
+  "must_match_facts": [
+    "2024年5月21日凌晨发生在河北石家庄的驾车甩落扒车丈夫事故",
+    "被告人曹某某因驾车甩落趴在机盖上的丈夫刘某某致其死亡",
+    "石家庄市中级人民法院一审以故意杀人罪判处曹某某有期徒刑十一年",
+    "河北省高级人民法院二审裁定驳回上诉、维持原判"
+  ],
+  "exclude_if": [
+    "发生在其他城市的交通肇事或过失致人死亡案",
+    "在2024年5月21日以外其他时间节点发生的非涉案当事人的家暴防卫案",
+    "妻子被判处无罪或判处其他刑期的案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“女子遭家暴逃跑致丈夫身亡案”二审维持原判，女子获刑11年",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZBTNvBtNtYsKvzup1TIWxbe3l65DzxtF21ar_iXaggKakVf-AGMMl32ugAubgDBtBjC2AQKE9OO-eL3xXDWo0kThPdmRhGACvzGxycoPj-dzM-YaveGzyywSWeQtM8KLq1yKY5y1HAE1n",
+      "publisher": "新京报",
+      "published_at": "2026-06-29"
+    },
+    {
+      "title": "“女子遭家暴驾车逃跑致丈夫身亡”案二审维持原判 法院：被告人无正当防卫和紧急避险必要",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTOHHrVtdDJZ9rNemRqqQSVSZLRFq9ZsNCYdgNXbIf50rB0594QQvBgk35PeEycM4a8tI4uB7fkuj9uxKtUTpoHPQK0yO1s0HIL67BXXOtj5JAWSSNUkrQX-Qn67VCJuy8tyBzNWN-tIDSYCJI71tYp6MZlvh-YkFqjE5J",
+      "publisher": "封面新闻",
+      "published_at": "2026-06-29"
+    },
+    {
+      "title": "“女子驾车逃离致丈夫身亡案”二审维持原判，法院认定被害人生前未有家暴行为",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj-uCMt2BJ8e2Th8PlYLaqa7_6-L481vYEna4wQxYPnLCi-sBr9t7sEDUtZDqClKLg1O3XqrlwY-4uF7FV2hg_-Wk_h3h4Tk01R1bHGiNbx5dJuHrsWJ5oEHVFYGaC06JsCtTHdsp8O-UYN7UHWBI=",
+      "publisher": "紫牛新闻",
+      "published_at": "2026-06-29"
+    }
+  ],
+  "uncertainties": [
+    "现有描述误将案发年份标记为2025年（实际案发为2024年5月21日），且误将10月31日（2025年10月31日二审开庭）当作二审宣判时间（实际二审裁定日期为2026年6月22日）。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:43"
+}

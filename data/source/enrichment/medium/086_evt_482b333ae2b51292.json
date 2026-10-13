@@ -1,0 +1,82 @@
+{
+  "event_id": "evt_482b333ae2b51292",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "白宫与FBI就多名涉密领域科研人员死亡失踪展开调查",
+  "factual_description": "2026年4月中旬，美国媒体与社交网络广泛热传自2023年以来至少10至11名涉足航空航天、原子能、军事及UFO等机密科研领域的专家接连离奇死亡或失踪，并在网络上引发“外国间谍行动”乃至“外星人灭口”等阴谋论。其中备受瞩目的案例包括2026年2月退役空军少将威廉·麦卡斯兰携带手枪离家失踪、麻省理工学院物理教授洛雷罗遭枪杀等。面对舆论发酵，美国总统特朗普于4月16日对媒体证实已听取简报，称情况“相当严重”但希望只是巧合；4月17日，白宫新闻秘书卡罗琳·莱维特公开表示，白宫正与联邦调查局（FBI）及国家核安全管理局（NNSA）等部门合作，全面调查所有相关案件以厘清其是否存在关联；国会众议院监督委员会亦介入调查。主流媒体核查指出，涉案人员死因与失踪情况各异（含疾病、自杀、恶性凶杀及户外走失），官方目前尚未发现案件之间存在串联证据。",
+  "event_time": {
+    "start": "2026-04-16",
+    "end": "2026-04-21",
+    "precision": "day",
+    "evidence": "2026年4月16日特朗普就科学家死亡失踪发表讲话，4月17日白宫发言人宣布正协同FBI全面调查，4月21日前后国会与FBI确认介入。"
+  },
+  "locations": [
+    "美国",
+    "美国华盛顿哥伦比亚特区",
+    "美国新墨西哥州阿尔伯克基"
+  ],
+  "aliases": [
+    "美国至少10名科研人员离奇死亡或神秘失踪",
+    "美尖端研究领域10人接连死亡或失踪",
+    "美11名科学家接连死亡或失踪案",
+    "白宫联手FBI调查科学家接连失踪死亡事件",
+    "美国科学家消失潮",
+    "Missing scientists conspiracy theory"
+  ],
+  "retrieval_queries": [
+    "美国 科学家 离奇死亡 失踪",
+    "白宫 FBI 调查 科研人员 失踪",
+    "特朗普 科学家 死亡 巧合",
+    "麦卡斯兰 失踪 UFO 守门人",
+    "威廉 麦卡斯兰 失踪",
+    "Missing scientists FBI White House",
+    "Leavitt 10 scientists missing investigation",
+    "McCasland missing scientist"
+  ],
+  "must_match_facts": [
+    "2026年4月舆论热议至少10至11名涉及航天、核能或UFO等涉密领域的科研人员死亡或失踪",
+    "美国总统特朗普公开回应称已听取简报且情况严重，希望属于巧合",
+    "白宫发言人莱维特证实白宫与FBI合作全面调查案件是否存在关联",
+    "涉及退役空军少将威廉·麦卡斯兰（William McCasland）失踪等具体案件"
+  ],
+  "exclude_if": [
+    "冷战时期或20世纪早期的科学家失踪历史事件",
+    "涉及俄罗斯或其他非美国本土科学家的非正常死亡事件",
+    "不涉及2026年4月白宫与FBI调查背景的单起普通人口失踪案"
+  ],
+  "source_evidence": [
+    {
+      "title": "美国尖端研究领域10人接连离奇死亡、失踪，白宫：联手FBI调查",
+      "url": "https://www.guancha.cn/internation/2026_04_18_732555.shtml",
+      "publisher": "观察者网",
+      "published_at": "2026-04-18"
+    },
+    {
+      "title": "美國尖端研究領域11科學家接連死亡或失蹤引關注 特朗普承諾徹查",
+      "url": "https://www.hk01.com/即時國際/1122276/美國尖端研究領域11科學家接連死亡或失蹤引關注-特朗普承諾徹查",
+      "publisher": "香港01",
+      "published_at": "2026-04-18"
+    },
+    {
+      "title": "Conspiracy theory over UFOs and missing scientists spreads from web to White House",
+      "url": "https://www.theguardian.com/us-news/2026/apr/25/missing-scientists-conspiracy-theory-trump",
+      "publisher": "The Guardian",
+      "published_at": "2026-04-25"
+    }
+  ],
+  "uncertainties": [
+    "官方调查尚未确认这批死亡与失踪案件之间是否存在人为组织策划或实质因果关联",
+    "名单中部分失踪人员（如威廉·麦卡斯兰、莫妮卡·雷扎等）的最终下落尚未寻获查清"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:21"
+}

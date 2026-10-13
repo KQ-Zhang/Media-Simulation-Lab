@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_9868c6d74a69d95b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广东潮州男子酒后做俯卧撑及掰手腕致肱骨骨折事件",
+  "factual_description": "2026年8月18日，在广东省潮州市，数名友人在家中聚会饮酒。期间，一名爱好健身的男子为展示力量与“男友力”，先连续做了四五十个俯卧撑，随后与朋友进行掰手腕比拼。在对抗发力过程中，该男子大臂肱骨发生骨折，现场伴有明显清脆断裂声。同行拍摄者牛先生记录下过程，并表示伤者后续需在医院接受手术治疗，借此提醒广大网友引以为戒，酒后切勿逞强进行剧烈运动或力量对抗。2026年8月23日，荔枝新闻等媒体对此事进行了公开报道。",
+  "event_time": {
+    "start": "2026-08-18",
+    "end": "2026-08-18",
+    "precision": "day",
+    "evidence": "媒体引用拍摄者牛先生表述核实，事件发生于2026年8月18日。"
+  },
+  "locations": [
+    "中国/广东省/潮州市"
+  ],
+  "aliases": [
+    "健身男子酒后掰手腕致肱骨骨折",
+    "男子酒后掰手腕骨折需做手术",
+    "男子做俯卧撑后掰手腕致骨折",
+    "潮州男子酒后掰手腕啪一声掰断了"
+  ],
+  "retrieval_queries": [
+    "潮州 掰手腕 肱骨骨折",
+    "潮州 健身男子 掰手腕 骨折",
+    "牛先生 掰手腕 骨折",
+    "酒后掰手腕 肱骨骨折 手术",
+    "做俯卧撑后掰手腕 肱骨骨折"
+  ],
+  "must_match_facts": [
+    "事发地点位于广东省潮州市",
+    "男子酒后先连续做四五十个俯卧撑",
+    "随后与朋友掰手腕比拼导致大臂肱骨骨折",
+    "拍摄者为牛先生并记录了骨折脆响与后续需手术治疗"
+  ],
+  "exclude_if": [
+    "甘肃嘉峪关方特景区NPC与游客掰手腕致骨折事件",
+    "发生在学校宿舍或校园内的学生掰手腕骨折事件",
+    "非2026年8月潮州友人家中聚会饮酒相关的骨折事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "男子酒后掰手腕致肱骨骨折",
+      "url": "https://weibo.com/1749990115/AXp6lzMU",
+      "publisher": "荔枝新闻",
+      "published_at": "2026-08-23 17:17:00"
+    },
+    {
+      "title": "男子酒后掰手腕骨折需做手术",
+      "url": "https://weibo.com/6511210874/AXp6uH4e",
+      "publisher": "大象文娱（河南广播电视台）",
+      "published_at": "2026-08-23 19:15:00"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:03"
+}

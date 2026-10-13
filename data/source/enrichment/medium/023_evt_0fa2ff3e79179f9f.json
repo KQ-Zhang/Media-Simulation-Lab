@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_0fa2ff3e79179f9f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "内塔尼亚胡声称伊朗曾企图暗杀其子",
+  "factual_description": "当地时间2026年8月24日晚，以色列总理本雅明·内塔尼亚胡在接受以色列第14频道电视台电话采访时声称，伊朗曾“盯上并试图杀害”他的一个儿子，并强调若非安保措施得当，暗杀企图“就会成功”。内塔尼亚胡在采访中未透露具体是长子亚伊尔还是次子阿夫纳，也未指明事件的具体时间与地点。内塔尼亚胡此番言论主要用于为其家庭成员（包括其妻子和两个儿子）争取以色列国家安全总局（辛贝特）延长提供至少5年高规格安全保护的争议性协议进行辩护。随后，以色列和美国多家媒体报道披露，该暗杀图谋针对的是当时旅居美国佛罗里达州迈阿密的长子亚伊尔·内塔尼亚胡，以色列安全部门在数月前已知晓该图谋并受到军方审查限制报道，辛贝特随后协助其撤离美国返回以色列。",
+  "event_time": {
+    "start": "2026-08-24",
+    "end": "2026-08-24",
+    "precision": "day",
+    "evidence": "以色列总理内塔尼亚胡于当地时间2026年8月24日晚接受以色列第14频道电话采访公开披露此事，新华社、以色列时报等媒体于2026年8月24日至25日集中报道。"
+  },
+  "locations": [
+    "以色列",
+    "美国/佛罗里达州/迈阿密"
+  ],
+  "aliases": [
+    "内塔尼亚胡称伊朗曾试图暗杀其子",
+    "内塔尼亚胡自曝儿子遭伊朗暗杀威胁",
+    "伊朗企图暗杀内塔尼亚胡长子案",
+    "伊朗暗杀亚伊尔·内塔尼亚胡未遂事件"
+  ],
+  "retrieval_queries": [
+    "内塔尼亚胡 伊朗 暗杀 儿子",
+    "内塔尼亚胡 第14频道 伊朗 暗杀",
+    "伊朗 企图暗杀 亚伊尔",
+    "Netanyahu Iran tried to murder son",
+    "Netanyahu Channel 14 Iran assassinate",
+    "辛贝特 亚伊尔 迈阿密 暗杀",
+    "内塔尼亚胡 安保 争议 伊朗 暗杀",
+    "Yair Netanyahu Florida assassination plot"
+  ],
+  "must_match_facts": [
+    "以色列总理内塔尼亚胡在接受以色列第14频道采访时公开指控",
+    "指控伊朗曾企图暗杀其儿子",
+    "发生于内塔尼亚胡为其家庭成员获得辛贝特长期安保辩护的背景下",
+    "后续披露目标主要涉及旅美长子亚伊尔·内塔尼亚胡"
+  ],
+  "exclude_if": [
+    "涉及黎巴嫩真主党无人机袭击内塔尼亚胡私人住宅事件",
+    "指伊朗暗杀以色列其他内阁高官、科学家或军事将领的事件",
+    "指以军或以情报部门对伊朗或哈马斯高层发动的刺杀行动"
+  ],
+  "source_evidence": [
+    {
+      "title": "内塔尼亚胡声称伊朗曾企图暗杀其子",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeYAgJyUga5qL3Bjh9QFNDULyTBKgdVuEtol00cCJlfY7g8HZvs7sF1mFfjSu9sw9hQzlsTwojTWzQwwAJCuHVg80gZEyucv3qDHCdKyZxp1f7qEhIx6mrhwSk9t8UMLJBVfLgg2GRXWi8oBAHcKiVO8j9Ge6giWYu6i0t7hDjew==",
+      "publisher": "新华网",
+      "published_at": "2026-08-25"
+    },
+    {
+      "title": "Netanyahu claims 'Iran tried to murder one of my sons,' doesn't say which or give more details",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi-oS9RRMD8BS7tmA3sO1we4yjMoziGObcHXH11ASZXfoRRWVAb3vCizyo5YatKHrPNeJ-Yr8iWUMSpANyPevmIS4JQjqvJeQFxaq6iPocAN_aBOC34XMvHDfHb3ETOGEecW8XxWwQK-ZgzMak7bKfSxo_sbrCcBLOKueeXokdY7g8mWmqTG2mXM3K0vtueJUa",
+      "publisher": "The Times of Israel",
+      "published_at": "2026-08-24"
+    },
+    {
+      "title": "内塔尼亚胡：伊朗试图暗杀我儿子",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp2LPXCrkDKHpY4cMyo4nBcnNz-9zvVE5Sw4JRndjrGPMsJsRY-hkllRA2vnButEnZl__TetGZ-ipQJElNpGCeWXRoPKY_ejUxVymhIC5V6Z5yUEfmm4Et1hQEozNszcjdQNEaP8tkqRW4FCoHA5cq",
+      "publisher": "观察者网",
+      "published_at": "2026-08-25"
+    }
+  ],
+  "uncertainties": [
+    "现有输入描述中将采访时间误记为2024年8月24日，权威媒体核验证实事件发生在2026年8月24日",
+    "内塔尼亚胡本人在电视采访中未说明受威胁儿子的具体身份与事发时间，但媒体与安全部门后续均指向长子亚伊尔"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:42"
+}

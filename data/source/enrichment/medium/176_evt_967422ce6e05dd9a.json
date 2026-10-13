@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_967422ce6e05dd9a",
+  "verification_status": "partially_verified",
+  "confidence": 0.92,
+  "canonical_event_name": "2026年6月新疆和田极端暴雨内涝及武警紧急救援事件",
+  "factual_description": "2026年6月19日至21日，位于塔克拉玛干沙漠南缘的新疆和田地区遭遇历史罕见的极端强降雨过程。6月19日20时至20日20时，和田国家基准气候站24小时降水量达64.7毫米，单小时最大雨强达34.4毫米，3小时累计降雨量达53.8毫米，均打破当地有气象记录以来的历史极值，单日降水量超过常年全年平均降水量（48.1毫米），被形象称为“一天/三小时下了一年的雨”。强降雨导致塔克拉玛干沙漠边缘河道暴发山洪、吐和高速等部分交通受阻、和田城区多处积水内涝，多个乡村民居遭雨水倒灌受损。灾情发生后，武警新疆总队某支队官兵连夜奔赴防汛一线，开展封堵进水口、加固堤坝、排水排涝及疏散转移群众工作，累计成功转移受灾群众47户共232人。",
+  "event_time": {
+    "start": "2026-06-19",
+    "end": "2026-06-22",
+    "precision": "day",
+    "evidence": "气象监测显示暴雨过程于6月19日傍晚开启并在20日达到最强，武警官兵于21日至22日连夜展开堵水排涝与群众转移。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/和田地区",
+    "中国/新疆维吾尔自治区/和田地区/和田市",
+    "中国/新疆维吾尔自治区/塔克拉玛干沙漠南缘"
+  ],
+  "aliases": [
+    "新疆和田连续强降雨引发内涝及武警紧急救援",
+    "新疆和田一天下了一年的雨",
+    "和田三小时下了一年雨",
+    "塔克拉玛干沙漠南缘暴雨山洪",
+    "新疆和田暴雨武警官兵紧急救援"
+  ],
+  "retrieval_queries": [
+    "新疆和田 强降雨 武警 救援",
+    "和田 暴雨 降水量 64.7毫米",
+    "和田 三小时下了一年的雨",
+    "塔克拉玛干沙漠南缘 暴雨 洪水",
+    "和田 强降雨 转移群众 232人",
+    "武警新疆总队 和田 抢险",
+    "和田市国家气象站 暴雨 极值"
+  ],
+  "must_match_facts": [
+    "时间为2026年6月中下旬（6月19日至22日）",
+    "发生地点为新疆和田地区及塔克拉玛干沙漠南缘",
+    "和田市单日降水量达64.7毫米，单小时降雨34.4毫米，均破历史极值并超过常年全年总和",
+    "暴雨引发城区积水内涝、乡村民居雨水倒灌及山洪",
+    "武警新疆总队官兵连夜开展防汛抢险并转移受灾群众47户232人"
+  ],
+  "exclude_if": [
+    "2021年6月和田历史极值降雨事件（单日降水量56.0毫米）",
+    "2024年各省其他洪涝灾害武警救援报道",
+    "且末县牧民救助山洪中越野车被困人员单独事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "气象专家：塔克拉玛干沙漠洪水何来",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq62Vb-UoGyiyx5Je6glcoJd9gstMXHxJi67l9c9i4IRBnkLJLw6y9G5YNJT1ROzHIhfE-u7V1wUw4RYDZcc9bBporIHEbILV12FTcFSAX1bjZcLnNW1BpgF1OyR-TizkmFKwfJ0RLFJXoyAi60TYjviZ6nsNMZNBWcQ==",
+      "publisher": "新华网",
+      "published_at": "2026-06-24"
+    },
+    {
+      "title": "降水量破纪录！和田市3个小时下了一年的雨",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaUiwbclpD8HxV7pj-Ym-Ya88BGoLSJSOte5Vw03FqsgZL65Edxs4V87EDOYh3V0lTI8AEym0u6LxQbm9t9bJgkK7YdoOfrwOzgWCbguSY92GUQpfLVoNVpq7vOYT0gue7h2pbWMsE8cP3A9E=",
+      "publisher": "天山网-新疆日报",
+      "published_at": "2026-06-21"
+    },
+    {
+      "title": "武警紧急救援和田暴雨",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFE85X_FuWyV3om_kY7wbBrBOihMCz6PoB60L7KV9wdJjpmmz6qD8xC0737nVgrEM0FvVrKgpE1uXrH-OAM2wwafZNgv-YqTSPIP4sm42hSscXhyG5pmr_oUlXE30gAB9loimpAbiGr2P1F4w==",
+      "publisher": "央视军事 / 新浪新闻",
+      "published_at": "2026-06-22"
+    }
+  ],
+  "uncertainties": [
+    "现有事件描述中将年份误标为2024年，经多方官方及主流媒体报道核实，该起创极值暴雨及武警转移232人抢险救援事件实际发生于2026年6月。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:47"
+}

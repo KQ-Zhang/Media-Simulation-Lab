@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_0c1db7fc71ed76c4",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "哈尔滨市公安局发布禁止在松花江等江河冰面通行滞留通告",
+  "factual_description": "2026年2月27日，黑龙江省哈尔滨市公安局发布安全通告。通告指出，随着哈尔滨市气温逐渐回升，松花江部分冰面已经融化，冰层日趋变薄，结构发生明显变化，承载力大幅下降，极易发生车辆和人员坠江溺水事故。为切实保障人民群众生命财产安全、有效防范坠冰落水事故发生，哈尔滨市公安局宣布即日起禁止一切车辆和行人在松花江及其他江河冰面通行、滞留。哈尔滨市公安局同时在沿江一线设置警示标识并组织警力开展巡逻防控与安全提示，呼吁广大市民和游客积极配合警方工作，共同维护辖区水域安全。",
+  "event_time": {
+    "start": "2026-02-27",
+    "end": "",
+    "precision": "day",
+    "evidence": "哈尔滨市公安局于2026年2月27日正式签署并对外发布该通告，宣布即日起生效。"
+  },
+  "locations": [
+    "中国/黑龙江省/哈尔滨市/松花江"
+  ],
+  "aliases": [
+    "哈尔滨发布松花江冰面通行禁令",
+    "哈尔滨松花江部分冰面已融化禁止通行滞留",
+    "哈尔滨市公安局关于禁止在松花江等江河冰面通行的通告",
+    "即日起松花江冰面禁止一切车辆行人通行"
+  ],
+  "retrieval_queries": [
+    "哈尔滨 禁止一切车辆和行人在松花江及其他江河冰面通行",
+    "哈尔滨市公安局 松花江 冰面通行 滞留",
+    "松花江部分冰面已融化 即日起禁止通行 滞留",
+    "即日起 松花江冰面禁止一切车辆行人通行",
+    "哈尔滨 公安局 坠江溺水 巡逻防控 2026"
+  ],
+  "must_match_facts": [
+    "通告由哈尔滨市公安局于2026年2月27日发布",
+    "原因为气温回升导致松花江部分冰面融化、变薄及承载力大幅下降",
+    "主要措施为即日起禁止一切车辆和行人在松花江及其他江河冰面通行、滞留",
+    "公安部门在沿江一线设立警示标识并开展巡逻防控"
+  ],
+  "exclude_if": [
+    "2024年或2025年冬初气温降低封江期发布的禁行通告",
+    "2025年2月20日发布的松花江冰面禁行通告",
+    "涉及道路、陆地桥梁等非江河冰面交通管制的公告",
+    "非哈尔滨市管辖水域的冰面禁行公告"
+  ],
+  "source_evidence": [
+    {
+      "title": "市公安局通告：即日起禁止一切车辆和行人在松花江及其他江河冰面通行、滞留",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1yC6WcG6mGWDDSzOq-0oTOM9jD_8nGJ-5m4hsIZfKCo5LyQ_L8yL9pE-LDAO4oXrVWBgVbeJipx5UvPQ_1UI5J6ardeJpuhHrDapyhzYBs6uZOOMPr4vu7392Bnpm62jfKUoH6pnTBcBrgfyr",
+      "publisher": "冰城新闻客户端 / 哈尔滨蓝网",
+      "published_at": "2026-02-27"
+    },
+    {
+      "title": "即日起，松花江冰面禁止一切车辆行人通行",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSaOOnwODEXwk1MQoGkjWj1DTZB_SJv5AUkD_ko3i_aKX88kikM-eitbIqZcWwURMM2VlYkGigmbySEk3u4oiGujJ8LY1sjFZHCjO5CSl6ulDL6W8uVndoQ9CFDib5w2vt",
+      "publisher": "龙视新闻联播 / 北京日报客户端",
+      "published_at": "2026-02-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:01"
+}

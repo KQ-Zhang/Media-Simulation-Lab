@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_125fbaa7ecd85bba",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "朱某某编造台风致北京门头沟山洪暴发谣言案",
+  "factual_description": "2026年8月初，受台风“白海豚”影响，我国多地出现强降雨，北京同步启动防汛应急响应。8月12日上午，北京市公安局网安总队在日常网络巡查中发现，有网民在网络平台发布一则19秒的山洪暴发视频，标注地点为北京门头沟区。面对其他网民在评论区提出的质疑，发布者两次明确留言回复确认画面为当日最新灾情，导致该视频在短时间内浏览量突破3万次、转发达764次，引发公众对雨情的误判与恐慌。经警方核查，8月11日北京强降雨并未造成山洪、洪涝等灾情，该视频实为拼接网传旧视频移花接木捏造而成。经调查，警方锁定不实视频发布者为北京昌平区网民朱某某。朱某某为博取网络关注、赚取流量热度蓄意造谣，扰乱公共秩序，北京公安机关依据《中华人民共和国治安管理处罚法》相关规定，依法对违法行为人朱某某处以行政拘留处罚。",
+  "event_time": {
+    "start": "2026-08-12",
+    "end": "2026-08-24",
+    "precision": "day",
+    "evidence": "2026年8月12日上午警方巡查发现该谣言视频，经查实后依法对朱某某处以行政拘留，央视新闻与首都网警于2026年8月23日至24日集中通报。"
+  },
+  "locations": [
+    "中国/北京市/门头沟区",
+    "中国/北京市/昌平区"
+  ],
+  "aliases": [
+    "网民编造门头沟山洪谣言被行拘",
+    "台风致北京门头沟山洪暴发谣言案",
+    "朱某某涉汛谣言案",
+    "北京网民捏造白海豚汛情被行拘",
+    "门头沟山洪旧视频移花接木谣言案"
+  ],
+  "retrieval_queries": [
+    "台风致北京门头沟山洪暴发",
+    "门头沟山洪谣言 朱某某",
+    "编造门头沟山洪谣言 行拘",
+    "白海豚 门头沟山洪",
+    "网安总队 门头沟山洪 朱某某",
+    "首都网警 门头沟山洪暴发"
+  ],
+  "must_match_facts": [
+    "涉案网民朱某某为北京昌平区人员",
+    "将旧山洪视频移花接木捏造为台风致北京门头沟山洪暴发",
+    "在评论区两次回复坚称系当日最新灾情且浏览量破3万次",
+    "北京警方证实8月11日降雨未造成山洪并对朱某某处以行政拘留"
+  ],
+  "exclude_if": [
+    "2023年7月底受台风杜苏芮影响北京门头沟区发生的真实山洪特大灾害",
+    "衡阳公职人员朱某某破坏车位地锁等其他朱姓治安纠纷事件",
+    "北京其他区县或非门头沟山洪灾情的涉汛虚假信息案"
+  ],
+  "source_evidence": [
+    {
+      "title": "编造“台风致北京门头沟山洪暴发”谣言，北京警方：朱某某已被行拘",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxSsDZe93mNfmcrTX4XKPrv3S59_7r7WaJp3O0T8LYI83RFeVfsBfua2FUGmIr4EvVKnbIlODbxLpthFFPlw-KtwwV2HtCf_H4wrtBAA3S3PPRKN5wDPfjUA==",
+      "publisher": "凤凰网",
+      "published_at": "2026-08-24"
+    },
+    {
+      "title": "“台风致北京门头沟区山洪暴发”系谣言旧视频移花接木引发恐慌",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPxkBrrLah04YruCJLSeEWaZ4I1n86zfXkYs9DoUnqdl04ifxyVhIrys4VqlbOX9xEQm7GdwOAJjPTaSvKv2Xygz9-QP442ecWPbS65ISN6fKZhK_g7aG1qQBfcsfecxQIm6GW3KpleEKHdDIdHUNVgBPZLA==",
+      "publisher": "中华网（转自央视新闻）",
+      "published_at": "2026-08-23"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:02"
+}

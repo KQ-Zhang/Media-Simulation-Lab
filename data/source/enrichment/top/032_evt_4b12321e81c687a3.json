@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_4b12321e81c687a3",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "湖南祁东老人进牌馆休息离世店家遭索赔及退款事件",
+  "factual_description": "2026年8月17日，湖南省衡阳市祁东县洪桥街道一名六旬老人罗某因身体不适，走到街坊肖爱华经营的棋牌店门口休息，随后突发疾病失去意识。店主肖爱华发现后积极施救，在他人协助下拨打120急救电话并按经验将老人移至通风处。老人经送医抢救无效死亡。公安机关调查确认老人系突发疾病死亡，排除刑事案件，店主全程积极施救且无法律过错。死者家属质疑救助方式不当提出10万元索赔，经街道综治中心及派出所调解，店主出于人道主义于8月19日支付1.9万元补偿款。调解协议公开后引发“善意施救反遭索赔”的全网热议。随后当地司法部门介入调查纠偏，确认店主无责；8月24日当地企业向肖爱华送去2万元慰问金鼓励凡人善举；8月26日，死者家属认识到接受补偿不妥并致歉，将1.9万元补偿款全额退还给店主一方，双方在有关部门见证下重新签署了《见证书》。",
+  "event_time": {
+    "start": "2026-08-17",
+    "end": "2026-08-26",
+    "precision": "day",
+    "evidence": "2026年8月17日老人进店突发疾病送医不治，8月19日签署调解协议支付1.9万元，8月26日死者家属全额退还1.9万元并签署新见证书。"
+  },
+  "locations": [
+    "中国/湖南省/衡阳市/祁东县/洪桥街道"
+  ],
+  "aliases": [
+    "湖南祁东老人进店休息离世店家遭索赔事件",
+    "湖南祁东帮扶老人遭索赔事件",
+    "祁东老人进牌馆休息离世索赔案",
+    "祁东扶老人被索赔1.9万退款事件",
+    "湖南祁东肖爱华扶老人遭索赔事件"
+  ],
+  "retrieval_queries": [
+    "祁东 老人进店休息离世",
+    "祁东 肖爱华 1.9万",
+    "祁东 扶老人 索赔 1.9万",
+    "祁东 老人 牌馆 1.9万元退还",
+    "祁东 洪桥街道 肖爱华 老人"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年8月中旬湖南省衡阳市祁东县洪桥街道",
+    "老人罗某进入肖爱华经营的棋牌店/牌馆歇脚时突发疾病晕倒，送医抢救无效离世",
+    "公安机关调查排除刑事案件，确认店主积极施救且无法律过错",
+    "家属提出索赔后经调解店主支付1.9万元人道主义补偿款",
+    "事件引发舆论关注后司法部门介入，死者家属于8月26日全额退还1.9万元补偿款并重新签署见证书",
+    "当地企业金泰米业总经理为店主肖爱华送去2万元慰问金"
+  ],
+  "exclude_if": [
+    "涉及其他年份或非湖南祁东地区的扶老人索赔事件",
+    "涉及襄阳霸王餐逃跑摔伤索赔或电梯劝阻抽烟猝死案等其他民事侵权案件",
+    "涉及真实存在交通肇事或人身伤害刑事责任的纠纷案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "“老人进店休息离世店家遭索赔”事件追踪",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTCGdCh_CARUpNLi1O107JKFNafOe3q_0IW5UKLYKO8Aj4d04OlwCTIGmhDf3Omw3djZCzo9FAA4F4I4MWC6nBfZO6mus4DLvGQpgyLn872aN1VBBL6tefvfxOSdSfA-C0RGOXXwEGDFc5nOeblCln",
+      "publisher": "人民网",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "“老人进店休息离世店家遭索赔”事件细节披露：死者与店主相识，死者家属退还19000元",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlZCR9qVL8atxzmGRpBHW62210-G8HtEYsTQDJyrJnts_ZDWc6THoeT4-FaNLyyrLotQPN9hoUVIPigAWyDQH6NSsqhzz6tOY-exstTYdAwbtwTwcCwqGA-9RwRc68J7QeldlbwT-C",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "扶老人被索赔1.9万店主已收到老人家属全额退款",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9CO6pd4XzToen18yCljxvGH2e5sGlIgLL9wZWS8HdeIFU38U6OfaSQHCuuj_QsE-l-ZccbeWMcHjOVG1FVhU8kPR9-3owdLbm-c7XpV8-nFctVfsgZVP9n6U=",
+      "publisher": "凤凰网",
+      "published_at": "2026-08-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:51"
+}

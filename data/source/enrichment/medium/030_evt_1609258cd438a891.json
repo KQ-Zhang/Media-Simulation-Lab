@@ -1,0 +1,64 @@
+{
+  "event_id": "evt_1609258cd438a891",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "中国国防部回应菲律宾防长特奥多罗被中方制裁",
+  "factual_description": "2026年6月11日，中国外交部宣布对菲律宾国防部长特奥多罗及其亲属实施制裁，特奥多罗随后宣称将继续履行职责维护国家利益。2026年6月16日下午，中国国防部新闻发言人陈曦大校就近期涉军问题发布消息，并回答记者相关提问。陈曦表示，外交部已多次说明了有关情况；特奥多罗及其亲属受到中方制裁，完全是其咎由自取，这是中方维护国家主权、安全、发展利益的正当举措。陈曦强调，若任由一小撮反华分子肆意妄为，直接损害的是菲律宾国计民生，对中菲两国两军关系带来破坏性影响，中方奉劝这些人好自为之，停止虚张声势的作秀表演。",
+  "event_time": {
+    "start": "2026-06-16",
+    "end": "2026-06-16",
+    "precision": "day",
+    "evidence": "2026年6月16日下午，中国国防部新闻发言人陈曦大校就近期涉军问题发布消息并回应记者提问。"
+  },
+  "locations": [
+    "中国/北京"
+  ],
+  "aliases": [
+    "国防部回应菲防长被制裁",
+    "国防部奉劝菲方一小撮反华分子停止作秀",
+    "国防部称特奥多罗受制裁完全是咎由自取",
+    "国防部回应特奥多罗被制裁"
+  ],
+  "retrieval_queries": [
+    "国防部 菲防长 特奥多罗 制裁",
+    "国防部 陈曦 特奥多罗 咎由自取",
+    "国防部 奉劝菲方一小撮反华分子停止虚张声势的作秀表演",
+    "陈曦大校 菲律宾国防部长 制裁"
+  ],
+  "must_match_facts": [
+    "2026年6月16日下午国防部新闻发言人陈曦大校回应特奥多罗被制裁相关言论",
+    "国防部指出特奥多罗及其亲属受到中方制裁完全是咎由自取",
+    "国防部奉劝菲方一小撮反华分子好自为之、停止虚张声势的作秀表演"
+  ],
+  "exclude_if": [
+    "2026年6月11日中国外交部宣布对特奥多罗实施制裁的通报原文",
+    "外交部例行记者会上发言人林剑关于特奥多罗被制裁的答问",
+    "中菲南海仁爱礁或仙宾礁海警执法摩擦事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "国防部：奉劝菲方一小撮反华分子停止虚张声势的作秀表演",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_R7wA59XBm3tJcZXk38GIb-GA-Mk1tG2alXtvpgZXQ6naFJvb8q-wg4wcvldWcbRV9_WPNuCew2nRa2iDV99BVfz6diGHTNppoy4t2Xf3p6wn_JyLfTfcfWKqeekz_1y4JLCsReGCmj5cBg==",
+      "publisher": "国防部网",
+      "published_at": "2026-06-16"
+    },
+    {
+      "title": "国防部：奉劝菲方一小撮反华分子停止虚张声势的作秀表演",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Md3YGqTPs8QlZhQcHDiHqw4Qu3W-Mo5KVeOABPNk4zvT7MqCvKaavIWXmpz6f-X8Y4KEtt5ixh0n877wjs93x0Luyqk4v12C33mFa8ZClz_grfuUzb5OmH--S-VDAahWG8xGU_S-z3UaUoGnYmqYgQ==",
+      "publisher": "中国网",
+      "published_at": "2026-06-16"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:44"
+}

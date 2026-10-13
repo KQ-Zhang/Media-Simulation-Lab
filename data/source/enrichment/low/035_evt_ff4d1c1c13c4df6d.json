@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_ff4d1c1c13c4df6d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "国家安全部发布《警惕“舌尖”上的泄密》提示",
+  "factual_description": "2026年4月4日，国家安全部官方微信公众号发布题为《警惕“舌尖”上的泄密》的安全提示文章，提醒涉密岗位工作人员餐桌并非“真空区”，谈笑亦有“红线纪”。国家安全机关指出，有境外间谍情报机关人员等别有用心之人紧盯餐桌饭局，设圈布局、套取信息。文章归纳披露了三种常见“舌尖”泄密情形：一是“话题泛化失边界”，个别涉密岗位工作人员在人员复杂的聚餐中，受恭维吹捧、酒精麻痹影响，为彰显自身工作价值或满足虚荣心，将涉密项目进展、内部工作部署等敏感信息作为闲聊谈资，导致泄密；二是“刻意诱导入圈套”，境外间谍人员假借联谊、请教、招商之名设宴款待，步步深入套取涉密信息；三是“环境布设藏隐患”，在宴请环境中布设窃密网络，诱导涉密人员携带涉密介质或通过网络处理、传输敏感信息借此窃取数据。国家安全部提示涉密人员须做到赴宴前严把关、开口前先三思、风险苗头早报告，筑牢保密防线。",
+  "event_time": {
+    "start": "2026-04-04",
+    "end": "2026-04-04",
+    "precision": "day",
+    "evidence": "2026年4月4日早间，国家安全部官方微信公众号发布安全提示文章《警惕“舌尖”上的泄密》。"
+  },
+  "locations": [
+    "中国",
+    "北京"
+  ],
+  "aliases": [
+    "警惕“舌尖”上的泄密",
+    "警惕舌尖上的泄密",
+    "国安部披露舌尖上的泄密",
+    "涉密人员聚餐聊天致泄密",
+    "因虚荣聚餐闲聊涉密项目致泄密",
+    "间谍饭局中设局窃密",
+    "间谍借宴请设网窃取涉密信息"
+  ],
+  "retrieval_queries": [
+    "警惕舌尖上的泄密 国家安全部",
+    "因虚荣聚餐闲聊涉密项目致泄密",
+    "间谍饭局中设局窃密",
+    "涉密人员聚餐聊天致泄密",
+    "国安部 警惕舌尖上的泄密 饭局",
+    "国家安全部 话题泛化失边界",
+    "间谍借宴请设网窃取涉密信息",
+    "国家安全部 2026年4月4日 舌尖"
+  ],
+  "must_match_facts": [
+    "国家安全部于2026年4月4日发布题为《警惕“舌尖”上的泄密》的官方通报或提示",
+    "提示指出涉密岗位人员聚餐饭局存在泄密和境外间谍窃密风险",
+    "归纳了话题泛化失边界、刻意诱导入圈套、环境布设藏隐患三种情形",
+    "指出有人员受恭维吹捧、酒精麻痹或虚荣心影响将涉密项目内容当做闲聊谈资"
+  ],
+  "exclude_if": [
+    "涉及虚拟定位软件窃密、钓鱼邮件、军工求职等其他非饭局餐饮场景的国安部安全提醒",
+    "通报具体涉案人员姓名且追究刑责的某起单独间谍案例（如石某军工求职泄密案等）"
+  ],
+  "source_evidence": [
+    {
+      "title": "警惕！境外间谍可能假借联谊、请教、招商之名设宴款待",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG72FJ2DAC36i5XroQhEvIEihS2iZgsrxSvq29OwLUjK83KqQyFdTDDeiRD7ZwHBGNyjswHEckyT4yTaeS970PGaCgSH8WVIFvy--JdkHS9zMBUZbYMVqiCWRHoBjxxk1NQWJg4ayIB",
+      "publisher": "北京日报客户端（转自国家安全部）",
+      "published_at": "2026-04-04 07:24"
+    },
+    {
+      "title": "间谍借宴请设网窃取涉密信息",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8aqNELBbAyhFrCR-VtkmFH8vNvDKrtZjtKIZazTT_ckngxUxn4mgdblRloQkeJC4Bq1Eg2BAxCkWdeRLRBJFIX3PrEeI24CgDjdlUYol2BnGVJcxsi_qo-CKATsPLDIoG-2kMXOiKtyHGNAS1eVftSr5iw1BvlXkKtu8q759DH_WxVBLDpA==",
+      "publisher": "北京晚报 / 新浪财经",
+      "published_at": "2026-04-04 07:41"
+    },
+    {
+      "title": "国安部：境外间谍在宴请环境中布设窃密网络，诱导涉密岗位人员携带涉密存储介质、信息设备进入饭局，窃取敏感信息数据",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPUmgWzd0_0h9jSMmpzHuPoM1EmBPZ1IJRLPMnfSS0fZuyzx_Q45fGgWt-6XCGIKBKwscU8Wo3lYqMk5yw4EqHBtB0wl8RQd6d2FLGBXGr1Guf25ZJjEZyxsglIVIFdbes27kydeVTXGnD8F2V8gVr-gc32JJnkiO6k2sOaQ6tEYcSOA==",
+      "publisher": "红网 / 新浪财经",
+      "published_at": "2026-04-04 11:11"
+    }
+  ],
+  "uncertainties": [
+    "该文为国家安全部针对餐桌饭局场景的保密警示宣教与典型手法归纳，文中未披露个别涉密人员及境外间谍的具体涉案人名、具体案件发生时间和司法判决详情。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:50"
+}

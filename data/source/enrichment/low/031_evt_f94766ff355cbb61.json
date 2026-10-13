@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_f94766ff355cbb61",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年南昌“抗癌爱心厨房”春节免费服务病患坚守23年",
+  "factual_description": "2026年2月中旬春节期间（2月16日除夕至春节假期），位于江西南昌青山湖区江西省肿瘤医院旁的“抗癌爱心厨房”照常开放运营，并延续惯例对所有患者及家属免收烹饪加工费用。该厨房由万佐成、熊庚香夫妇于2003年创办，平时炒一个菜仅收1元成本费，至2026年春节已连续坚守23年（8300余个日夜）。因许多肿瘤患者春节期间因化疗等治疗无法回乡过年，夫妇俩与爱心志愿者除夕在厨房挂灯笼、贴春联，包饺子、烹制红烧肉等年夜饭，并全程免费提供炉灶、厨具与调味品，为滞留南昌就医的病患家庭提供做饭、送餐支持。江西广播电视台客户端“今视频”与南昌本地“洪观新闻”于2026年2月16日至17日走访并报道了该事件。",
+  "event_time": {
+    "start": "2026-02-16",
+    "end": "2026-02-23",
+    "precision": "day",
+    "evidence": "洪观新闻2026年2月16日报道除夕爱心厨房照常营业且不收费，今视频于2月17日发布除夕及春节走访纪实。"
+  },
+  "locations": [
+    "中国/江西省/南昌市/青山湖区/学院路/江西省肿瘤医院旁抗癌爱心厨房"
+  ],
+  "aliases": [
+    "南昌抗癌爱心厨房春节免费供餐",
+    "南昌爱心厨房23年春节不打烊",
+    "南昌1元抗癌厨房春节免费",
+    "万佐成熊庚香爱心厨房春节坚守",
+    "南昌抗癌厨房除夕年夜饭"
+  ],
+  "retrieval_queries": [
+    "南昌 爱心厨房 春节 免费",
+    "南昌 抗癌厨房 23年 8300",
+    "万佐成 熊庚香 爱心厨房 春节",
+    "今视频 南昌抗癌爱心厨房",
+    "江西省肿瘤医院 爱心厨房 除夕",
+    "南昌 爱心厨房 赣州一家10口",
+    "23年炉火未灭 南昌爱心厨房"
+  ],
+  "must_match_facts": [
+    "主体为万佐成、熊庚香夫妇创办的江西南昌抗癌爱心厨房",
+    "地点位于江西南昌市青山湖区江西省肿瘤医院旁",
+    "时间背景为2026年春节除夕及假期（创办第23年）",
+    "厨房在春节假期照常开门并实行烹饪免费政策",
+    "服务对象主要为在肿瘤医院就医无法回家过年的癌症患者及家属"
+  ],
+  "exclude_if": [
+    "2021年万佐成夫妇当选感动中国年度人物或厨房装修改造事件",
+    "陕西西安雁塔区等其他省市的抗癌爱心厨房报道",
+    "2020年至2025年等非2026年春节的历史坚守报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "23年炉火未灭！南昌爱心厨房里的年夜饭",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0hqHNz6Yd0wuEZ4ECl_ykw3lDx4bB2I66KBN1Cj0UJQ_MrJHHUO4nlNfWY31l8DSkw3f2yF2UKWXSI7sRKP7NmceKiLdngozBmtXqYsF12YX16igqpPUj",
+      "publisher": "洪观新闻（凤凰网江西频道转载）",
+      "published_at": "2026-02-16"
+    },
+    {
+      "title": "南昌抗癌爱心厨房，顾客炒一个菜只需要交一元，23年8300多个日夜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbixmNwcBBWwUzu2sP1Non0gDQbyY7m06vpNmOqo7BGhLFY1vQYVZHL86dY8awV7g41mGeiN8f_GhOVFmh8fVrcLq0L0yXrhKKyJ5P5JYS8u7ooHT_R4sfGQFAALNWpfU=",
+      "publisher": "江西广播电视台今视频（腾讯新闻转载）",
+      "published_at": "2026-02-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:53"
+}

@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_4c795ec761ed9c0f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "薛凯琪亮相苏州抖音非遗嘉年华金龙巡游唱响《苏州河》",
+  "factual_description": "2026年6月19日晚19时30分，在江苏省苏州市姑苏区相门护城河（环古城河），“抖音非遗嘉年华·端午站”核心大秀“金龙巡游超级版”正式上演。该活动由抖音主办，由非遗创作者南翔联合广西阳朔遇龙河金龙巡游团队制作，一条长约500米、由55艘古法竹筏拼接而成的“水上巨龙”亮相古城护城河，并与相门城墙3D光影秀融合展演。歌手薛凯琪以特邀惊喜嘉宾身份亮相现场，立于舟头唱响其经典代表曲目《苏州河》，与乘船随行的十余位身着新中式及旗袍的创作者和现场观众互动，将端午民俗与水乡实景交融。整个抖音非遗嘉年华活动于2026年6月19日至21日举行，同期在苏州东园开放了国内首个非遗水市与体验空间。",
+  "event_time": {
+    "start": "2026-06-19",
+    "end": "2026-06-19",
+    "precision": "day",
+    "evidence": "2026年6月19日晚19:30，薛凯琪在苏州相门护城河“金龙巡游超级版”现场亮相并演唱《苏州河》"
+  },
+  "locations": [
+    "中国/江苏省/苏州市/姑苏区/相门护城河",
+    "中国/江苏省/苏州市/姑苏区/东园"
+  ],
+  "aliases": [
+    "薛凯琪亮相苏州金龙巡游超级版",
+    "抖音非遗嘉年华端午站薛凯琪",
+    "薛凯琪相门护城河唱苏州河",
+    "2026苏州抖音非遗嘉年华金龙巡游"
+  ],
+  "retrieval_queries": [
+    "薛凯琪 抖音非遗嘉年华 苏州",
+    "薛凯琪 金龙巡游超级版",
+    "薛凯琪 苏州河 相门护城河",
+    "抖音非遗嘉年华 端午站 薛凯琪",
+    "南翔 薛凯琪 金龙巡游",
+    "苏州相门 金龙巡游 薛凯琪"
+  ],
+  "must_match_facts": [
+    "主体包含歌手薛凯琪与抖音创作者南翔等",
+    "活动为抖音非遗嘉年华·端午站（金龙巡游超级版）",
+    "地点位于江苏苏州相门护城河及东园水域",
+    "薛凯琪在现场舟头演唱《苏州河》",
+    "发生于2026年6月19日端午节夜间"
+  ],
+  "exclude_if": [
+    "其他城市（如福州站三坊七巷）举办的抖音非遗嘉年华活动",
+    "薛凯琪个人售票巡回演唱会苏州站",
+    "阳朔本地遇龙河常规金龙巡游活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "抖音非遗嘉年华·端午站亮相苏州，金龙巡游",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNqbVuSaeNMhdLBVHXO1l8NE1jXSfIUMqBChPAALnZoRECKrP6UoquA3fvYmyqvrYtbSdLM_v5kMpJg4cHwK4ordS4sA3cGyhENdHMHjMyhhGBowBZhdWRfqKi7jTxW81R409S_uvykomWtep8s3g=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-06-22"
+    },
+    {
+      "title": "千年非遗“潮”起姑苏夜传统技艺在热闹游逛中触手可及",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQBb3qJUtUJzEzwurizy-88DvtJLxWSrkQwSBxQenM8MUig5nTh_VsZK92bdVISmx1o3QcaxEjna-uxSf3rHstjE37AX0eb6Rs6QJanqglpAPG5rPbhLMyeur1Nq2o51s3d_XLESlZJHHg",
+      "publisher": "苏州新闻",
+      "published_at": "2026-06-20"
+    },
+    {
+      "title": "“金龙”巡游古城河非遗嘉年华点亮端午夜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1z4vU6dlTTNa34CNuWEargVbGpdYJpwNhGVvBFFuKyRhodOQtDEYdU5Kg_Xkn9iJdsMOyp5N_SkPvqTWpOCkZJpvHb6yC51rJbmA2XYiQwxGWzNkos2830xKjlA0mjFJp3RS3eRRQLGS6",
+      "publisher": "名城苏州网",
+      "published_at": "2026-06-21"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:32"
+}

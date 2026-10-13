@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_216a7621bde81a52",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "第36届青岛国际啤酒节酒王争霸赛",
+  "factual_description": "2026年7月中旬至8月中旬，第36届青岛国际啤酒节在青岛西海岸新区金沙滩啤酒城等地举行，期间开展了传统品牌活动“酒王争霸赛”。赛事历经预热赛、日赛、周赛等多轮角逐，吸引了来自全国各地的速饮选手参赛。开幕初期，莱州选手在预热赛中以2秒多的极速吹瓶表现被媒体冠以“黑马”受到关注；此前已连续夺得15届“酒王”的青岛银行支行行长任光超再度出战冲击第16冠，其20年间累计赢得9辆汽车、1套房产及80万元奖金、“平时轻微酒精过敏仅在赛前练习技巧”的经历亦引发全网热议。2026年8月14日晚，酒王争霸赛总决赛在金沙滩啤酒城西演艺广场落幕，任光超在男子组比赛中凭借吹瓶和扎啤速饮等综合积分再次夺冠，实现个人第16次加冕“酒王”，并获得五菱宏光汽车及3万元奖金（赛后宣布将3万元奖金全数捐出）；女子组冠军由来自重庆的选手肖肖获得，达成三连冠。",
+  "event_time": {
+    "start": "2026-07-17",
+    "end": "2026-08-14",
+    "precision": "day",
+    "evidence": "第36届青岛国际啤酒节于2026年7月17日开幕，酒王争霸赛各级别比赛随之开展，年度总决赛于2026年8月14日晚在金沙滩啤酒城举行并产生总冠军。"
+  },
+  "locations": [
+    "中国/山东省/青岛市/黄岛区/金沙滩啤酒城"
+  ],
+  "aliases": [
+    "第36届青岛啤酒节酒王争霸赛",
+    "2026青岛国际啤酒节酒王争霸赛",
+    "任光超蝉联16届酒王",
+    "青岛酒王争霸赛莱州小伙黑马"
+  ],
+  "retrieval_queries": [
+    "第36届青岛国际啤酒节 酒王争霸赛",
+    "青岛啤酒节 酒王 任光超",
+    "任光超 蝉联15届 酒王 9辆车",
+    "青岛啤酒节 莱州小伙 2.21秒",
+    "金沙滩啤酒城 酒王争霸赛 总决赛",
+    "任光超 16次夺冠 肖肖"
+  ],
+  "must_match_facts": [
+    "赛事属于2026年第36届青岛国际啤酒节系列活动",
+    "比赛地点位于青岛西海岸新区金沙滩啤酒城",
+    "主要焦点人物为连续蝉联的酒王任光超及速饮表现突出的参赛选手",
+    "比赛项目包括吹瓶、扎啤速饮、吸管速饮等环节",
+    "2026年8月14日总决赛男子组冠军由任光超第16次夺得，女子组冠军由肖肖实现三连冠"
+  ],
+  "exclude_if": [
+    "2025年第35届或更早届次的青岛国际啤酒节酒王争霸赛",
+    "非青岛国际啤酒节组委会主办的其他地区饮酒比赛",
+    "纯商业性质的酒类广告促销活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "任光超蝉联16届酒王，女酒王肖肖三连冠圆梦",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlX1UTNkH3kIr8z7wxDz_BWDRPpC50U5h3jqgkvrPmfmapLSLe5ew4NgDG7jqkx4yLQ-n2ufCIHnsNO4QFBQynAjlLNix6sghoU38FnN7LfC-IfltJg6hPqcx2eWFUJ9D88xr80JU=",
+      "publisher": "半岛网",
+      "published_at": "2026-08-15"
+    },
+    {
+      "title": "青岛银行支行行长任光超第16次夺酒王冠军，日常酒精过敏还能2秒吹一瓶怎么回事？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3yWMEGcjkQnvP0gjT250zR9JVweakx_GGXCsSttiFST9yHfxiGx5yCnY6oou5bU8yPbrl9EDKjJCeP93T2BQNHo50aGb-KQeb7xCspAcDeOCJl_-PPaRLQr2UdxYrBFAd4F6MgqCJfrLcWepHrIVysGbR13lE",
+      "publisher": "新浪新闻/齐鲁晚报",
+      "published_at": "2026-08-14"
+    },
+    {
+      "title": "30秒喝完近5瓶啤酒莱阳小伙拿下青岛啤酒节酒王争霸赛周冠军女子组“三妹”称王",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFS8PEQpwb12TWH3xv4Y_nUYBAdkQqX_d4G6nkxX5BIONsjXUVdGQll0ZG3lKsTpPBtL_82ZKFjf6cOr1b376dJFMIuTzsYfRz2xzZaw8U-KYDb3AH086uMwfkKhDxc02d1YE1TYnQPteOirHoJL4v5dMdnc96z6_6bMA==",
+      "publisher": "信网",
+      "published_at": "2026-08-05"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:11"
+}

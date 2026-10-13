@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_f465e3d8ca963025",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "常州武进火场破窗救人“铁锹哥”吴忠敏及群体全网寻访与表彰事件",
+  "factual_description": "2026年4月19日中午11时许，江苏省常州市武进区南夏墅街道聚盛花园小区17幢二楼一居民家中突发火灾，一名七旬老人被困阳台，因封闭式防盗窗阻隔无法脱险。热心邻居王辉徒手攀爬至二楼防盗窗处，用手掰扯栏杆破窗；居住在同一楼栋的工程师吴忠敏见状，从楼下快递驿站拿来一把铁锹爬上二楼，与王辉合力用铁锹撬开防盗窗逃生缺口。王辉钻入阳台将老人抱出，吴忠敏在窗外托接，赶来的苏绍华在楼下接应，三人接力将老人安全救至地面；物业人员刘阳则冲入室内用多个灭火器压制火势。老人获救后，手持铁锹的关键救人者吴忠敏悄然离开现场。5月19日，武进区见义勇为基金会为王辉、苏绍华、刘阳三人颁发荣誉证书和慰问金，当地警方与媒体随即发起全网全城寻找“铁锹哥”行动。5月26日警方最终确认吴忠敏身份，5月29日武进区见义勇为基金会为吴忠敏送上表彰，四位平民英雄首度同框合影。后续该群体入选江苏省及中央政法委见义勇为勇士榜。",
+  "event_time": {
+    "start": "2026-04-19",
+    "end": "2026-05-29",
+    "precision": "day",
+    "evidence": "火灾发生及四人破窗救援时间为2026年4月19日11时许；5月19日首批救人者获表彰并启动寻找‘铁锹哥’；5月29日找到吴忠敏并为其颁奖。"
+  },
+  "locations": [
+    "中国/江苏省/常州市/武进区/南夏墅街道聚盛花园"
+  ],
+  "aliases": [
+    "常州铁锹哥火场破窗救人",
+    "常州全城寻找铁锹哥",
+    "常州铁锹哥找到了",
+    "全网寻找铁锹侠",
+    "常州武进火场救人四英雄",
+    "常州聚盛花园火灾破窗救援"
+  ],
+  "retrieval_queries": [
+    "常州 铁锹哥 破窗救人",
+    "常州 聚盛花园 火灾 救人",
+    "常州 铁锹侠 吴忠敏",
+    "武进 见义勇为 铁锹哥",
+    "王辉 吴忠敏 苏绍华 刘阳",
+    "常州 铁锹哥 找到了"
+  ],
+  "must_match_facts": [
+    "2026年4月19日常州市武进区南夏墅街道聚盛花园二楼居民家发生火灾",
+    "被困老人为七旬王老太，因全封闭防盗窗无法逃生",
+    "戴眼镜身着黑衣男子使用铁锹撬开防盗窗合力救出老人后悄然离开，被全网称为‘铁锹哥’或‘铁锹侠’",
+    "‘铁锹哥’真实身份为吴忠敏，率先徒手破窗者为王辉，协助托举者为苏绍华，灭火物业人员为刘阳",
+    "5月19日警方与媒体发起全网寻人，5月26日找到吴忠敏，5月29日举行见义勇为颁奖仪式"
+  ],
+  "exclude_if": [
+    "救人者被冠名为‘王晓峰’的其他新闻事件",
+    "发生于常州市武进区聚盛花园以外的其他火灾事故",
+    "非2026年4月发生的其他铁锹救人事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "火中救人“平民英雄”“铁锹哥”找到了！ - 常州市公安局",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkQfGomakONNA-8lSrhubh1q0EEfL4b0diB7o7jnOlfenSvZK3EK2gXlDokoeIEMp8XFjGKsPgonMrEK_zIzQ5rb5DwN-Kv4aFrkJRYIIGR0ueROnFwJsQY4LTYQUhJQHarn9RfHChNAoQ4wWcCjVo59xcz-4DdHY_1s6I9Q==",
+      "publisher": "常州市公安局",
+      "published_at": "2026-06-04"
+    },
+    {
+      "title": "常州“铁锹哥”找到了！四位火场救人平民英雄40天后同框 - 腾讯新闻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvNfQD7eoy_HIr0CBWwhvpuZMhv2LqYofw8lxbxsAtV2Yu-uFPDK1zxRxctOMQOElzJ8onvVeawigkwf-jD2DE4DkId0OTKd4UuyBofn3O1At9o5oCfpwSF4kEK4XDbj4ghA==",
+      "publisher": "现代快报",
+      "published_at": "2026-05-29"
+    },
+    {
+      "title": "徒手攀楼砸窗，接力托举救老——常州4位市民上榜省见义勇为勇士榜 - 腾讯新闻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7PFD6UaagJZvziIVdIDd5J1JuU7FnwZyAPpRYQnifIo4aOhx4r6g6z5j2YrrstziBvoe7sq0NSqRZ_PeNqlpVoqY7aQ5hjLhAoQOsX4MRpMm0hv9iowtHQGGlIyM2djHEvA==",
+      "publisher": "扬子晚报",
+      "published_at": "2026-07-09"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将事发时间误写为2024年5月19日（实际火灾发生于2026年4月19日，5月19日为当地见义勇为基金会首批表彰并启动全城寻访‘铁锹哥’的时间）；现有描述中当事人姓名‘王晓峰’为事实性错误，实际持铁锹破窗施救者为吴忠敏，率先破窗者为王辉。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:49"
+}

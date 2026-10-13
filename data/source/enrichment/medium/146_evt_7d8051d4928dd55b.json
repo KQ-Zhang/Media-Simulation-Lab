@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_7d8051d4928dd55b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "特朗普批评埃克森美孚与雪佛龙赚取暴利并要求降价返还公众",
+  "factual_description": "2026年8月3日，美国总统特朗普在白宫对媒体发表讲话，公开点名批评埃克森美孚（ExxonMobil）与雪佛龙（Chevron）等美国大型石油企业借美以伊冲突导致的供应短缺与高油价“赚了太多钱”，对此表示极度不满。特朗普指出，有石油企业利润达到去年同期的12倍，要求这些石油巨头将部分暴利返还给公众，并立即降低面向消费者的汽油零售价格。特朗普同时预测，一旦解决伊朗问题，全球油价将会大幅暴跌。在此番表态数小时前，特朗普还在社交媒体Truth Social上发文批评雪佛龙首席执行官迈克·沃思（Mike Wirth），指责其在谈及创纪录产量时未感谢特朗普政府对石油行业的支持政策。受特朗普言论影响，当日雪佛龙与埃克森美孚股价均出现走低。",
+  "event_time": {
+    "start": "2026-08-03",
+    "end": "2026-08-03",
+    "precision": "day",
+    "evidence": "路透社、央视新闻及彭博社报道，美国总统特朗普于美东时间2026年8月3日在白宫对媒体作出该表态并在社交平台发文。"
+  },
+  "locations": [
+    "美国/华盛顿特区/白宫"
+  ],
+  "aliases": [
+    "特朗普炮轰美石油巨头赚太多",
+    "特朗普要求油企返还利润降低油价",
+    "特朗普批评雪佛龙埃克森美孚大发战争财",
+    "美石油巨头利润飙升特朗普要求返利于民"
+  ],
+  "retrieval_queries": [
+    "特朗普 埃克森美孚 雪佛龙 赚太多",
+    "特朗普 石油 利润 返还公众",
+    "特朗普 油企 降价 伊朗 暴跌",
+    "Trump Exxon Chevron making too much money",
+    "Trump give back to the public retail price gasoline"
+  ],
+  "must_match_facts": [
+    "发生于2026年8月3日，特朗普在白宫对媒体发表言论",
+    "点名批评埃克森美孚（ExxonMobil）与雪佛龙（Chevron）赚取过多利润",
+    "要求石油企业降低汽油零售价并将部分利润返还给公众",
+    "提及美以对伊冲突引发的油价高企与某企业利润暴增至前一年12倍",
+    "批评雪佛龙首席执行官迈克·沃思未感谢特朗普政府支持"
+  ],
+  "exclude_if": [
+    "2022年拜登批评埃克森美孚赚得比上帝还多的言论",
+    "2019年有关委内瑞拉石油制裁且未提及美以伊冲突背景的旧闻",
+    "美国国会针对石油公司暴利税立法的常规听证会"
+  ],
+  "source_evidence": [
+    {
+      "title": "Trump Blasts Exxon, Chevron for Making 'Too Much Money,' Demands Lower Gasoline Prices",
+      "url": "https://energynow.com/wp-content/uploads/Trump-in-Oval-Office-Press-Conference-1200x810-1-1024x691.jpg",
+      "publisher": "Reuters",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "“雪佛龙、埃克森美孚，赚了太多钱”，特朗普炮轰：我不喜欢这样，他们应把部分利润返还公众",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgmszs7ofrPMhpEnMaf9oMYyzQWMzxAB5T9dTVvMuNY9vNbYzIecbTZmBzz33s3Lr0W2C_1pnL8iaDkYkGzdOATduPLTF-lS4opSaUqgcTziTZjjEekY1_3OHNCFd4dkkzLK-Y3CApS3fbLkA2xUT_HLC1Q73TDeesP64=",
+      "publisher": "每日经济新闻",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "油企赚那么多竟没“感谢特朗普政府”，特朗普怒斥赚太多，吐出来",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWfmWgZlhzGeRsyC7LJRcTgvDBnDBcB8mhZwGWpc9HjVH0h_unlKNfyc9nOBbIg9Ie3BKK0aRUkKSaxkAOi2kT3a2zQKtgHcz1bnKQSe3i9XNXGrrhSfjeBTZNjitiehglySBPMdmL0RxLJGiWlCEqZwJ6zCYGxnGK8m_yal9CGlnFBKoWCUgMLFsiFhCVdgFhtGNhqnsfDmB1DqoS2oc1FqfP3w==",
+      "publisher": "红星新闻/凤凰网",
+      "published_at": "2026-08-04"
+    }
+  ],
+  "uncertainties": [
+    "输入样本原描述将年份误记为2019年，经多方权威新闻核验实际发生时间为2026年8月3日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:46"
+}

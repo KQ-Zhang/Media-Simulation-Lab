@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_73e742fda98166ee",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "重庆游客在新疆伊犁因车内过夜及场地使用被收150元费用引发的纠纷事件",
+  "factual_description": "2026年7月27日深夜，重庆游客王先生一行自驾抵达新疆伊犁州伊宁市伊美臻选酒店。因旺季房源紧张仅剩一间大床房，王先生入住房间，同行人员（后续澄清同行共3辆车10余人）在私家车及酒店庭院内过夜。7月29日离店结算时，酒店向其收取150元综合使用费用，并在游客要求下开具备注为“车上住宿费”的发票。王先生随后向12315及政务热线投诉，伊宁市市场监督管理局介入协调后，涉事酒店退还150元并给予1000元补偿。2026年8月5日，《重庆晨报》率先报道该事件引发全网舆论关注。随后涉事酒店公开监控画面及录音，称该费用实际系同行多人连续占用庭院搭天幕、做饭及使用洗衣机等水电设施的场地综合费，开具“车上住宿费”发票系应游客强烈要求。2026年8月10日晚，重庆日报报业集团发布致歉声明，承认报道在采编与核实环节存在疏漏、不够全面客观，并对相关责任人作出了处理。",
+  "event_time": {
+    "start": "2026-07-27",
+    "end": "2026-08-10",
+    "precision": "day",
+    "evidence": "游客于2026年7月27日深夜抵达涉事酒店，7月29日离店结算产生纠纷；2026年8月5日媒体首次报道，2026年8月10日晚涉事媒体上级集团发布致歉声明。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/伊犁哈萨克自治州/伊宁市/伊美臻选酒店",
+    "中国/重庆市"
+  ],
+  "aliases": [
+    "重庆游客睡自己车里被收150元住宿费",
+    "重庆游客伊犁遭遇奇葩账单事件",
+    "伊美臻选酒店车上住宿费纠纷",
+    "车上过夜费150元事件",
+    "睡车里被收150元住宿费事件反转"
+  ],
+  "retrieval_queries": [
+    "伊美臻选酒店 150元",
+    "睡车里被收150元住宿费",
+    "重庆游客 伊犁 车上住宿费",
+    "车上过夜费 150元",
+    "重庆日报致歉声明 150元住宿费",
+    "伊宁市市监局 车上住宿费"
+  ],
+  "must_match_facts": [
+    "事件发生于新疆伊犁哈萨克自治州伊宁市伊美臻选酒店",
+    "涉事游客王先生来自重庆，因酒店仅剩一间客房，同行人员在私家车及酒店庭院内过夜",
+    "离店结算时酒店收取150元费用并开具备注“车上住宿费”的发票",
+    "伊宁市市场监督管理局介入后，酒店全额退还150元并给予1000元补偿",
+    "2026年8月5日《重庆晨报》报道此事后引发舆论极大关注",
+    "后续酒店发布监控说明场地水电使用细节，2026年8月10日重庆日报报业集团发布致歉声明"
+  ],
+  "exclude_if": [
+    "非新疆伊犁州伊宁市伊美臻选酒店发生的消费纠纷事件",
+    "涉及常规停车场定时收费或高速服务区停车费争议",
+    "涉及酒店客房卫生或偷拍等其他类型的酒店消费投诉"
+  ],
+  "source_evidence": [
+    {
+      "title": "睡车里被酒店收150元住宿费事件反转，媒体致歉",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOV6fNdNl1D-pARG3buRd1gBFB0BsRJuSiad5swWrkUGWnaRRG8MnwwugHrKdktL7m3E0FWHfrJfQExORAerctXocwrHRexr_3MXObvSecmRtGso9WzTRor7-IKAwS7fMIz7qYSmJnMg==",
+      "publisher": "搜狐新闻 / 重庆日报报业集团",
+      "published_at": "2026-08-11"
+    },
+    {
+      "title": "酒店被指收“车上住宿费”挨轰！CCTV揭大反转：恶客占地做局勒索",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzVJ0nzn0SA1q1_ikXjobB0UA4GAddm172pfxlE6yPMhOuKdjiihykYw7Q057vE3vs8Xnu6BZZwBM74AXbFMM6a2_sNCoF-X102vsIpwvE3GZZ6TQhGnzP6S3Wkj2rO9MUt4xd8w69SerxWn2ZdBSh3BS0vymxQ2zUO_P1bdQHcG8SEySk7JbqwdFEMHX_MQggjgIV53r5pFACFtngtyO1CO-vdeJF7QItB4VcGRCYvL_IE0sgQnmO9qq3uPrLI5RytcrHVU4-QUWvk5wUL4KJgOAVd4QA2zkXR2ZVh55qNB77vgbs7jNPou_vtGmfwBOxWWVGNu-oeT8cKxtM7zTFJ6kJz4JKLfE5Tp8HnbLtwjB_6Lsac_zmFgrL7VZlX1H_QEh0iqKqoGf6x2OxnBdGhyxb_BzLdZ1-mJwMAs_cH3IVZXFJQ7e7zzvQJPCR_IR8hs9OErqnXKHrFCQ=",
+      "publisher": "香港01",
+      "published_at": "2026-08-13"
+    },
+    {
+      "title": "重庆游客伊犁遭遇奇葩账单睡自己车里，被酒店收了150元“住宿费”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdqfDjEjhvFG6sRL6JdLSA6qFnda2peX2vKn69XtLwWHeKnm4U3imQkHoRJVY2VeYazIiUNz9vCFfjb5slkZ9v0XmNsrotr7-CLcO182pTbiqCtgMdpZJo7B8Vur86uye5cEtVRl_O5cQuvEf8qHK140qtJw_LdxcJyQ==",
+      "publisher": "新浪财经 / 重庆晨报",
+      "published_at": "2026-08-05"
+    }
+  ],
+  "uncertainties": [
+    "针对该纠纷中游客使用场地设施的具体协商细节及最终行政法律定性，尚缺乏当地官方部门的全量情况通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:43"
+}

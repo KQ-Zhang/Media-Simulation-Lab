@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_3f2ca2ea7cdca431",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "陕西西乡公公强奸智力障碍儿媳案",
+  "factual_description": "2023年8月4日早晨，在陕西省汉中市西乡县，被告人王某某（1958年生）在其家中三楼卧室，违背与其子按习俗办婚礼同居的儿媳张娜（化名，存在智力障碍）的意志，强行与其发生性关系。事后张娜返回娘家，并在其父亲陪同下向西乡县公安局报警。经汉中市公安司法鉴定中心检验，张娜内裤中检出二人DNA混合基因型；王某某于案发当日被警方抓获。司法鉴定显示张娜患有精神发育迟滞，性自我防卫能力削弱或无性自我防卫能力；且王某某早在2022年曾就张娜被他人侵害向警方报案并配合过智力鉴定，明知其智力存在缺陷。2025年5月28日，西乡县人民法院作出一审判决，认定王某某明知受害人智力存在缺陷仍违背妇女意志与其发生性关系，以强奸罪判处王某某有期徒刑四年。王某某不服提出上诉，主张女方自愿、受亲属教唆报案及鉴定意见冲突。2026年7月，汉中市中级人民法院二审不公开开庭审理后裁定驳回上诉、维持原判。二审终审后，被告方已向相关法院申请再审。",
+  "event_time": {
+    "start": "2023-08-04",
+    "end": "2026-07",
+    "precision": "day",
+    "evidence": "案发于2023年8月4日早晨，王某某当日被公安机关抓获；案件经一审于2025年5月28日宣判，汉中市中级人民法院于2026年7月作出二审终审裁定。"
+  },
+  "locations": [
+    "中国/陕西省/汉中市/西乡县"
+  ],
+  "aliases": [
+    "陕西西乡公公强奸儿媳案",
+    "陕西公公强奸儿媳案",
+    "西乡县王某某强奸案",
+    "陕西汉中西乡公公性侵儿媳案",
+    "女子被公公强奸丈夫称父亲喝醉了"
+  ],
+  "retrieval_queries": [
+    "西乡县 王某某 强奸 张娜",
+    "陕西公公强奸儿媳案",
+    "西乡县 智力障碍 儿媳 强奸",
+    "汉中中院 公公强奸儿媳 维持原判",
+    "西乡县人民法院 王某某 强奸罪",
+    "女子被公公强奸丈夫称父亲喝醉了",
+    "遭公公性侵女子说害怕被打",
+    "公公强奸智力障碍儿媳 申请再审"
+  ],
+  "must_match_facts": [
+    "案发于2023年8月4日陕西省汉中市西乡县被告人王某某家中",
+    "被告人王某某与其子未领证同居妻子张娜为公媳关系",
+    "受害人张娜患有精神发育迟滞（智力缺陷），性自我防卫能力受损",
+    "警方在受害人物证内裤上检出张娜与王某某的DNA混合基因型",
+    "2025年5月28日西乡县人民法院一审以强奸罪判处王某某有期徒刑四年",
+    "2026年7月汉中市中级人民法院二审裁定驳回上诉、维持原判"
+  ],
+  "exclude_if": [
+    "安徽肥西县公公朱某某强奸儿媳案",
+    "受害人无智力障碍或精神发育迟滞的普通家庭伦理刑事案件",
+    "发生于陕西西乡县以外其他地区的公媳纠纷或侵害案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "陕西西乡“公公强奸儿媳案”二审维持原判舆论热议",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB_L_TpGA0wQ--mJExiryEI9vdfxXF_chbCaJCCpcusuPKsrSzdsbBowQnImBdrgB1v4ZQ8mAaKmtdKxtTYQ3ZFiCbOba1_J_SXsHU-GUVh-kXYb6SLRIQ39xYuXDR-BR9Yikz1jCIF9JhHN6Z-ki-BhhPlu8ttQ==",
+      "publisher": "奔流新闻（文学城转载）",
+      "published_at": "2026-07-30"
+    },
+    {
+      "title": "陕西“公公强奸儿媳案”二审维持原判：公公被判4年，已申请再审请求改判无罪",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGoPdMmkR9AJH6KMdP6rE2bXG4JniMxikI8p2IkEqFPBJKB6CxYWUDjWLkaE9dho7ddmDZ39Qs8AbYqSJm_yceLbFyL9feC6HK--PAgSN-rQlMbrOgsJmtQ9t0=",
+      "publisher": "海报新闻（凤凰网转载）",
+      "published_at": "2026-07-31"
+    }
+  ],
+  "uncertainties": [
+    "被告人王某某一方递交的再审申请目前处于受理/审查阶段，法院最终审查结果尚未公布"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:06"
+}

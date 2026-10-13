@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_d853746e931c6879",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "海南东方新安家园小区供水管频繁爆管致常态化停水事件",
+  "factual_description": "2026年6月至8月期间，位于海南省东方市的保障性住房新安家园小区（现有部分转述误作‘兴安家园’）供水管道频繁发生爆裂故障，两个月内累计爆管达8次。2026年7月31日傍晚，该小区一期10号楼下方供水管再次发生严重爆裂喷水。频繁爆管导致小区常态化停水，对小区31栋住宅楼、约4600多户近万名居民的正常生活造成严重影响。因日常供水极度不稳定，小区住户普遍备水防停，家中水桶、水缸齐上阵，甚至使用电饭煲、小锅等厨具盛水囤水应急。事件经媒体实地探访报道后引发社会关注，暴露出该小区管网老旧及物业、自来水公司与住建等多方权责划分问题，当地相关部门随后介入协调推进管网修缮处置。",
+  "event_time": {
+    "start": "2026-06",
+    "end": "2026-08-06",
+    "precision": "month",
+    "evidence": "媒体于2026年8月初实地探访报道，指出该小区在过去两个月内累计爆管8次，其中2026年7月31日傍晚10号楼下再次发生严重爆管。"
+  },
+  "locations": [
+    "中国/海南省/东方市/新安家园"
+  ],
+  "aliases": [
+    "东方新安家园小区供水管爆管致停水",
+    "东方市新安家园频繁爆管居民囤水",
+    "东方一小区两月8次爆管居民大桶小锅囤水",
+    "东方市兴安家园供水管道爆管致停水"
+  ],
+  "retrieval_queries": [
+    "东方 新安家园 爆管 停水",
+    "东方市 新安家园 供水管 大桶小锅",
+    "新安家园 两个月8次爆管",
+    "东方 频繁爆管 囤水 直播海南",
+    "东方市 兴安家园 供水管道爆管"
+  ],
+  "must_match_facts": [
+    "事发地点为海南省东方市新安家园小区（保障性住房）",
+    "小区供水管网频繁爆管（两个月内累计达8次，2026年7月31日发生严重爆管）",
+    "爆管导致全小区常态化停水，波及4600多户近万名居民",
+    "居民因缺水使用水桶、水缸、锅及电饭煲等容器囤水储水"
+  ],
+  "exclude_if": [
+    "广州白云区十层以上不送瓶装燃气居民煮饭难事件",
+    "香港上水粉岭食水管爆裂停水事件",
+    "其他省市小区的单纯水管突发抢修事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "两月8次爆管！东方一小区因爆管频繁停水，居民无奈大桶小锅齐上阵囤水，顽疾为何迟迟难以根治？",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgf0vRLAucNJe1MAtU-ywj96G5Lp_pmlKph8rS_D5CNmOOSXbXhfcUctEXIQZeyj205XFjgsIvKT9lRwf1j3NXtB0_Ef6sRSwC82RkvLI_L98F68qG_eQDkbmf0IpTaG-8o8TPybJkyIjx",
+      "publisher": "网易新闻 / 海南广播电视总台《直播海南》",
+      "published_at": "2026-08-06"
+    },
+    {
+      "title": "小区频繁爆管居民囤水度日",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgoIN2pL3dVN_VOLqmtSK6Nwjsfmihg-vdpt3L_-jC197_tDDpOYLzFx9ldOKF0gEPLG0ApjxW0VYyTkHgOTqnVECjbUu1F37H3_4_i6q75vaIbS37TuLsXa0RHuNl1MRgNavodG-WRSGkIg==",
+      "publisher": "新浪新闻 / 海南广播电视总台《直播海南》",
+      "published_at": "2026-08-06"
+    }
+  ],
+  "uncertainties": [
+    "输入样本原标题中的‘兴安家园’确认为‘新安家园’的同音讹误",
+    "输入样本中混入的广州白云区高层取消送瓶装气内容属于无关噪音"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:21"
+}

@@ -1,0 +1,66 @@
+{
+  "event_id": "evt_03a1e883e94b34dd",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "国家矿山安全监察局山西局局长胡海军接受纪律审查和监察调查",
+  "factual_description": "2026年7月13日，中央纪委国家监委驻应急管理部纪检监察组、山西省纪委监委通报，国家矿山安全监察局山西局党组书记、局长胡海军涉嫌严重违纪违法，目前正接受中央纪委国家监委驻应急管理部纪检监察组纪律审查和山西省监察委员会监察调查。媒体报道指出，胡海军落马前，山西省长治市沁源县山西通洲集团留神峪煤业有限公司曾发生特别重大瓦斯爆炸事故，当地及省内应急管理系统与矿山安全监察系统已有数名官员相继被查。",
+  "event_time": {
+    "start": "2026-07-13",
+    "end": "2026-07-13",
+    "precision": "day",
+    "evidence": "中央纪委国家监委驻应急管理部纪检监察组、山西省纪委监委于2026年7月13日公开发布审查调查通报"
+  },
+  "locations": [
+    "中国/山西省"
+  ],
+  "aliases": [
+    "国家矿山安全监察局山西局党组书记、局长胡海军被查",
+    "胡海军接受纪律审查和监察调查",
+    "山西矿监局胡海军被查",
+    "国家矿山安全监察局山西局胡海军落马"
+  ],
+  "retrieval_queries": [
+    "胡海军",
+    "胡海军 被查",
+    "胡海军 纪律审查 监察调查",
+    "国家矿山安全监察局山西局 胡海军",
+    "国家矿山安全监察局山西局局长被查",
+    "矿山安监局山西局 胡海军"
+  ],
+  "must_match_facts": [
+    "涉案主体为国家矿山安全监察局山西局党组书记、局长胡海军",
+    "2026年7月13日官方通报其涉嫌严重违纪违法被查",
+    "接受中央纪委国家监委驻应急管理部纪检监察组纪律审查和山西省监察委员会监察调查"
+  ],
+  "exclude_if": [
+    "其他地区同名人物胡海军违纪违法案件",
+    "仅讨论留神峪煤业瓦斯爆炸事故救援与调查而未涉及胡海军个人的报道",
+    "其他批次非国家矿山安全监察局山西局官员被查案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "国家矿山安全监察局山西局党组书记、局长胡海军接受审查调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0UJG6GzmnTrjjwCqIMx6jlYjx7tmzJwl3Zio8FsaJcTkRfdLcH63YqR4w-VoaQm4C76KT9C1QRLj1TUPnqqozoZVGcxYCsE9hKWDZbB4c72xjIuFMe0LoLdiIM3t46q2MqHq9DqV_ppDQExebXK0=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-07-13"
+    },
+    {
+      "title": "国家矿山安全监察局山西局党组书记、局长胡海军接受纪律审查和监察调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4onBsaTFKbGjRMW5RJrvfqbNFbDwgnsontAOoC-30wnDU9fFbUUZtCtzw-DNIc7qWNd_aKAEdZU2_Jifj0JXpWkm1c4cwQCACQLXwLZiWUD57iMFPYXBxQ_wLSwKRMQPZcxkgoNs-Mcbr8Em0a_5V3x3xJt6AKeL_g4TmjPkuTs6vxdgF",
+      "publisher": "新华网",
+      "published_at": "2026-07-13"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:07"
+}

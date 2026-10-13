@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_df9e3ed14cd69006",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "2026年广东3·15晚会曝光美宜佳便利店售卖假烟事件",
+  "factual_description": "2026年3月14日晚，广东广播电视台《2026广东3·15晚会》曝光美宜佳连锁便利店涉嫌大规模销售假烟乱象。暗访调查组在广州、佛山、东莞三地随机抽查的10家美宜佳便利店中均购买到问题卷烟，经烟草专卖局检查查获至少854包问题卷烟。第三方检测显示，送检卷烟的主要烟气指标不合格，具有更高致癌风险与更强成瘾性；且执法检查后回访发现至少一半涉事门店仍在顶风售假。事件曝光后，东莞市场监管等多部门连夜约谈美宜佳总部，广东省烟草专卖局开展全省排查，截至3月15日15时查获非法卷烟139.99万支。3月15日，美宜佳控股有限公司发布官方致歉声明，承认管理漏洞并启动全国专项排查。2026年4月9日，美宜佳通报排查进展，宣布已与606家存在重大涉烟经营异常的加盟商解除合作关系。",
+  "event_time": {
+    "start": "2026-03-14",
+    "end": "2026-04-09",
+    "precision": "day",
+    "evidence": "2026年3月14日晚《广东3·15晚会》曝光事件，3月15日美宜佳公开发布致歉声明，4月9日美宜佳发布通报称已与606家涉违规加盟商解约。"
+  },
+  "locations": [
+    "中国/广东省/广州市",
+    "中国/广东省/佛山市",
+    "中国/广东省/东莞市"
+  ],
+  "aliases": [
+    "2026广东315美宜佳假烟事件",
+    "美宜佳售假烟风波",
+    "美宜佳暗访10家店均卖假烟",
+    "美宜佳致歉及解约606家加盟商事件",
+    "广东315晚会曝光美宜佳"
+  ],
+  "retrieval_queries": [
+    "广东315 美宜佳 假烟",
+    "美宜佳 售假烟 315晚会",
+    "美宜佳 暗访 10家店 假烟",
+    "广东省烟草专卖局 美宜佳 假烟",
+    "美宜佳 致歉声明 烟草制品",
+    "美宜佳 解除合作 606家"
+  ],
+  "must_match_facts": [
+    "2026年3月14日《广东3·15晚会》曝光美宜佳连锁便利店售卖假烟",
+    "调查组在广州、佛山、东莞暗访10家美宜佳便利店均买到问题卷烟",
+    "第三方检测显示送检卷烟主要烟气指标不合格",
+    "广东省烟草专卖局排查查获美宜佳门店非法卷烟139.99万支",
+    "2026年3月15日美宜佳控股有限公司发布致歉声明",
+    "2026年4月9日美宜佳与606家涉嫌违规加盟商解除合作"
+  ],
+  "exclude_if": [
+    "与中央广播电视总台央视3·15晚会无关",
+    "与美宜佳食品安全问题或食品过期曝光无关",
+    "与2024年江苏淮安便利店售假烟案无关"
+  ],
+  "source_evidence": [
+    {
+      "title": "聚焦315|大规模销售假烟？美宜佳道歉",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqUErzP8MwqnEE17YyU5HG565mYl-IQARaJ3XBMElVMYWqEQaCT51wQSkVCvPt58z6mtbpTfAQ8GJOiadI83zTr47VQpk1DxyHcyyurlV3CvQbRohSsiEbcgwx0xGXsgpQgcnNIRtFc9peG1LC57rpAyGJgEDhfWSS",
+      "publisher": "新浪财经",
+      "published_at": "2026-03-15"
+    },
+    {
+      "title": "广东省烟草专卖局：已查获美宜佳门店非法卷烟139.99万支",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtKZzVMk8gCcxdOaLLIe6WE7DrrKDQRSjymRnffx9AoqhLohui5o6T42V39nFkCDiSLPgakRxfmc9WbJTwq7L3dcYFmef5sxDEz7AJMmo7hosiDLd9Wx9yZ3CR7set2ljCK9TgdYbEAwGB8_6a-9CePkRzVl_Ed7ucFg==",
+      "publisher": "南方+ / 珠海网",
+      "published_at": "2026-03-15"
+    },
+    {
+      "title": "被“315晚会”点名销售假烟后，美宜佳与606家加盟商解除合作关系",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3j2drU84d0Q7Tuj9yz6kprAJKyVEq2YqKuSSNiYIAoaC4dFBfmQXajYOQoRqpQ57ijdOJBzW78UWHjtj3iExu-OvM-9c5_TekY5pKYtR43BUwNjt2Pu4HsgnEebSLtGbrk8M=",
+      "publisher": "界面新闻",
+      "published_at": "2026-04-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:59:34"
+}

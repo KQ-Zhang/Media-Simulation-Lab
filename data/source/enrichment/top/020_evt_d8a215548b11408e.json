@@ -1,0 +1,151 @@
+{
+  "event_id": "evt_d8a215548b11408e",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "陕西西安白庙村农妇因麦田遭踩踏砍掉网红“孤独树”树冠事件",
+  "factual_description": "2026年5月初，位于陕西省西安市长安区魏寨街道白庙村麦田边的一棵独树因背靠秦岭、面朝麦浪的景观在网络走红，被网友称为“孤独树”并引发打卡热潮。由于打卡“树与秦岭同框”的最佳拍摄点位于村民梁亚利家的麦田内，大量游客擅自进入田间踩踏即将成熟的小麦，蹚出长约25米的小道。梁亚利尝试设立围挡提醒但遭毁坏。2026年5月26日清晨，梁亚利因劝阻无效且庄稼受损严重，持斧头砍掉了这棵属于村集体的树木树冠。2026年6月中旬该事件被主流媒体广泛报道。白庙村村委会回应称，梁亚利麦田受损，村里“庄稼比树重要”，不追究其砍树责任，同时强调涉事土地属于永久基本农田，无法开发为景区。6月上旬，梁亚利将麦田收割，部分被踩倒的小麦因下雨发芽变质。",
+  "event_time": {
+    "start": "2026-05-01",
+    "end": "2026-06-14",
+    "precision": "day",
+    "evidence": "2026年5月初“孤独树”走红；5月26日清晨梁亚利砍掉树冠；6月上旬小麦收割；6月13日至14日央视新闻、新华网等主流媒体深入报道。"
+  },
+  "reporting_time_range": {
+    "start": "2026-06-08",
+    "end": "2026-06-28"
+  },
+  "locations": [
+    "中国/陕西省/西安市/长安区/魏寨街道/白庙村"
+  ],
+  "people": [
+    {
+      "name": "梁亚利",
+      "role": "白庙村66岁农妇，涉事麦田的使用者，因麦田频繁被游客踩踏毁坏而砍掉“孤独树”树冠"
+    },
+    {
+      "name": "郝呈",
+      "role": "白庙村村干部，代表村委会回应媒体采访"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "西安市长安区魏寨街道白庙村村委会",
+      "role": "涉事树木所有权所属的村集体组织，明确表示不追究梁亚利的砍树责任"
+    }
+  ],
+  "trigger": "2026年5月初，西安白庙村麦田边的一棵树在网络走红，大量游客前往拍照打卡，最佳拍摄位位于村民梁亚利家的麦田内，导致即将收获的小麦遭严重踩踏。",
+  "key_actions": [
+    "2026年5月初，“孤独树”在短视频平台走红，众多游客驱车前往白庙村打卡。",
+    "游客为拍摄最佳画面擅闯梁亚利家麦田，在田里踩出20多米长的小道。",
+    "梁亚利使用绳索和布袋进行围挡提醒，但围挡被游客拆除毁坏。",
+    "2026年5月26日清晨，梁亚利持斧头砍掉了“孤独树”的树冠。",
+    "2026年6月中旬，媒体实地探访报道，村委会明确回应“庄稼比树重要”，不追究村民责任。"
+  ],
+  "outcome_and_status": "白庙村村委会明确不追究梁亚利的砍树责任；梁亚利家的小麦已于6月上旬收割完毕，部分踩踏麦子雨后发芽变质；当地加强现场巡查防范破坏农田行为，并明确涉事区域为永久基本农田红线，不能开发景点。",
+  "timeline": [
+    {
+      "time": "2026-05-01",
+      "fact": "“五一”假期前后，西安白庙村麦田边的独立树木因网络传播走红，吸引大量游客前往打卡。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFejrI3hqszPZOkCslXd40LVdreooSy3q9WfgADmhWISyIqze0gqGbIjjjivRcMQJf0spkMQDMWr5oofc_1uMwynpwKQHzPPcBZ75VsF7tVs5IQO_OmUH__HdNDSP2GL7RNbOhyuX5tb88mDObeWInJr-3MTfAP5DQ-EZ-86gDFMnbEGZii-v9WPB67yoA85JQnewa6"
+      ]
+    },
+    {
+      "time": "2026-05-24",
+      "fact": "梁亚利发现自家麦田被打卡游客踩出小道，次日尝试用围挡隔开，但围挡迅速被游客拉拆。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZrIciw_Kn6ejmc4xmB1_oseE4JsLW3XVHISjFnd-3GgBVhbdbEihndnd5qGGf0PM1VDo8H5N1lza4qh4HavIpm51hY4cxIM9fJnu9oqIVmjncCn1cPO-nh28alFl5w58la6htDB9GemGRnW5A"
+      ]
+    },
+    {
+      "time": "2026-05-26",
+      "fact": "梁亚利清晨带着斧头和梯子将“孤独树”树冠砍掉，树木仅保留主干。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZrIciw_Kn6ejmc4xmB1_oseE4JsLW3XVHISjFnd-3GgBVhbdbEihndnd5qGGf0PM1VDo8H5N1lza4qh4HavIpm51hY4cxIM9fJnu9oqIVmjncCn1cPO-nh28alFl5w58la6htDB9GemGRnW5A"
+      ]
+    },
+    {
+      "time": "2026-06-08",
+      "fact": "梁亚利砍树相关短视频及报道在网络持续发酵，引发社会对网红打卡与农农生计矛盾的讨论。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvTWOur-3txcrZdUfaj9e9ReipcGJzfku28tVG9z_nhFxeowSRyMOjq3YZiaZj8zViDR_IYSktlJwZ4F1t6_1S7jf-mdgngboUXTb4G2iqXofnM0Hwn1CJTa-9wu29PDd8hl62x71XenFb0gn2Uw=="
+      ]
+    },
+    {
+      "time": "2026-06-13",
+      "fact": "央视新闻等媒体发布调查报道，白庙村村委会表态“庄稼比树重要”，不追究村民责任。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3dhfnUe9Ow7LCiZMJf080h3wCol7EiKBG0CUoySIDazUZ0oGVa0o13MVpn3R37tCI-Np7QfXdpI_gFExDCX-v6adA17wK44vU-WhEBZH_yYqB7FXZv_zvrjiJKFdHk4tboCbv0EDuIyZmWm5rC_1tCw=="
+      ]
+    }
+  ],
+  "aliases": [
+    "农妇砍秃网红孤独树",
+    "西安网红孤独树被砍事件",
+    "陕西西安白庙村孤独树事件",
+    "庄稼比树重要事件",
+    "西安白鹿原孤独树"
+  ],
+  "retrieval_queries": [
+    "西安 白庙村 孤独树",
+    "白庙村 梁亚利 孤独树",
+    "魏寨街道 孤独树 麦田",
+    "农妇 砍秃 网红孤独树",
+    "孤独树 村委会 庄稼比树重要",
+    "西安 麦田 孤独树 砍掉树冠",
+    "梁亚利 麦田 踩踏 砍树",
+    "白鹿原 孤独树 砍树"
+  ],
+  "must_match_facts": [
+    "事件发生地点位于陕西省西安市长安区魏寨街道白庙村",
+    "涉事网红树被称为“孤独树”，位于麦田边",
+    "砍树的村民名为梁亚利（梁大姐/梁婶）",
+    "砍树原因是打卡游客擅踏梁亚利家麦田破坏即将收获的小麦",
+    "白庙村村委会回应“庄稼比树重要”，不追究梁亚利的砍树责任"
+  ],
+  "optional_supporting_facts": [
+    "树木被砍后被网友戏称为“秃头树”或“绝版树”",
+    "梁亚利曾用绳索布袋设置围挡但被游客拉扯破坏",
+    "最佳拍摄角度需拍摄树与秦岭同框",
+    "涉事土地属于永久基本农田"
+  ],
+  "exclude_if": [
+    "事件发生在除陕西西安白庙村以外的地区",
+    "事件涉及故意盗伐林木刑事案件或涉及其他名木古树破坏事件"
+  ],
+  "distinctive_entities": [
+    "梁亚利",
+    "白庙村",
+    "魏寨街道",
+    "孤独树",
+    "郝呈"
+  ],
+  "source_evidence": [
+    {
+      "title": "村民怒砍“网红树”，村委会：不追责，庄稼比树重要",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFejrI3hqszPZOkCslXd40LVdreooSy3q9WfgADmhWISyIqze0gqGbIjjjivRcMQJf0spkMQDMWr5oofc_1uMwynpwKQHzPPcBZ75VsF7tVs5IQO_OmUH__HdNDSP2GL7RNbOhyuX5tb88mDObeWInJr-3MTfAP5DQ-EZ-86gDFMnbEGZii-v9WPB67yoA85JQnewa6",
+      "publisher": "新华网客户端 / 央视新闻",
+      "published_at": "2026-06-15",
+      "supports": [
+        "事件发生在西安市长安区魏寨街道白庙村",
+        "梁亚利于5月底砍断树冠",
+        "村干部回应庄稼比树重要、不追究责任"
+      ]
+    },
+    {
+      "title": "砍掉网红“孤独树”，村民梁亚利：麦田被踩没人赔，要保护庄稼",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZrIciw_Kn6ejmc4xmB1_oseE4JsLW3XVHISjFnd-3GgBVhbdbEihndnd5qGGf0PM1VDo8H5N1lza4qh4HavIpm51hY4cxIM9fJnu9oqIVmjncCn1cPO-nh28alFl5w58la6htDB9GemGRnW5A",
+      "publisher": "观察者网 / 央视新闻微信公众号",
+      "published_at": "2026-06-14",
+      "supports": [
+        "梁亚利66岁，于5月26日清晨持斧头砍掉树冠",
+        "围挡被游客破坏，麦田被踩出25米长小道"
+      ]
+    }
+  ],
+  "uncertainties": [
+    "现有描述中误将事件时间写为2024年，经核查权威报道该事件真实发生于2026年5月。"
+  ],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:29:13"
+}

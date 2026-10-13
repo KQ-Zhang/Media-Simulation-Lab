@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_b3041fcb4f6bdc32",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "高市早苗就美国白宫记者协会晚宴枪击事件英日双语表态",
+  "factual_description": "当地时间2026年4月25日晚，美国华盛顿希尔顿酒店举行年度白宫记者协会晚宴期间突发枪击安全事件，一名男子持械强闯安检交火后被特勤局逮捕，致一名特勤人员中弹轻伤，出席晚宴的美国总统特朗普、副总统万斯及多名内阁高官被紧急护送撤离现场。4月26日，日本首相高市早苗在社交媒体X平台使用英语和日语双语公开发文，就该枪击事件表态，称“得知特朗普总统在那令人惊恐的枪声之后安然无恙，我感到如释重负”，并谴责称“暴力在世界任何地方都绝不能被容忍”。原描述中将发生年份误标为2024年，实际发生年份为2026年。",
+  "event_time": {
+    "start": "2026-04-26",
+    "end": "2026-04-26",
+    "precision": "day",
+    "evidence": "高市早苗于2026年4月26日在社交媒体X发文就25日晚发生的白宫记协晚宴枪击事件表态。"
+  },
+  "locations": [
+    "日本",
+    "美国/华盛顿哥伦比亚特区/华盛顿希尔顿酒店"
+  ],
+  "aliases": [
+    "高市早苗英日双语慰问特朗普",
+    "高市早苗就白宫记协晚宴枪击事件表态",
+    "高市说得知特朗普无恙如释重负",
+    "高市早苗就白宫晚宴枪击发声"
+  ],
+  "retrieval_queries": [
+    "高市早苗 特朗普 如释重负",
+    "高市早苗 白宫记协 晚宴 枪击",
+    "高市早苗 英日双语 特朗普 安然无恙",
+    "白宫记者协会晚宴 枪击 特朗普 2026"
+  ],
+  "must_match_facts": [
+    "发生于2026年4月下旬",
+    "日本首相高市早苗在社交媒体发布英日双语表态",
+    "背景为美国白宫记者协会晚宴突发枪击安全事件且特朗普紧急撤离",
+    "高市早苗明确表达得知特朗普安然无恙后如释重负并谴责暴力"
+  ],
+  "exclude_if": [
+    "2024年7月特朗普宾夕法尼亚州巴特勒竞选集会枪击事件",
+    "2024年9月特朗普佛罗里达州高尔夫球场未遂暗杀事件",
+    "2026年6月G7峰会特朗普与高市早苗就珍珠港争执事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "高市早苗英日双语发文：得知特朗普没事，我如释重负",
+      "url": "https://www.guancha.cn/internation/2026_04_26_773539.shtml",
+      "publisher": "观察者网",
+      "published_at": "2026-04-26"
+    },
+    {
+      "title": "国际丨得知特朗普没事，高市早苗如释重负",
+      "url": "https://www.bjnews.com.cn/detail/1714123800129758.html",
+      "publisher": "新京报",
+      "published_at": "2026-04-26"
+    },
+    {
+      "title": "一文读懂丨白宫记协晚宴突发枪击特朗普紧急撤离始末",
+      "url": "https://www.news.cn/world/20260426/23504ae2fab64cda85b88f1bb07be857/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-04-26"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:18"
+}

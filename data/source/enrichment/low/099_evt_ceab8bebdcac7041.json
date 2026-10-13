@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_ceab8bebdcac7041",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "《将门独后》官宣开机并公布王鹤棣与孟子义领衔主演",
+  "factual_description": "2026年2月20日，改编自千山茶客知名网络小说《重生之将门毒后》的古装电视剧《将门独后》正式官宣开机并公布主演阵容。该剧由腾讯视频、新丽电视、阅文影视联合出品，尹涛执导，王鹤棣饰演男主角谢景行，孟子义饰演女主角沈妙。剧组于当日在浙江横店影视城举行开机仪式，并陆续发布定妆海报及角色物料。作为头部网络文学IP的影视化作品，该剧开机前及官宣过程中，关于角色人选适配度、原著名更名、男女主番位及剧本删改等问题曾在书粉与网络公众中引发广泛讨论。",
+  "event_time": {
+    "start": "2026-02-20",
+    "end": "2026-02-20",
+    "precision": "day",
+    "evidence": "剧方与主流媒体报道均明确指出《将门独后》于2026年2月20日正式官宣阵容并于横店影视城举行开机仪式。"
+  },
+  "locations": [
+    "中国/浙江省/金华市/东阳市/横店影视城"
+  ],
+  "aliases": [
+    "电视剧《将门独后》官宣开机",
+    "将门独后官宣王鹤棣孟子义",
+    "《重生之将门毒后》影视化开机",
+    "将门独后开机"
+  ],
+  "retrieval_queries": [
+    "将门独后 官宣开机 王鹤棣 孟子义",
+    "将门独后 2月20日 开机",
+    "重生之将门毒后 王鹤棣 孟子义 官宣",
+    "将门独后 横店 开机 谢景行 沈妙"
+  ],
+  "must_match_facts": [
+    "改编自千山茶客原著小说《重生之将门毒后》的古装剧《将门独后》",
+    "王鹤棣饰演谢景行、孟子义饰演沈妙，担任领衔主演",
+    "2026年2月20日在横店影视城举行开机仪式并正式官宣阵容",
+    "剧集由腾讯视频、新丽电视、阅文影视等出品，尹涛执导"
+  ],
+  "exclude_if": [
+    "2026年8月电视剧《将门独后》拍摄完成正式杀青的报道",
+    "仅讨论小说《重生之将门毒后》原著剧情或早期未定稿网传网传选角传闻",
+    "王鹤棣或孟子义参演其他影视剧的开机官宣事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "王鶴棣孟子義《將門獨后》開機",
+      "url": "https://www.macaodaily.com/res/1/20260221/76121771607856416.jpg",
+      "publisher": "澳门日报",
+      "published_at": "2026-02-21"
+    },
+    {
+      "title": "《将门独后》官宣，王鹤棣孟子义共赴权谋归途",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0fPTmWTNxcfzFkTsCz59uG81old8LLgbaOgwDJbaAafHYZMb8c4LwHdcPlxPyvtIFdIF8ZX_PxWh7Q0vcdtCNqdKjGztspAE7t-5wFrPb1FVm6LmG-wB75rQU1chtuRAJ",
+      "publisher": "腾讯网",
+      "published_at": "2026-02-20"
+    },
+    {
+      "title": "《将门独后》官宣开机王鹤棣、孟子义领衔主演改编自顶流IP《重生之将门毒后》",
+      "url": "https://v.ifeng.com/c/8qu0MJqfLeC",
+      "publisher": "红星新闻",
+      "published_at": "2026-02-20"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:30"
+}

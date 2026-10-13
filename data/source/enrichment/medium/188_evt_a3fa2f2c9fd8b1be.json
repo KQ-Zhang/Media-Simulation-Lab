@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_a3fa2f2c9fd8b1be",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年广东省城市篮球联赛揭幕赛现场“大湾鸡”与“英歌女孩”庄恩琪对跳英歌舞",
+  "factual_description": "2026年3月21日，首届广东省城市篮球联赛（粤BA）揭幕战在广州天河体育中心体育馆打响。在赛场暖场与文化展示环节中，曾因街头英歌舞互动走红网络的汕头“英歌女孩”庄恩琪，与受聘担任联赛吉祥物的十五运会吉祥物“大湾鸡”（喜洋洋/乐融融）同台亮相。庄恩琪手持英歌槌，与身着特色装扮的“大湾鸡”人偶进行了一场富有非遗文化特色与趣味性的英歌舞对跳互动，二者刚劲中透着萌趣的舞姿引发现场观众热烈反响。随后，新华社等权威媒体于3月23日至24日对该互动场景进行视频报道与推送，微博等社交平台上“英歌女孩和大湾鸡斗舞萌化了”“大湾鸡和英歌女孩battle名场面”等话题登上热搜榜单，成为岭南传统非遗民俗与现代群众体育赛事深度融合的出圈典型案例。",
+  "event_time": {
+    "start": "2026-03-21",
+    "end": "2026-03-21",
+    "precision": "day",
+    "evidence": "2026年广东省城市篮球联赛（粤BA）揭幕战于2026年3月21日晚在广州天河体育中心举行，庄恩琪与大湾鸡在揭幕现场同框对舞，新华社及地方媒体于3月22日至24日密集刊发报道。"
+  },
+  "locations": [
+    "中国/广东省/广州市/天河区/广州天河体育中心体育馆"
+  ],
+  "aliases": [
+    "英歌女孩和大湾鸡斗舞",
+    "大湾鸡和英歌女孩battle名场面",
+    "粤BA赛场大湾鸡与英歌女孩对舞",
+    "庄恩琪大湾鸡对跳英歌舞",
+    "粤BA揭幕战英歌舞互动"
+  ],
+  "retrieval_queries": [
+    "英歌女孩 大湾鸡 斗舞",
+    "庄恩琪 大湾鸡 英歌舞",
+    "粤BA 庄恩琪 大湾鸡",
+    "广东省城市篮球联赛 庄恩琪",
+    "大湾鸡和英歌女孩battle",
+    "英歌女孩和大湾鸡斗舞萌化了",
+    "粤BA揭幕战 英歌舞"
+  ],
+  "must_match_facts": [
+    "核心主体为“英歌女孩”庄恩琪与赛事吉祥物“大湾鸡”",
+    "发生场合为2026年广东省城市篮球联赛（粤BA）揭幕现场",
+    "发生地点为广州天河体育中心体育馆",
+    "互动表演内容为双方手持英歌槌对跳英歌舞（斗舞）"
+  ],
+  "exclude_if": [
+    "仅报道2024年庄恩琪在潮汕街头与英歌队互动的成名事件",
+    "仅报道庄恩琪在2026年香港街头巡游或卫视春晚上的表演",
+    "仅报道粤BA揭幕战（广州队对阵中山队）比赛本身的赛果战报而未提及大湾鸡与庄恩琪对舞",
+    "报道粤BA赛场大湾鸡倒立等其他单人吉祥物互动表演"
+  ],
+  "source_evidence": [
+    {
+      "title": "可爱加倍！“英歌女孩”和“大湾鸡”斗舞。网友：不好评谁跳得更好。",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMrv2m3dKldmONoFbrwWB68iE1Ptbsd0Es97OoY9IIhCgRGnH2aNJgBXhD2-vIbNjdBVMHHGA0ALC_BchMuRrPLNTooLtuDjrccYh8qIPy10WE1DeiqN3EgTAFixmce7J1X5CaWBq63-XCfZCp3yhd6BXFUKmVfJQZJADyzDEdDp5CAaYJe-H9qLL3rEFmlfbpLiCyfF_xiF6Z4wvnz_JVDJhrp5UZYhpe6z_XrJ3Q4w__DDfe8Xqb1QDEDF8mRtFUhCqM6kq75wONpVzLeWBhxw==",
+      "publisher": "新华社（China Xinhua News）",
+      "published_at": "2026-03-23"
+    },
+    {
+      "title": "“粤BA”“粤超”来啦！揭幕战下周六天河开打，“大湾鸡”再当吉祥物",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpQq_2hfIuQ21crMeZNWHioazHPRoWPs5XC-TMSMLNx2n2JLfeeuD4Kr7gadoF8Ix_JS2MIeht8iQ4zElEbiSs1qh2i3jn61mM1-E2ZKnnwozNSksZzTUtKUqajrHOnkDtI8HtAo9xxHbApZRRXU4L_EDTDNPzsdOnyKsyyVdBwlzoF6-RMEIe",
+      "publisher": "广州日报新花城",
+      "published_at": "2026-03-14"
+    },
+    {
+      "title": "粤BA賽場最萌一幕！「大灣雞」返聘再上崗與「英歌女孩」對舞",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8oiiS3FammkCU3sFfuswL33jL8UvUItRCXzQs5ZvD9lnQmr30kZBGZluz1Mcscbek40jps7YSKSBHVk8daLjiDHdZQp-EbAIjmpqsVLwvBaoI4vqHMGMBWQDql6aYjBozK9Xl6SAE10XvuiF9hRw0XbigUVGbz-CaUghW67BRmUWMMfkk-mVouUciqet3o6m8-6SYBn-ANHQXyTPNJknpGyDRuESmXyAVcmxACUkggEpdeXMP1rTXTz7WfWvxwTXLRhBKKGJuNaDnsqzFju9xPFxPrgM65pbJsJg9SeT3Evi6khqx9-YmTUpV86dQuKb-wb2rynSw5t4ZuB2_qUXdou3AYURbXB1nzhNrfshzWkKCfnm5WWR3M_RaXycR4hFOKMiIOSTXcvQIoPQyMWI0cmOJw4_33N1Pu4H0_u-RVIkxc5notuxYjy6Gl6BrneIm0DaFqLEsRx-5tkIF7Xb2ZBRsXBCvP7oiV9EgC6HFqqYVm2F8JJYqdt9LgFyhQFIS7POXtYVrrPelsIiFgRG42tf0EX3wgLzUGpcUu-DPsYw4trqQYtRgwTM0ufEIMppqF1NurVaJz6K4-2pahgV1TKUrI2K4xwaHKHA8bVgz02WpJ9vx1iOxu34FpGWGdAzNvqLCYTCnW2OdvC0PBp1W9_4_Vny0xVj8lGM4En9wPX6Xu3AcyOFAZR3mXDpa0HNDssKHrLwHjiYxWuMxPkZvT3HoICU9WCXmSL9IwtDCJUbL7Nf5OEKqyI1jlAq",
+      "publisher": "粤TV（广东广播电视台）",
+      "published_at": "2026-03-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:07"
+}

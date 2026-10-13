@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_413084111425df81",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年南昌健美操世界杯开赛与赣超南昌战新余文体联动活动",
+  "factual_description": "2026年6月27日，江西南昌国际体育中心迎来“一日双赛”文体联动活动。白天，国际体操联合会旗下的2026年南昌健美操世界杯与第一届南昌健美操国际公开赛在南昌国际体育中心体育馆正式开赛，这是该顶级国际健美操赛事首次落户中国，全球11个国家和地区参赛，中国代表队派出16名运动员出征（其中4人来自江西）。当晚20时，2026江西省城市足球超级联赛（“赣超”）第十轮焦点战在南昌国际体育中心体育场打响，南昌队坐镇主场迎战新余队，吸引超过3.8万名球迷到场观赛，经过激烈对抗双方最终0比0战平。比赛期间两项赛事实现跨界融合：中外健美操选手空降绿茵场中圈，与高校舞者同台演绎世界杯主题曲《跳出你的节拍》；中场休息时南昌民德学校508名初中生献上腰鼓表演《鼓震绿茵 龙耀少年》；同时赛事结合国际禁毒日主题，邀请200余名公安民警、交警与禁毒志愿者现场观赛并开展识毒防毒公益宣传。",
+  "event_time": {
+    "start": "2026-06-27",
+    "end": "2026-06-27",
+    "precision": "day",
+    "evidence": "健美操世界杯预选赛于2026年6月27日在南昌国际体育中心体育馆开赛，赣超联赛南昌主场对阵新余的比赛于当晚在同中心的体育场举行。"
+  },
+  "locations": [
+    "中国/江西省/南昌市/红谷滩区/南昌国际体育中心"
+  ],
+  "aliases": [
+    "2026赣超南昌VS新余",
+    "南昌国体一日双赛",
+    "健美操世界杯遇上赣超",
+    "2026年南昌健美操世界杯开赛",
+    "赣超南昌队主场迎战新余队"
+  ],
+  "retrieval_queries": [
+    "南昌 健美操世界杯 赣超",
+    "赣超 南昌VS新余",
+    "南昌队新余队握手言和",
+    "南昌国体 一日双赛",
+    "跳出你的节拍 赣超",
+    "健美操世界杯 16人出征",
+    "赣超 禁毒宣传 南昌 新余"
+  ],
+  "must_match_facts": [
+    "时间发生于2026年6月27日",
+    "地点为南昌国际体育中心（国体中心）",
+    "2026年南昌健美操世界杯正式开幕/开赛（中国首秀，中国队16人出征）",
+    "赣超联赛第十轮南昌队主场迎战新余队并以0比0握手言和",
+    "健美操选手与舞者在足球场绿茵中圈表演主题曲《跳出你的节拍》",
+    "现场结合国际禁毒日开展民警观赛与禁毒宣传教育活动"
+  ],
+  "exclude_if": [
+    "其他轮次的赣超比赛报道",
+    "非南昌国际体育中心承办的足球或健美操单项赛事",
+    "非2026年举办的体育赛事"
+  ],
+  "source_evidence": [
+    {
+      "title": "江西日报数字报-南昌队新余队握手言和",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnMnvHaLxZ1Ty8xme1PJo3Lf3Fi4HiXgZSQsAQo8gRclwIb4x83z2u4SSmav0yHSwv8fLN1SFOwWJfjOefVl8NLfqaDyOzeG8nEVgWkIKU0y4P9y1d6DKTVY9IEGRmnzERq8_jstdE4ssFDi5MD0M2i1lWOug=",
+      "publisher": "江西日报",
+      "published_at": "2026-06-28"
+    },
+    {
+      "title": "勇夺金牌！——我校学子征战2026南昌健美操国际公开赛",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhstzMSmpXpjiiyyffKSXwW9swnB6_vM6XAgpnUczqZH_KBmetQv5WipRggTHninmLHMkyt8AqnaW08vkQ2WLu_7SVu9PELrU6jXXJj4FLjYS9LC_xQH8WmmlcCKYIl_-emlwAWzNQyx_SD8xJFg==",
+      "publisher": "宜春学院",
+      "published_at": "2026-07-01"
+    },
+    {
+      "title": "赣超焦点战新余队“铁桶阵”限制南昌队进攻，两队各得一分",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxbHnZsVw-JflB3Pc348gzwdRTfqrpg3RFtt1IDrGoKlOTQFlpb1QHOsd5yna66Mk-jbkm9HE1lAc9eH_RO-3dJld3VsNCTbKBfSo7ul9AycozrhTDdKZ3",
+      "publisher": "南昌晚报/凤凰网",
+      "published_at": "2026-06-29"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:32"
+}

@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_5d839cec59cae7d6",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年广东省城市篮球联赛总决赛东莞队战胜深圳队夺冠",
+  "factual_description": "2026年8月1日晚，2026年广东省城市篮球联赛（简称“粤BA”）总决赛第二回合比赛在东莞篮球中心打响。东莞队坐镇主场迎战深圳队，首节东莞队迅速建立领先优势，半场以54比31领先；下半场东莞队持续扩大分差，最终以108比73大胜深圳队，从而以总比分2比0夺得首届粤BA年度总冠军，并加冕省级篮球联赛“十一冠王”。东莞队球员周泽源获得总决赛最有价值球员（MVP）。本届赛事由广东省体育局指导、覆盖全省21个地市，刘玉栋、巩晓彬等篮球名宿和现场逾万名观众在场见证。",
+  "event_time": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "precision": "day",
+    "evidence": "比赛于2026年8月1日晚在东莞篮球中心举行并决出总冠军"
+  },
+  "locations": [
+    "中国/广东省/东莞市/东莞篮球中心"
+  ],
+  "aliases": [
+    "2026年粤BA总决赛第二回合东莞队战胜深圳队夺冠",
+    "2026粤BA总决赛东莞108比73深圳",
+    "2026年广东省城市篮球联赛总决赛东莞夺冠",
+    "粤BA总决赛G2东莞胜深圳",
+    "东莞队夺得2026粤BA总冠军"
+  ],
+  "retrieval_queries": [
+    "粤BA总决赛 108 73 东莞 深圳",
+    "2026 粤BA 总决赛 第二回合",
+    "2026 广东省城市篮球联赛 总决赛 东莞 深圳",
+    "粤BA 东莞队 深圳队 夺冠 8月1日",
+    "东莞银行篮球中心 粤BA 总决赛 周泽源"
+  ],
+  "must_match_facts": [
+    "赛事为2026年广东省城市篮球联赛（粤BA）总决赛第二回合（G2）",
+    "比赛时间为2026年8月1日晚",
+    "比赛地点在东莞篮球中心（东莞银行篮球中心）",
+    "比赛对阵为东莞队对阵深圳队，比分为东莞队108比73大胜深圳队",
+    "东莞队以大比分2比0夺冠"
+  ],
+  "exclude_if": [
+    "CBA联赛广东宏远或深圳新世纪的比赛",
+    "广东省男子篮球联赛2024年或更早历史赛季决赛",
+    "2026年粤BA半决赛或常规赛阶段比赛",
+    "2026年粤BA总决赛首回合（7月18日东莞客场对深圳）"
+  ],
+  "source_evidence": [
+    {
+      "title": "108∶73 东莞队狂胜深圳队加冕“十一冠王”",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-ihchkmss4994273.shtml",
+      "publisher": "新浪财经 / 羊城晚报",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "东莞队战胜深圳队夺得粤BA总决赛冠军",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-02/doc-ihchkhzp8914611.shtml",
+      "publisher": "新浪财经 / 羊城晚报",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "2026粤BA收官东莞队夺冠",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-ihchnzfe0392942.shtml",
+      "publisher": "新浪财经",
+      "published_at": "2026-08-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:39"
+}

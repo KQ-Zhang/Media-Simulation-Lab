@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_52b0c1ed77131bd8",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "新西兰a2部分婴儿奶粉因检出蜡样芽孢杆菌呕吐毒素在美国召回",
+  "factual_description": "2026年5月1日至2日，新西兰a2牛奶公司（The a2 Milk Company）在美国市场自愿发起产品召回，美国食品药品管理局（FDA）于5月2日发布召回公告。召回对象为其代工厂新莱特（Synlait Milk）生产的3个批次美国版“a2 Platinum Premium”0至12个月婴儿配方奶粉（批次号为2210269454、2210324609、2210321712），共计63078罐，其中预估约16428罐已售给消费者。召回原因为根据新西兰监管机构最新指南开展额外检测时，检出耐热的蜡样芽孢杆菌呕吐毒素（cereulide），该毒素可致恶心呕吐等胃肠症状，召回启动前未收到患病报告。该产品原系通过美国“空运奶粉行动”应急进口，且在召回前已停产下架。5月3日，a2公司声明涉事产品配方独立且从未进入中国市场。同日晚，中国海关总署进出口食品安全局发布消费提示，确认暂未发现该产品通过一般贸易渠道进口，并提醒跨境电商等渠道消费者注意核对批次信息。",
+  "event_time": {
+    "start": "2026-05-01",
+    "end": "2026-05-04",
+    "precision": "day",
+    "evidence": "a2公司于2026年5月1日启动自愿召回，美国FDA于5月2日发布召回通告，中国海关总署于5月3日晚发布消费提示。"
+  },
+  "locations": [
+    "美国",
+    "新西兰",
+    "中国"
+  ],
+  "aliases": [
+    "新西兰a2部分婴儿奶粉在美召回",
+    "a2奶粉检出呕吐毒素在美召回",
+    "中国海关总署发布a2奶粉消费提示",
+    "a2 Platinum婴儿奶粉蜡样芽孢杆菌呕吐毒素召回"
+  ],
+  "retrieval_queries": [
+    "新西兰a2 奶粉 呕吐毒素 召回",
+    "a2 Platinum 蜡样芽孢杆菌 召回",
+    "海关总署 a2公司 婴幼儿配方奶粉 消费提示",
+    "a2 Milk recall cereulide FDA",
+    "a2 Platinum Premium recall batch",
+    "a2奶粉 63078罐 美国召回"
+  ],
+  "must_match_facts": [
+    "新西兰a2牛奶公司在美国自愿召回美国版a2 Platinum Premium婴儿配方奶粉[1.1.5]",
+    "召回原因系检出蜡样芽孢杆菌呕吐毒素（cereulide）",
+    "涉及3个批次共63078罐产品",
+    "中国海关总署发布消费提示说明一般贸易未进口并提醒核对跨境批次"
+  ],
+  "exclude_if": [
+    "雀巢、达能或兰特黎斯等其他乳企的奶粉召回事件[1.2.5]",
+    "2022年雅培奶粉因阪崎克罗诺杆菌污染引发的召回事件",
+    "与新西兰a2配方奶粉蜡样芽孢杆菌呕吐毒素无关的商业资讯"
+  ],
+  "source_evidence": [
+    {
+      "title": "关于新西兰a2公司部分婴幼儿配方奶粉的消费提示",
+      "url": "http://jcksphs.customs.gov.cn/sps/xxfw18/xfts80/6548777/index.html",
+      "publisher": "中华人民共和国海关总署进出口食品安全局",
+      "published_at": "2026-05-03"
+    },
+    {
+      "title": "a2 Platinum USA Label Infant Formula Recalled Because of Possible Health Risk",
+      "url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts/a2-platinum-usa-label-infant-formula-recalled-because-possible-health-risk",
+      "publisher": "U.S. Food and Drug Administration (FDA)",
+      "published_at": "2026-05-02"
+    },
+    {
+      "title": "a2公司美国市场召回3批次奶粉，回应称不涉及中国市场在售产品",
+      "url": "https://www.bjnews.com.cn/detail/1746442654130006.html",
+      "publisher": "新京报",
+      "published_at": "2026-05-05"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:36"
+}

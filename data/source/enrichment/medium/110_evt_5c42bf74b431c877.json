@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_5c42bf74b431c877",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "携程集团公布2025年财报及高管人事变动",
+  "factual_description": "2026年2月25日至26日，携程集团（纳斯达克：TCOM；香港联交所：9961）公布2025年第四季度及全年未经审计财务业绩，并宣布一系列董事会与高管人事变动。公告显示，携程集团联合创始人范敏辞任公司董事兼总裁职务，联合创始人季琦辞任公司董事职务，上述人事变动自2026年2月25日起生效；同时，携程宣布任命吴亦泓及萧杨为新任独立董事，李基培被任命为董事会薪酬委员会成员。财务业绩方面，携程集团2025年全年净营业收入为624亿元人民币，同比增长17%；净利润达334亿元人民币（归母净利润约333亿元），同比大增约95%，利润高增主要得益于出售MakeMyTrip股权等带来的199亿元投资收益。此外，携程在财报中披露，公司于2026年1月收到国家市场监管总局依据《中华人民共和国反垄断法》启动的调查通知，目前反垄断调查仍在进行中，公司正全力配合，日常业务运营保持正常。",
+  "event_time": {
+    "start": "2026-02-25",
+    "end": "2026-02-26",
+    "precision": "day",
+    "evidence": "携程集团官方财报公告签署日期为2026年2月25日，董事人事变动自2026年2月25日起生效，港交所公告及主流媒体报道集中于2026年2月26日发布。"
+  },
+  "locations": [
+    "中国/上海市",
+    "新加坡"
+  ],
+  "aliases": [
+    "携程集团总裁范敏辞职",
+    "携程总裁、董事双双辞职",
+    "携程联合创始人范敏季琦辞任",
+    "携程发布2025年第四季度及全年财报",
+    "携程高管变动及反垄断调查"
+  ],
+  "retrieval_queries": [
+    "携程 范敏 辞任 总裁",
+    "携程 季琦 辞任 董事",
+    "携程 2025年未经审计财务业绩 624亿元",
+    "携程集团 董事变动 吴亦泓 萧杨",
+    "携程 范敏 季琦 辞职 反垄断调查"
+  ],
+  "must_match_facts": [
+    "携程联合创始人范敏辞任董事兼总裁职务",
+    "携程联合创始人季琦辞任董事职务",
+    "携程集团公布2025年第四季度及全年财务业绩",
+    "携程任命吴亦泓与萧杨为独立董事",
+    "公告提及2026年1月收到市场监管总局的反垄断调查通知仍在进行中"
+  ],
+  "exclude_if": [
+    "2013年梁建章回归接任CEO及范敏转任董事会副主席的历史事件",
+    "2021年携程在港交所二次挂牌上市事件",
+    "华住集团或汉庭酒店自身人事变动",
+    "涉及其他互联网平台（如美团、阿里巴巴）的反垄断行政处罚决定"
+  ],
+  "source_evidence": [
+    {
+      "title": "携程集团发布2025年第四季度及全年未经审计的财务业绩",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYew7bSssnYl1w-AR0IVyP6Gicw0VfZtIcL3wCkzMU9sB2CZ7NVTpmlA8G3nUGgS6kjOAHKD2i8XDXN28t3v_jB25coTLiKckOXr7B3_03uujRKE03iTS8xsV86yA9B0VRj7ftl0lNaI_chKnjd4H2lybDcgL6O0kq3z_zyoHB6tXDYzrdexaN-b3bwGWpZSvb1I_oiPKslhtqNUepPg-ZvMU2VNCE5HToInezb1wt5bphMlE9qFNObXg=",
+      "publisher": "携程集团官网",
+      "published_at": "2026-02-25"
+    },
+    {
+      "title": "携程集团总裁、董事，双双辞职",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd4BxvbleBSyTmdxaRnx0S6qmi3KhrNeYf4HPbqi3yQ7FvJkU8lj6-jf90AMrFE67NBt8hzTeW0MTRWHV8vnk9LmuIL5yCsfoP7_CozVnQ30CMf8eVYco=",
+      "publisher": "财联社",
+      "published_at": "2026-02-26"
+    },
+    {
+      "title": "去年净营收增长17%，携程集团两大联合创始人辞职",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjI5Mk_IRj1lEq8BlyufLZlxLfUG5lm9zm3_3nPpyqXa2b4Q1Ovc2DctWoWkz2oubDeRMAuORnW8JwRTbd0A1AcsHVs1sSQHVMBXUuO13z2IZH9sHKtVYA0MK_Pgtu9QZ4kK4=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-02-26"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:52"
+}

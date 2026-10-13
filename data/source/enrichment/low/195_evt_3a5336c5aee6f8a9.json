@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_3a5336c5aee6f8a9",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026中国环塔国际拉力赛SS1赛段长城坦克车队包揽T2.E组前三",
+  "factual_description": "2026年5月17日，2026中国环塔国际拉力赛首个正式长距离特殊赛段（SS1赛段，乌鲁木齐至吐鲁番盆地）开赛。5月18日赛事成绩公布，长城汽车旗下坦克品牌赛车在该赛段表现突出，不仅一举包揽T2.E量产新能源组前三名（冠亚季军），长城汽车还同时斩获T2.E量产新能源组、T2.1量产燃油组和T2.3俱乐部量产组三个组别的冠亚军。其中，在T2.E量产新能源组中，长城汽车车队外籍车手保·纳瓦罗（Pau Navarro）搭档领航扬·罗萨（Jan Rosa）驾驶坦克700 Hi4-T赛车夺得组别冠军。同时，当日SS1赛段限速路段曾发生多车追尾碰撞事故，受损车组连夜抢修后继续参赛。",
+  "event_time": {
+    "start": "2026-05-17",
+    "end": "2026-05-18",
+    "precision": "day",
+    "evidence": "2026年5月17日2026环塔拉力赛SS1赛段开赛，5月18日长城汽车公布SS1赛段成绩确认坦克车队包揽T2.E组前三"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/乌鲁木齐市",
+    "中国/新疆维吾尔自治区/吐鲁番市"
+  ],
+  "aliases": [
+    "2026环塔拉力赛SS1赛段坦克包揽T2.E组前三",
+    "长城汽车环塔拉力赛SS1赛段首战告捷",
+    "2026环塔SS1长城坦克车队战绩",
+    "坦克横扫环塔SS1赛段T2.E组前三"
+  ],
+  "retrieval_queries": [
+    "2026 环塔拉力赛 SS1 坦克",
+    "环塔拉力赛 SS1 T2.E 坦克",
+    "长城汽车 环塔拉力赛 SS1 冠亚军",
+    "坦克700 环塔 SS1 纳瓦罗",
+    "2026 环塔拉力赛 坦克500 SS1",
+    "环塔 SS1 坦克 包揽前三"
+  ],
+  "must_match_facts": [
+    "涉及2026年中国环塔国际拉力赛SS1赛段",
+    "主体涉及长城汽车或长城坦克车队（坦克700 Hi4-T、坦克500等）",
+    "取得T2.E量产新能源组前三名（或三个组别冠亚军）的赛段成绩",
+    "车手保·纳瓦罗驾驶坦克700 Hi4-T获得组别第一"
+  ],
+  "exclude_if": [
+    "2024年或2025年中国环塔国际拉力赛",
+    "2026年环塔拉力赛SS8赛段车手遇难事故",
+    "仅报道摩托车组或改装T1组其他车队且不涉及长城坦克的赛事"
+  ],
+  "source_evidence": [
+    {
+      "title": "长城汽车环塔拉力赛SS1赛段首战告捷包揽三组别冠亚军",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGu2_dVDvDa0XTHyMaC-ix55ATXMJAe1g9vWf0vHrpdCS5UEkT6EuQE6Xfu3A9-rN77tlBcHa1ObBvLqv719G6EHgxIrCNdSuKaseyH4Zlo9wt-rTBgMQmv5w_oBpbcQKURM5lrQ4t-q1NIPY0xfICOzVUDP0rsDVzdRKJV1ph-canDOWmkvN3nCgqWzhhPyvA5i_3Hg3DIhnRKNQ==",
+      "publisher": "凤凰网/CNMO科技",
+      "published_at": "2026-05-18"
+    },
+    {
+      "title": "卫冕冠军携史上最强阵容征战2026环塔拉力赛",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXBjimYhm-pBXT4Un0rK2XVtbhdNC-eokUmjU_LMfts3D39iqdWQe4v1_78_PUF6kkLpPGgFk52d29r7KOVEWUO8XmlPJt6RE8qQbNc4FgdfKY_rUrD4GuDWD102ib_rdYWR0D",
+      "publisher": "易车网",
+      "published_at": "2026-05-18"
+    },
+    {
+      "title": "体坛短频快｜环塔赛超车有风险",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-z9EXASIokEV1_Sc7IRtKxcalaebFtMzxPFsWVsLOunedf99c5twlsv7aCeG45Xs70HSk42-4V1pbsgFURqVZ9ici5JCC6EI6RrqyuLZUxbCqSdaBbWr4HpYrS5iZmou8",
+      "publisher": "北京青年报官网/腾讯新闻",
+      "published_at": "2026-05-18"
+    }
+  ],
+  "uncertainties": [
+    "输入描述中提及的‘赛车碰撞事故’实为SS1赛段进行期间发生的赛道多车追尾事故（涉及纵横G700等车组），非长城坦克战队车辆的主要事故，属于同赛段赛况背景"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:08"
+}

@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_b72065dcc166bc87",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2024年西安“11·5”摩托车撞隔离护栏后遭二次碰撞事故",
+  "factual_description": "2024年11月5日凌晨4时许，在陕西省西安市未央区二环北路朱宏路立交桥上发生一起交通事故。张某驾驶两轮摩托车搭载路某（两人均未佩戴安全头盔），沿二环北路由东向西行驶时，车辆与道路隔离设施发生碰撞，致使乘车人路某跌落倒地。张某随即下车查看并对路某进行查看施救。在此过程中，同方向由陈某驾驶的小型客车驶来，未能及时避让并与路面上的张某和路某发生二次碰撞。现场路人曾呼喊阻拦未果并拨打120急救电话。事故造成路某抢救无效死亡、张某受伤。西安市公安局交通警察支队随后发布警情通报：经初查，摩托车驾驶人张某未取得摩托车驾驶资格，涉嫌饮酒驾驶机动车，排除毒驾嫌疑；小型客车驾驶人陈某排除酒驾、毒驾嫌疑。事故后续调查工作依法展开。",
+  "event_time": {
+    "start": "2024-11-05",
+    "end": "2024-11-05",
+    "precision": "day",
+    "evidence": "西安市公安局交通警察支队通报，事故发生于2024年11月5日凌晨4时许"
+  },
+  "locations": [
+    "中国/陕西省/西安市/未央区/北二环朱宏路立交桥"
+  ],
+  "aliases": [
+    "西安11·5摩托车二次碰撞事故",
+    "西安朱宏路立交摩托车二次碾压事故",
+    "西安男子酒驾摩托摔倒遭后车二次碰撞事故"
+  ],
+  "retrieval_queries": [
+    "西安 摩托车 二次碰撞",
+    "西安 摩托车 二次碾压 朱宏路",
+    "西安 二环北路 摩托车 护栏 11月5日",
+    "张某 路某 陈某 西安 摩托车",
+    "西安交警 摩托车 朱宏路立交"
+  ],
+  "must_match_facts": [
+    "2024年11月5日凌晨发生于西安市北二环朱宏路立交桥",
+    "张某驾驶两轮摩托车载路某撞上道路隔离护栏导致路某跌落",
+    "张某下车施救查看时两人被陈某驾驶的小型客车发生二次碰撞",
+    "事故造成路某抢救无效死亡、张某受伤（一死一伤）",
+    "交警初查摩托车驾驶人张某无证且涉酒驾，客车驾驶人陈某排除酒驾毒驾"
+  ],
+  "exclude_if": [
+    "2026年5月西安210国道摩托车逆行相撞致死事故",
+    "发生在西安以外城市的摩托车二次事故",
+    "未发生二次碰撞的单方摩托车事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "西安交警通报男子酒驾摩托摔倒后被后车二次碰撞：致一死一伤",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfvBvImaHKk_crFRszBuuVni65wsQDJt7-EB7NcYuDZS0h4LYJ6516MCHTNQDyf8vNNQNnTKGtfvjGfi3ASqfCZswVdF-JVxkgUvCkEct5q3iDOW3kxvzSOxluk6KMw2Q=",
+      "publisher": "界面新闻",
+      "published_at": "2024-11-06"
+    },
+    {
+      "title": "西安二次碰撞事故致一死一伤，警方通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZmsn0f_h3kZkJTCcCr2JMel4AVQf6sKLVJMiJVyO37zEp8vUuQvb2fm0m8PXTZ2Zx1BucLerDkwU_tGu5qhOhQDXQpW_s_6hCcuqYg-XB2eE-a79TpYAIyL4aO0QCOCtJEkU=",
+      "publisher": "九派新闻",
+      "published_at": "2024-11-06"
+    }
+  ],
+  "uncertainties": [
+    "原描述中将发生时间误传为2020年，核验实际为2024年11月5日",
+    "原描述称两人均被120接走，官方通报已确认后座乘客路某经抢救无效死亡、张某受伤",
+    "客车驾驶人最终事故责任比例及案件后续司法判决未有进一步公开信息"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:06"
+}

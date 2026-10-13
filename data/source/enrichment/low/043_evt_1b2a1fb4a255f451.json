@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_1b2a1fb4a255f451",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "两名日本公民在广州白云机场涉嫌携毒被扣留事件",
+  "factual_description": "2026年1月2日，两名日本公民在广州白云国际机场入境时，因涉嫌随身携带毒品被中国海关部门当场查获并扣留。1月5日，中国海关部门通报日本驻广州总领事馆，总领馆随后派员对二人进行领事探视并提供协助。据日本共同社与日本电视网等媒体报道，涉案人员中一人于2月6日获准保释，另一人继续被拘留调查。3月25日，日本官方在例行记者会上被问及案情时表示案件正处于调查阶段，基于隐私保护无法详述；同日下午，中国外交部发言人林剑在主持例行记者会时，针对日本电视网记者的提问回应表示不了解所提情况。",
+  "event_time": {
+    "start": "2026-01-02",
+    "end": "",
+    "precision": "day",
+    "evidence": "日本共同社及日本媒体引述日中关系消息人士报道，两名日本公民于2026年1月2日入境广州白云机场时被查获扣留。"
+  },
+  "locations": [
+    "中国/广东省/广州市/白云区/广州白云国际机场"
+  ],
+  "aliases": [
+    "两名日本人因持有毒品在广州被捕",
+    "两日本公民因持有毒品在广州被捕",
+    "两日本人涉毒在广州被捕其中一人获保释",
+    "广州机场两名日本人涉毒案",
+    "中方回应两名日本人因持有毒品在广州被捕"
+  ],
+  "retrieval_queries": [
+    "两名日本公民 广州 毒品",
+    "两名日本人 广州白云国际机场 毒品",
+    "两日本人涉毒在广州被捕其中一人获保释",
+    "广州 毒品 林剑 日本电视网",
+    "日本公民 广州机场 携带毒品 保释",
+    "广州海关 日本人 毒品 拘留"
+  ],
+  "must_match_facts": [
+    "两名日本公民于2026年1月在广州白云国际机场涉嫌携带毒品被扣留",
+    "日本驻广州总领事馆接报后曾对涉案人员进行领事探视",
+    "涉案人员中一人于2026年2月6日获保释，另一人仍被拘留调查",
+    "中国外交部发言人林剑于2026年3月25日例行记者会上回应不了解相关情况"
+  ],
+  "exclude_if": [
+    "日本籍男子在华涉间谍罪被判刑事件",
+    "爱知县前议员樱木琢磨广州运毒案",
+    "日本自卫队人员闯入中国驻日使馆事件",
+    "大连或沈阳等地日本公民贩毒判刑案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "两日本人涉毒在广州被捕其中一人获保释",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIbqD2eqtoJK84H2rxi1G3oH-lXrJbctCwqnT2XtiPzDx2ebfbi5zhJIIYtBoiEUcrbb2O6Al3QT0MziNb38EbFIntBRfBsc1xDJqtKcUxwMC-84rEsq7zZlAuX3ZRP3cginf4EWMXysEXfuXnMtOE",
+      "publisher": "联合早报",
+      "published_at": "2026-03-26"
+    },
+    {
+      "title": "2日本人涉毒入境广州被捕一人保释一人拘留中国外交部回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_mRxhb80-UYH9raaoOAG-AelvFKUrjjNoaP8O0hwWReYldK8KzRN_onJCThAgrOEGSh0u4SYqebdUxtQkstgbtBL-a9UtxZ2a6I2tAdJhAqYlyZfCo9zSfsz0U30q-xmoK74iTQNMGC7sPFj1N0NhHAWnsHGo4RNSIzkTw1n1TG0jcIAWnINmLd-7j4xyGLo9mhg-iYFUiq0-tcSLW5DAiFh3m3ioC-mmD7adhPIetrsbI9DQcH2V75nI38QXY6YeYCQCy72VupkjV85W6nrTjLldR98G9KHt4FswhiLhCS_14d5KUuMwkUtRlOSXh5vldlUGnPRbw_oALRLX0pBz7g-D31RX_6kxBavDXY-dtVte2GogJqqkHG61yLgfqvE__zosTU7TSM39HT9w0z4OBKLVkxlFO-FmbD49zMzdiGOcot2-GfXId_LTtewSS73ToiLFAS_rzl2YKLCVpNJtuflYIbr_zNfRyw==",
+      "publisher": "香港01",
+      "published_at": "2026-03-26"
+    },
+    {
+      "title": "两日本公民因持有毒品在广州被捕？外交部回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGxh1VP87Ux9rd44ZrP8amz7zdm9cRpUjzLULQQs6molh0UlR3Qahswy8Q2ppIZUqqKW_4CS0tOk_etanjkLKJkPhRdgiKoVTlAd0fhINwmtJKQwvq6jIIP4ERv2VG2mcLg-ZRVrg7q-WYPsDxB3j7OYN9-jtzAsLgmQWNsmWU=",
+      "publisher": "观察者网 / 新浪财经",
+      "published_at": "2026-03-25"
+    }
+  ],
+  "uncertainties": [
+    "涉案两名日本公民的真实姓名与具体身份官方未予公开，网络传言称其中一人为东京夜总会女公关未获官方证实",
+    "涉案毒品的具体种类及查获数量官方尚未通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:02"
+}

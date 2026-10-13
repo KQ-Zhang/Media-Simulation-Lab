@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_1d7ef7c182934de6",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广州天天假期旅行社林和中店负责人高某涉嫌欺诈游客事件",
+  "factual_description": "2026年3月，广东天天假期国际旅行社有限公司旗下广州天河林和中门店负责人高某（高某丽）涉嫌以“内部特惠”“低价囤位”等低价团为诱饵，绕过公司正规合同流程与对公收款渠道，违规私自吸纳游客报名并收取团费后失联，导致5000余名游客无法兑换门票或正常出行，涉案金额达300余万元。2026年3月24日，该事件经广东广播电视台《DV现场》《今日关注》等媒体报道曝光。同日，天天假期总部召开新闻发布会回应，证实涉事门店负责人私自截留款项，已将相关线索移交公安机关侦办，并承诺由旅行社全额垫付300余万元涉案款项兜底，向受影响游客提供全额退款、改期或无条件转团安置方案。",
+  "event_time": {
+    "start": "2026-03-24",
+    "end": "2026-04-18",
+    "precision": "day",
+    "evidence": "广东广播电视台于2026年3月24日报道游客报案及现场采访，天天假期于3月24日召开新闻发布会通报，并于2026年4月18日发布专项保障落实声明"
+  },
+  "locations": [
+    "中国/广东省/广州市/天河区/广东天天假期国际旅行社林和中门店"
+  ],
+  "aliases": [
+    "天天假期分店负责人涉诈案",
+    "广州一旅行社门店负责人卷走300万",
+    "天天假期林和中店高某涉嫌欺诈事件",
+    "门店负责人借低价团诈骗超5000人",
+    "天天假期高某丽私收团费事件"
+  ],
+  "retrieval_queries": [
+    "天天假期 高某 300万",
+    "天天假期 林和中店 诈骗",
+    "广州一旅行社门店负责人卷走300万",
+    "天天假期 曾卓民 垫付",
+    "高某丽 低价团 5000人",
+    "广东天天假期 团费欺诈"
+  ],
+  "must_match_facts": [
+    "涉事主体为广东天天假期国际旅行社有限公司天河林和中门店负责人高某（高某丽）",
+    "涉案手法为绕过正规渠道私自收取低价旅游团费后失联",
+    "涉案金额约300余万元，波及游客5000余人",
+    "天天假期旅行社总部召开新闻发布会移交警方并承诺全额垫付退赔"
+  ],
+  "exclude_if": [
+    "2015年广州中X财富P2P集资诈骗案",
+    "导游在境外强制购物恐吓游客事件",
+    "其他非天天假期旅行社的常规退费合同纠纷"
+  ],
+  "source_evidence": [
+    {
+      "title": "天天假期：就林和中店情况启动专项保障，全力守护游客权益",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQwSZPyZvpr4pSdQ1c3n0EmtzaiZAQcaIx_XBRjxb3oLGlLqL_EAK95V2ylrL9uBeaiYzATv2hEh8pdWGQCuKrRC1cuzrhOgJrUkmS_eouX7XgKzJURXDFg7iagIJDqMmtMo3I5atsJWMTk8R0CwT3jLDcseDugKjGjcJwAGSRksO4WkHTYSsV",
+      "publisher": "广州日报新花城",
+      "published_at": "2026-03-25"
+    },
+    {
+      "title": "天天假期再声明：启动林和中店专项保障，守护游客权益",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTVQH3yNTlIh-rPDyt8jtsmd3uu0avad3GhCLMF01uO4Gw6o0KV7ANwxfu7EOvISoVWUX47LJFz2jlWbR8I4Ru34CJjRS7-UzPlEV0jpruPBGeWPZleTU7Qu2tfEzGXtpaCayVPqyl7B6zVEiVq98c6hBXo-hPz9XmYckKbRh6O1j2xHYHOiPS",
+      "publisher": "广州日报新花城",
+      "published_at": "2026-04-18"
+    },
+    {
+      "title": "【今日关注】追踪：天天假期分店负责人涉诈5千余人3百多万董事长现场回应",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsss4Bv1AhiF6DLgqYJQybY7_Y4KgtjBZKKXo6tb1KpvGqoqX1tzNyhEudC4hwq-fx2ZjO2oTbKKSM86AjAqvZDSjX2NzUztSQFEjAtNWe8V1JbSZOgrQ5-F9QCLp17OM6",
+      "publisher": "广东广播电视台",
+      "published_at": "2026-03-25"
+    }
+  ],
+  "uncertainties": [
+    "输入样本与现有描述将事发年份误标为2024年，实际曝光及处置时间为2026年3月",
+    "涉案人员高某丽的最终司法追责与定罪进展待司法机关后续披露"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:10"
+}

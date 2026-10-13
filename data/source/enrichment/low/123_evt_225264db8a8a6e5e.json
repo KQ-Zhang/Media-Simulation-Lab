@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_225264db8a8a6e5e",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "大庆肇州实现村牛奶河水体污染事件",
+  "factual_description": "2026年8月6日，环保博主“渔猎齐哥”发布视频曝光，黑龙江省大庆市肇州县实现村一处水体遭受严重污染，水体呈现乳白色浑浊黏稠状态，伴有强烈刺鼻气味，水草枯萎且无鱼虾生存，被称为“牛奶河”，村民指称系当地蒜片厂排污所致。8月7日，大庆市肇州生态环境局回应媒体称，接到情况后已第一时间上报并成立专项组介入调查处置，调派作业车辆抽排清理受污染水体，涉事蒜片厂已被查封，涉事企业负责人被相关部门依法控制，纪检监察部门亦介入取证。环保部门同时说明，涉事蒜片厂证照齐全，每年生产周期约十余天，受污染水域系近期极端暴雨天气冲刷自然形成的沟渠而非正规河流，并非每年常态化排污，处置完毕后将对周边土壤与地表水进行取样监测。",
+  "event_time": {
+    "start": "2026-08-06",
+    "end": "2026-08-08",
+    "precision": "day",
+    "evidence": "博主于2026年8月6日现场发布视频曝光污染，大庆市肇州生态环境局于8月7日介入处置并查封蒜片厂、控制负责人，抽排清理作业持续至8月8日。"
+  },
+  "locations": [
+    "中国/黑龙江省/大庆市/肇州县/二井镇/实现村"
+  ],
+  "aliases": [
+    "大庆肇州实现村河流污染事件",
+    "大庆肇州牛奶河事件",
+    "肇州县实现村蒜片厂排污事件",
+    "大庆肇州实现村水体污染事件"
+  ],
+  "retrieval_queries": [
+    "大庆 肇州 实现村 牛奶河",
+    "肇州 实现村 蒜片厂 污染",
+    "大庆肇州实现村一河流遭污染",
+    "渔猎齐哥 肇州 牛奶河",
+    "肇州生态环境局 蒜片厂 负责人被控制",
+    "肇州县 实现村 乳白色 水体",
+    "大庆 牛奶河 蒜片厂"
+  ],
+  "must_match_facts": [
+    "地点发生于黑龙江省大庆市肇州县实现村",
+    "水体呈现乳白色黏稠浑浊状并伴有恶臭（被称为牛奶河）",
+    "环保自媒体博主“渔猎齐哥”于2026年8月6日曝光现场",
+    "排污源头为当地蒜片加工厂",
+    "肇州生态环境局成立专项组排污抽水，涉事蒜片厂被查封且负责人被依法控制",
+    "官方说明受污染水体实为暴雨冲刷形成的沟渠而非河流"
+  ],
+  "exclude_if": [
+    "重庆市南川区孝子河水体发黑污染事件",
+    "河北张家口白菜蘸甲醛保鲜事件",
+    "大庆市安肇新河等其他河段常规水环境整治报道",
+    "肇州县高标准农田建设环境影响评价公示"
+  ],
+  "source_evidence": [
+    {
+      "title": "黑龙江肇州县出现“牛奶河”，涉事工厂负责人已被控制",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHWyKLqw4qeiv_XIlavVi9gvHKZYsY4x7zgdqNN1j8dYl2jl7DIqvALfIeLm1viYLLkQko11vF-8iJxakHi5yEuQXYuLj4yusiy2Er14SjpeY6yoBaiyQbMT0FPjbx2CSap4ange9Kzh2CH1jOyC_3h1WgeGtydJA-mGLBctQRCTUR6rRCmg==",
+      "publisher": "现代快报（新浪财经转载）",
+      "published_at": "2026-08-07"
+    },
+    {
+      "title": "黑龙江一村庄被曝出现“牛奶河”，涉事蒜片厂负责人已被控制",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTPa5Kz-CzV-wkl7Abb1NlEuUaLM6tU_hoBE5oVWD7PGxR1_0Rvs7qTJJHd85GUpYwVJ6CXs6UN5sxUrMVOAoC4nLUFOJ56ZdljSWVmrLPf_6EsgM42UJzp3-QSKUkEAIElynFMQB8EohQIExM4ulQG8ViycqKZ8Q2H4qtlg==",
+      "publisher": "现代快报（ZAKER转载）",
+      "published_at": "2026-08-08"
+    }
+  ],
+  "uncertainties": [
+    "涉事蒜片厂的具体工商注册全称及最终行政或刑事处罚结果尚未公布",
+    "针对是否为“每年季节性排污”，博主及村民反映与环保部门“今年极端暴雨导致”的解释存在一定出入"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:16"
+}

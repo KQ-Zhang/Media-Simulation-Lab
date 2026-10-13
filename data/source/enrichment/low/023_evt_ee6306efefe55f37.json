@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_ee6306efefe55f37",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "狗头萝莉摆摊被男粉丝越界亲吻事件",
+  "factual_description": "2026年7月9日，网络博主“狗头萝莉”在黑龙江省哈尔滨市某商场经营其“煎饼狗子”摊位时，一名正在排队的男粉丝未经其允许突然上前亲吻其面部。事发时现场有大量排队等待的顾客，为避免打乱商场正常经营秩序、防止当众激烈对峙激化矛盾并照顾其他顾客的排队体验，狗头萝莉当场未予发作或驱赶，选择隐忍完成营业。事后，狗头萝莉与其运营团队就是否当场驱逐或报警发生分歧，认为当众驱逐恐引发现场冲突，但若默不作声又担心纵容越界骚扰并引发效仿。7月9日至10日，狗头萝莉在社交媒体发布视频讲述事发经过，表示团队陷入两难，向网友公开征集未来遭遇类似骚扰行为时的稳妥应对方案。事件公开后引发舆论对粉丝行为边界、反性骚扰及现场安保处置的广泛讨论。",
+  "event_time": {
+    "start": "2026-07-09",
+    "end": "2026-07-10",
+    "precision": "day",
+    "evidence": "多家媒体报道指出，2026年7月9日狗头萝莉在煎饼摊出摊时遭遇该男粉丝亲吻；青岛日报等媒体于7月10日报道狗头萝莉发布视频回应并征集建议。"
+  },
+  "locations": [
+    "中国/黑龙江省/哈尔滨市"
+  ],
+  "aliases": [
+    "狗头萝莉回应摆摊被男粉丝亲吻",
+    "狗头萝莉出摊被男粉丝亲了",
+    "狗头萝莉摆摊被强吻事件",
+    "狗头萝莉哈尔滨煎饼摊遭粉丝亲吻"
+  ],
+  "retrieval_queries": [
+    "狗头萝莉 摆摊 男粉丝 亲吻",
+    "狗头萝莉回应摆摊被男粉丝亲吻",
+    "狗头萝莉 煎饼狗子 亲吻",
+    "狗头萝莉 哈尔滨 亲吻 粉丝",
+    "狗头萝莉 出摊 被亲 建议"
+  ],
+  "must_match_facts": [
+    "主体为网络博主狗头萝莉（煎饼摊主）",
+    "事发地点为黑龙江哈尔滨商场煎饼摊",
+    "事发原因为一名排队男粉丝未经允许突发亲吻",
+    "当事人事后回应称因顾及商场秩序未当场发作并向网友征求建议"
+  ],
+  "exclude_if": [
+    "2023年狗头萝莉广州或南京煎饼摊违规遭举报被叫停事件",
+    "狗头萝莉因个人私密视频泄露及前男友纠纷事件",
+    "其他主播或网红在街头遭围观或肢体接触事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "狗头萝莉回应被亲吻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEReXZYA2PKi58JVlvseF4-j_-zxu5oNdTZ_oExIcJtOQSZ-9OncNqgRouANER4DBJnviGPEOudVnZ_M_98_pRNOQKjaJQytf44yCPtVD8AF4w562AA6quNXaNa4u8kCZRsSQEpvIiFXNRP7Q==",
+      "publisher": "青岛日报官方微博（转自新浪）",
+      "published_at": "2026-07-10"
+    },
+    {
+      "title": "狗头萝莉出摊被男粉丝亲了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEha_9qom2fiT-11xOtNeb_Dskv2B6BgPKBfOvnXJ7_wvvJJDpRrgTpJYftQ2-eQMsr3Z6bzOoz33fZk6g27da-3j_oo1hE3fRlaBQ55hxOdqipLwHdfuFwyxN_0mjYl0xpZFmh6HQzeKNF-XXCzVvIepxhtyRFvnI=",
+      "publisher": "中华网娱乐",
+      "published_at": "2026-07-09"
+    },
+    {
+      "title": "正妹網紅賣煎餅遭男粉強吻未當場驅離原因曝光網氣炸",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOKINCuTFL2LBTrThEc5Jl70qknXyLCExJAJPf2oGmD1lK_uhk6QE0AfKPHvwmozholZkO6OaCwFkitRVINGjEf6CAGAiVYjCfhnIOVO2oQl0qQIsqdf7o0vA8ZPZr4BD-24dIlaOWBCZ1D9aaBC9VJYUS",
+      "publisher": "中时新闻网",
+      "published_at": "2026-07-09"
+    }
+  ],
+  "uncertainties": [
+    "涉事商场的具体商业体名称在公开官方报道中未完全统一明确",
+    "涉事男粉丝的真实身份及当地公安机关后续是否介入立案未有公开通报"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:34"
+}

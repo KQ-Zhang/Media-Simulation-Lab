@@ -1,0 +1,67 @@
+{
+  "event_id": "evt_e036838bf192a45d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "销售方虚假宣传SOD食品冒名中科院及退款事件",
+  "factual_description": "2026年2月下旬，河南广播电视台都市频道《都市接到办》栏目报道并调解了一起针对老年消费者的虚假宣传维权事件。事件中，销售方将一款实际类别为“运动营养食品”的SOD（超氧化物歧化酶）产品，虚假夸大宣传为“中科院出品”且声称能“多活30年”，诱导老年人购买。消费者了解实情后质疑受骗并向媒体反映求助。中科院方面就相关产品宣称发布或出具声明，明确指出属于冒名虚假宣传，与中科院无任何关系；产品生产厂家亦出面澄清与中科院无关，未进行过此类宣传，并要求销售方为购买者办理退货退款。在媒体介入与厂家要求下，销售方已为当事老人全额办理退货退款，老人顺利收到退款款项。",
+  "event_time": {
+    "start": "2026-02-26",
+    "end": "2026-02-27",
+    "precision": "day",
+    "evidence": "河南广播电视台都市频道官方栏目于2026年2月26日至27日连续发布四期《都市接到办》调查追踪报道，完整呈现了从销售虚假宣传曝光到老人收到退款的全过程。"
+  },
+  "locations": [
+    "中国/河南省"
+  ],
+  "aliases": [
+    "神奇的SOD让你多活30年事件",
+    "SOD产品虚假宣传及退货退款事件",
+    "中科院声明SOD冒名虚假宣传事件",
+    "都市接到办SOD产品虚假宣传退款调查"
+  ],
+  "retrieval_queries": [
+    "神奇的SOD让你多活30年",
+    "都市接到办 神奇的SOD",
+    "中科院声明 属于冒名虚假宣传 老人直呼上当受骗了",
+    "厂家要求销售方退货退款 SOD",
+    "神奇的SOD让你多活30年 退货退款",
+    "都市报道 SOD 运动营养食品",
+    "销售方虚假宣传 中科院出品 SOD"
+  ],
+  "must_match_facts": [
+    "涉及宣称功效为延年益寿的SOD（超氧化物歧化酶）产品",
+    "产品包装及性质实际属于运动营养食品",
+    "销售方虚假宣传为中科院出品或宣称能多活30年",
+    "中科院明确声明属于冒名虚假宣传",
+    "生产厂家澄清未宣传并要求销售方办理退款",
+    "当事老年消费者最终成功获得退款"
+  ],
+  "exclude_if": [
+    "布宿最SOD天然矿泉水产品发布",
+    "雪豹FE生物酶牙膏研发历史事件",
+    "海尔小神童空调涉嫌欺诈事件",
+    "正常合规的SOD抗氧化科学研究或非本事件的普通化妆品宣传"
+  ],
+  "source_evidence": [
+    {
+      "title": "（二）神奇的SOD让你多活30年?中科院声明：属于冒名虚假宣传老人直呼上当受骗了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJD4fyDjGkHI-BWkI1MdU-p6wo2VBoySu3C2VFXUr3g1bq2BW6M7rgPtlJY3OklXRmL1Jk4Exn8GINm67Xo4iWnxM6OOKYSYmxMOBSJ4Z8dHAQCLKKPHRzpyphiMeuerlZ",
+      "publisher": "河南广播电视台都市报道（腾讯新闻发布渠道）",
+      "published_at": "2026-02-27"
+    }
+  ],
+  "uncertainties": [
+    "受害老人的具体居住城市及涉事销售方的实体注册主体名称在公开视频标题中未全部点明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:21"
+}

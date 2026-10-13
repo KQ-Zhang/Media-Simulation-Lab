@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_6452be361c6d8c16",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "济南上新街巨型空飘鳌鱼被大风吹走后在章丘寻回",
+  "factual_description": "2026年2月20日（农历正月初四），在山东省济南市市中区上新街展出的一条长21米、高7米、宽6.5米的巨型空飘鳌鱼，因现场风力过大且固定不牢意外被风吹走并飘向高空，现场工作人员追赶未果。随后，该事件在网络上引起广泛关注，鳌鱼主人悬赏10000元征集线索。2月22日下午，有网友和市民在距离上新街数十公里外的济南市章丘区龙山街道附近一水库旁发现了这只鳌鱼，其一部分悬在岸边树上，一部分浸在水中。现场民警与工作人员随后赶赴核实并展开收回工作。鳌鱼主人确认线索属实并表示将兑现10000元悬赏；上新街相关负责人向媒体证实寻获的正是走失鳌鱼，并透露回收后不准备再重新展出。",
+  "event_time": {
+    "start": "2026-02-20",
+    "end": "2026-02-22",
+    "precision": "day",
+    "evidence": "2026年2月20日大年初四鳌鱼因大风意外飞走，2月22日大年初六在章丘区水库旁被寻获并核实。"
+  },
+  "locations": [
+    "中国/山东省/济南市/市中区/上新街",
+    "中国/山东省/济南市/章丘区/龙山街道"
+  ],
+  "aliases": [
+    "济南出逃鳌鱼事件",
+    "济南上新街巨型鳌鱼被大风吹走",
+    "济南21米巨型鳌鱼被风吹走后找到",
+    "济南飞走的鳌鱼在章丘找到",
+    "济南空飘鳌鱼出逃",
+    "上新街鳌鱼落龙山"
+  ],
+  "retrieval_queries": [
+    "济南 鳌鱼 飞走",
+    "上新街 鳌鱼 被风吹走",
+    "济南 巨型鳌鱼 章丘 水库",
+    "出逃鳌鱼 龙山街道",
+    "济南 鳌鱼 悬赏一万",
+    "上新街 不再展出 鳌鱼"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年2月春节假期（2月20日飞走，2月22日寻回）",
+    "主体为济南市上新街展出的21米长巨型空飘鳌鱼气模",
+    "起因为现场大风导致固定不牢脱落飘走",
+    "降落并寻回地点为济南市章丘区龙山街道附近水库旁",
+    "鳌鱼主人此前悬赏10000元寻鱼并承诺兑现",
+    "上新街相关负责人证实属于原鳌鱼且表示不再重新展出"
+  ],
+  "exclude_if": [
+    "非2026年2月济南上新街巨型鳌鱼事件的其他风筝或空飘物走失新闻",
+    "未发生飘飞走失的正常鳌鱼民俗巡游或打卡报道",
+    "网络传谣称鳌鱼飞至河北等虚构衍生传闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "全网关心的济南“出逃”鳌鱼找到了，相关负责人：不准备再展出",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO_6h8Hp5DQmfqima1RjHiB1gc5tp2mGFpFVlqSJ6KNiroN9JZv17YK1Eac-ElTsN8AvOm8DlkduhkxuPjpfRLs7trZUTDsNrSqs_mL8N7SptO5kVea1YwjhBWUOvO5PwWOugEfgb8piax4ZtJzHEMk17_1mqxbL5O8YXpohtAQoQi1PD1I6hhzutWl3ZNKXftI9gcUddFuOvVujWC53l3Yb8=",
+      "publisher": "新黄河客户端 / 凤凰网",
+      "published_at": "2026-02-22"
+    },
+    {
+      "title": "全网关心的济南“出逃”鳌鱼找到了，飞到章丘区一水库！上新街：不准备再展出",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7PqjLnl7v9XvHKP1_8mv4E7hOL9ew8ueq9jBgEWd2DdZbn9sHP6k5_gUm8SusiYtvzZDMf9Fld3HVBwHEBxYjh1MW18AAS-n5Y4jDWzcmVx_3qvLqtnIuFNcigMHMaFZsEUko2Q==",
+      "publisher": "极目新闻",
+      "published_at": "2026-02-22"
+    },
+    {
+      "title": "牛国栋丨鳌鱼化龙热闹上新",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmIR8BlakqYMF5qdb7yrPhx4Uq57lGrIbGZPDGYG--mtToisS2x8-aFoeegOBnMzPT6gxZJZgCO0VyggygCu9cVG1Qn7Uleqj7idK5_EJ1KJ-xOMtGB03JV997YMaCbpoAK96SoWIg1xAX4MGB-PFLeFkWiQ==",
+      "publisher": "大众新闻",
+      "published_at": "2026-02-23"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将事件年份误记为2022年，权威报道及证据均明确该事件实际发生于2026年春节期间"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:14"
+}

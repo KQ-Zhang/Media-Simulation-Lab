@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_6d70143910afadce",
+  "verification_status": "verified",
+  "confidence": "0.99",
+  "canonical_event_name": "日本艺术家草间弥生去世",
+  "factual_description": "2026年8月14日，享誉全球的日本前卫艺术家、“波点女王”草间弥生因多器官衰竭在东京都内一家医院逝世，享年97岁。草间弥生生于1929年3月22日，艺术生涯长达数十载，其作品以标志性的波点、网状图案、南瓜雕塑及“无限镜屋”装置等闻名，横跨绘画、雕塑、表演艺术、文学等多个领域。2026年8月27日，草间弥生官方网站、草间弥生美术馆及代理机构大田秀则画廊正式对外发布讣告，共同社、新华社等主流媒体相继报道。公告指出，草间弥生直至离世前不久仍在病房中坚持创作。遵照其家属意愿，葬礼已在亲属出席下以私人形式低调举行，后续的公众追思告别活动将择期筹办并另行公布。",
+  "event_time": {
+    "start": "2026-08-14",
+    "end": "",
+    "precision": "day",
+    "evidence": "草间弥生官方网站讣告及新华社报道证实草间弥生于2026年8月14日去世"
+  },
+  "locations": [
+    "日本",
+    "东京都"
+  ],
+  "aliases": [
+    "草间弥生逝世",
+    "日本艺术家草间弥生去世",
+    "波点女王草间弥生去世",
+    "草间弥生97岁离世",
+    "草間彌生逝去",
+    "Yayoi Kusama passes away"
+  ],
+  "retrieval_queries": [
+    "草间弥生 去世",
+    "草间弥生 逝世",
+    "草间弥生 8月14日",
+    "草间弥生 97岁",
+    "草間彌生 逝去 2026",
+    "Yayoi Kusama passed away 2026",
+    "草间弥生 多器官衰竭"
+  ],
+  "must_match_facts": [
+    "逝世主体为日本前卫艺术家草间弥生",
+    "去世时间为2026年8月14日",
+    "逝世地点为日本东京都内医院",
+    "死因为多器官衰竭（多脏器不全）",
+    "享年97岁",
+    "官方讣告于2026年8月27日发布"
+  ],
+  "exclude_if": [
+    "草间弥生艺术展览或拍卖成交新闻",
+    "草间弥生美术馆常规展览更新公告",
+    "其他同名艺术家的逝世或生平报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "日本艺术家草间弥生去世",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2RaMPan1Uv9SNTQUJ0q3phazzXu2W0s3e2BtmrKvatzg5BEO63nub1IpvTPszK8u_vQfjWDBIuTahwqsDGg52jN8rH_EuQLdzKY-lXSdPo8qygb5wbRKN7EIlzEEWp_6xb5TBVBAP_Za49K3_y16QYiCQdZBHnY-Nc_bTUeDs",
+      "publisher": "新华网",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "Announcement of the Passing of Yayoi Kusama",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzKy7-FhRuq8HRQFThZdtFOxFEaur4Gt1-k6fvyOQM01tgPhynUvC41CJDnTBLmLimbCjwb3An0upMVLwaEuD0ndb0r4DODr4UpRzvL45LktEIQFBElYKuPpI=",
+      "publisher": "Yayoi Kusama Official Site",
+      "published_at": "2026-08-27"
+    },
+    {
+      "title": "圆点永不消逝：97岁草间弥生辞世",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBrmBIzFblO3IeEdsycosjMLlFqusun6D_oSE51f1rs1sVJ-HT0_ZNKbEy6BGMQlqvWQadKmVucFvud7YYeVoFsnX4NLw2G4z0n-rSmwQefqCKR6bW1NjEFKuLVCItYDgZAa_BTCj2nag=",
+      "publisher": "澎湃新闻",
+      "published_at": "2026-08-27"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:22"
+}

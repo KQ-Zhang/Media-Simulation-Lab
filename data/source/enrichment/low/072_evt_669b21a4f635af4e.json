@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_669b21a4f635af4e",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "山东临沂理发店墙镜突然脱落事件",
+  "factual_description": "2026年2月4日，山东省临沂市一家理发店内发生一起突发险情。店内一面安装在墙面上的大镜子突然脱落并倒下，正对着下方坐在椅子上刷手机的一位女顾客。危急瞬间，该顾客反应极为敏捷，迅速伸手撑挡，身旁的理发店员也立即上前合力用手扶住倾倒的镜子。店主李先生事后表示，这面镜子已在店内安装使用了四年，不知何故突然脱落，镜子下落触地时虽有破裂，但由于顾客与店员及时用手撑扶，最终没有造成人员受伤。店主表示万幸无人受伤，并提醒公众在安装大面积玻璃或墙镜时务必多打结构胶固定以确保安全。",
+  "event_time": {
+    "start": "2026-02-04",
+    "end": "2026-02-04",
+    "precision": "day",
+    "evidence": "2026年2月6日中华网、腾讯新闻海客见闻等媒体报道明确说明事件发生于“2月4日，山东临沂一家理发店内”。"
+  },
+  "locations": [
+    "中国/山东省/临沂市/某理发店"
+  ],
+  "aliases": [
+    "山东临沂理发店镜子脱落事件",
+    "临沂理发店镜子突然脱落砸向顾客",
+    "临沂理发店墙镜掉落顾客店员合力扶住",
+    "理发店镜子脱落女子和店员及时扶住"
+  ],
+  "retrieval_queries": [
+    "临沂 理发店 镜子 脱落",
+    "山东临沂理发店镜子脱落",
+    "理发店 镜子 顾客 店员 扶住 临沂",
+    "理发店 镜子脱落 李先生 结构胶",
+    "理发店墙镜突然脱落砸下 临沂"
+  ],
+  "must_match_facts": [
+    "事发地点为山东省临沂市的一家理发店",
+    "事发时间为2026年2月4日",
+    "理发店内墙面安装的镜子突然脱落倒下",
+    "坐在镜子前的顾客与身旁店员眼疾手快合力扶挡住镜子",
+    "事故未造成人员受伤，店主提醒安装玻璃需多打结构胶"
+  ],
+  "exclude_if": [
+    "发生在山东临沂以外其他地区的理发店镜子脱落事件",
+    "商场、试衣间、卫生间等非理发店场景的镜子掉落事件",
+    "镜子倒塌脱落导致人员被砸伤或送医抢救的事故"
+  ],
+  "source_evidence": [
+    {
+      "title": "理发店镜子脱落女子和店员及时扶住惊险一幕平安化解",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp4jMqClZ6uZkt5NzE-bpI8T9PA69T1yaQu0o4ItABFoPqkUjQms9g_4-y6oXD7n4736d-m3tLjV0ufAy8Gkc7TfZ9dJP05R_fQORoV3MoJCLC2ycq1XRHf-mP7Ov6DZ-KEzW0Am6MJAVqheJRZcAI9PQ7_zA=",
+      "publisher": "中华网（转自腾讯新闻）",
+      "published_at": "2026-02-06T12:00:02"
+    },
+    {
+      "title": "现场：山东临沂一理发店镜子突然脱落女子和店员眼疾手快将其扶住",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_y4HeXPnctWDoCK4D7R7l7R9-6LnKnwck0e9XRs9GhY-KYJz2ihHayGJ8zeiU0D0A2SdWFHoH2pTIs8S2Lo65d1UIxB5bfyhgSb9zr2Clt2HEm1V5lZF_JYBI5QNCEXoR",
+      "publisher": "腾讯新闻（海客见闻）",
+      "published_at": "2026-02-06T10:01:00"
+    }
+  ],
+  "uncertainties": [
+    "现有描述曾将发生年份误记为2023年；涉事理发店的具体店名及所在区县在公开报道中未作详细披露。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:49"
+}

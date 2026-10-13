@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_d4b3c1805bf164c8",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "印度启动第16次全国人口普查",
+  "factual_description": "2026年4月1日，印度政府正式启动第16次全国人口普查（官方代号为2027年人口普查）。这是印度自2011年开展人口普查后，时隔15年首次重启全国人口普查工作，此前原定于2021年进行的普查因新冠疫情及后续行政安排数次延期。本次普查预计耗资巨大，动员超过300万名以公立学校教师和基层公务员为主的普查专员，调查覆盖印度全境逾14亿人口，是全球规模最大的人口普查行动。普查分两阶段开展：第一阶段自2026年4月1日起进行住宅清单与住房条件普查；第二阶段计划于2027年2月进行人口全员登记。该次普查首次全面推行手机App申报等数字化调查工具，并自1931年英国殖民统治时期（时隔95年）以来首次在全国人口普查中全面记录所有居民的种姓信息，在印度社会引发广泛关注与政治讨论。",
+  "event_time": {
+    "start": "2026-04-01",
+    "end": "",
+    "precision": "day",
+    "evidence": "新华社、印度报业托拉斯及印度官方新闻信息局（PIB）均证实，普查第一阶段于2026年4月1日正式启动。"
+  },
+  "locations": [
+    "印度"
+  ],
+  "aliases": [
+    "印度第16次全国人口普查",
+    "印度2027年人口普查",
+    "印度启动15年来首次人口普查",
+    "印度重启种姓人口普查",
+    "印度2026年人口普查"
+  ],
+  "retrieval_queries": [
+    "印度 人口普查 15年",
+    "印度 2026年4月 人口普查",
+    "印度 第16次人口普查 300万",
+    "印度 种姓普查 1931 2026",
+    "India Census 2026 April 1",
+    "India Census 2027 caste enumeration",
+    "印度 时隔15年 重启人口普查"
+  ],
+  "must_match_facts": [
+    "普查启动时间为2026年4月1日",
+    "这是印度自2011年之后时隔15年重启的全国人口普查（原定2021年因疫情推迟）",
+    "普查投入约300万名普查人员对超过14亿人口开展调查",
+    "普查分住房调查和人口登记两阶段进行",
+    "普查包含自1931年以来时隔近百年首次全面统计种姓信息"
+  ],
+  "exclude_if": [
+    "2011年印度第15次全国人口普查的具体执行与历史统计报道",
+    "仅涉及印度个别邦（如比哈尔邦、特伦甘纳邦）地方自发组织的种姓调查",
+    "2023年关于印度总人口超越中国的常规推算报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "印度时隔15年再做人口普查收集种姓信息引争议",
+      "url": "https://www.news.cn/world/20260402/fc8debe493114c84b2bd106c7b919144/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-04-02"
+    },
+    {
+      "title": "时隔15年印度重新“数人”并调查种姓，也打开了“潘多拉的盒子”",
+      "url": "https://www.stcn.com/article/detail/3745265.html",
+      "publisher": "证券时报 / 第一财经",
+      "published_at": "2026-04-02"
+    },
+    {
+      "title": "Registrar General and Census Commissioner of India addresses Press Conference on Census-2027, in New Delhi today",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2242183",
+      "publisher": "Press Information Bureau (PIB) India",
+      "published_at": "2026-03-30"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:07"
+}

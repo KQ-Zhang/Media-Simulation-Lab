@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_46c500f0d1a3f9f6",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "美军宣布封锁霍尔木兹海峡及伊朗港口引发国际油价暴涨",
+  "factual_description": "2026年4月12日，美国总统特朗普在社交媒体发文表示，鉴于美伊在巴基斯坦伊斯兰堡举行的谈判未能在核计划关键问题上达成协议，美国海军即刻起将开始阻止任何船只进出霍尔木兹海峡，并清除伊朗布设的水雷、拦截向伊朗支付通行费的船只。同日，美军中央司令部发表声明称，将于美国东部时间4月13日10时起，对所有进出伊朗港口的海上交通实施全面封锁，措施涵盖波斯湾与阿曼湾的所有伊朗港口及沿海区域。该封锁举措导致中东局势骤然紧张并加剧全球能源断供担忧，4月13日国际油价应声大幅飙升，WTI原油期货盘中开盘大涨逾8%，布伦特原油期货大涨逾7%。",
+  "event_time": {
+    "start": "2026-04-12",
+    "end": "2026-04-13",
+    "precision": "day",
+    "evidence": "2026年4月12日特朗普发文宣布封锁霍尔木兹海峡，美军中央司令部宣布自美东时间4月13日10时起封锁伊朗港口，4月13日国际油价大涨。"
+  },
+  "locations": [
+    "霍尔木兹海峡",
+    "伊朗",
+    "美国",
+    "波斯湾",
+    "阿曼湾"
+  ],
+  "aliases": [
+    "美军封锁伊朗港口国际油价飙升",
+    "美国计划封锁霍尔木兹海峡",
+    "特朗普宣布封锁霍尔木兹海峡",
+    "美国海军封锁霍尔木兹海峡",
+    "美封锁霍尔木兹海峡致油价飙升"
+  ],
+  "retrieval_queries": [
+    "美军 封锁伊朗港口 油价",
+    "特朗普 霍尔木兹海峡 阻止任何船只进出",
+    "美国海军 封锁 霍尔木兹海峡",
+    "美军中央司令部 封锁 伊朗港口",
+    "特朗普 伊朗 核问题 霍尔木兹海峡 封锁",
+    "美伊谈判 霍尔木兹海峡 油价暴涨"
+  ],
+  "must_match_facts": [
+    "2026年4月12日特朗普宣布美国海军将阻止任何船只进出霍尔木兹海峡",
+    "美军中央司令部宣布4月13日开始封锁所有进出伊朗港口的海上交通",
+    "封锁原因为美伊双方在巴基斯坦就核计划问题谈判未果",
+    "4月13日国际原油期货价格大涨超过7%至8%"
+  ],
+  "exclude_if": [
+    "2019年阿曼湾油轮遇袭事件",
+    "2024年红海危机及胡塞武装袭船事件",
+    "伊朗方面主动威胁封锁霍尔木兹海峡的历史常规言论",
+    "2026年6月美军宣布解除对伊海上封锁后续事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "特朗普称美国海军将开始阻止任何船只进出霍尔木兹海峡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHgkeAW9ibYpKeqSzoLjqgh9p3dR3HymLFYbyeg3ggrX61z0FqNMMzTbX_7ry2a3DoYK41JF3K2o-fWTZSYZHfZY_sedG_RzXgKE91bEU0qpOgtA2q-o2GJBMheT0FzzEZSapGU3pupPTp7BrcUaWSFVkeS5MQ_rCQ26ZuJHJA",
+      "publisher": "新华网",
+      "published_at": "2026-04-12"
+    },
+    {
+      "title": "美军13日开始封锁伊朗港口，国际油价飙升｜盘中速报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEAmRi6r8dsEoFWQondEh2vDK94toTu6iIqG1VSKG7syvcMgETqh2i1JvkUz-iS3JHxYaOPV6FcoSkGSHw7_Tghw5P6OpseR6MSz0GRgLEN7TwGt37ZpZTgSIvT4Kf3V4bsEQRGX9_IN1Q=",
+      "publisher": "每日经济新闻",
+      "published_at": "2026-04-13"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:15"
+}

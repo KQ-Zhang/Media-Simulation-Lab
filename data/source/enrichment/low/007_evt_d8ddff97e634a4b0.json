@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_d8ddff97e634a4b0",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "新加坡总理黄循财宣布推出“SG养儿育女配套”育儿新政",
+  "factual_description": "2026年8月23日，新加坡总理兼财政部长黄循财在2026年国庆群众大会（National Day Rally）发表讲话，宣布推出全新的“SG养儿育女配套”（SG Child Support Package），对原有的婴儿花红和多子女家庭计划进行根本性改革。新政旨在应对新加坡持续走低的总和生育率，减轻家庭育儿成本与照料压力。根据新政策，自2027年4月1日起，每名新加坡公民孩童（不论出生胎次，亦涵盖未婚妈妈的子女）从出生至17岁累计可获得近7万新元（约合人民币32.8万至37万元）的直接经济与教育补助，包含出生第一年内发放的1万新元现金诞生礼、儿童培育户头（CDA）起步津贴与对等配对、1至16岁每年2000新元的养儿育女补助，以及17岁时1万新元的中学后延续教育户头填补。此外，政府宣布全面调整在职家长育儿假，只要育有12岁及以下公民子女，家长每年享有的育儿假按子女人数分别调高为8天（1名子女）、10天（2名子女）和最高12天（3名及以上子女），由政府全额报销法定假期成本；同时配套宣布逐步降低公立托育费用及加码家庭住房抽签优惠。",
+  "event_time": {
+    "start": "2026-08-23",
+    "end": "2026-08-23",
+    "precision": "day",
+    "evidence": "新加坡总理黄循财于2026年8月23日晚在一年一度的国庆群众大会演讲中正式公布该配套措施。"
+  },
+  "locations": [
+    "新加坡"
+  ],
+  "aliases": [
+    "新加坡推出SG养儿育女配套",
+    "SG养儿育女配套",
+    "SG Child Support Package",
+    "新加坡2026国庆群众大会育儿新政",
+    "新加坡加码鼓励生育政策",
+    "新加坡孩童至17岁获7万新元补贴",
+    "新加坡育儿假改革"
+  ],
+  "retrieval_queries": [
+    "新加坡 SG养儿育女配套",
+    "新加坡 7万新元 生育补贴",
+    "黄循财 国庆群众大会 育儿假",
+    "新加坡 育儿假 12天",
+    "SG Child Support Package",
+    "新加坡 2027年4月1日 诞生礼",
+    "新加坡 生育补贴 37万元"
+  ],
+  "must_match_facts": [
+    "新加坡总理黄循财于2026年8月23日国庆群众大会上演说宣布",
+    "推出全新政策“SG养儿育女配套”（SG Child Support Package）",
+    "每名新加坡公民儿童从出生至17岁可累计获近7万新元（约6.2万至6.95万新元）资助",
+    "财务资助自2027年4月1日起实施，不再按出生顺序递增，未婚妈妈子女同样享受",
+    "育有12岁及以下公民子女的在职父母育儿假按子女数调高至8天、10天或12天，成本由政府报销"
+  ],
+  "exclude_if": [
+    "2024年或更早宣布的旧版新加坡婴儿花红（Baby Bonus）调整政策",
+    "其他国家（如韩国、日本、中国）的地方或国家生育补贴政策",
+    "新加坡关于单身购屋或公积金退休金的其他非家庭育儿改革"
+  ],
+  "source_evidence": [
+    {
+      "title": "Marriage & Parenthood Measures at National Day Rally 2026",
+      "url": "https://www.madeforfamilies.gov.sg/news-media/news/parliament-speeches-and-releases/details/marriage-parenthood-measures-at-national-day-rally-2026",
+      "publisher": "Made For Families (Prime Minister's Office Singapore)",
+      "published_at": "2026-08-23"
+    },
+    {
+      "title": "育儿假将按孩子数量划分每名家长最多12天",
+      "url": "https://www.8world.com/singapore/ndr-2026-childcare-leave-enhancement-2550186",
+      "publisher": "8world 新加坡",
+      "published_at": "2026-08-23"
+    },
+    {
+      "title": "新加坡孩童17岁前可获43万资助父母带薪育儿假上限调高至12天",
+      "url": "https://www.hk01.com/即時國際/1051016/新加坡孩童17歲前可獲43萬資助-父母帶薪育兒假上限調高至12天",
+      "publisher": "香港01",
+      "published_at": "2026-08-25"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:09"
+}

@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_76f544868f5d35af",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年4月3日哈尔滨降雪及气象预警事件",
+  "factual_description": "2026年4月3日，黑龙江省哈尔滨市迎来春季降雪天气。当日11时，哈尔滨市气象台发布道路冰雪黄色预警信号，预计3日下午至6日全市多雨雪天气，其中3日夜间和5日夜间为主要雨雪时段，将出现对交通有影响的道路湿滑或结冰，并伴有6至7级阵风和局地风吹雪。同日16时，哈尔滨市气象台发布暴雪蓝色预警信号，通报主城区及各区、县（市）降雪量已达1至4毫米，预计未来12小时降雪持续，累计降雪量普遍为5至8毫米，五常南部、尚志东部局地可达8至12毫米，新增积雪深度2至5厘米。气象与交管部门提示防范道路结冰与湿滑对交通运输的影响，该场四月春雪亦引发市民关注与媒体报道。",
+  "event_time": {
+    "start": "2026-04-03",
+    "end": "2026-04-06",
+    "precision": "day",
+    "evidence": "哈尔滨市气象台于2026年4月3日11时和16时先后发布道路冰雪黄色预警信号及暴雪蓝色预警信号，预警雨雪天气持续至4月6日。"
+  },
+  "locations": [
+    "中国/黑龙江省/哈尔滨市"
+  ],
+  "aliases": [
+    "哈尔滨4·3降雪",
+    "哈尔滨四月春雪",
+    "哈尔滨发布暴雪蓝色预警",
+    "2026年4月3日哈尔滨暴雪预警",
+    "哈尔滨道路冰雪黄色预警"
+  ],
+  "retrieval_queries": [
+    "哈尔滨 4月3日 暴雪预警",
+    "哈尔滨市气象台 道路冰雪黄色预警 4月3日",
+    "哈尔滨 暴雪蓝色预警 2026年4月3日",
+    "哈尔滨 4月3日 春雪",
+    "哈尔滨 预计未来12小时降雪持续 4月3日",
+    "哈尔滨 道路湿滑 道路结冰 4月3日"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年4月3日",
+    "地点位于黑龙江省哈尔滨市",
+    "哈尔滨市气象台于4月3日11时发布道路冰雪黄色预警信号",
+    "哈尔滨市气象台于4月3日16时发布暴雪蓝色预警信号",
+    "暴雪蓝色预警预计未来12小时降雪持续且累计降雪量达5至8毫米"
+  ],
+  "exclude_if": [
+    "2010年4月哈尔滨特大暴雪事件",
+    "2025年11月哈尔滨暴雪及清雪事件",
+    "2025年12月哈尔滨暴雪蓝色预警事件",
+    "2024年11月黑龙江及哈尔滨暴雪停课事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "哈尔滨市发布暴雪蓝色预警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO0cy91WxtdJYROjKds3MHeyW3OVgV_22N9R4ml33mXUNaqltdDPnetqXXSwTUDTZomAb8xTITqOiJoMhS3t_2rcRUBpNsndCOKCXkU8ggXaMZTzCu7RlKz3Ukd-fd6lqP68QTaf7CzPDGKplSbbdm7hA=",
+      "publisher": "黑龙江省人民政府",
+      "published_at": "2026-04-03"
+    },
+    {
+      "title": "哈尔滨市发布道路冰雪黄色预警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEeFBr_8blreoqZitOyuBi3qs0NJENdKwnY64qhraACj9SAtXIHzTnCM0u2AooPgbLz5dYDgzRARZLFeWraaWrqXnk0HkIKMK0JpK6IzgbTUkx5Yo0e7xS-vteRWl0VeAOxwaR523yuht8xvx1pcDTkxQ==",
+      "publisher": "人民网",
+      "published_at": "2026-04-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:56"
+}

@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_66496c69f8acdceb",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "路透社披露美军在对伊战事中几乎耗尽远程精确导弹库存",
+  "factual_description": "2026年8月4日，路透社援引多名知情人士消息报道，美军在自2026年2月底爆发并持续五个月的对伊朗军事行动中，已消耗了其大部分高精度远程地对地导弹库存。知情人士指出，美陆军战术导弹系统（ATACMS）以及新一代精确打击导弹（PrSM）的现有库存已“几乎耗尽”，但拒绝透露具体剩余数量；此外，海军战斧巡航导弹全球储备也消耗了近半。报道称，由于PrSM尚处早期交付阶段且老式ATACMS逐步停产，弹药快速消耗引发外界对美军应对未来潜在冲突战备能力的担忧。面对媒体询问，白宫发表美国总统特朗普的声明回应，否认库存告急，称美国拥有的弹药“远超世界上任何国家”且“远超所需”，国防企业产能正处于历史高位。五角大楼及负责中东战区的美国中央司令部亦表示仍具备保障国家及盟友安全所需的武器与战备能力。",
+  "event_time": {
+    "start": "2026-08-04",
+    "end": "2026-08-05",
+    "precision": "day",
+    "evidence": "路透社于2026年8月4日独家报道知情人士关于库存耗尽的内幕消息，白宫同日发表声明回应；多国主流媒体于8月4日至5日广泛跟进报道。"
+  },
+  "locations": [
+    "美国/华盛顿特区",
+    "伊朗"
+  ],
+  "aliases": [
+    "美伊冲突近乎耗尽美军远程导弹库存",
+    "美军对伊作战耗尽高精度远程地对地导弹",
+    "路透社爆料美军对伊战事用尽战术导弹",
+    "美军ATACMS与PrSM库存几乎告罄"
+  ],
+  "retrieval_queries": [
+    "美军 对伊朗 耗尽 远程导弹",
+    "路透社 ATACMS PrSM 伊朗 耗尽",
+    "美军 精确打击导弹 陆军战术导弹系统 伊朗",
+    "US depleted virtually all precision missiles Iran Reuters",
+    "白宫 特朗普 弹药远超世界上任何国家",
+    "美军 伊朗 战斧 萨德 拦截弹 库存"
+  ],
+  "must_match_facts": [
+    "媒体报道核心为美军在对伊朗军事行动中消耗大量远程精确地对地导弹",
+    "涉及导弹型号明确包含陆军战术导弹系统（ATACMS）和精确打击导弹（PrSM）",
+    "消息源自路透社2026年8月4日引述知情人士的报道",
+    "白宫与美国官方援引总统特朗普声明否认弹药短缺"
+  ],
+  "exclude_if": [
+    "仅涉及2024年以前也门胡塞武装红海护航行动弹药消耗的报道",
+    "仅涉及俄乌冲突中乌克兰军队消耗美制ATACMS导弹的报道",
+    "未涉及美军对伊朗战事中远程地对地导弹库存短缺事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "US depleted 'virtually all' long-range precision missiles in Iran war - Reuters",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFnRgR1vMjLajpnaR5Y2Pu0WUFVFR5e4AZG1c6Hl6uszrBG_5W8kwD3RLyowQ1p2QMf9KKctiklNAumCclt_HU5YwSe7P8lhB80s9UkxdHaJQxuoE9XGUsC1smR9dx",
+      "publisher": "Reuters",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "国际观察丨库存见底，美军关键弹药“补货”难",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHglTH1uiJIIOzDmDE7QGGsN3bdpc3HgOYTtUYPynoXqgtmmnORaPY26TIUuNzbH6v_4r6l0xQjp9iSjre1oHeS6J-tTQxukuLcpRVXGfgPZ1zFfAHSppmQTkKlI6kz0-QJPri9bwit_IiGrq2_To75MoE=",
+      "publisher": "人民网 / 新华社",
+      "published_at": "2026-08-06"
+    },
+    {
+      "title": "美媒称美军远程导弹近耗尽战备能力引忧",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvef7ei7Sp5BF2PN_5YP6KW2Yweyt-90w1aSDCkm1NvkuJ4K99Jpfl68SH0U31iAy67q2xUqj7qm_orP5m-0d5ta3o3o2Gm3gEthRyzAIiRZ2__2z2Ao61oXQw0mk81wgDPw9QXrpm_vPfuvpo59xi",
+      "publisher": "联合早报",
+      "published_at": "2026-08-05"
+    }
+  ],
+  "uncertainties": [
+    "美军官方保密具体弹药剩余数量，知情人士所称'几乎耗尽'的具体比例及剩余枚数无法独立核实",
+    "白宫公开声明坚称库存充足，官方口径与匿名情报来源之间存在表述冲突"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:12"
+}

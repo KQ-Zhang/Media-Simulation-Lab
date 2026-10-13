@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_67ca800c85ac913d",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "南宁金源悦府小区顶楼装饰柱遭雷击断裂事件",
+  "factual_description": "2024年6月7日下午5时许，广西南宁市遭遇强对流天气，雷电交加、暴雨如注。在此期间，南宁市兴宁区金源悦府小区39栋32层顶楼露台的一根建筑装饰柱遭雷电直接击中，整根柱子被劈掉一米多，现场砖石碎块散落。掉落的砖石砸坏了楼下3台空调外机，并导致遮雨棚和2块玻璃受损。顶楼住户吴先生表示事发时巨响伴随强光，受惊吓严重。事发后，当地兴桂社区工作人员与物业迅速到场进行核查处置，确认现场无人员伤亡。物业与社区组织清理了掉落的碎石，并协调住建部门和保险公司介入，对受损空调外机等财产进行定损处理，同时对楼栋避雷设施进行重新检测与整改。",
+  "event_time": {
+    "start": "2024-06-07",
+    "end": "2024-06-07",
+    "precision": "day",
+    "evidence": "多家媒体报道及九派新闻采访顶楼住户吴先生确认，事发时间为2024年6月7日下午5时许，南宁遭遇强对流雷暴天气期间。"
+  },
+  "locations": [
+    "中国",
+    "广西壮族自治区",
+    "南宁市",
+    "兴宁区",
+    "兴桂社区",
+    "金源悦府小区39栋"
+  ],
+  "aliases": [
+    "南宁32层楼顶柱子被雷劈断事件",
+    "广西南宁小区楼顶遭雷击砸坏空调事件",
+    "金源悦府小区32层顶楼雷击断柱事件",
+    "南宁强对流顶楼装饰柱遭雷劈碎"
+  ],
+  "retrieval_queries": [
+    "南宁 32层 柱子 雷击",
+    "金源悦府 雷劈 柱子",
+    "南宁 楼顶柱子被雷劈断",
+    "南宁 兴桂社区 空调外机 雷击",
+    "南宁 6月7日 强对流 楼顶柱子"
+  ],
+  "must_match_facts": [
+    "发生于广西南宁市兴宁区金源悦府小区39栋顶楼（32层）",
+    "时间为2024年6月7日下午强对流天气期间",
+    "楼顶露台装饰柱遭雷击劈断约1米",
+    "掉落砖石砸坏3台空调外机",
+    "未造成人员伤亡"
+  ],
+  "exclude_if": [
+    "其他城市或非居民楼建筑遭受雷击事故",
+    "造成人员伤亡的雷击伤亡事件",
+    "2024年6月7日南宁天物流园遭龙卷风灾害的独立报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "32层楼顶柱子被雷劈断，顶楼住户：第一次见雷劈，腿都吓软了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_fr-TF5nhfI-ZOBz9PKH6WpX0nnarRTeuDm9OTUyzosMnz7I4D-aR_O26M4wBEwIe0HB9dhvvhvCU717ueh0Ttii3s49rwFf4-ZOFEATJOOjHUcMmjYbkeytq-rW9dMCTwO5iMDLMxyQfUqB_TtsIAqDGVSprLj37",
+      "publisher": "九派新闻 / 腾讯新闻",
+      "published_at": "2024-06-08"
+    },
+    {
+      "title": "南宁一小区32层顶楼遭雷击，墙砖掉落砸损3台空调",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIL_O_vPaP0GbL3AOABDdmb032Z48suvEM_SldZa4hl-Pr1UKnRxXXbo-Yw1FSSpZwZ8GYarinmjbRSy4OdtMs6W_YCDeahkt6A5AJIVvuyK0CfjEjiPc3_B7EtLpsQsmqiyqlM3neVKU=",
+      "publisher": "新浪新闻",
+      "published_at": "2024-06-08"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:12"
+}

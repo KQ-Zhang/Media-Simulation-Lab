@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_01077d7c12e78a09",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "古装剧《御廷谣》空降开播",
+  "factual_description": "2026年7月28日，由张雁杰执导，陈哲远、吴谨言领衔主演的古装权谋爱情剧《御廷谣》（曾用名《江山为聘》）在湖南卫视金鹰独播剧场及芒果TV空降首播。该剧改编自行烟烟网络小说《江山为聘》，讲述市井孤女孟廷辉（吴谨言饰）凭借才学考中女状元并入仕，与少年帝王英寡（陈哲远饰）强强联手整肃朝纲、肃清腐败并共护山河的故事。该剧首播当晚播出四集，主演陈哲远发文互动，引发广泛网络关注与讨论。现有描述中所述的“2024年”系年份错误，实际开播年份为2026年。",
+  "event_time": {
+    "start": "2026-07-28",
+    "end": "",
+    "precision": "day",
+    "evidence": "剧集于2026年7月28日晚在湖南卫视及芒果TV空降首播上线"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "御廷谣开播",
+    "《御廷谣》首播",
+    "吴谨言陈哲远御廷谣首播四集",
+    "古装剧御廷谣空降"
+  ],
+  "retrieval_queries": [
+    "御廷谣 开播",
+    "御廷谣 湖南卫视",
+    "御廷谣 芒果TV",
+    "御廷谣 陈哲远 吴谨言",
+    "御廷谣 首播四集",
+    "江山为聘 御廷谣"
+  ],
+  "must_match_facts": [
+    "剧名为《御廷谣》（曾用名《江山为聘》）",
+    "由陈哲远、吴谨言领衔主演",
+    "实际开播日期为2026年7月28日",
+    "播出平台为湖南卫视金鹰独播剧场及芒果TV"
+  ],
+  "exclude_if": [
+    "指代2024年或非2026年播出的其他古装影视剧",
+    "仅讨论行烟烟同名原著小说出版",
+    "其他非该剧剧组人员的无关商业代言活动"
+  ],
+  "source_evidence": [
+    {
+      "title": "御廷谣- 维基百科，自由的百科全书",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA6pxqKWs2JLWVv3wF2-zLfDmiX_Dalu10hrf4TqbehE-g-mT21Z7fgv_CGbYPuiqpWO-PKnr64O359Xjk2cWy9W57l5vSDnQBqaDZBlX2qhcUF-O5N4YzSkhzF4eSSsQ4XUDNybF_iDJGRn-nurZR",
+      "publisher": "维基百科",
+      "published_at": "2026-07-28"
+    },
+    {
+      "title": "湖南卫视开播！吴谨言、陈哲远携《御廷谣》强势来袭，古装权谋+双强博弈",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE34B887kk11s1_vnNNzqcRh6EoW_WEuQe4V3kswv--d5chFXqVqA3mlZNmHKl6elDFtxCooSWLqzhznIVpW7HKl6noE3yu5WYVsSpxqL34TqYCk88eABt3PaJksdNw6ui3",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-08-03"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将首播年份误记为2024年，实际核验首播时间为2026年7月28日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:32"
+}

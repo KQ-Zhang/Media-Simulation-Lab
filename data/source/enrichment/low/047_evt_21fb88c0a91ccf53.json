@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_21fb88c0a91ccf53",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "《国家基本药物目录（2026年版）》发布",
+  "factual_description": "2026年7月9日，国家卫生健康委、国家中医药局、国家疾控局联合印发《国家基本药物目录（2026年版）》，并于同日召开新闻发布会介绍相关情况，目录自2026年9月1日起正式实施。这是我国国家基本药物目录时隔8年后的首次系统性调整。新版目录共收录药品794种，相较2018年版的685种净增109种，其中化学药品和生物制品476种、中成药318种。本次调整共调入药品116种、调出2种化学药品（己烯雌酚、泛影葡胺），重点覆盖糖尿病、高血压、慢阻肺等慢性常见病，大幅提升儿童用药可及性并纳入16种创新药（含4种国产Ⅰ类新药）。据初步测算，新版目录药品使用量占全国公立医疗卫生机构配备药品使用总量的71%。",
+  "event_time": {
+    "start": "2026-07-09",
+    "end": "2026-09-01",
+    "precision": "day",
+    "evidence": "国家卫生健康委等三部门于2026年7月9日联合发布新版目录，通知明确自2026年9月1日起正式施行。"
+  },
+  "locations": [
+    "中国",
+    "北京市"
+  ],
+  "aliases": [
+    "2026年版国家基本药物目录发布",
+    "国家基本药物目录（2026年版）",
+    "2026版基药目录出炉",
+    "新版基药目录发布",
+    "基药目录扩容至794种"
+  ],
+  "retrieval_queries": [
+    "国家基本药物目录 2026年版",
+    "新版国家基本药物目录 794",
+    "2026版基药目录",
+    "国家卫健委 基药目录 794种",
+    "国家基本药物目录 2026年9月1日",
+    "基药目录 新增116种",
+    "国家基本药物目录 龚向光"
+  ],
+  "must_match_facts": [
+    "国家卫生健康委、国家中医药局、国家疾控局联合发布",
+    "文件为《国家基本药物目录（2026年版）》",
+    "收录药品总品种数增至794种（化学药品和生物制品476种、中成药318种）",
+    "2026年7月9日公布，2026年9月1日起施行"
+  ],
+  "exclude_if": [
+    "国家基本医疗保险、工伤保险和生育保险药品目录调整",
+    "2018年版国家基本药物目录发布",
+    "地方增补基本药物目录"
+  ],
+  "source_evidence": [
+    {
+      "title": "2026年版国家基本药物目录发布，药品品种扩容至794种",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEAxPeHARMBEf_NoU-3BDhMkGC6Chh8X-KzvBmj6nQ7YUAytdkKGZZRPpLE1Wh4WC57qTrbJ4tYBZ1z60ll02SbLs8a2cCxkXYW7skQi4XA7duDsUhnfSJzr55nKvmxTQ53lxnfDS_JtOCoSFFO0o5Y4L3p2dezrSjpTnNUDYvlA==",
+      "publisher": "新华网",
+      "published_at": "2026-07-09"
+    },
+    {
+      "title": "新版国家基本药物目录发布9月1日起正式实施",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJEJSNiVZDbiDmEjXORcVDG9vFNuh4LPn5mzBumrtLT_p3BMoFpsRSHvGm8jkk9BCDCW9aCLnAN6Riu0s5FKPv9XMfT0o9q_1P5rKVOwBJmP-zMwxxbiGPakPeViSGrpWORbdkFeK6VfiAfL4zW_l7C4nhaayqx2v4Yek=",
+      "publisher": "央视网",
+      "published_at": "2026-07-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:12"
+}

@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_74de01f940f1622b",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广东省人大常委会通过《广东省快递条例》规范快递投递",
+  "factual_description": "2026年3月26日，广东省第十四届人大常委会第二十四次会议审议通过《广东省快递条例》，条例自2026年7月1日起正式施行。作为广东省首部邮政快递业省级地方性法规，该条例针对快递不送上门、擅自存放代收点等行业痛点作出明确要求：规定快递经营企业应当将快件投递到约定的收件地址、收件人或者收件人指定的代收人，不得以任何理由拒绝投递，不得代为确认收到快件或加收费用；将快件投递到智能快件箱、快递服务站等末端设施前，必须事先征得收件人同意，并告知免费保管期限及超时保管收费标准；若收件人不在约定地址且无法联系，快递企业应提供至少两次免费投递。此外，条例还涵盖规范行业竞争、保障从业人员劳动报酬与社保等合法权益的规定。",
+  "event_time": {
+    "start": "2026-03-26",
+    "end": "2026-07-01",
+    "precision": "day",
+    "evidence": "2026年3月26日广东省十四届人大常委会第二十四次会议通过条例，自2026年7月1日起正式施行"
+  },
+  "locations": [
+    "中国/广东省/广州市"
+  ],
+  "aliases": [
+    "广东快递新规",
+    "广东省快递条例",
+    "广东快递新规7月实施",
+    "广东7月起未经同意快递不得放驿站",
+    "广东规定快递投柜需收件人同意"
+  ],
+  "retrieval_queries": [
+    "广东省快递条例",
+    "广东 快递新规 7月1日",
+    "广东省十四届人大常委会第二十四次会议 快递条例",
+    "广东 未经同意 快递 驿站",
+    "广东 快递投柜 需收件人同意"
+  ],
+  "must_match_facts": [
+    "广东省十四届人大常委会第二十四次会议通过《广东省快递条例》",
+    "条例定于2026年7月1日起正式施行",
+    "未经收件人同意不得擅自将快递投递至智能快件箱或快递服务站/驿站",
+    "快递经营企业应按约定地址投递，不得拒绝投递或擅自加收费用"
+  ],
+  "exclude_if": [
+    "2023年通过施行的《广州市快递条例》相关报道",
+    "2024年交通运输部实施的新修订《快递市场管理办法》全国性规章",
+    "国务院《快递暂行条例》修改决定相关报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "快递投柜需收件人同意“快递第一大省”广东出台新规",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUyAfkdl3GsqIa9q0rNIlbzAA1sMVjg1vm_l3LneNOFmIZuzzqv6YzzRFGcy9PWf8fPkE_pp6LWwqgknJfs9uLsa--S4YBNBG-7yBXpeyjjL83Gb4jlW9evO-l_B1foIJq5Y3LDFm6_k8=",
+      "publisher": "21世纪经济报道",
+      "published_at": "2026-03-27"
+    },
+    {
+      "title": "《广东省快递条例》7月1日起施行未经同意快递不得擅自放驿站",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3mItYOPFPYqYOa0mjfWHyUzwYdjBGRMeMwxumAXsvCE9rqCQUh6Shir8etBg6eR7jyiQ1cyMT-H7pSfYpEhW0F_gwDXYAtEve5AbeP23LK7GTip0wqZ6M",
+      "publisher": "凤凰网广东",
+      "published_at": "2026-04-01"
+    },
+    {
+      "title": "《广东省快递条例》今起施行快递放柜须客户同意",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTmuJO-7iuEQCOYuBnmm4dI6n3yrcASZ-WCki8hyrmM5f7dnPHonLaWkDYq30xGD5VCH_ALdvEktXYwNp6WHoH-2ITpG37lbzQ70zb7XaWy4tpTV6wtCGAx9RV9c7eRrVgoPzE0vzp9OP5G43d5t9Fr_qPAZL16tWxLium_cJUnHQyNyvcoQ==",
+      "publisher": "21世纪经济报道",
+      "published_at": "2026-07-01"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将通过与施行年份误标为2023年；实际为广东省十四届人大常委会于2026年3月26日表决通过省级法规，自2026年7月1日起实施（2023年7月1日起实施的系广州市级层面的《广州市快递条例》）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:31"
+}

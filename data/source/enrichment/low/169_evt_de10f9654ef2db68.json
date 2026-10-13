@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_de10f9654ef2db68",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年联合国大会就继续审议终止美国对古巴封锁议题举行表决",
+  "factual_description": "当地时间2026年7月7日，联合国大会在纽约总部举行全体会议，围绕古巴提出的“必须终止美利坚合众国对古巴实施的经济、商业和金融封锁”议题进行审议。会议伊始，美方代表在程序性发言中表示反对，指出联大已于此前举行过年度辩论，指责再次召开3小时会议是对联合国资源的浪费，并要求就议程进行记名表决。发言期间，古巴外交部长罗德里格斯等古方代表多次猛烈敲击桌面表示强烈抗议，指责美方代表说谎、滥用议事规则及不遵守会场礼节。随后，联合国大会就是否继续辩论该议题举行表决，最终以136票赞成、9票反对（美国、以色列、乌克兰、阿根廷、哥斯达黎加、捷克、摩洛哥、北马其顿、巴拉圭）、30票弃权的高票通过动议，决定驳回美方阻挠并继续展开辩论。会后古巴外长发表声明，向投下赞成票的136个国家表示感谢。",
+  "event_time": {
+    "start": "2026-07-07",
+    "end": "2026-07-07",
+    "precision": "day",
+    "evidence": "联合国新闻与新华社报道确认，该次联大全体会议及表决发生于当地时间2026年7月7日。"
+  },
+  "locations": [
+    "美国/纽约/联合国总部/联合国大会厅"
+  ],
+  "aliases": [
+    "联大136比9决定继续辩论终止对古巴封锁",
+    "联大高票否决美国阻止讨论对古巴封锁提议",
+    "古巴代表联大敲桌抗议美国代表",
+    "联大就重新审议美国对古巴封锁议题表决"
+  ],
+  "retrieval_queries": [
+    "联合国大会 古巴 封锁 136票",
+    "联大 136票赞成 9票反对 古巴",
+    "古巴代表 敲桌 美国 联合国大会",
+    "古巴外长 罗德里格斯 联大 辩论 封锁",
+    "联大 必须终止美国对古巴实施的经济 2026",
+    "UN General Assembly debate Cuba embargo 136 9",
+    "General Assembly Resumes Debate on Ending Cuban Embargo"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年7月7日的联合国大会全体会议",
+    "会议涉及终止美国对古巴经济、商业和金融封锁议题",
+    "美国代表提出程序性异议并要求对是否继续议程进行记名表决",
+    "表决结果为136票赞成、9票反对、30票弃权",
+    "古巴代表在美方发言过程中多次敲击桌面抗议并指责美方说谎"
+  ],
+  "exclude_if": [
+    "联大每年10月或11月举行的年度涉古巴封锁常规决议表决（如165票、185票或187票赞成）",
+    "2018年10月联合国经济及社会理事会古巴代表拍桌抗议美方会议事件",
+    "不涉及136票赞成比9票反对表决结果的其他古美双边外交事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "联大决定就美国对古巴封锁举行辩论多国呼吁解除制裁",
+      "url": "https://news.un.org/zh/story/2026/07/1143896",
+      "publisher": "联合国新闻",
+      "published_at": "2026-07-07"
+    },
+    {
+      "title": "古巴外长感谢136国支持联大讨论终止美国对古封锁",
+      "url": "http://www.news.cn/world/20260709/9b82bf939943486c8fce4be316986a42/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-07-09"
+    },
+    {
+      "title": "General Assembly Resumes Debate on Ending Cuban Embargo, as Havana Leads Outcry against 'Cruel' Extraterritorial Ambitions of United States",
+      "url": "https://press.un.org/en/2026/ga12781.doc.htm",
+      "publisher": "United Nations Meetings Coverage and Press Releases",
+      "published_at": "2026-07-07"
+    }
+  ],
+  "uncertainties": [
+    "输入现有描述中误将事件发生年份记为2021年，核实其实际发生于2026年7月7日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:22"
+}

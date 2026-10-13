@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_2f01fc06a1b90192",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026赛季江苏省城市足球联赛南通队客场2:1逆转宿迁队比赛",
+  "factual_description": "2026年5月23日晚，2026赛季江苏省城市足球联赛（俗称“苏超”）宿迁队主场对阵南通队的比赛在宿迁奥体中心体育场举行。开场仅1至3分钟，南通队球员薛天翼因犯规被主裁判直接出示红牌罚下，南通队开场即陷入10人应战的被动局面。比赛第8至9分钟，宿迁队球员房政阳利用角球机会头球破门，宿迁队1:0领先。第35至36分钟，南通队7号覃虹皓在门前抢射破门将比分扳平，打入南通队该赛季联赛首粒进球。下半场第60分钟，南通队叶道驰在门前乱战中抢射建功，将比分反超为2:1。最终，十人南通队在客场以2:1逆转击败宿迁队，打破此前进球荒并斩获赛季首胜。赛后赛事解说员夏宇翔关于两队交锋的赛后感言也在社交媒体引发广泛关注。",
+  "event_time": {
+    "start": "2026-05-23",
+    "end": "2026-05-23",
+    "precision": "day",
+    "evidence": "比赛于北京时间2026年5月23日晚在宿迁奥体中心体育场开球并完赛。"
+  },
+  "locations": [
+    "中国/江苏省/宿迁市/宿城区/宿迁奥体中心体育场"
+  ],
+  "aliases": [
+    "苏超宿迁队VS南通队",
+    "2026苏超南通队逆转宿迁队",
+    "江苏城市足球联赛宿迁1比2南通",
+    "苏超南通客场2比1宿迁获首胜"
+  ],
+  "retrieval_queries": [
+    "苏超 宿迁 南通 2:1",
+    "2026 江苏省城市足球联赛 宿迁 南通",
+    "南通队 逆转 宿迁队 首胜",
+    "叶道驰 覃虹皓 宿迁 南通",
+    "薛天翼 红牌 宿迁 南通",
+    "宿迁奥体中心 南通队 首胜",
+    "夏宇翔 莫问绿茵谁胜负江淮风月共长天"
+  ],
+  "must_match_facts": [
+    "比赛发生于2026年5月23日晚，地点在宿迁奥体中心体育场",
+    "赛事属于2026赛季江苏省城市足球联赛（苏超）",
+    "南通队开场不久遭遇红牌被罚下1人，以10人对阵宿迁队11人",
+    "宿迁队由房政阳率先破门取得1:0领先",
+    "南通队由覃虹皓扳平、叶道驰打入制胜球反超",
+    "最终比分宿迁队1:2南通队，南通队收获赛季首胜"
+  ],
+  "exclude_if": [
+    "2025年6月29日南通队主场4:0战胜宿迁队的比赛",
+    "2026赛季宿迁队或南通队对阵其他城市代表队（如南京、常州、镇江、徐州等）的比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "宿迁1-2遭10人南通逆转，薛天翼开场染红，叶道驰制胜",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJSRLy1VKRdHeYzVIUaDANiYO25mR03RUgG3Ha7Ba3c6Pj7g-tpFuiXMyzT5a-JLrD3-wyST81Lu3KhWgLRqKq1souZAhkCCFaqGRetDu8rHyMFkTF1mCNTmCwIy_AgERE-oQ9-kAh6Xfz",
+      "publisher": "网易体育",
+      "published_at": "2026-05-23"
+    },
+    {
+      "title": "苏超南通队收获赛季首胜，主教练金都根：回应球迷期待，希望能在下个主场取得胜利",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9uaw05aFUfM1vG4Ad-tA6bZOXiVqzCDhA0QUuHL3Vwq2q-J251ZJokXGn6pnstFQhvoPr_ttPpS_i9bqJFCui0h7QTGsAptturBtcpdmsGJ6m7mJbM8lUJKBlHJO4OU2obg==",
+      "publisher": "现代快报 / 腾讯新闻",
+      "published_at": "2026-05-25"
+    },
+    {
+      "title": "赢了！熟悉的南通队回来了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVpcEY_QU1wq4SGus9uLnFYIw64Np-AiWVn6b3wuJtl5ekERxK02pZJE6_tHWGzw9TePef5tGUl5WrPY5gZ_2GMAeSbYVJL4u4C_YCqZSZqdKKjJwd9XRFUWoMmD6kvXCP",
+      "publisher": "929南通交通广播 / 腾讯新闻",
+      "published_at": "2026-05-23"
+    }
+  ],
+  "uncertainties": [
+    "部分媒体战报按赛程顺序将其记为常规赛第4轮，而另有报道按开赛周数表述为第七周/第七轮"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:16"
+}

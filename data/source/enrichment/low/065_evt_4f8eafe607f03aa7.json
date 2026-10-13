@@ -1,0 +1,89 @@
+{
+  "event_id": "evt_4f8eafe607f03aa7",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年美国加州里弗赛德县“斯普林斯山火”",
+  "factual_description": "当地时间2026年4月3日上午11时01分左右，美国加利福尼亚州南部里弗赛德县莫雷诺谷以东的吉尔曼斯普林斯路（Gilman Springs Road）附近突发野火，加州林业和消防局将其命名为“斯普林斯山火”（Springs Fire）。受春季强劲的圣安娜风（阵风时速达40至50英里）及低湿度干燥天气影响，火势迅速向佩里斯湖（Lake Perris）周边蔓延。截至4月3日下午至傍晚，过火面积迅速扩大至4127英亩（约合16.7平方公里），后续最终测定为4176英亩。当地应急部门对莫雷诺谷及周边非建制区域的多处片区发布强制疏散令和疏散警告，莫雷诺谷学院因烟雾恶化暂时关闭校园，并在当地高中设立临时避难所。经数百名消防员、数十辆消防车及空中灭火力量持续扑救，加之夜间风力减弱，截至4月4日晚，该火灾控制率达到95%，所有人员疏散令与疏散警告全部解除，火灾未造成人员伤亡或建筑物损毁。",
+  "event_time": {
+    "start": "2026-04-03",
+    "end": "2026-04-04",
+    "precision": "day",
+    "evidence": "加州林业和消防局里弗赛德县分局通报山火于当地时间4月3日上午11点左右爆发，4月4日晚控制率达到95%并解除所有疏散令。"
+  },
+  "locations": [
+    "美国/加利福尼亚州/里弗赛德县/莫雷诺谷",
+    "美国/加利福尼亚州/里弗赛德县/吉尔曼斯普林斯路",
+    "美国/加利福尼亚州/里弗赛德县/佩里斯湖州立休闲区"
+  ],
+  "aliases": [
+    "2026年加州斯普林斯山火",
+    "斯普林斯大火",
+    "Springs Fire",
+    "加州莫雷诺谷山火",
+    "加州里弗赛德县山火",
+    "加州河滨县野火"
+  ],
+  "retrieval_queries": [
+    "加州 莫雷诺谷 山火 4127英亩",
+    "加州 斯普林斯山火 2026",
+    "Moreno Valley Springs Fire 2026",
+    "Springs Fire Gilman Springs Road",
+    "里弗赛德县 莫雷诺谷 疏散令 山火",
+    "Springs Fire 4176 acres Cal Fire",
+    "莫雷诺谷 圣安娜风 山火 16.7平方公里"
+  ],
+  "must_match_facts": [
+    "火灾起火点位于美国加利福尼亚州里弗赛德县莫雷诺谷（Moreno Valley）以东的吉尔曼斯普林斯路（Gilman Springs Road）附近",
+    "火灾官方命名为“斯普林斯山火”（Springs Fire）",
+    "起火时间为2026年4月3日上午11时左右",
+    "蔓延过程受时速达40至50英里的强风（圣安娜风）助推",
+    "过火面积初期迅速达到4127英亩（约合16.7平方公里），后续修正为4176英亩",
+    "导致当地发布居民疏散令、疏散警告以及莫雷诺谷学院停课关闭"
+  ],
+  "exclude_if": [
+    "2013年加州文图拉县同名“斯普林斯山火”（2013 Springs Fire in Ventura County）",
+    "2026年4月3日同一天在洛杉矶县阿克顿爆发的“皇冠山火”（Crown Fire）",
+    "发生在加州莫雷诺谷的其他山火事件（如Iron Fire、Sage Fire）"
+  ],
+  "source_evidence": [
+    {
+      "title": "Evacuations ordered as two wildfires break out in southern California",
+      "url": "https://www.theguardian.com/us-news/2026/apr/03/california-wildfires-moreno-valley-acton",
+      "publisher": "The Guardian",
+      "published_at": "2026-04-03T21:17:00Z"
+    },
+    {
+      "title": "Springs Fire burns more than 4,000 acres in Moreno Valley; 95% contained",
+      "url": "https://kesq.com/news/2026/04/03/brush-fire-burning-near-moreno-valley/",
+      "publisher": "KESQ-TV (ABC News Channel 3)",
+      "published_at": "2026-04-04T18:00:00Z"
+    },
+    {
+      "title": "Firefighters contain Southern California brush fires fueled by Santa Ana winds",
+      "url": "https://www.latimes.com/california/story/2026-04-04/santa-ana-winds-fan-fires-in-southern-california",
+      "publisher": "Los Angeles Times",
+      "published_at": "2026-04-04T21:30:00Z"
+    },
+    {
+      "title": "美国南加州大风引发野火，人员被疏散",
+      "url": "https://www.chinanews.com.cn/gj/2026/04-04/10395350.shtml",
+      "publisher": "中国新闻网",
+      "published_at": "2026-04-04T16:32:00Z"
+    }
+  ],
+  "uncertainties": [
+    "起火的具体原因在火灾扑灭初期官方仍列为“正在调查中”",
+    "部分媒体在4月3日报道即时过火面积为4127英亩（约16.7平方公里），加州消防局后续测定面积为4176英亩"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:38"
+}

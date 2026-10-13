@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_931be6496b7ac6ba",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "第33届东方风云榜音乐盛典汪苏泷斩获三项大奖并回应AI创作坚持手搓",
+  "factual_description": "2026年6月29日晚，星聚会·第33届《东方风云榜》音乐盛典在上海梅赛德斯-奔驰文化中心举行。歌手汪苏泷在该届盛典上一举揽获“年度歌手”、“年度演唱会”（《2025十万伏特巡回演唱会2.0》）以及“十大金曲”（《像晴天像雨天》）三项重量级大奖。在盛典后台接受媒体群访谈及AI时代的到来时，汪苏泷公开回应称，人类和AI各自有擅长做的事情，自己并不排斥AI时代的到来，但现阶段仍会坚持“手搓”创作音乐；他还直言自己平时除了做音乐并无太多花钱之处，希望将诚意和成本全情倾注在人工创作中回馈听众。该段回应随后在社交媒体平台引起广泛讨论与点赞。",
+  "event_time": {
+    "start": "2026-06-29",
+    "end": "2026-06-29",
+    "precision": "day",
+    "evidence": "第33届东方风云榜音乐盛典首日展演及颁奖于2026年6月29日晚在上海梅赛德斯-奔驰文化中心举行，汪苏泷当晚领奖并接受后台群访。"
+  },
+  "locations": [
+    "中国/上海市/浦东新区/上海梅赛德斯-奔驰文化中心"
+  ],
+  "aliases": [
+    "第33届东方风云榜音乐盛典汪苏泷获奖及回应AI创作",
+    "第33届东方风云榜汪苏泷获三项大奖",
+    "汪苏泷东方风云榜谈AI时代坚持手搓音乐",
+    "汪苏泷获年度歌手回应手搓音乐"
+  ],
+  "retrieval_queries": [
+    "第33届东方风云榜 汪苏泷",
+    "汪苏泷 手搓 东方风云榜",
+    "汪苏泷 手搓音乐 AI时代",
+    "第33届东方风云榜 年度歌手 汪苏泷",
+    "汪苏泷 东方风云榜 像晴天像雨天",
+    "东方风云榜 汪苏泷 坚持手搓",
+    "汪苏泷 东方风云榜 群访 AI"
+  ],
+  "must_match_facts": [
+    "发生于第33届东方风云榜音乐盛典（2026年6月29日）",
+    "主体为歌手汪苏泷",
+    "获得年度歌手、年度演唱会和十大金曲三项荣誉",
+    "就AI时代的创作回应表示先坚持手搓音乐、不排斥AI",
+    "地点为上海梅赛德斯-奔驰文化中心"
+  ],
+  "exclude_if": [
+    "第31届东方风云榜（2024年8月）",
+    "第32届东方风云榜（2025年8月）",
+    "汪苏泷鸟巢演唱会相关事件及《年轮》版权维权争议",
+    "其他歌手或非第33届东方风云榜现场的AI音乐话题讨论"
+  ],
+  "source_evidence": [
+    {
+      "title": "第33届《东方风云榜》收官：汪苏泷获年度歌手，刘宇宁狂揽四奖",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhocdOJh3X1rcs9F4XN8Na2MAye-3tSFHEouNFwWoEjKdHOv3g4wavLHLmqjFSILox9xLOR5K8b4qYLAaVmklyL2SuIc5sUQBYVgM0ySmM2S5slloZ5OhttkKCcpVorUcM5pf3d-OHAThW",
+      "publisher": "搜狐娱乐 / 网易",
+      "published_at": "2026-06-30"
+    },
+    {
+      "title": "汪苏泷获年度歌手，称自己在AI时代仍会坚持手搓音乐回馈听众",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlNqqSbkombjzWTaLUGzE68IR0aujW73JlrJMrrLLh62XKTlGyvM4k7x3lB18iyRiLHR-WtJxb7Izge10NCMubBGCZcVUK_3NTvgIJyfXEmGudMO7katCT4b6JF4jDFGGeMHuvL3UmYXHQxWl-VGkqiDuoD367F_xu",
+      "publisher": "潇湘晨报 / 腾讯新闻",
+      "published_at": "2026-06-30"
+    },
+    {
+      "title": "汪苏泷东方风云榜群访：聊到对AI时代到来的感受",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9EL2XaoHsigSWRD51ejeJgbJOwpi3uY5He5u2Oo9QhbNLDD0koZcfUV1s5CmQCgRzx9XeYmYLX9zXGCwBmRNGRpDkTL4XHBZp9bG263_LIS40fZhiayzHW4jH-LYIapSWwTFKvhg2DOBZ",
+      "publisher": "搜狐娱乐 / 新浪网",
+      "published_at": "2026-06-29"
+    }
+  ],
+  "uncertainties": [
+    "输入样本背景描述中将事件年份误写为2024年6月29日，经官方权威报道与事实核查，第33届东方风云榜盛典实际举办及该言论发表时间为2026年6月29日。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:54"
+}

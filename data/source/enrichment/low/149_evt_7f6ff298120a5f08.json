@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_7f6ff298120a5f08",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年国际射联全项世界杯杭州站布帅航夺得男子10米气手枪金牌",
+  "factual_description": "北京时间2026年7月26日，2026年国际射击运动联合会（ISSF）全项射击世界杯杭州站男子10米气手枪比赛在浙江省杭州市举行。在当日下午展开的男子10米气手枪决赛中，中国20岁选手布帅航发挥稳定沉着，最终以244.4环的总成绩摘得金牌，为中国代表团斩获本届全项世界杯杭州站的第六枚金牌。韩国选手洪秀贤（Hong Suhyeon）以240.1环获得银牌，乌兹别克斯坦选手弗拉基米尔·斯韦奇尼科夫（Vladimir Svechnikov）以217.6环摘得铜牌。巴黎奥运会冠军、中国选手谢瑜在决赛中打出176.7环获得第五名。这是布帅航继同年4月射击世界杯西班牙格拉纳达站夺金之后，职业生涯再次夺得世界杯分站赛男子10米气手枪冠军。",
+  "event_time": {
+    "start": "2026-07-26",
+    "end": "2026-07-26",
+    "precision": "day",
+    "evidence": "2026年7月26日下午举行男子10米气手枪决赛并决出冠亚季军"
+  },
+  "locations": [
+    "中国/浙江省/杭州市/富阳银湖体育中心"
+  ],
+  "aliases": [
+    "2026国际射联全项世界杯杭州站男子10米气手枪决赛布帅航夺金",
+    "2026射击世界杯杭州站布帅航男子10米气手枪摘金",
+    "国际射联全项世界杯布帅航男子10米气手枪夺金",
+    "ISSF World Cup Hangzhou 2026 Men's 10m Air Pistol Final Bu Shuaihang"
+  ],
+  "retrieval_queries": [
+    "布帅航 244.4 男子10米气手枪",
+    "布帅航 国际射联 杭州 男子10米气手枪",
+    "2026 射击世界杯 杭州站 布帅航",
+    "布帅航 Hong Suhyeon 男子10米气手枪",
+    "ISSF World Cup Hangzhou 2026 Bu Shuaihang",
+    "2026 国际射联全项世界杯 男子10米气手枪 决赛",
+    "布帅航 男子10米气手枪 第六金"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年7月26日",
+    "比赛为2026年国际射击运动联合会（ISSF）全项射击世界杯杭州站",
+    "比赛项目为男子10米气手枪",
+    "中国选手布帅航以244.4环的总成绩夺得金牌",
+    "韩国选手Hong Suhyeon（洪秀贤）获得银牌"
+  ],
+  "exclude_if": [
+    "2026年4月射击世界杯西班牙格拉纳达站男子10米气手枪决赛（布帅航夺冠成绩为244.5环）",
+    "2026年全国射击冠军赛男子10米气手枪比赛（布帅航夺冠成绩为245.6环）",
+    "2026年射击世界杯杭州站男子50米步枪三姿决赛（张常鸿破世界纪录夺冠）",
+    "10米气手枪混合团体项目"
+  ],
+  "source_evidence": [
+    {
+      "title": "国际射联全项世界杯：布帅航男子10米气手枪夺金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENUU5didmdfRy-Dn6cCQKUQoE6Xh7Uuq_o3serQp0TSJHJKfZDZDlhxHZ4OAtsxp2C2np6xc3xRymZJ15X94yK2JkaYngGnR5h9LmnaNwT7P3z_OEB9V_wrO1GqfEEP730TeZawM-tGOWBxF8u0rEKpiO51g1i8XRT4r2WKwFwPdw=",
+      "publisher": "中国日报",
+      "published_at": "2026-07-26"
+    },
+    {
+      "title": "2026年射击世界杯杭州站：奥运冠军张常鸿破世界纪录夺冠布帅航男子10米气手枪摘金",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjClDgC0-jcuHwLaAQuYz5c0FbMvOlcHquxZlLitwAOo_zGkj25ffTUCXxUyq4dA5SOXlj5hFrCZKLIsTPL0GhHLU__DMcAaC32VP2rBuzGW59dl_jmWJMdkJeTXQcbA_ANxvYwgwy20P_M4AqWlY683W88wfoKmnELytZrUzUWJBMIbwZsCM64jbOCXi2lepkrEdg1ZltnB0c2W0KwgxcvCFuDkUCK8gwGTPsafhF9_UIJt8z-DsI4zl23m4JE0UScQ==",
+      "publisher": "Olympics.com",
+      "published_at": "2026-07-26"
+    },
+    {
+      "title": "ISSF World Cup Hangzhou 2026: Bu times his charge to perfection for home triumph",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-WcNwQDzvQtyTvKXNSteZTTXqZMxFzlojKBL4l1N7CoD19kFzrUA9WBlR4sQJcj1ESDFST65WWsxpdX4q3PuU2fgTvES9vXeyJ3KpCYV2dgwszFbE0ptgiFhz",
+      "publisher": "ISSF - International Shooting Sport Federation",
+      "published_at": "2026-07-26"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:53"
+}

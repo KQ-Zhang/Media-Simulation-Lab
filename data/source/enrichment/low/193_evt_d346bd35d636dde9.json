@@ -1,0 +1,80 @@
+{
+  "event_id": "evt_d346bd35d636dde9",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "河北30岁居民确诊新冠及2026年夏季阳性率上升引关注",
+  "factual_description": "2026年7月27日，30岁的河北居民陈宇出现鼻塞、咽部不适，随后出现发烧、头晕以及全身肌肉和骨骼疼痛等症状，就医后确诊为新型冠状病毒感染，经对症用药后症状缓解。8月2日，《中国新闻周刊》刊发报道以该病例作为个案引入，报道了近期新冠病毒检测阳性率持续走高的情况，随后在微博、抖音等网络平台引发‘30岁居民发烧头晕确诊新冠’等话题热议。据中国疾病预防控制中心2026年7月30日发布的《全国急性呼吸道传染病哨点监测情况（2026年第30周）》，全国哨点医院门急诊流感样病例呼吸道样本中，新冠病毒检测阳性率达到20.3%，居监测病原体首位；住院严重急性呼吸道感染病例中新冠阳性率达9.5%，主要流行株为NB.1.8.1变异株谱系。专家指出，此次上升属新冠实施‘乙类乙管’后的常态化周期性波动，患者以轻症为主，但老年人及基础病患者仍需防范重症风险。",
+  "event_time": {
+    "start": "2026-07-27",
+    "end": "2026-08-03",
+    "precision": "day",
+    "evidence": "陈宇于2026年7月27日发病就诊确诊；《中国新闻周刊》于8月2日报道该病例并结合中疾控7月30日发布的第30周监测数据；8月3日各媒体与社交平台集中跟进发酵。"
+  },
+  "locations": [
+    "中国/河北省",
+    "中国"
+  ],
+  "aliases": [
+    "30岁居民发烧头晕确诊新冠",
+    "新冠检测阳性率超20%已连续数周上升",
+    "新冠检测阳性率超20%连续数周上升",
+    "30岁河北居民陈宇确诊新冠",
+    "本轮新冠疫情仍处于上升阶段"
+  ],
+  "retrieval_queries": [
+    "30岁居民发烧头晕确诊新冠",
+    "河北居民陈宇 新冠",
+    "新冠检测阳性率超20%",
+    "全国急性呼吸道传染病哨点监测情况 2026年第30周",
+    "胡必杰 新冠阳性率 20.3%",
+    "中国新闻周刊 陈宇 新冠",
+    "本轮新冠疫情仍处于上升阶段"
+  ],
+  "must_match_facts": [
+    "2026年7月27日河北30岁居民陈宇出现发烧头晕全身酸痛后确诊新冠感染",
+    "《中国新闻周刊》于2026年8月2日报道该确诊个案",
+    "中国疾病预防控制中心第30周监测显示哨点门急诊新冠阳性率升至20.3%",
+    "网络平台产生‘30岁居民发烧头晕确诊新冠’与‘新冠检测阳性率超20%’话题讨论"
+  ],
+  "exclude_if": [
+    "涉及2020年至2023年严格防控或清零时期的新冠旧闻",
+    "非2026年7-8月发生的新冠周期性波动报道",
+    "涉及其他非医疗健康领域的同名人物陈宇事件",
+    "无关中疾控2026年第30周急性呼吸道传染病哨点监测数据的讨论"
+  ],
+  "source_evidence": [
+    {
+      "title": "新冠检测阳性率超20%，已连续数周上升",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeEMY2XvOUGsBOGDolv0s62rgfEkX-_DkeZyA8_iUs3rDgMUP9MOJdikVcVMsgRUNZszdWAMTWOzREZSeNDxS59I22i7tMguzrStprFxvp7emo9oL_qM6hGiQ=",
+      "publisher": "中国新闻周刊（凤凰网转引）",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "新冠阳性率超20%！已连续数周上升！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErIK8JMzHMlb2NfJLeq8PIUS2tSWx07p5XKcw2mBSFC2dnqb4Xt_NqDTZRuiXVLEfF1xitUBSjg-Cw9lFq7WlF9cKCO7qLMhrpcUDe-UD5QievxFRkvGriLLQuDvQ8dUiL4Q==",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-08-03"
+    },
+    {
+      "title": "夏末新冠抬头？中疾控数据：阳性率22.3%，NB.1.8.1仍是主要流行株",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-qdwo-EDvN3ypB-weAsJ6wdAV9KIKhaOWguTqoH0_s8d863YhuDM-Mh_e2W4q06BbDRpTOrjpaPwpcvxT8bSaMzLw8SNenfzL52RnXZsUhjVvHvnMeV2QYST9fh0d9xmuIiI5JqQpI0XtIa_vl1pqpOYhf2-4h-o=",
+      "publisher": "大众新闻",
+      "published_at": "2026-08-09"
+    }
+  ],
+  "uncertainties": [
+    "报道中的‘陈宇’系真实姓名还是化名未明确标明",
+    "陈宇就诊的具体医院名称及所处的河北省地级市未在报道中说明"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:11"
+}

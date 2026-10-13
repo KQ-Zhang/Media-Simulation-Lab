@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_a305ad27fcc63aaa",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "新修订的《殡葬管理条例》正式施行",
+  "factual_description": "2026年3月30日，新修订的《殡葬管理条例》正式开始施行（该条例于2026年1月7日公布），这是自1997年施行以来的全面修订。新条例进一步强化殡葬行业的公益属性，规定新设殡葬服务机构应当由政府举办且为非营利性机构，不得再新设营利性殡葬服务机构；将殡葬服务分为基础项目和非基础项目并实行清单化管理，禁止在清单外收费。新条例明确遗体接运、存放、防腐、整容、火化等殡仪服务由殡仪馆专门负责提供，严禁医疗机构太平间外包及违规开展殡仪服务；明令禁止将居民住宅专门用于安放骨灰（遏制“骨灰房”现象）；禁止在公墓、农村公益性墓地及法定生态安葬区域外埋葬遗体或建坟；同时积极推行海葬、树葬、花葬、草坪葬等节地生态安葬方式，强化行业全链条综合监管，切实减轻群众丧葬负担。",
+  "event_time": {
+    "start": "2026-03-30",
+    "end": "2026-03-30",
+    "precision": "day",
+    "evidence": "新修订的《殡葬管理条例》于2026年1月7日公布，明确规定自2026年3月30日起施行。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "新版殡葬管理条例今起施行",
+    "新修订的殡葬管理条例正式实施",
+    "殡葬新规正式施行",
+    "殡葬管理条例2026年修订版实施"
+  ],
+  "retrieval_queries": [
+    "新修订的殡葬管理条例 3月30日施行",
+    "新版殡葬管理条例 禁止住宅专门用于安置骨灰",
+    "殡葬管理条例 太平间不得外包",
+    "殡葬管理条例 清单化管理 公益属性",
+    "殡葬新规 禁止骨灰房"
+  ],
+  "must_match_facts": [
+    "新修订的《殡葬管理条例》于2026年3月30日起正式施行",
+    "核心原则为强化殡葬行业公益属性，不得再新设立营利性殡葬服务机构",
+    "明确禁止将居民住宅专门用于安放骨灰（整治骨灰房）",
+    "明确医疗卫生机构的太平间不得外包、不得开展殡仪服务",
+    "推行殡葬服务清单化管理并严控收费，倡导生态安葬"
+  ],
+  "exclude_if": [
+    "1997年原版《殡葬管理条例》的发布或实施",
+    "2012年个别条款微调修正案",
+    "单一省市地方性殡葬管理办法的出台",
+    "单一陵园或个人的殡葬侵权民事纠纷案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "新版《殡葬管理条例》正式施行：禁止住宅专门用于安置骨灰",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcUH7HBhckQhzmQsspgDkf1DRFrXlX21T3-yCifBa-m2QE-xVoJj_kfjibdEcXxHSz2jsGNqhyJthvjWUm4QAkFQTm71uaeprARBPXBSkCZCpWdcWWPn7e4xCiWOTLEwAA-8iOS2Q=",
+      "publisher": "南方农村报 / 澎湃新闻",
+      "published_at": "2026-03-30"
+    },
+    {
+      "title": "明确公益属性、鼓励生态葬新修订的《殡葬管理条例》今起实施行",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhe1UgbnjmYUSPvg5DYIolVlPHyn0EqF1e0rqmVdOeKLSafsJ5PV04iofzpmA0jfi28MOwqV2r-KQuDl7vn5csQvCtrDSfZ6GFLcaquEn8dqTt_-0fqMOkkBDwoemAx_VFpEgRHMOY6_AUnibu4Q==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-03-30"
+    },
+    {
+      "title": "新修订的《殡葬管理条例》明确禁止医疗机构太平间外包，禁止居民住宅专门用于安放骨灰",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQlF9yZuqf-71-GbI_X5E0nurJ0ZDkeMZH-lqbptpuaAdcek41J7A5KZ4kfLfeOPh5i2TcLjRyuLfmN8YddrO2Stc0QvlFFVntdhX83Jz0mduDeUpvjAmw6Ew7Cdi8nJl3blLde93Bdz8gyKkZOC0TENpwzw==",
+      "publisher": "科技日报",
+      "published_at": "2026-03-30"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中声称其实施年份为2023年3月30日，经官方通告和主流媒体核验，该条例全面修订公布于2026年1月7日，正式施行时间为2026年3月30日，现有描述存在年份错误。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:03"
+}

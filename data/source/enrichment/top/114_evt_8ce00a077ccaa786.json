@@ -1,0 +1,122 @@
+{
+  "event_id": "evt_8ce00a077ccaa786",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年2月25日凯里20路公交司机顾师傅改道5分钟送医晕倒乘客事件",
+  "factual_description": "2026年2月25日，在贵州省黔东南苗族侗族自治州凯里市，一名男子乘坐20路公交车时突然昏迷并从座位滑下。驾驶员顾师傅发现该乘客脸色苍白、意识模糊后，迅速停稳车辆并与车内乘客沟通。在确认下一站无其他乘客下车、并获得全体乘客的理解与支持后，顾师傅果断决定临时改道，驾驶公交车直奔最近的医院。途中心急如焚的热心乘客也纷纷帮忙观察守护。顾师傅仅用时5分钟便将公交车驶入医院急诊室门口，随后跑到急诊室呼救医护人员。经医护人员及时下车接诊并抢救，该晕倒男子病情明显好转、恢复良好。救援过程经贵州广播电视台《百姓关注》报道后引起广泛关注与赞誉。",
+  "event_time": {
+    "start": "2026-02-25",
+    "end": "2026-02-25",
+    "precision": "day",
+    "evidence": "贵州广播电视台《百姓关注》2026年3月1日报道，2026年2月25日贵州凯里市一名男子在乘坐20路公交车时突发晕倒，司机顾师傅紧急改道送医。"
+  },
+  "reporting_time_range": {
+    "start": "2026-03-01",
+    "end": "2026-03-01"
+  },
+  "locations": [
+    "中国/贵州省/黔东南苗族侗族自治州/凯里市/20路公交车"
+  ],
+  "people": [
+    {
+      "name": "顾师傅",
+      "role": "凯里市20路公交车驾驶员"
+    },
+    {
+      "name": "昏迷男子",
+      "role": "发病乘车乘客"
+    }
+  ],
+  "organizations": [
+    {
+      "name": "凯里市公交公司",
+      "role": "涉事20路公交车运营单位"
+    },
+    {
+      "name": "百姓关注",
+      "role": "首发报道媒体（贵州广播电视台）"
+    }
+  ],
+  "trigger": "一名男子乘坐凯里20路公交车时突发昏迷从座位滑下、脸色苍白失去意识",
+  "key_actions": [
+    "顾师傅发现乘客滑倒昏迷后停稳车辆，请旁边乘客帮忙观察",
+    "顾师傅确认下一站无人下车，征得车上乘客理解与支持",
+    "顾师傅果断决定改道，驾驶20路公交车直奔最近医院",
+    "车厢内乘客自发守护观察晕倒男子",
+    "仅用时5分钟抵达医院，顾师傅跑进急诊室叫救治医生",
+    "医护人员下车将男子搀扶至急诊室救治"
+  ],
+  "outcome_and_status": "昏迷男子经医院及时救治后状态好转；驾驶员顾师傅表示“反正生命最重要”“每个人遇到这种事都会这样做”。",
+  "timeline": [
+    {
+      "time": "2026-02-25",
+      "fact": "一男子乘坐凯里20路公交车突发昏迷，驾驶员顾师傅征得乘客同意后改道，5分钟内送达医院急诊救治。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPKKsO8KBZrNtR2KC7O_3ShmvYxw5XmHLA9dPG3qHh-80wAIEYaGU24Qd1ZaeG9zPjx9HZPrC4lQN_t6PPQlsJlfjyljBZ_q36JIdD7RE_w6R2iRsHOu4j1zzuW6QAo-ou6FwCWERBy2ZtODcl42cjMXHfuj_gOomvXKcyPJNGfgbaD5gMY-fc"
+      ]
+    },
+    {
+      "time": "2026-03-01",
+      "fact": "贵州广播电视台《百姓关注》发布报道，披露凯里20路公交司机顾师傅5分钟改道送医的救援细节。",
+      "source_urls": [
+        "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPKKsO8KBZrNtR2KC7O_3ShmvYxw5XmHLA9dPG3qHh-80wAIEYaGU24Qd1ZaeG9zPjx9HZPrC4lQN_t6PPQlsJlfjyljBZ_q36JIdD7RE_w6R2iRsHOu4j1zzuW6QAo-ou6FwCWERBy2ZtODcl42cjMXHfuj_gOomvXKcyPJNGfgbaD5gMY-fc"
+      ]
+    }
+  ],
+  "aliases": [
+    "乘客晕倒公交司机果断改道直奔医院",
+    "凯里20路公交司机改道送医事件",
+    "凯里公交司机顾师傅5分钟送医事件",
+    "乘客在公交车上突然晕倒司机仅用时5分钟就将乘客送到医院"
+  ],
+  "retrieval_queries": [
+    "乘客晕倒公交司机果断改道直奔医院",
+    "凯里 20路公交 晕倒 顾师傅",
+    "凯里 乘客晕倒 5分钟 送医",
+    "凯里 20路 顾师傅 生命最重要",
+    "凯里 公交司机 顾师傅 百姓关注",
+    "2月25日 凯里 乘客昏迷 改道医院"
+  ],
+  "must_match_facts": [
+    "事件发生地点为贵州省凯里市",
+    "涉事线路为20路公交车",
+    "驾驶员为顾师傅",
+    "一名男子在车上突发晕倒昏迷",
+    "驾驶员改道仅用时约5分钟将乘客送达医院"
+  ],
+  "optional_supporting_facts": [
+    "乘客从座位上滑下且脸色苍白",
+    "顾师傅停车确认下一站无人下车并征得乘客同意",
+    "顾师傅回应表示“生命最重要”/“每个人遇到这种事都会这样做”",
+    "媒体报道单位为《百姓关注》"
+  ],
+  "exclude_if": [
+    "并非发生在凯里市的公交救援事件",
+    "其他城市或其他线路公交车司机的救医救援事件",
+    "吉林通化公交司机顾春江突发疾病事件"
+  ],
+  "distinctive_entities": [
+    "凯里市",
+    "20路公交车",
+    "顾师傅",
+    "黔东南",
+    "百姓关注",
+    "5分钟"
+  ],
+  "source_evidence": [
+    {
+      "title": "乘客晕倒公交司机果断改道直奔医院：“生命最重要”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPKKsO8KBZrNtR2KC7O_3ShmvYxw5XmHLA9dPG3qHh-80wAIEYaGU24Qd1ZaeG9zPjx9HZPrC4lQN_t6PPQlsJlfjyljBZ_q36JIdD7RE_w6R2iRsHOu4j1zzuW6QAo-ou6FwCWERBy2ZtODcl42cjMXHfuj_gOomvXKcyPJNGfgbaD5gMY-fc",
+      "publisher": "百姓关注",
+      "published_at": "2026-03-01",
+      "supports": [
+        "2026年2月25日贵州凯里20路公交车上一名男子突然晕倒",
+        "驾驶员顾师傅在乘客理解下改道，仅用5分钟将乘客送往医院救治",
+        "男子经救治后状态好转"
+      ]
+    }
+  ],
+  "uncertainties": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 16:32:59"
+}

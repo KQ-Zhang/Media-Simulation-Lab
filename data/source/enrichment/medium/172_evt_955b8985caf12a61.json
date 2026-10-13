@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_955b8985caf12a61",
+  "verification_status": "verified",
+  "confidence": 0.99,
+  "canonical_event_name": "三峡水运新通道工程正式开工建设",
+  "factual_description": "2026年6月8日上午，我国“十五五”时期开工建设的首个国家重大标志性工程——三峡水运新通道工程在湖北省宜昌市太平溪码头旁举行开工仪式，中共中央政治局常委、国务院副总理丁薛祥出席并宣布工程正式开工。该工程是三峡工程之后长江干线上集水利、航运、生态等功能于一体的最大综合性工程，静态总投资约772.08亿元。工程由三峡枢纽新通道和葛洲坝航运扩能两部分组成：三峡枢纽新通道位于既有三峡船闸北侧，规划新建双线连续五级船闸，线路全长约6680米，工期112个月；葛洲坝航运扩能拆除既有三号船闸并新建两线单级船闸，工期95个月。工程设计通航船舶为万吨级，建成后三峡枢纽和葛洲坝枢纽均将形成四线船闸格局，年双向总通过能力分别达3.36亿吨和3.6亿吨，将根本缓解长江黄金水道通航瓶颈，实现万吨级船舶直达重庆，对推动长江经济带高质量发展具有重大战略意义。",
+  "event_time": {
+    "start": "2026-06-08",
+    "end": "2026-06-08",
+    "precision": "day",
+    "evidence": "2026年6月8日上午10时，三峡水运新通道工程开工仪式在湖北宜昌举行，宣布工程正式开工。"
+  },
+  "locations": [
+    "中国/湖北省/宜昌市/夷陵区/太平溪码头",
+    "中国/湖北省/宜昌市/三峡枢纽",
+    "中国/湖北省/宜昌市/葛洲坝枢纽"
+  ],
+  "aliases": [
+    "三峡水运新通道工程开工",
+    "三峡水运新通道开工",
+    "三峡水运新通道正式开工建设",
+    "十五五首个国家重大标志性工程开工"
+  ],
+  "retrieval_queries": [
+    "三峡水运新通道工程 开工",
+    "三峡水运新通道 772.08",
+    "十五五 首个重大工程 三峡水运新通道",
+    "丁薛祥 三峡水运新通道 开工",
+    "三峡枢纽新通道 葛洲坝航运扩能 开工",
+    "宜昌 太平溪码头 三峡水运新通道",
+    "三峡水运新通道 万吨级 船闸"
+  ],
+  "must_match_facts": [
+    "工程于2026年6月8日在湖北省宜昌市正式开工",
+    "系我国“十五五”时期开工建设的首个国家重大标志性工程",
+    "工程静态总投资约772.08亿元人民币",
+    "由三峡枢纽新通道与葛洲坝航运扩能两部分组成",
+    "设计通航船舶为万吨级，三峡枢纽新通道主体为双线连续五级船闸"
+  ],
+  "exclude_if": [
+    "2003年三峡双线五级船闸试通航历史回顾",
+    "2006年三峡大坝主体工程全线竣工事件",
+    "2025年国家发改委批复三峡水运新通道可行性研究报告相关报道",
+    "长江三峡升船机建成通航相关历史报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "“十五五”首个国家重大工程开工三峡枢纽将迎新通道",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRO1Yi8yeHw5A3SU_Af4FpX_GlEAArxObTbVHJW_CVWGA-hlL2u0NlD2GMCKMrT7Isr6h9Vywg5EzcYn0dSfsjNWl8vtZYgJS9MXoAp8jzmFbsfQOk8NDETHuH8UpEMBL0R6PtMv_ukxEuuHvHA4JjGUvhVbBgxIgtcstYx8TYa6vzQw==",
+      "publisher": "新华网",
+      "published_at": "2026-06-08"
+    },
+    {
+      "title": "三峡水运新通道工程开工建设",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHop9l97CDZRX24nE1cdguRkM-gqJyJqa_fJhA3uT_TMILVk1GSk_p9k9k9n3uI81SuWXzt863dire61QKorwIaTXqoNb0RCJJL6LH-dbp3IoN1EyFEIvdWA0FUcTv9oj1alxlGD74906CeUUp0caG_cWukipaLMhnXfcEzrk7PAw==",
+      "publisher": "人民日报",
+      "published_at": "2026-06-11"
+    },
+    {
+      "title": "三峡水运迈向双通道时代劈山成河6680米万里长江再铸重器",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzPr_4XbULwgMDpBnUUOglo-7pJMBKYIbmDGw2u1_d3VbEXX8vkWiRbVlJTKbUr0pQFFinDBMrLO2f2vnarLVCsW-ECJVC1ccgaivWPncbxpB-t5jDVHKxjE5bj1VREDeMvejt-uOcpKr_qK6oPWvcu3RUp2RTDg==",
+      "publisher": "湖北省人民政府门户网站",
+      "published_at": "2026-06-09"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:34"
+}

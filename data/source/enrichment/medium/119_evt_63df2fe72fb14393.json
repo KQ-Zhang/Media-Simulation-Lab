@@ -1,0 +1,79 @@
+{
+  "event_id": "evt_63df2fe72fb14393",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年广东高速五一假期推行潮汐车道与服务区治堵措施",
+  "factual_description": "2026年五一假期前夕，为应对假期期间单向潮汐式明显的车流高峰，广东交通集团在总结清远段春运治堵经验的基础上，在所辖乐广、二广、广贺、江罗、云梧、开阳、渝湛、新博、揭博等多条易堵高速路段全面推广“潮汐”治理模式。2026年4月26日，广东交通集团正式公布19处“潮汐”疏导点位名单，包含7个重点服务区（停车区）、6个重点隧道、5个重点路段和1个重点特大桥。该方案通过在大数据研判基础上适时打开中央隔离带护栏，临时借用对向闲置车道通行或引导车辆借用对向服务区停车，实现双向资源错峰调度。方案公布后，媒体与网民将其形象化称为“合法逆行”，相关话题“#五一广东高速合法逆行路段#”及“#建议全国推行假期高速可逆行#”登上网络热搜并引发广泛讨论。",
+  "event_time": {
+    "start": "2026-04-26",
+    "end": "2026-05-05",
+    "precision": "day",
+    "evidence": "广东交通集团于2026年4月26日公布19处潮汐疏导点位，治堵方案于5月1日至5月5日五一假期期间落地实战运行。"
+  },
+  "locations": [
+    "中国/广东省",
+    "中国/广东省/清远市/乐广高速",
+    "中国/广东省/肇庆市/广贺高速",
+    "中国/广东省/云浮市/云梧高速",
+    "中国/广东省/江门市/江罗高速"
+  ],
+  "aliases": [
+    "广东五一假期推广潮汐车道缓解高速拥堵",
+    "五一广东高速合法逆行路段",
+    "广东高速19处点位实施潮汐疏导",
+    "广东高速潮汐车道及潮汐服务区",
+    "建议全国推行假期高速可逆行"
+  ],
+  "retrieval_queries": [
+    "广东交通集团 潮汐 19处",
+    "五一 广东高速 合法逆行",
+    "建议全国推行假期高速可逆行",
+    "广东高速 潮汐车道 五一",
+    "广东交通集团 潮汐疏导 点位",
+    "云梧高速 葵洞服务区 潮汐"
+  ],
+  "must_match_facts": [
+    "主体为广东交通集团及广东交警部门",
+    "时间背景为2026年五一假期及节前交通保障筹备期",
+    "核心措施为在19处关键点位推广潮汐车道、潮汐隧道及潮汐服务区等借道治堵模式",
+    "涉及乐广、二广、江罗、云梧等易堵高速公路",
+    "社交平台衍生出‘合法逆行’与‘建议全国推行假期高速可逆行’等网络讨论"
+  ],
+  "exclude_if": [
+    "2024年5月梅大高速塌方灾害及抢险",
+    "城市常规早晚高峰机动车或非机动车潮汐车道设置",
+    "关于节假日高速公路免收通行费政策改革或年度免费里程的代表建议讨论"
+  ],
+  "source_evidence": [
+    {
+      "title": "广东重点高速路段19处“潮汐”疏导点位公布",
+      "url": "https://www.gz.gov.cn/img/1/1613/1613918/10793833.jpg",
+      "publisher": "广州日报 / 广州市人民政府门户网站",
+      "published_at": "2026-04-27"
+    },
+    {
+      "title": "广东高速19处点位“五一”假期计划实施“潮汐”借道",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHY4OF6h7trVnHEDWWu8qRuVIXjeCc5M_ojpUg5bAt-Nt3DnxllMED1B1kOkLrfIiSlJj1-bSpQz8sytXOCexvOTNoNCto7T13y5c-4kWEeBqXva9yB-5FxLq1R_0WkG2EBmQ==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-04-24"
+    },
+    {
+      "title": "高速“逆行”？广东推行“潮汐车道”缓解假日拥堵",
+      "url": "https://vodpub6.v.news.cn/yqfbzx-original/20260501/image/6de4f98c-f6c4-4ec9-86a1-fbc5f13499f8.jpg",
+      "publisher": "新华社",
+      "published_at": "2026-05-01"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:11"
+}

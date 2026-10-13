@@ -1,0 +1,65 @@
+{
+  "event_id": "evt_0574473302e7ed93",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "长春7只狗狗结伴走失与网传“大逃亡”辟谣事件",
+  "factual_description": "2026年3月中旬，吉林长春长双快速路附近出现7只家犬结伴前行的视频引发关注。网络一度流传“7只狗狗被偷后咬破笼子跳车逃脱、结伴徒步17公里归家”等剧本化情节。经媒体与志愿者实地走访调查以及官方辟谣澄清，该事件实际是一场由其中一只德牧犬发情吸引同村及邻村散养狗狗共同外出游玩引发的走失乌龙。视频拍摄者起初猜测狗群从拉狗车逃脱并非亲眼所见，事件全程不涉及偷狗、狗贩追杀或狗只受重伤等情况。截至3月19日，7只狗狗均已全部安全返回各自主人家中。",
+  "event_time": {
+    "start": "2026-03-15",
+    "end": "2026-03-21",
+    "precision": "day",
+    "evidence": "2026年3月15日市民鲁先生在长双快速路上首次拍摄到狗群；3月19誌愿者走访证实狗狗已全部安全归家；3月21日官方发布辟谣信息。"
+  },
+  "locations": [
+    "中国/吉林省/长春市/双阳区/长双快速路"
+  ],
+  "aliases": [
+    "长春7只狗狗结伴逃亡17公里",
+    "长春汪汪队大逃亡",
+    "长春7只狗狗17公里返乡路",
+    "现实版忠犬七公"
+  ],
+  "retrieval_queries": [
+    "长春 7只狗狗 17公里",
+    "长春 汪汪队大逃亡",
+    "长春 7只狗狗 辟谣",
+    "长双快速路 7只狗",
+    "长春 7只狗狗 发情"
+  ],
+  "must_match_facts": [
+    "发生在2026年3月中旬吉林长春长双快速路及附近村庄",
+    "涉事犬只共7只，来自同村及邻村散养家犬",
+    "网传为被偷狗贼掳走后咬笼跳车结伴逃亡17公里",
+    "实际真相为德牧发情吸引多只狗狗结伴走失归家，无偷狗盗运行为"
+  ],
+  "exclude_if": [
+    "发生在2024年及之前的宠物犬走失事件",
+    "涉及真实盗狗偷狗案"
+  ],
+  "source_evidence": [
+    {
+      "title": "大反转！火遍全网的7只狗狗“逃亡”事件，真相来了！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4AwVhxKDNLKtV2YhD8Z14TYzJmwVHv_mOrSlSeWJhBp6tsop5z93i8NrQ1McLy_iXT5mzfsyUrxgfRSQ4Ymn8VxWb_GLHHqvPRterI77HFBHB4381zo4NdPiKkNe_zcPfYVV8Rz0suSToSKLkQpuP",
+      "publisher": "悠游吉林",
+      "published_at": "2026-03-24"
+    },
+    {
+      "title": "網民指​長春7隻小狗疑逃離狗販跋涉返家村民揭真相：追逐玩鬧走遠了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOqh930K6woniWrDPC9T4SK9KWQovmZxzblM6gtrpx2AafIgk9Qn4o2W7PWOJM6ohccFJzfX4uE3FcHHJOpcMVeTlTWhu1zXQwXSXI5c5NTJyc5CFmT3IErzgBeFTVkE9x1TASrLFQsgj99FkpaEa4NUvcSs82PmlNZgaTWTpnDNN3H2OZY0nRpDyUyepBG33RRDUknnKljUrDebHlZ8qaIzl6I1C_cB2KPSea7tkS-dmvXVsRYo1oPYt9ce0DLKc3bfmMBWHfrsGSp2MqWbrzJcAPv0e2gt0rfQdrByrrZQJ3wHQehY0VQHsHDHWE1NQmiwWAszxOmicgsxZp2nlPBIzRQeZSE-N8lnCwOCy-1mODywOom8sRdN-ZpQn2HkpNzyw_tmqt2HmOApocdkJf-hxSxJSkMVEiSbXKN-TaSC-5UkuHowbgiVENBS-vYfsurXjB_xM4AbXja8lvKVSjGEuGlnKIdfz6_qfZTv8=",
+      "publisher": "大河报",
+      "published_at": "2026-03-23"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:48"
+}

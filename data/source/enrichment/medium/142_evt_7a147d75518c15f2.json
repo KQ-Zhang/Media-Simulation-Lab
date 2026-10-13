@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_7a147d75518c15f2",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广州一老人花万余元网购糖尿病药实为糖水事件",
+  "factual_description": "2026年8月8日，广东广播电视台等媒体报道，广东广州一名老人在刷短视频时网购了血糖仪，随后被商家工作人员拉入群聊。群内人员以讲解糖尿病知识为由，虚假宣传其有专门产品可以治疗糖尿病。群内多数成员实为商家的“托”，唯有该老人为真实买家。老人先后共计花费15876元购买该产品，其家属随后发现该产品没有任何药用批号，包装与说明上标注的属性实际为普通饮料、糖水和软体糖果，根本不具备治疗功效。家属发现受骗后要求退款，但遭到商家拒绝，且老人被直接踢出群聊。针对该起网购消费纠纷与涉嫌欺诈事件，专业律师建议家属固定聊天记录、购买记录及虚假宣传等相关证据，可通过协商、报案或提起民事诉讼等途径维权。",
+  "event_time": {
+    "start": "2026-08-08",
+    "end": "2026-08-08",
+    "precision": "day",
+    "evidence": "广东广播电视台及新浪新闻于2026年8月8日公开监督报道此事，事件发生于报道前夕。"
+  },
+  "locations": [
+    "中国/广东省/广州市"
+  ],
+  "aliases": [
+    "老人1万多买糖尿病药成分竟是糖水",
+    "老人想治糖尿病却被坑1万多买糖水",
+    "老人买糖尿病药竟是糖水",
+    "糖水治糖尿病事件",
+    "1.8万的保健品竟是糖水"
+  ],
+  "retrieval_queries": [
+    "老人1万多买糖尿病药成分竟是糖水",
+    "老人想治糖尿病却被坑1万多买糖水",
+    "广州 老人 糖尿病 15876",
+    "老人买糖尿病药竟是糖水",
+    "血糖仪 糖水 软体糖果 15876",
+    "广东台监督报道 糖尿病 糖水"
+  ],
+  "must_match_facts": [
+    "广州老人网购血糖仪后被拉入微信群",
+    "商家虚假宣传有专门产品可治疗糖尿病",
+    "老人累计花费15876元",
+    "产品无药用批号且标注为饮料、糖水、软体糖果",
+    "商家拒绝退款并将老人踢出群聊"
+  ],
+  "exclude_if": [
+    "线下实体保健品养生会所诈骗事件",
+    "降糖药物假药地下制售窝点查处案",
+    "与芋头等粗粮降糖误区相关的医学科普文章"
+  ],
+  "source_evidence": [
+    {
+      "title": "老人买糖尿病药竟是糖水|老人|糖尿病药|15876元_新浪新闻",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErH8KoUaD4YXH6oOwk6MGPN9J2535x-2tNpRdD9VjipejKO7Mz45ofnxXlTqokIsRoLCGg2RtbBUNfAeqsBkvJLj4bZywCcoXMu-7jYLHE8xHxnUODM8f2_P2-Ad6OgumhWhCY4fbJzgyoXg==",
+      "publisher": "新浪新闻",
+      "published_at": "2026-08-08"
+    },
+    {
+      "title": "【糖水治糖尿病？#老人1万多买糖尿病药成分竟是糖水#】",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfmP_SicVZHb4Csxf43uwSycrTWk-OZ0NEhjl20wQRN6OqtUe6vsOXry6bj2pXYLYRHwLumR7iR5pH03PzQtQPqb5SDFRicJHX8FdvLw_I7xzcSrY4_ujt-TgNghUrjP1uGInHoff4rjvJUA==",
+      "publisher": "广东广播电视台",
+      "published_at": "2026-08-08"
+    }
+  ],
+  "uncertainties": [
+    "涉案商家的工商注册主体名称尚未公开",
+    "老人的具体被骗付款时间报道中表述为“日前”，未披露具体日期"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:02"
+}

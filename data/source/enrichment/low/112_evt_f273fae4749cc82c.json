@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_f273fae4749cc82c",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026赣超常规赛第十一轮九江队1:0战胜宜春队",
+  "factual_description": "2026年8月15日晚，2026年江西省城市足球超级联赛（赣超）常规赛第十一轮暨收官战在九江市体育中心体育场打响，由九江队坐镇主场迎战此前保持不败的积分榜领头羊宜春队，上演常规赛榜首争夺战。上半场两队互有攻守，战成0:0平。易边再战，两队均提高比赛强度，直至第87分钟，九江队32号球员李启超在禁区内机敏抢射破门，完成绝杀。宜春队随后全力反扑未果，最终九江队在主场以1:0力克宜春队，打破了宜春队整个赛季的不败金身。此役战罢，九江队以常规赛10战6胜2平2负积20分的战绩反超宜春队，成功登顶2026赣超常规赛积分榜榜首并以头名晋级淘汰赛。赛后，九江队助理教练冷烽表示球队赛前制定的保平争胜目标顺利达成，宜春队主教练于国旋表示年轻队员仍需赛场历练并会调整技战术。",
+  "event_time": {
+    "start": "2026-08-15",
+    "end": "2026-08-15",
+    "precision": "day",
+    "evidence": "2026年8月15日晚，赣超第十一轮九江队主场对阵宜春队的焦点战在九江市体育中心打响。"
+  },
+  "locations": [
+    "中国/江西省/九江市/浔阳区/九江市体育中心体育场"
+  ],
+  "aliases": [
+    "2026赣超常规赛收官战九江1:0宜春",
+    "赣超第十一轮九江队对阵宜春队",
+    "2026赣超九江队1-0力克宜春队登顶榜首",
+    "赣超常规赛榜首之战九江绝杀宜春"
+  ],
+  "retrieval_queries": [
+    "赣超 九江 宜春 李启超 1:0",
+    "2026 赣超 第十一轮 九江 宜春",
+    "赣超 常规赛收官战 九江队 宜春队",
+    "九江队 登顶常规赛积分榜首 宜春",
+    "九江市体育中心 赣超 宜春 李启超",
+    "赣超第十一轮 于国旋 冷烽"
+  ],
+  "must_match_facts": [
+    "赛事为2026年江西省城市足球超级联赛（赣超）常规赛第十一轮（收官战）",
+    "比赛时间为2026年8月15日晚",
+    "比赛地点在九江市体育中心体育场",
+    "主队九江队与客队宜春队展开常规赛榜首争夺战",
+    "九江队32号李启超在第87分钟破门攻入制胜球，九江队1:0战胜宜春队",
+    "九江队赛后积20分反超宜春队夺得赣超常规赛积分榜榜首"
+  ],
+  "exclude_if": [
+    "涉及2026赣超八强赛、半决赛或总决赛等淘汰赛阶段赛事",
+    "涉及九江队对阵抚州队、上饶队、南昌队等其他比赛",
+    "涉及宜春队对阵萍乡队、南昌队等淘汰赛场次"
+  ],
+  "source_evidence": [
+    {
+      "title": "九江队登顶常规赛积分榜首",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLSPU36hk0QFyVdYo3ttfb4yJHr1Q33BNfA0CDxEEii1io2l8DCT3WhETRAjSpbe_PYE3B04Y1JJOKxdriFhdpK_b1_qOOnm3i55JQUXSlG45W3VQ9FBbs3Rq9evRVccoiKVsm8c7rZo8W-CynvxUb",
+      "publisher": "人民网（江西日报）",
+      "published_at": "2026-08-16T08:39:00"
+    },
+    {
+      "title": "87分钟绝杀！九江队1比0力克宜春队斩获赣超常规赛榜首",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENmDJ7TDH02A0aNpSanMT2R9xgAJC39tjpY4ELCCG0O1tz7YRsEuCspMWbA_IWEiXGz7Q6_T7aTLmseW9PZgjgJ18iwHqKVzttFI1MBHxKFJIKUWRSuB7YNdOtcr75SF2Py-W-7TfkzHabC93WBUE-",
+      "publisher": "大江网/大江新闻",
+      "published_at": "2026-08-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:00"
+}

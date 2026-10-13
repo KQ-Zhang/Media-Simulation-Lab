@@ -1,0 +1,11 @@
+{
+  "database": "database/background-events.sqlite",
+  "bytes": 42311680,
+  "events": 16337,
+  "eligible": 16336,
+  "concrete": 14471,
+  "topics": 1866,
+  "updates": 17330,
+  "sources": 1293,
+  "enriched": 600
+}

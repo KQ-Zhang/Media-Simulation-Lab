@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_068d99a8e4a491ad",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "广东高州4岁男童监护缺失深夜露宿街头事件",
+  "factual_description": "2026年7月下旬至8月初，广东省茂名高州市新垌镇一名4岁男童因家庭严重照料缺失，多次被发现深夜独自在村道游荡、躺在空地路边睡觉。志愿者透露，男童母亲在其出生后不久离家失联，父亲20多岁沉迷网络游戏且无稳定工作，家中垃圾成堆环境恶劣，80岁患病的爷爷近期身体不适卧床无力看顾。事件经网络曝光后引发社会关注。2026年8月3日前后，高州市新垌镇政府、民政、妇联等部门介入处置，将男童接至临时监护站妥善安置，将患病爷爷送医，同时对男童父亲开展监护警示教育、督促其履行抚养义务，并计划为其推荐工作以改善家庭生活条件。",
+  "event_time": {
+    "start": "2026-07-28",
+    "end": "2026-08-04",
+    "precision": "day",
+    "evidence": "媒体与监控视频显示男童于2026年7月28日凌晨仍在村路游荡；8月2日至3日志愿者反映情况并引发关注；新垌镇政府及相关部门于8月3日至4日介入安置男童并推进帮扶。"
+  },
+  "locations": [
+    "中国/广东省/茂名市/高州市/新垌镇"
+  ],
+  "aliases": [
+    "广东4岁男童露宿街头事件",
+    "茂名4岁男童无人照料深夜睡街头",
+    "高州4岁男童独宿路边事件",
+    "广东茂名男童深夜睡街头"
+  ],
+  "retrieval_queries": [
+    "高州 4岁男童 露宿街头",
+    "茂名 4岁男童 睡街头",
+    "新垌镇 4岁 男童 临时监护",
+    "新垌镇 男童 爷爷 游戏"
+  ],
+  "must_match_facts": [
+    "事发地点位于广东省茂名高州市新垌镇",
+    "涉事主体为一名4岁男童",
+    "男童因监护缺失深夜独自游荡或睡在路边/街头",
+    "男童家庭情况为母亲离家失联、父亲沉迷游戏无业、爷爷年老患病",
+    "当地政府（新垌镇政府及民政等部门）介入并对男童进行临时监护安置"
+  ],
+  "exclude_if": [
+    "涉及拐卖、走失迷路被警方送还的儿童事件",
+    "涉及男童被遗弃在火车站、商场或孤儿院的案件",
+    "涉及虐待儿童刑事立案或重伤死亡的恶性案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "茂名男童深夜睡街头后续：男童获临时监护，当地为其父推荐工作",
+      "url": "https://media.bjnews.com.cn/cover/2026/08/04/5748778085642218194.jpg",
+      "publisher": "新京报",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "广东茂名一男童露宿街头，当地回应：多部门介入，已对孩子父亲开展监护人警示教育",
+      "url": "https://imgcdn.thecover.cn/664189&1785898680947.jpg",
+      "publisher": "封面新闻",
+      "published_at": "2026-08-04"
+    },
+    {
+      "title": "4岁男童|父亲|爷爷|镇政府|夜宿街头",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5lbw2ZGxa9IlVCItPhkLyeb6dlrdRXqWUaTpT36zzCx7DCnfDSPNbKWZL_9cUgdeDcsDi5Mr9Z7sDlrnLeJg4hhb3rNf-z3M4mIENbDryb8DMetP-FXxYWngA_f2GUIg1L_J_oopAaWziJQ==",
+      "publisher": "大河报",
+      "published_at": "2026-08-04"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:16"
+}

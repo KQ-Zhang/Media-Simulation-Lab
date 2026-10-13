@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_339525190dd8b86f",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "梅德韦杰夫批评高市早苗在广岛核爆纪念活动中未提及美国投弹",
+  "factual_description": "2026年8月6日，日本广岛举行原子弹爆炸81周年和平纪念仪式，日本首相高市早苗在仪式上发表致辞，但致辞中未点名提及1945年向广岛和长崎投下原子弹的国家是美国。同日，俄罗斯联邦安全会议副主席德米特里·梅德韦杰夫在社交平台X上发帖予以猛烈抨击。梅德韦杰夫写道，在回顾广岛和长崎遭受核爆事件时，日本首相及其他任何日本官员竟然一次都没有提及当年投弹的责任方，“真是耻辱”；他还直指“日本是美国的附庸”，日后甚至会变成“浪人”。俄外交部官员随后也针对日方回避美国责任发表评论，相关表态引发了中俄及国际舆论的广泛报道与讨论。针对该言论，有媒体与分析人士进一步将高市政府在此次致辞中弱化“无核三原则”表述的举动联系报道。",
+  "event_time": {
+    "start": "2026-08-06",
+    "end": "2026-08-06",
+    "precision": "day",
+    "evidence": "2026年8月6日广岛举行核爆81周年纪念仪式，梅德韦杰夫同日在社交平台上发文批评日本首相高市早苗。"
+  },
+  "locations": [
+    "俄罗斯",
+    "日本/广岛县/广岛市"
+  ],
+  "aliases": [
+    "梅德韦杰夫怒批高市早苗真是耻辱",
+    "梅德韦杰夫批高市早苗不提美军轰炸广岛长崎",
+    "梅德韦杰夫斥日本是美国附庸",
+    "梅德韦杰夫批广岛核爆纪念未提美国"
+  ],
+  "retrieval_queries": [
+    "梅德韦杰夫 高市早苗 广岛",
+    "梅德韦杰夫 广岛 长崎 耻辱",
+    "梅德韦杰夫 日本是美国的附庸",
+    "高市早苗 广岛核爆81周年 讲话",
+    "Medvedev Hiroshima vassal shame",
+    "梅德韦杰夫 谁炸的 真是耻辱"
+  ],
+  "must_match_facts": [
+    "2026年8月6日广岛核爆81周年纪念期间高市早苗致辞未提及美国",
+    "梅德韦杰夫在社交媒体发帖回应批评",
+    "梅德韦杰夫表态称不提轰炸责任方是耻辱并斥日本是美国附庸"
+  ],
+  "exclude_if": [
+    "2023年1月梅德韦杰夫批评岸田文雄访美及日美联合声明核问题言论",
+    "仅讲述1945年美军向广岛、长崎投掷原子弹的历史事件本身",
+    "石破茂或岸田文雄执政时期的广岛和平纪念仪式相关言论"
+  ],
+  "source_evidence": [
+    {
+      "title": "梅德韦杰夫批高市早苗不提当年是谁轰炸广岛和长崎：真是耻辱",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIxtEFgA0r2L6aob7EZ6VJOC3HiKPLAdxhYWDrf0kYBGpnaFDqwLdmV3i_3qK2ei8DH_Es5dUxrj4xKoEyERjd_Modxss34PCRw0qY81_ffYxTFs5cVRznNJ8=",
+      "publisher": "环球网 / 凤凰网",
+      "published_at": "2026-08-07"
+    },
+    {
+      "title": "梅德韦杰夫：不敢提是美国扔下的原子弹",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbW7xZKestvmq3mNpX6ecZtKB9y3EZCdKQQZtkOJlbdO4iqF-hbwDuouvbkn_AhO2Ah3zdJZNdS4Tff6rn_4KGQDIwlKvsnEwWRZAT_cP6-MC-R3aCqXkENmp4j7uZ9zB5rEWPAJA=",
+      "publisher": "网易新闻 / 中国新闻社",
+      "published_at": "2026-08-07"
+    },
+    {
+      "title": "\"What a shame\" — Medvedev about the silence in Japan, that the US dropped nuclear bombs",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFzlfH7piUHBXgapr_QWZxbLk50ptAHwnGp-0cf9mzg_1NxZsBewAMwDeIFoXMgv5Ze7W5fTNs5CeTsSu9yBBKOoChqsi2CRGi68_aZVpeXa_MxhPJllM7hEtAhEQOetsMAnOfFuhXMYTakmKZqV2urrciUfGg5vHbfF4qmjx4lRm_Mkwut9d2o_ELiwb-ak59GnIXQ5dvZ_2_tsKuldJGBRpgCB5hCjLtB6_8IkrNA",
+      "publisher": "EADaily",
+      "published_at": "2026-08-06"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:37"
+}

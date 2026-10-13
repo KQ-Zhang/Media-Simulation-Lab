@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_f31432286bd8b604",
+  "verification_status": "partially_verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年央视3·15晚会曝光川渝企业违规使用双氧水漂白鸡爪事件",
+  "factual_description": "2026年3月15日晚，中央广播电视总台第36届“3·15”晚会曝光四川成都、重庆等地食品加工企业违规使用过氧化氢（双氧水）漂白鸡爪及生产车间卫生极差的食品安全问题。暗访调查显示，成都市明扬食品有限责任公司（为四川省蜀福香食品有限责任公司进行前期加工）及重庆市曾巧食品有限公司等企业，在生产环境脏乱、鸡爪裸露堆放并遭踩踏的情况下，违规使用强氧化剂双氧水对鸡爪进行浸泡漂白，以掩盖变质并提升卖相，工人坦言自己不敢食用。事件同时牵出四川眉山金山制药有限公司、河南新乡亿丰电子新材料有限公司等上游企业违规向食品厂销售无规范标签的双氧水。曝光前夕及当晚，国家市场监督管理总局联合多地执法力量开展全面收网，连夜突击检查涉事企业，当场查封扣押涉案双氧水及问题凤爪，并依法立案调查。",
+  "event_time": {
+    "start": "2026-03-15",
+    "end": "2026-03-15",
+    "precision": "day",
+    "evidence": "2026年3月15日晚，央视“3·15”晚会正式播发出镜调查并曝光该事件；监管部门于3月15日当晚连夜查封涉事企业。"
+  },
+  "locations": [
+    "中国/四川省/成都市/邛崃市",
+    "中国/重庆市/合川区",
+    "中国/四川省/眉山市",
+    "中国/河南省/新乡市/获嘉县"
+  ],
+  "aliases": [
+    "2026年315晚会漂白鸡爪事件",
+    "央视315曝光双氧水漂白凤爪",
+    "蜀福香曾巧双氧水漂白鸡爪案",
+    "川渝漂白网红鸡爪乱象"
+  ],
+  "retrieval_queries": [
+    "315晚会 漂白鸡爪",
+    "央视 315 漂白鸡爪 双氧水",
+    "蜀福香 明扬食品 双氧水 鸡爪",
+    "曾巧食品 漂白鸡爪 315",
+    "双氧水漂白凤爪 315",
+    "金山制药 亿丰电子 双氧水 鸡爪",
+    "315曝光 漂白凤爪",
+    "蜀福香 漂白鸡爪"
+  ],
+  "must_match_facts": [
+    "曝光时间为2026年3月15日第36届央视3·15晚会",
+    "涉事食品企业包括四川省蜀福香食品有限责任公司、成都市明扬食品有限责任公司、重庆市曾巧食品有限公司",
+    "涉事违规添加物为过氧化氢（工业双氧水）用于鸡爪浸泡漂白",
+    "上游供应商涉及眉山市金山制药有限公司和河南新乡亿丰电子新材料有限公司",
+    "市场监管总局调动执法力量对涉事企业连夜查封并扣押问题产品"
+  ],
+  "exclude_if": [
+    "将事件发生年份错误认定为2023年",
+    "指称有友食品生产车间违规使用双氧水漂白（有友食品系被询问后发布声明澄清）",
+    "涉及2015年公安部打击地下黑窝点‘毒鸡爪’案件",
+    "涉及其他年份3·15晚会曝光的梅菜扣肉、土坑酸菜、香精大米事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "3·15晚会丨曝光黑心“漂白鸡爪”！生产车间令人作呕！有毒的双氧水随便用！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkN6_aU0vdvDtlGJqCigdEZklL6YoAwefg_PWHEwiN-tVzG1iHmKUrV76j3ZOO9KBZYZDZOU9Z2fc1lXDmJXz_Tv4u_hWaWaGc6DjzalfYdx_5rpaf5Vg9Nq3wjg==",
+      "publisher": "央视财经 / 新蓝网",
+      "published_at": "2026-03-15"
+    },
+    {
+      "title": "3.15晚会曝光漂白鸡爪涉事公司曾多次被罚 重庆发布情况通报：开展深挖彻查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrEOralzd6LZBjf2cWZc474l6thx4zfW4S-LRH6INYjyTrO1_S4pgwpaEcQNFdS_w_Npxl8FWiSwM918qa2wSIPjsJrC5I3vEtACnXymk9F7WvsxKJnYBFarRf2fKTuAq4KNKR2o_Fmgg1s78DoB7VSBiDJXE=",
+      "publisher": "央广网",
+      "published_at": "2026-03-15"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中将曝光时间误标为2023年3月15日，经核实真实时间应为2026年3月15日",
+    "数据集样本中部分社交媒体帖子误将‘有友食品’关联为被曝光主体，实际有友食品系因消费者质询后主动声明澄清"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:03:26"
+}

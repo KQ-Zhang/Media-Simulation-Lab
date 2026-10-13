@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_668052c009506a4c",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "周星驰执导电影《功夫女足》定档2026年7月11日公映及预售票房破4500万",
+  "factual_description": "2026年7月6日，由周星驰编剧并执导，张小斐、迪丽热巴、张艺兴领衔主演的体育喜剧电影《功夫女足》（延续《少林足球》经典IP）官方宣布定档于2026年7月11日在中国大陆院线公映。该片采取短周期“极限定档”策略，开启预售后市场热度攀升。截至2026年7月10日，该片预售票房正式突破4500万元人民币，购票人次突破百万，刷新2026年暑期档新片预售纪录，多家数据机构及AI模型预测其首日票房将达到或突破2亿元。2026年7月11日影片公映后，首日票房实际取得2.61亿元，随后领跑2026年暑期档大盘。",
+  "event_time": {
+    "start": "2026-07-06",
+    "end": "2026-07-11",
+    "precision": "day",
+    "evidence": "2026年7月6日片方官宣定档7月11日上映，7月10日官方媒体通报预售超4500万，7月11日全国正式公映。"
+  },
+  "locations": [
+    "中国"
+  ],
+  "aliases": [
+    "周星驰功夫女足预售破4500万",
+    "功夫女足定档7月11日",
+    "电影功夫女足预售票房破4500万",
+    "功夫女足AI预测首日票房超2亿",
+    "周星驰少林女足公映"
+  ],
+  "retrieval_queries": [
+    "周星驰 功夫女足 预售 4500万",
+    "功夫女足 7月11日 定档",
+    "功夫女足 预售票房 4500万",
+    "功夫女足 AI预测 首日票房 2亿",
+    "周星驰 功夫女足 首日票房 2.6亿",
+    "功夫女足 张小斐 迪丽热巴 预售"
+  ],
+  "must_match_facts": [
+    "主体为周星驰执导/编剧的电影《功夫女足》",
+    "2026年7月6日宣布定档并于7月11日上映",
+    "公映前预售票房突破4500万元",
+    "首日票房预测超2亿元且首映日实际票房超2.6亿元",
+    "主演包含张小斐、迪丽热巴、张艺兴等"
+  ],
+  "exclude_if": [
+    "2001年周星驰主演电影《少林足球》重映或相关历史回顾",
+    "2019年电影《新喜剧之王》上映及票房讨论",
+    "现实中中国女足国家队或女足俱乐部赛事实体新闻",
+    "涉及电影票务诈骗、刷票或虚假投资的个案传闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "【电影频道M指数：2026年第26周】周星驰时隔七年回归之作《功夫女足》将于本周六上映，预售票房已超4500万",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGNw613b6IQapcZDPV0-cs-n-d-2NXLapQHpgSOLDf5P4DYRfckYQsOp4z1rL0sixMenGraqAwShETQGl2oP-0Z6BeZvbSVh5S22YU8qYsFavbi8icAeL-yZ0Z4MgtFMbWS-zqPkymyY71",
+      "publisher": "电影频道融媒体中心（新浪网转引）",
+      "published_at": "2026-07-10"
+    },
+    {
+      "title": "周星驰新作《功夫女足》正式定档7月11日，影片由张小斐、迪丽热巴、张艺兴领衔主演",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE26j-1KgukVQjGO6lwiTdWLmJcw4IJrzYV9BHsUN6nJxSnqVZBzdodopddceZo_BdYySGx2MdrxlbdLMOfcVwmPfJy6kwdWhwdF2DaP34ckNZgVY5nIKsOESFdreTKC5rbGXtHefmauCWFDMHMMYSuFAtVTXiqF2U=",
+      "publisher": "新浪财经",
+      "published_at": "2026-07-06"
+    },
+    {
+      "title": "艺绽｜超预期！《功夫女足》预测总票房将超18亿元",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMst8mt755wDtuXBtNK0JvQk8adAa-TnJwoyvRzTlfxaCuVpu6s2ZuELAUx3OfO39TzZqegAEQb1xLw6EhrK2Uq02pdi4xB71-aIpwJ_8wMwEtTeS9hRBNcuqjq8iVmp_ykZDszRWzvqKVRz6ahpZ4pxvkLCw=",
+      "publisher": "北京日报",
+      "published_at": "2026-07-12"
+    }
+  ],
+  "uncertainties": [
+    "“AI预测首日票房超2亿”的具体算法模型与出具机构在官方报道中未作详细披露，主要系第三方票房预测及大数据分析口径。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:59:07"
+}

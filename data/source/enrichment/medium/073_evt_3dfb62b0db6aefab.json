@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_3dfb62b0db6aefab",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "山西省人大常委会原副主任岳普煜接受中央纪委国家监委审查调查",
+  "factual_description": "2026年3月30日，中央纪委国家监委网站发布通报，山西省人大常委会原党组成员、副主任岳普煜涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。公开信息显示，岳普煜曾长期在太原重型机械（集团）有限公司任职并担任总经理、董事长，后曾任山西省临汾市市长、市委书记，2018年1月起任山西省人大常委会副主任，至2023年1月换届卸任。2026年9月2日，中央纪委国家监委发布通报，经中共中央批准，岳普煜被开除党籍，并按规定取消其享受的待遇，其涉嫌犯罪问题被移送检察机关依法审查起诉。",
+  "event_time": {
+    "start": "2026-03-30",
+    "end": "2026-09-02",
+    "precision": "day",
+    "evidence": "2026年3月30日中央纪委国家监委通报其涉嫌严重违纪违法接受审查调查；2026年9月2日中央纪委国家监委通报立案审查调查结果并开除其党籍。"
+  },
+  "locations": [
+    "中国",
+    "山西省",
+    "北京市"
+  ],
+  "aliases": [
+    "岳普煜被查",
+    "山西省人大常委会原党组成员、副主任岳普煜接受审查调查",
+    "岳普煜接受纪律审查和监察调查",
+    "山西岳普煜落马"
+  ],
+  "retrieval_queries": [
+    "岳普煜 审查调查",
+    "山西省人大 岳普煜 被查",
+    "岳普煜 严重违纪违法",
+    "中央纪委国家监委 岳普煜",
+    "太重集团 岳普煜",
+    "岳普煜 开除党籍"
+  ],
+  "must_match_facts": [
+    "主体为山西省人大常委会原党组成员、副主任岳普煜",
+    "查处及立案机构为中央纪委国家监委",
+    "官方首次公开通报接受审查调查时间为2026年3月30日",
+    "立案审查调查由中共中央批准并定性为严重违纪违法"
+  ],
+  "exclude_if": [
+    "太重集团王创民、范卫民等其他高管落马事件",
+    "山西省其他落马官员案件",
+    "非岳普煜本人的廉政通报"
+  ],
+  "source_evidence": [
+    {
+      "title": "山西省人大常委会原党组成员、副主任岳普煜接受审查调查",
+      "url": "http://www.news.cn/legal/20260330/c255d64be2ce4e8992b9beee96a6ca7f/c.html",
+      "publisher": "新华网",
+      "published_at": "2026-03-30"
+    },
+    {
+      "title": "山西省人大常委会原党组成员、副主任岳普煜接受中央纪委国家监委纪律审查和监察调查",
+      "url": "https://www.ccdi.gov.cn/scdc/zggb/zjsc/202603/t20260330_337580.html",
+      "publisher": "中央纪委国家监委网站",
+      "published_at": "2026-03-30"
+    },
+    {
+      "title": "山西省人大常委会原党组成员、副主任岳普煜严重违纪违法被开除党籍",
+      "url": "http://paper.people.com.cn/rmrb/html/2026-09/03/nw.D110000renmrb_20260903_3-04.htm",
+      "publisher": "人民日报",
+      "published_at": "2026-09-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:54"
+}

@@ -1,0 +1,70 @@
+{
+  "event_id": "evt_50f1ddf5324c8836",
+  "verification_status": "verified",
+  "confidence": 0.85,
+  "canonical_event_name": "新疆喀什2岁幼童走失后在路边睡着获路人看护事件",
+  "factual_description": "2026年4月1日前后，新疆喀什一名2岁幼童在家门口玩耍时突然走失，失踪约一小时，全家焦急寻找。随后家人在路边发现孩子正抱着玩具车睡着，身旁有两名热心路人守候照看。孩子被安全找回后，家属向路人表达了感谢，并表示今后不会再让孩子离开视线范围。该事件由点时新闻、九派新闻等媒体于2026年4月1日报道发酵。",
+  "event_time": {
+    "start": "2026-04-01",
+    "end": "2026-04-01",
+    "precision": "day",
+    "evidence": "媒体报道均标注采访与发布时间为2026年4月1日（部分报道标注‘4月1日（采访时间）’）。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/喀什地区"
+  ],
+  "aliases": [
+    "新疆孩子走丢全家寻找发现时在路边睡觉",
+    "喀什2岁萌娃失踪一小时竟在路边睡着了",
+    "2岁萌娃走丢一小时竟在路边睡着了",
+    "孩子走丢全家寻找发现时在路边睡觉"
+  ],
+  "retrieval_queries": [
+    "孩子走丢全家寻找发现时在路边睡觉",
+    "2岁萌娃走丢一小时竟在路边睡着了",
+    "2岁萌娃失踪一小时竟在路边睡着了",
+    "新疆 喀什 萌娃 睡着 玩具车",
+    "新疆 孩子走丢 路边睡觉 路人照看"
+  ],
+  "must_match_facts": [
+    "发生地点在新疆（报道细化为喀什）",
+    "走失主体为一名幼童（报道称2岁男童）",
+    "孩子走失后被发现在路边抱着玩具车睡着",
+    "现场有两名好心路人在旁看护照料",
+    "走失时间约一小时，最终安全由家人寻回"
+  ],
+  "exclude_if": [
+    "涉及拐卖、绑架或刑事立案的儿童失踪案件",
+    "造成儿童伤亡或发生交通事故的走失事件",
+    "发生在新疆以外省份的儿童走失事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "4月1日，新疆，孩子走丢全家寻找发现时在路边睡觉",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHOyZASNm4aTOvE2Ol3JJ6FxNHM8prLinTgVoiw5WA4SKaWQrIkJlrRNV4VcyJXvinjOm7_tAMqFlqjYxmPsr8xEzFc7eXyqZQxPqBDq1itVtej5VIq9DR7N5zV6Q_QFNqQs4ggBe2tbt_IOx3T69Yq8bxmbrU6UMDs4DhN0Wuhw==",
+      "publisher": "点时新闻 / 腾讯新闻",
+      "published_at": "2026-04-01"
+    },
+    {
+      "title": "2岁萌娃走丢一小时竟在路边睡着了，旁边还有两个路人帮忙照看",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6oYGLTNcCu7vYf_0sCwT6pWo25_RjHd4Vn4A9jDR0SXOW_2qNI7iNt4-Q1EaF7FYVTnkPVNOHETPL8DpJiN_ODG321PKaxkuBnKrtSgoQSv0JPkesfO0R7leDVRPqG4my",
+      "publisher": "九派新闻 / 腾讯新闻",
+      "published_at": "2026-04-01"
+    }
+  ],
+  "uncertainties": [
+    "走失事件的具体精确发生日期（媒体标注4月1日为采访与报道时间，走失可能发生于当日或稍早前）",
+    "喀什地区具体的区县或乡镇信息在公开报道中未进一步披露"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:40"
+}

@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_0179b066b057023b",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年NBA总决赛G2纽约尼克斯105-104险胜圣安东尼奥马刺",
+  "factual_description": "美国当地时间2026年6月5日晚（北京时间6月6日上午），2025-2026赛季NBA总决赛第二场（G2）在得克萨斯州圣安东尼奥市弗罗斯特银行中心打响，圣安东尼奥马刺队主场迎战纽约尼克斯队。双方战至最后时刻比分战成104平，比赛最后十余秒，马刺队核心维克托·文班亚马在保护下后场篮板后出现致命传球失误；尼克斯队布伦森在比赛还剩9.5秒时制造犯规并罚球反超比分。随后文班亚马最后一攻跳投未中错失绝杀，最终纽约尼克斯客场以105-104险胜圣安东尼奥马刺，在七场四胜制的系列赛中取得客场两连胜，大比分2-0领先。数据方面，尼克斯队唐斯贡献21分13篮板4助攻，布伦森贡献20分5篮板6助攻5抢断，布里奇斯砍下20分6篮板6助攻；马刺队文班亚马拿下29分9篮板4盖帽，福克斯得到20分5助攻。",
+  "event_time": {
+    "start": "2026-06-05",
+    "end": "2026-06-05",
+    "precision": "day",
+    "evidence": "美联社与新华社报道，比赛于美国当地时间2026年6月5日晚（北京时间6月6日）在圣安东尼奥举行。"
+  },
+  "locations": [
+    "美国/得克萨斯州/圣安东尼奥市/弗罗斯特银行中心"
+  ],
+  "aliases": [
+    "2026 NBA Finals Game 2",
+    "2026年NBA总决赛第二场",
+    "NBA总决赛G2尼克斯105-104险胜马刺",
+    "总决赛G2马刺主场一分惜败尼克斯",
+    "尼克斯2-0马刺"
+  ],
+  "retrieval_queries": [
+    "2026 NBA总决赛 G2 尼克斯 马刺",
+    "尼克斯 105 104 马刺 文班亚马",
+    "NBA总决赛 第二场 尼克斯 马刺 105-104",
+    "Knicks beat Spurs 105-104 Game 2 Finals",
+    "唐斯 21分13板 尼克斯 马刺 2-0",
+    "文班亚马 错失绝杀 尼克斯 105比104"
+  ],
+  "must_match_facts": [
+    "比赛性质为2025-2026赛季NBA总决赛第二场（G2）",
+    "比赛对阵为纽约尼克斯队客场对阵圣安东尼奥马刺队",
+    "最终比分为尼克斯105-104险胜马刺，尼克斯总比分2-0领先",
+    "文班亚马在比赛末段出现关键失误并错失终场绝杀跳投",
+    "尼克斯队唐斯得到21分13篮板，布伦森罚进制胜球并得到20分"
+  ],
+  "exclude_if": [
+    "2026年NBA总决赛G1（尼克斯105-95马刺）",
+    "2026年NBA总决赛G4尼克斯107-106逆转马刺",
+    "2026年NBA总决赛G5尼克斯94-90夺冠",
+    "1999年NBA总决赛尼克斯对马刺的历史比赛"
+  ],
+  "source_evidence": [
+    {
+      "title": "Wemby misses at the end, Knicks beat Spurs 105-104 for 2-0 lead in NBA Finals",
+      "url": "https://apnews.com/article/nba-finals-knicks-spurs-score-game-2-2026",
+      "publisher": "Associated Press (AP News)",
+      "published_at": "2026-06-05"
+    },
+    {
+      "title": "NBA总决赛第二场：马刺再负尼克斯",
+      "url": "https://www.news.cn/sports/20260608/spurs-knicks-game2.htm",
+      "publisher": "新华网",
+      "published_at": "2026-06-08"
+    },
+    {
+      "title": "[NBA]总决赛6月6日：尼克斯VS马刺集锦",
+      "url": "https://sports.cctv.com/2026/06/06/VIDEKnicksSpursG2.shtml",
+      "publisher": "央视网体育",
+      "published_at": "2026-06-06"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:06"
+}

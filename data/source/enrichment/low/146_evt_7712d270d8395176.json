@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_7712d270d8395176",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026“同心杯”新疆足球超级联赛和田队对阵克州队比赛",
+  "factual_description": "2026年5月24日，2026“同心杯”新疆足球超级联赛（疆超联赛）南区常规赛在新疆维吾尔自治区和田地区洛浦县公共体育场举行，和田队主场迎战克州队。前中国国家男子足球队主教练博拉·米卢蒂诺维奇（米卢）受邀亲临现场观赛，并在赛前走进更衣室及球场与和田队队员握手击掌、签名合影与加油助威。当日18时30分，米卢在中圈为赛事正式开球。整场比赛双方攻防激烈，最终以1比1的比分握手言和。该场比赛吸引了众多当地球迷到场呐喊助威，有效展现了新疆基层群众足球的浓厚氛围。",
+  "event_time": {
+    "start": "2026-05-24",
+    "end": "2026-05-24",
+    "precision": "day",
+    "evidence": "中新网等官方主流媒体报道，比赛于2026年5月24日18时30分在洛浦县公共体育场开踢。"
+  },
+  "locations": [
+    "中国/新疆维吾尔自治区/和田地区/洛浦县/洛浦县公共体育场"
+  ],
+  "aliases": [
+    "2026同心杯疆超联赛和田主场对阵克州队",
+    "米卢现身新疆和田为疆超联赛开球",
+    "疆超联赛和田队VS克州队",
+    "2026新疆足球超级联赛和田赛区比赛"
+  ],
+  "retrieval_queries": [
+    "同心杯 新疆足球超级联赛 和田 克州",
+    "疆超联赛 和田主场 克州队 米卢",
+    "米卢 和田 洛浦 足球 开球",
+    "和田队 克州队 1比1 洛浦县公共体育场",
+    "2026同心杯 新疆足球超级联赛 和田赛区"
+  ],
+  "must_match_facts": [
+    "2026年5月24日举办的2026“同心杯”新疆足球超级联赛比赛",
+    "比赛地点位于新疆和田地区洛浦县公共体育场",
+    "对阵双方为主场作战的和田队与客场作战的克州队",
+    "前国足主教练米卢受邀到场与球员互动并为比赛开球",
+    "比赛最终比分为1:1平局"
+  ],
+  "exclude_if": [
+    "2026年疆超联赛总决赛（如喀什队对阵伊犁队）",
+    "其他赛区或非和田队对阵克州队的疆超联赛轮次",
+    "米卢在和田地区天津高级中学的校园足球活动或青训基地揭牌单列事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "米卢现身新疆和田为疆超联赛开球",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBHUGax5PMKZbNDiepbvcjBVSaP0A2HlCuOxwlLCmiCBhilhrJMk6SNYTTArQJCPGxuEmp51BrR4p7e1rNRcZJhOAKAbFzMyI6VbuWS_QZqcTvQNcmt4XXkwevzdAdJBVeCUOLzFynhKumYbWp8J4=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-05-25"
+    },
+    {
+      "title": "前国足主教练米卢抵达和田球迷驱车200公里迎接",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLGgy5Uupa2UnoB6qQFJgrOwySONv8I84CQ_EvaXYqDkYyjLHpClDhBjqEKScbf0HzIPcFp9MLI2sBnbpU0VBiO20bH0HUxXWXzPyG2Di0pDVs4vkQe_Rs3Q_C_G4C72Z07C_HrAY0IK6G5dGWuwpUxtnHrzI8vnKTix4uQ2X0PF4-7w==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-05-25"
+    }
+  ],
+  "uncertainties": [
+    "现有描述中'和田市洛浦县'属于行政区划层级笔误，洛浦县为新疆和田地区直辖县，非和田市辖区。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:46"
+}

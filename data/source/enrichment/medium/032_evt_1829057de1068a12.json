@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_1829057de1068a12",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "蔚来创始人李斌在北大2026年本科生毕业典礼发表演讲",
+  "factual_description": "2026年7月2日上午，北京大学2026年本科生毕业典礼暨学位授予仪式在邱德拔体育馆举行。蔚来创始人、董事长兼CEO李斌作为北大社会学系1996届毕业生代表受邀登台发表演讲。2026年恰逢李斌从北大毕业30周年，他在演讲中未讲述商业成功学或高光时刻，而是坦承创业与毕业30年间经历过6次人生与事业大低谷，并现场详细复盘了其中三次关键挫折：1996年毕业前夕创办南极科技遭遇合伙人出国深造、独自睡在会议桌上求生；2010年经营易车时期直面战略错误，果断砍掉数亿元跨媒体业务并聚焦互联网核心；以及2022至2025年蔚来陷入三年深度低谷后向内求索归因、坚决推进产品体验与运营调整走出泥潭。李斌以此寄语即将毕业的学弟学妹，面对困境要勇于直面错误、对自己诚实，忠于内心、向内求索、勇敢前行。",
+  "event_time": {
+    "start": "2026-07-02",
+    "end": "2026-07-02",
+    "precision": "day",
+    "evidence": "李斌于2026年7月2日上午在北京大学邱德拔体育馆举行的2026年本科生毕业典礼上登台演讲。"
+  },
+  "locations": [
+    "中国/北京市/海淀区/北京大学邱德拔体育馆"
+  ],
+  "aliases": [
+    "李斌北大毕业典礼演讲",
+    "李斌北大8分钟发言",
+    "李斌北大毕业30年演讲",
+    "蔚来李斌北大本科生毕业典礼致辞",
+    "李斌北大演讲谈三次低谷"
+  ],
+  "retrieval_queries": [
+    "李斌 北大毕业典礼 演讲",
+    "蔚来 李斌 2026届 北大",
+    "李斌 北大 邱德拔体育馆",
+    "李斌 北大 6次低谷 三次低谷",
+    "李斌 北大 向内求索 勇敢前行",
+    "李斌 易车犯的六个错误 北大演讲"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年7月2日上午",
+    "地点位于北京大学邱德拔体育馆2026年本科生毕业典礼",
+    "演讲者为蔚来创始人、北大社会学系1996届校友李斌",
+    "演讲核心内容为复盘创业30年低谷经历并寄语学弟学妹忠于内心、向内求索"
+  ],
+  "exclude_if": [
+    "非2026年7月2日北京大学毕业典礼相关事件",
+    "李斌出席的其他高校演讲或非毕业典礼校园活动",
+    "蔚来汽车常规财报会议或新车商业发布会"
+  ],
+  "source_evidence": [
+    {
+      "title": "蔚来李斌北大演讲全文：唯有向内求索，才能找到出路",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQS1fAmFvLH-jp15-xMRsU7dliWcHybX6pq3tHAZ9uGqQIn_YTq0kuAUYcwTzgbc-ujaZSBC52_YeYZiI60d4PNeC9jrM1E4uPMIlytvDV8g35LyT7-F2yIBMBzge9gnRSv55CttaLk2qPrjnC7HETo8VJpzOMBRDXmTwk9mnFtXU5fmA=",
+      "publisher": "新浪财经",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEanSKXbZp5zN5LhwQzPe68diVQL1KI4IK3F17dEqvk39LxHkhfX0FlPcrBvwoiNmeLxB5lnYnlkdSjxdQtFgAux4fPNEACUPz2GZCNAeKXjYP41MaS6KTk74MKi_NTHjg=",
+      "publisher": "量子位",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "蔚来李斌北大本科生毕业典礼致辞：向内求索方能寻得出路",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOCRlFOBgW9_5jh7ZVp--CL6aw4ZKzrV-nhmzNGhKWrcCWwz5ai8U9QP2TX8uze3QV8OldVYpBBTtSpYddZBXAcrlZyb1vmvvXqFSJXRPBTp4Xb-P_Ekh0J-Y0olvYo1D5OPYvBU-xLyE2-bHC79ihwR24LP9n",
+      "publisher": "金融界",
+      "published_at": "2026-07-02"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:58"
+}

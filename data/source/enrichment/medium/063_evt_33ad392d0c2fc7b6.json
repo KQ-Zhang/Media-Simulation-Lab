@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_33ad392d0c2fc7b6",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "公安部通报我国电诈案件发案连续8个月同比下降",
+  "factual_description": "2026年6月12日，中华人民共和国公安部在北京召开新闻发布会，通报当前电信网络诈骗犯罪的最新形势与特点。公安部刑事侦查局副局长朱磊介绍，自2025年10月以来，我国电信网络诈骗案件发案已连续8个月实现同比下降。发布会通报，当前最高发的电诈类型有10类，包括刷单返利、虚假购物服务、虚假网络投资理财、冒充电商物流客服、贷款征信、网络游戏虚假交易、网络婚恋交友、冒充公检法、冒充领导熟人和机票退改签诈骗，这10类案件占全部电诈案件的85%。其中，刷单返利诈骗发案率最高（占25%），虚假网络投资理财诈骗损失金额最高（约占损失总额的40%）。此外，警方分析了电诈犯罪引流作案、利用小众软件深度洗脑、使用专门App远程盗刷以及利用现金和黄金等贵重物品转移涉诈资金等最新手法与特征。",
+  "event_time": {
+    "start": "2026-06-12",
+    "end": "2026-06-12",
+    "precision": "day",
+    "evidence": "新华社及央视新闻报道，公安部于2026年6月12日举行新闻发布会通报相关情况。"
+  },
+  "locations": [
+    "中国/北京市/公安部"
+  ],
+  "aliases": [
+    "公安部通报电诈案件发案连降8个月",
+    "我国电诈案件发案连续8个月同比下降",
+    "公安部通报电信网络诈骗犯罪最新形势特点",
+    "公安部2026年6月12日反诈新闻发布会"
+  ],
+  "retrieval_queries": [
+    "公安部 电诈案件发案连续8个月同比下降",
+    "我国电诈案件发案连续8个月同比下降",
+    "公安部新闻发布会 电诈 朱磊",
+    "刷单返利 虚假网络投资理财 连续8个月同比下降",
+    "公安部 通报当前电信网络诈骗犯罪最新形势"
+  ],
+  "must_match_facts": [
+    "2026年6月12日公安部在北京举行新闻发布会",
+    "通报自2025年10月以来我国电诈案件发案连续8个月实现同比下降",
+    "公安部刑事侦查局副局长朱磊出席并介绍情况",
+    "通报刷单返利等10类高发诈骗占全部电诈案件85%"
+  ],
+  "exclude_if": [
+    "非2026年6月12日举办的公安部新闻发布会",
+    "地方公安机关单独通报的个别具体诈骗案件",
+    "仅讨论反诈联合惩戒办法实施的单项法制宣传报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "我国电诈案件发案连续8个月同比下降",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfo_mJ5uhF-d__VXHhIzW8HtsUMm6XEwB31VH2F_0ah2NmNwIAq-bJlbYvEMKZ33VWLwp3tAZyAYD3LrVl1-V1AUpF-Uthb7Sxp6RG9W5xy6gRRYancYgRTYDkdUTNNZwskpK0dy5RlO5OBBTddg3CAvrs",
+      "publisher": "新华社",
+      "published_at": "2026-06-12"
+    },
+    {
+      "title": "我国电诈案件发案已连续8个月实现同比下降",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdJb58DBpi9td9k26jFqIXXhJWngRdab_dx07FaGGIVbQMkTQ5VtupSKL-xzaIKU7eiKNKO8i0aVSflXgATJVx2CQ8u4B5uQ1tbqG2n05MdjLcmJKtkZK-hfluCsCmyRiMT8gGJDIu20_r3gwfwb8AQOBzBslQlLo8dfRlWeA=",
+      "publisher": "中国日报网",
+      "published_at": "2026-06-12"
+    },
+    {
+      "title": "公安部：我国电诈案件发案已连续8个月同比下降",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE4lItmujB1J-6y8uVR-3jxpbp3wvr1kw4QNwu8zIUlDhd7q4dI4KRo250a1AYJggM4-ToegmBoYEUs_mH9D6lR4G1PvCk572G1Us9OYXnA-7FLmx2aivrLooYvDvnPLIjYMzpIEe6y4r7npDAw-WuMaeYKMN74ZxnaliI=",
+      "publisher": "央视新闻",
+      "published_at": "2026-06-12"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:45"
+}

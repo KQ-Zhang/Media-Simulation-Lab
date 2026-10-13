@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_4035c4c8bbd55452",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "大连大窑湾海关在进境散杂货船舶上首次截获外来病媒生物刺螫库蠓",
+  "factual_description": "2026年6月上旬，大连海关所属大窑湾海关关员在对一艘自韩国群山进境的散杂货船舶开展卫生检疫查验工作时，在该船机舱、前尖舱等区域利用电动吸蚊器采集到昆虫样本。送至大连国际旅行卫生保健中心国家医学媒介生物监测检测重点实验室后，经形态学与分子生物学鉴定，并在海关总署全国口岸病媒生物监测与控制专家组确认下，判定其中4只昆虫为刺螫库蠓，系全国口岸首次截获该类病媒生物。刺螫库蠓主要分布在欧洲、中东、北非等地；专家指出，其所属的库蠓属已知可分离出50余种虫媒传染病病原体，可传播奥罗普切热、马脑炎、蓝舌病等，对人体健康和畜牧养殖具有威胁。部分自媒体将“该蠓属已知可分离出50多种病原体”误传为“本次截获样本直接查出50多种病原体”。",
+  "event_time": {
+    "start": "2026-06",
+    "end": "2026-06-12",
+    "precision": "month",
+    "evidence": "2026年6月12日媒体从大连海关获悉，大窑湾海关近日在进境船舶卫生检疫中完成现场采集与鉴定确认。"
+  },
+  "locations": [
+    "中国/辽宁省/大连市/大窑湾海关"
+  ],
+  "aliases": [
+    "大连海关截获刺螫库蠓",
+    "海关首次截获4只刺螫库蠓",
+    "全国口岸首次截获刺螫库蠓",
+    "海关口岸首次截获外来生物刺螫库蠓",
+    "海关截获4只虫子携带50多种病原体"
+  ],
+  "retrieval_queries": [
+    "大连海关 刺螫库蠓",
+    "大窑湾海关 刺螫库蠓",
+    "全国口岸首次截获刺螫库蠓",
+    "海关 截获4只刺螫库蠓",
+    "刺螫库蠓 韩国群山",
+    "刺螫库蠓 50多种病原体",
+    "刺螫库蠓 奥罗普切热"
+  ],
+  "must_match_facts": [
+    "主体为大连海关（或所属大窑湾海关）",
+    "查验对象为自韩国群山进境的散杂货船舶",
+    "截获物包含4只刺螫库蠓",
+    "经海关总署专家组认定为全国口岸首次截获",
+    "涉及库蠓属已知可分离出50余种病原体的科普背景"
+  ],
+  "exclude_if": [
+    "宁波海关截获金属轲蚊或曼蚊等其他昆虫截获事件",
+    "非刺螫库蠓的外来物种入侵或查扣事件",
+    "发生在2026年6月以外的其他海关病媒生物检疫事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "全国口岸首次截获刺螫库蠓",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXuovxZ2cQtwP60Ejcw8oc3kSIMW_23wliw6BXXVczo7-Ndq-sS_3s3r82q3fVhjRNcHbIK_Z6XyLqHzfryZYb4Wfk354G0kSqc4wIuTEQf5nD3-4v2iCuAjcof2xKdfRa",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-06-14"
+    },
+    {
+      "title": "海关口岸首次截获外来生物刺螫库蠓",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfowbs-OjCtfkdckDP5_rj6Az9h4S-S_ff3mg5a-U2lU5_SpfeGmfpjUwDfbazeYpJKB2J7CwuzBO42N4h_QfjbrSKNwzjcH2ar5SlxB28y3q4Vd5S8ch-tOuaUuaMl1WB",
+      "publisher": "央视网 / QQ",
+      "published_at": "2026-06-23"
+    }
+  ],
+  "uncertainties": [
+    "大窑湾海关登临该散杂货船舶开展采样的具体日期公开报道仅表述为“近日”，具体发生日未精确披露"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:28"
+}

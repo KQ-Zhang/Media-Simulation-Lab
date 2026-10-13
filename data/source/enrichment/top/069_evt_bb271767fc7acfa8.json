@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_bb271767fc7acfa8",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "金晨交通肇事逃逸行政处罚事件",
+  "factual_description": "2025年3月16日15时07分，演员金晨驾驶沪FE**95号小型汽车，行经浙江省绍兴市柯桥区湖塘街道岭下村公交车站附近时，因避让窜行犬只发生单车事故，致车内3人轻微受伤及车辆、路牌、村居围墙受损。事故发生后，金晨因脸部受伤急于就诊，打车离开前往上海医院住院，留助理徐某青在现场处置。交警调查期间徐某青谎称自己系驾驶员，案件按简易程序处理。2026年1月29日，网传“金晨涉嫌交通肇事顶包”引发关注。绍兴市公安局柯桥区分局随即开展事故复查。2026年1月30日，交警部门认定金晨实施造成致人轻微伤或者财产损失的交通事故后逃逸，尚不构成犯罪，依据《中华人民共和国道路交通安全法》第99条对金晨给予罚款1500元的行政处罚；经调查，徐某青事后未向保险公司实际理赔，不存在骗保事实。2026年2月7日，浙江政务服务网公开该行政处罚决定书。",
+  "event_time": {
+    "start": "2025-03-16",
+    "end": "2026-01-30",
+    "precision": "day",
+    "evidence": "2025年3月16日15时07分发生交通事故；2026年1月30日绍兴市公安局柯桥区分局交通警察大队作出行政处罚决定；2026年2月7日浙江政务服务网公开处罚结果。"
+  },
+  "locations": [
+    "中国/浙江省/绍兴市/柯桥区/湖塘街道岭下村公交车站附近"
+  ],
+  "aliases": [
+    "金晨肇事逃逸案",
+    "金晨涉嫌交通肇事顶包事件",
+    "女星金晨交通肇事逃逸被罚1500元事件",
+    "金晨交通事故逃逸被行政处罚案"
+  ],
+  "retrieval_queries": [
+    "金晨 肇事逃逸",
+    "金晨 1500元 行政处罚",
+    "金晨 湖塘街道岭下村 交通事故",
+    "绍柯公(交)决字[2026]第330621290031965号",
+    "金晨 徐某青 顶包 柯桥警情通报",
+    "沪FE95 交通事故 金晨"
+  ],
+  "must_match_facts": [
+    "2025年3月16日金晨在绍兴柯桥湖塘街道岭下村发生单车交通事故后离开现场",
+    "事故涉及沪FE**95号小型汽车（沪F牌照黑色越野车）",
+    "事故因避让流浪犬导致，造成轻微伤及路牌围墙损坏",
+    "助理徐某青曾谎称为驾驶员协助交警处理事故",
+    "公安机关复查后认定金晨构成交通事故后逃逸但尚不构成犯罪，罚款1500元"
+  ],
+  "exclude_if": [
+    "涉及刑事犯罪或被判处刑罚的交通肇事案件",
+    "造成人员重伤或死亡的重大交通事故",
+    "保险公司理赔阶段被认定存在实际骗保犯罪事实的案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "金晨交通肇事逃逸被罚1500元，警方判定其不构成犯罪",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQVWfZmspOBjHgC5233tz45eiPVCVIInlSZoMcauUbYlye9erqRHhANQXwM8I2I-wtjYRNUG6_Sh-9Z--K-GON9Dz2nvZZwu9z63lFauRAvBKmFiFr-E-3SuqMMpw03MsL7Um0Xzdtx2g=",
+      "publisher": "新京报",
+      "published_at": "2026-02-07"
+    },
+    {
+      "title": "金晨被行政处罚，结果公开",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2XtrFdFn_UGWGytjc5c-roNc1UbuiU02DwkElAEgBDLrel-EiuKM63eT9Q-UFJhoPzOlBM_pU1lmUoMrEodyKbHovPZLTFjcv32iuEKxqqIq92K7g0E_sR2Yqb88pDwY=",
+      "publisher": "新京报政事儿 / 腾讯新闻",
+      "published_at": "2026-02-07"
+    },
+    {
+      "title": "金晨交通肇事逃逸案行政处罚结果公开：罚款1500元，不构成犯罪",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3eVJ_uYvqm5NqQJFOzjLJOgQdOUG_4KtlgKZ7NZtgQEJU3EkYxZT9TVbjrGfPuiqMbDui6mWggqJMbuUWx04ULg-y8CRp556VQc57nSx1kW-3VSPeS9DJ8ZIJPtuZh9rt74igf3opXYroZA8=",
+      "publisher": "观察者网",
+      "published_at": "2026-02-07"
+    }
+  ],
+  "uncertainties": [
+    "助理徐某青在交警调查中谎称驾驶员的行为后续是否受到行政处罚或追责未在决定书中公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:00:15"
+}

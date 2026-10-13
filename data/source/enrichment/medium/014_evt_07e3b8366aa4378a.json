@@ -1,0 +1,72 @@
+{
+  "event_id": "evt_07e3b8366aa4378a",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "贵州毕节织金县喜宴误饮液体燃料致1死2重症事件",
+  "factual_description": "2026年1月至2月间，贵州省毕节市织金县连续发生两起在农村宴席上误将烹饪用液体燃料当作散装白酒饮用导致的中毒事件，共造成1人死亡、2人重度昏迷送入ICU抢救。2026年1月26日，织金县鸡场乡村民陈某某在邻居家参加喜宴时，误饮放置在餐桌附近的液体燃料，于1月27日经抢救无效身亡；警方鉴定意见书显示其误饮液体中检测出2-甲基戊二腈。2月9日，织金县三甲街道马家庄社区一场婚宴上，63岁赵某与友人唐某某误将装在白色塑料壶中、无醒目标识的液体燃料（当地俗称“七号白油”）当白酒分饮，随后出现严重中毒昏迷并收治进重症监护室抢救；医院病危通知书显示诊断为化学药物中毒（氰化物）、燃料中毒等，送检样本中检出甲醇、乙醇及2-甲基戊二腈。两起事件中涉及的液体燃料均由酒席承办“一条龙”团队带来并从当地分销店铺购买。事发后，织金县公安局、市场监督管理局及应急管理局等部门已介入调查并对涉事分销店铺的燃料开展抽检取证。",
+  "event_time": {
+    "start": "2026-01-26",
+    "end": "2026-02-09",
+    "precision": "day",
+    "evidence": "鸡场乡村民陈某某于2026年1月26日赴宴误饮次日死亡；三甲街道赵某与唐某某于2026年2月9日婚宴误饮燃料中毒入院。"
+  },
+  "locations": [
+    "中国/贵州省/毕节市/织金县/三甲街道马家庄社区",
+    "中国/贵州省/毕节市/织金县/鸡场乡"
+  ],
+  "aliases": [
+    "贵州连发两起误饮燃料事件致1死2重症",
+    "织金县婚宴误饮液体燃料中毒事件",
+    "贵州织金男子喜宴误饮燃料氰化物中毒",
+    "织金两男子赴宴误喝液体燃料中毒进ICU",
+    "织金喜宴七号白油误饮中毒事件"
+  ],
+  "retrieval_queries": [
+    "织金 喜宴 误饮 液体燃料",
+    "织金 误喝燃料 中毒 ICU",
+    "贵州连发两起误饮燃料事件",
+    "织金 燃料 氰化物 2-甲基戊二腈",
+    "织金 马家庄 婚宴 燃料",
+    "织金 鸡场乡 喜宴 误饮 燃料"
+  ],
+  "must_match_facts": [
+    "事发地点位于贵州省毕节市织金县农村喜宴或婚宴现场",
+    "当事人误将宴席后厨一条龙服务使用的无标识白色塑料壶液体燃料当作白酒饮用",
+    "事件共造成1人死亡（陈某某）、2人重症昏迷进ICU（赵某、唐某某）",
+    "误饮燃料及相关样本中检测出氰化物/2-甲基戊二腈等有毒成分",
+    "织金县公安机关及市场监管部门介入抽检与立案调查"
+  ],
+  "exclude_if": [
+    "2022年四川省泸州市农村流水席误饮醇基燃料致4死事件",
+    "蓄意投毒、凶杀或刑事投毒案件",
+    "工业生产事故引起的急性气体中毒或泄露事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "疑将燃料当白酒喝下，两男子参加婚宴后中毒，仍在ICU抢救当地部门已介入调查",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFi14EI4B9aVgmwrrEbYMCNoLoI849vDe0mrqyzRdXnoQXVfs1DJJ_2eGXCGo40xxHts0x6qC2azlZEfesGcQPGBuonaHPocaFD7J1PqY26nBVVLF31kOI8ZF_OV7NdpPU=",
+      "publisher": "红星新闻",
+      "published_at": "2026-02-28"
+    },
+    {
+      "title": "两男子参加酒席误喝燃料中毒进ICU，律师：若产生死亡后果",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLWRVrn7N80hsJo0LKay-Q-YCBqlZBk5CK2JzwOohEpiHgZQeUvDrtnGs2nQFhO8UZT6Fczxl61yceGucRa3zIX6-qLJHcDGQMZ7lEU20M6PIVUREDgustR-muiMj95WevSXoG",
+      "publisher": "极目新闻",
+      "published_at": "2026-03-01"
+    }
+  ],
+  "uncertainties": [
+    "原始输入描述称事件发生于“2023年2月”且为“三起”，经查证实际发生于2026年1月26日和2026年2月9日，系接连两起事件共造成3人中毒（1死2重伤），原描述存在年份倒退与将3人中毒误记为3起的错误。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:27"
+}

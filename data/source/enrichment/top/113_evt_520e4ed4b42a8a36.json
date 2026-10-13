@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_520e4ed4b42a8a36",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "2026年重庆彭水“7·17”山体崩塌事故",
+  "factual_description": "2026年7月17日9时08分许，重庆市彭水苗族土家族自治县汉葭街道乌江三桥附近（沙沱社区）发生大规模山体崩塌灾害。受强降雨及岩体长期风化等因素影响，崩塌体总体积约1.8万立方米，导致沿江多栋居民楼垮塌受损，主干道交通中断，部分群众被埋被困。灾情发生后，应急管理部与自然资源部启动地质灾害二级应急响应，多路专业救援队伍迅速抵达现场开展搜救与群众疏散转移。现场搜救及善后恢复工作有序推进。事发后个别网民在网络编造“地震”“爆竹厂爆炸”等谣言，属地公安机关依法进行了立案处理与警示教育。",
+  "event_time": {
+    "start": "2026-07-17",
+    "end": "2026-07-30",
+    "precision": "day",
+    "evidence": "事故发生于2026年7月17日9时8分许，现场抢险搜救与处置恢复持续至7月底。"
+  },
+  "locations": [
+    "中国/重庆市/彭水苗族土家族自治县/汉葭街道/乌江三桥附近"
+  ],
+  "aliases": [
+    "重庆彭水山体垮塌事故",
+    "重庆彭水山体崩塌",
+    "重庆彭水汉葭街道山体崩塌",
+    "彭水乌江三桥山体垮塌"
+  ],
+  "retrieval_queries": [
+    "重庆彭水山体垮塌",
+    "彭水乌江三桥山体崩塌",
+    "彭水汉葭街道山体垮塌",
+    "重庆彭水7·17山体崩塌",
+    "彭水沙沱社区山体垮塌",
+    "重庆彭水山体崩塌辟谣"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年7月17日上午",
+    "发生地点在重庆市彭水县汉葭街道乌江三桥附近",
+    "灾害类型为地质山体崩塌/垮塌致民房受损倒塌",
+    "应急救援响应级别提升至二级"
+  ],
+  "exclude_if": [
+    "非2026年7月17日发生的山体垮塌事件",
+    "九龙坡区西彭塌方谣言相关报道",
+    "网传彭水地震谣言相关报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "记者直击重庆彭水县山体垮塌救援现场",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG37YQfx8VM0lFl1MH5tZoTA_YVohw_-ePqXeRPfJ73ULCIR5vzGAKBvUGh2WJDtPPu-IET73ct2VNbr4ogikvv3Mwrev3pen1ga9AVAdC0PFdsPgbKg2sSex35OqfSScQKbYM1fWvrjXOt8iSd1BzDK2dyX8xT197Rk4BmHGjocg==",
+      "publisher": "新华网",
+      "published_at": "2026-07-17"
+    },
+    {
+      "title": "重庆警方公布三起打击整治涉彭水山体崩塌灾害网络谣言典型案例",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6WMYFKKUDCTbHtEzl-uZaFvMzzGbgiYJL_zchJ4z9XDcq4be9z9GR6bnq9u1VBz0AhlNiirylr02QX-dtTkdEQLbFw2db3miwrJH93cNkThCzDNqu5oeAtwaY9NYhiDSRNa384tWrA1D5o4tVruoERcLlAbXbolmtpoppwCZ252X7",
+      "publisher": "新华网",
+      "published_at": "2026-07-18"
+    },
+    {
+      "title": "重庆彭水发生山体垮塌多栋民房受损有人员被埋",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkK7hxBOJLyJOzzUiqY8AaZ_UBv9sDTvSrrx9z-AYsfZPGQVz-QIFBD1z3oqrLNjMhTISX2K6Kk49lc_qS94T46j9uOOpzNl2FDvtp-VhrwMXW_6_i8XSQOY04_tlGrKQGKHxGEBq-Ooom",
+      "publisher": "新京报",
+      "published_at": "2026-07-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:01:08"
+}

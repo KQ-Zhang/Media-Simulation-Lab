@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_aa0e652df4e4f0c2",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "四川华蓥玛琉岩探险公园“5·3”瀑布秋千游客坠亡事故",
+  "factual_description": "2026年5月3日下午，位于四川省广安市华蓥市溪口镇的玛琉岩探险公园发生一起高空游乐体验事故。一名16岁女游客刘某某在体验景区“瀑布秋千”（又称“大摆荡”）项目时，脱钩坠落并碰撞到悬崖突出岩石，导致重伤，在送医途中抢救无效死亡。5月5日，华蓥市“5·3”事故调查组通报初步认定该事件为企业生产安全责任事故，涉事公园暂停营业整顿，并与死者家属达成善后协议。5月17日央视新闻独家披露调查进展，确认事故直接原因为第三方运营企业（重庆探险营户外拓展有限公司）员工临场处置失当，在承重滑轮尚未滑至距平台约10米的安全释放点时提前松开释放开关，致使游客刚推出平台即脱钩下坠并撞击岩壁。涉事企业事故责任人员已被依法采取刑事强制措施。",
+  "event_time": {
+    "start": "2026-05-03",
+    "end": "2026-05-03",
+    "precision": "day",
+    "evidence": "华蓥市“5·3”事故调查组通报及央视新闻报道，事故发生在2026年5月3日下午16时许。"
+  },
+  "locations": [
+    "中国/四川省/广安市/华蓥市/溪口镇/玛琉岩探险公园"
+  ],
+  "aliases": [
+    "四川华蓥瀑布秋千坠亡事故",
+    "华蓥玛琉岩探险公园5·3事故",
+    "四川广安玛琉岩悬崖秋千事故",
+    "华蓥大摆荡游客坠亡事件"
+  ],
+  "retrieval_queries": [
+    "四川 华蓥 玛琉岩 瀑布秋千 坠亡",
+    "华蓥市 玛琉岩探险公园 5·3事故",
+    "华蓥 玛琉岩 悬崖秋千 16岁",
+    "玛琉岩 大摆荡 释放开关 提前松开",
+    "华蓥 玛琉岩 游客 事故 重庆探险营",
+    "玛琉岩瀑布 瀑布秋千 坠落"
+  ],
+  "must_match_facts": [
+    "事故发生于2026年5月3日下午",
+    "发生地点位于四川省广安市华蓥市玛琉岩探险公园（玛琉岩瀑布风景区）",
+    "涉事项目为景区瀑布秋千（大摆荡）高空体验项目",
+    "死者为16岁女游客刘某某，体验项目时脱钩撞击崖壁送医途中死亡",
+    "官方调查认定事故直接原因为工作人员操作失误提前打开释放开关",
+    "涉事责任人员已被依法采取刑事强制措施，公园停业整顿"
+  ],
+  "exclude_if": [
+    "其他景区的悬崖秋千或高空游乐设施事故（如重庆奥陶纪景区秋千事故）",
+    "非2026年5月发生的景区人员伤亡事件",
+    "发生在华蓥山其他景点而非玛琉岩探险公园的事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "四川华蓥一瀑布秋千项目发生事故致1人死亡",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF924hKTkiTMLi9mR9GHofF8ba5lYprB1bJWPWUx63KWYtr48PrfMi8h0eYjIYPlh0CozgrLWeWz1aqky3Dg8acHRcwb2QawihZKb_SEd_4w0GYesVNFUbe28uH8ZdMi32G6tVj3UEDLGlMa-uIVuhdZkHbxDgz0PMtBg==",
+      "publisher": "新华网",
+      "published_at": "2026-05-05"
+    },
+    {
+      "title": "游客在四川体验“大摆荡”坠亡，央视独家还原事发经过",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdd7nFj0XQ9R9KdMtdF26SSCzXXKVjxMmYtHuauSbs0wPj7anjTyG1oN5ixxSRINshMB8iHWqNFWk10_1lFS1YNFqOoOIjuSUcplQTd2AB8qieeO9Iqovi8Ej9jqAPverFa4J2yoqTfHzWdozGxvZoPA==",
+      "publisher": "央视新闻",
+      "published_at": "2026-05-17"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.6-flash",
+  "generated_at": "2026-09-11 17:02:32"
+}

@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_57c5cd5da89093fa",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "湖南湘乡一中美术特长生专业考试非监考教师违规进入考场事件",
+  "factual_description": "2026年5月31日上午，湖南省湘潭市湘乡市第一中学组织中考美术特长生专业测试期间，一名不具备监考资格的教师（兼任该校美术教师与招生办工作人员）违规进入考场。随后有考生实名举报，称该教师在监考人员短暂离场期间独自滞留考场，当场口头指点多名考生修改画作、讲授绘画技法，干预正常考试。6月2日，湘乡一中校方回应表示，涉事教师违规入场反映出考务组织管理存在漏洞，但涉事教师否认违规指导与舞弊，辩称入场系关怀考生，仅调试空调出风口、询问温度并提醒规范填写考号；因涉事考场未布设监控，校方称将走访考生核实。6月3日，湘乡市教育局发布通报称高度重视该舆情，已成立由纪检监察部门牵头的工作专班开展深入核查，将依法依规处理以保障学生权益和教育公平。",
+  "event_time": {
+    "start": "2026-05-31",
+    "end": "2026-06-03",
+    "precision": "day",
+    "evidence": "2026年5月31日上午举行美术特长生专业测试并发生教师违规入场；6月2日媒体报道实名举报及学校回应；6月3日湘乡市教育局发布情况通报介入调查。"
+  },
+  "locations": [
+    "中国/湖南省/湘潭市/湘乡市/湘乡市第一中学"
+  ],
+  "aliases": [
+    "湘乡一中美术特长生专业考试有非监考老师进入考场",
+    "湘乡一中非监考教师进考场事件",
+    "湖南湘乡一中美术特长生考场违规事件",
+    "湘乡非监考教师进入中考美术特长生专业考试考场事件",
+    "湘乡教育局通报考场事件"
+  ],
+  "retrieval_queries": [
+    "湘乡一中 美术特长生 非监考老师",
+    "湘乡一中 非监考教师 考场",
+    "湘乡市教育局 湘乡一中 美术特长生",
+    "湘乡一中 考场 空调 考号",
+    "湘乡一中 杨栋新 付建华",
+    "非监考美术教师违规进美术考场 湘乡"
+  ],
+  "must_match_facts": [
+    "涉事地点为湖南湘潭湘乡市第一中学",
+    "发生在高中组织的中考美术特长生专业考试期间",
+    "核心争议为一名非监考女教师进入考场并被实名举报指导考生修改画作",
+    "涉事考场未安装监控，涉事教师辩称入场系调试空调与提醒填考号",
+    "湘乡市教育局成立由纪委监委牵头的工作专班核查处理"
+  ],
+  "exclude_if": [
+    "2024年2月湖南湘乡市栗山镇某学校教师粗暴对待学生事件",
+    "全国高考或普通高中学业水平考试中的替考作弊事件",
+    "其他地市美术艺考统考舞弊事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "湖南湘乡成立专班调查非监考老师违规进入考场事件",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEO4eeB400fc4bG-S7NpHzUMdE9vWRfInxTB3GEyXZArq2IuKPCPpxmzHrpqZ84vOA52A65sqS5wNk05L9eSoHMsg6uWlHzIa_y0P58SMXCdtBT9mUFM6rrz1yglpJZ1NU5MzeX-Ume1g==",
+      "publisher": "上游新闻",
+      "published_at": "2026-06-03"
+    },
+    {
+      "title": "非监考老师进考场，现场指导考生改画？当地通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEECS5d-L6xVuFgV9zRnHx3PptqKMescXgx9MyvFZu2I5hifAe9x0Cws8KQMWywgJ9qxxEdFz5yNlJ2wrK5HzWarYc4iIC78RThdZ773TEgqQpyMhcFpIKgQZlcACTJqFtDvx7eDMY5zv0bx6j4",
+      "publisher": "观察者网",
+      "published_at": "2026-06-03"
+    },
+    {
+      "title": "美术特长生专业考试有非监考老师进入考场？湖南湘乡通报",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFh9hG1x-GJrHm-5Far9ahA6OXbGAm2KxJI7lD_A06ilagE_1aX0jLeLzKAZPmSeY8q_c7iyU32UBsYgBwTZC1LS37tA36nvLRFuIFuZLTUXF2RNpiH4kCKnqf4OHRl2eq6",
+      "publisher": "中国新闻网",
+      "published_at": "2026-06-03"
+    }
+  ],
+  "uncertainties": [
+    "涉事考场无监控录像，涉事教师是否存在现场修改画作或指导应试的舞弊事实，双方陈述冲突，专班最终认定及处分结果尚未见公开报道",
+    "现有描述及部分检索线索中存在2024年与2026年年份记载混淆，实际考试发生于2026年5月31日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:01"
+}

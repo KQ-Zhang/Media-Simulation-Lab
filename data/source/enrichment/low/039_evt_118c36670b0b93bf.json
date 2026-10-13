@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_118c36670b0b93bf",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "央视新闻科普辟谣儿童牙齿正畸越早越好误区",
+  "factual_description": "2026年7月20日，央视新闻《朝“问”健康》栏目针对暑期“儿童整牙热”及网络流行的“越早正畸效果越好”“整牙改变脸型”等误区发布科普辟谣报道。报道采访了北京清华长庚医院周彦恒、北京大学口腔医院李巍然等多位权威口腔医学专家。专家指出，儿童牙齿正畸并非越早越好，过早盲目正畸不仅可能适得其反、影响面型发育，还会增加儿童身心负担；对于绝大多数儿童，正畸最佳时期是在乳牙与恒牙替换完成后的12岁左右，此时处于生长发育高峰期，牙槽骨改建快、疗程短且并发症少；仅有反颌（地包天）、口呼吸及不良口腔习惯等少数特殊畸形需在乳牙期或替牙早期及时干预。此外，专家针对风靡社交平台的儿童“扩弓”防嘴凸跟风现象进行辟谣，强调扩弓有严格医学适应证，对正常脸型儿童盲目扩弓可能反致牙齿前突。",
+  "event_time": {
+    "start": "2026-07-20",
+    "end": "2026-07-20",
+    "precision": "day",
+    "evidence": "2026年7月20日8时30分央视新闻客户端首发《朝“问”健康丨儿童牙齿正畸越早效果越好吗？专家解答》报道"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "儿童牙齿正畸越早效果越好吗",
+    "牙齿正畸最佳时间是12岁左右",
+    "儿童牙齿过早正畸可能适得其反",
+    "央视辟谣儿童整牙越早越好",
+    "儿童牙齿正畸最佳时间科普",
+    "朝问健康儿童牙齿正畸辟谣"
+  ],
+  "retrieval_queries": [
+    "儿童牙齿正畸越早效果越好吗",
+    "牙齿正畸的最佳时间 12岁",
+    "儿童牙齿过早正畸可能适得其反",
+    "儿童整牙越早越好 扩弓",
+    "朝问健康 儿童牙齿正畸",
+    "周彦恒 李巍然 牙齿正畸",
+    "儿童牙齿正畸 替牙完成 12岁"
+  ],
+  "must_match_facts": [
+    "央视新闻2026年7月20日发布《朝“问”健康》科普辟谣报道",
+    "指出对于大多数儿童牙齿正畸最佳时间是在乳牙和恒牙替换完成后（12岁左右）",
+    "澄清儿童牙齿正畸并非越早越好，盲目过早正畸可能适得其反",
+    "指出仅反颌（地包天）、口呼吸等特殊情况需在乳牙期及早干预",
+    "针对盲目跟风儿童口腔扩弓防嘴凸进行医学辟谣"
+  ],
+  "exclude_if": [
+    "成年人牙齿矫正与隐形牙套商业广告推广",
+    "涉及具体口腔医疗事故与民事侵权诉讼案件",
+    "查处黑诊所非法行医的行政执法与刑事通报"
+  ],
+  "source_evidence": [
+    {
+      "title": "儿童牙齿正畸越早效果越好吗？专家解答→",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySUR3M3eddE2-6HaoTtWjXSc4jq1Vvq1FB8Kc9y54fiSoKwIp4C-cvd4Co-sWc-NmKlmMGTvsqm1IPeVFLz_bpB5ZSWIvgjB3Eaeei_Re-s-QE91Jb_SRnS9NLl51VYmjwjWng80wdDzhnhHFIfM=",
+      "publisher": "中国新闻网（转自央视新闻客户端）",
+      "published_at": "2026-07-20"
+    },
+    {
+      "title": "朝“问”健康丨儿童牙齿正畸越早效果越好吗？专家解答",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9qu_nQoonRsD8waRNJwC6KJn-EskECFf8_Da7l59gXEZKJ2uXmKT4ITq33HB0heE4HnR1mTNaMQtc9IjRDHWwpgMrFLBncDAFDEetdYxsT6Z9vwo8qr_CyzKr8joDX2g3AXeKIhNMYz63IMQ9PZvgqCh0S5pgskra",
+      "publisher": "深圳新闻网（转自央视新闻）",
+      "published_at": "2026-07-20"
+    },
+    {
+      "title": "儿童整牙越早越好？扩弓能防嘴凸？这些干货，家长速存！",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaW2bLnJu6X1pMLLNJZtNvXve6C90l6ifu2ONPYqFr-dITtpkA-kTPlClj_cRqGFo0JTJKLDK3tAMVcEf1o0FFateTTynBn8ZXjIG0ki2NE21PLTfzmTeUa2H4wr-S_KJYEOqnmNIc8ych",
+      "publisher": "新京报",
+      "published_at": "2026-07-20"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:10"
+}

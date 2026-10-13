@@ -1,0 +1,74 @@
+{
+  "event_id": "evt_86428cbf415201ac",
+  "verification_status": "conflicting",
+  "confidence": "0.65",
+  "canonical_event_name": "关岭县气象台发布强对流天气预警信号（2026年4月26日）",
+  "factual_description": "2026年4月26日，贵州省安顺市关岭布依族苗族自治县气象台（关岭县气象台）发布多项强对流天气预警信号。根据国家预警信息发布中心及中央气象台官方记录，关岭县气象台于当日12时36分发布大风蓝色预警信号；17时24分发布冰雹橙色预警信号，预计未来6小时内全县岗乌、沙营、新铺、普利、永宁、顶云、花江、关索等乡镇（街道）将出现冰雹天气，局地伴有短时强降水、大风等强对流天气；18时03分发布雷雨强风黄色预警信号，预计未来6小时内岗乌、沙营、新铺、永宁、顶云、坡贡、普利、花江、关索、断桥等乡镇（街道）将受到雷雨天气影响，可能出现8级以上阵风并伴有强雷电。输入样本中声称的“2026年4月26日17时31分关岭县气象台发布雷电黄色预警信号”在权威气象记录中未查见对应记录，与当日官方实际发布的冰雹橙色预警及雷雨强风黄色预警在预警类型与具体发布时间上存在冲突，疑为网络抓取转述时将不同预警信号或周边区县预警混淆。",
+  "event_time": {
+    "start": "2026-04-26",
+    "end": "2026-04-27",
+    "precision": "day",
+    "evidence": "国家预警信息发布中心与中央气象台官网记录显示，关岭县气象台于2026年4月26日12时36分、17时24分及18时03分分别发布大风、冰雹与雷雨强风预警。"
+  },
+  "locations": [
+    "中国/贵州省/安顺市/关岭布依族苗族自治县"
+  ],
+  "aliases": [
+    "关岭县气象台发布雷雨强风黄色预警信号",
+    "关岭县气象台发布冰雹橙色预警信号",
+    "关岭县气象台发布雷电黄色预警[Ⅲ/较重]"
+  ],
+  "retrieval_queries": [
+    "关岭县气象台 2026年4月26日",
+    "关岭 冰雹橙色预警 2026年4月26日",
+    "关岭 雷雨强风黄色预警 2026年4月26日",
+    "关岭县气象台 雷电黄色预警",
+    "关岭 预警 岗乌 沙营 普利"
+  ],
+  "must_match_facts": [
+    "预警发布主体为贵州省安顺市关岭布依族苗族自治县气象台（关岭县气象台）",
+    "事件发生时间为2026年4月26日",
+    "影响区域涉及关岭县下辖岗乌、沙营、新铺、普利、永宁、顶云、花江、关索等乡镇街道"
+  ],
+  "exclude_if": [
+    "非贵州省安顺市关岭县气象台发布的预警",
+    "关岭县在其他年份（如2024年、2025年）发布的气象预警",
+    "同日贵州省内其他区县（如普定县、七星关区）发布的雷电黄色预警",
+    "关岭县在2026年其他月份（如5月、8月、9月）发布的常规雷电预警"
+  ],
+  "source_evidence": [
+    {
+      "title": "贵州省安顺市关岭布依族苗族自治县发布冰雹橙色预警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9FXKqburRd2gM5aWysbP5KROw4dRs1kUoLXaNjjs0Lw-YLB-LZjMQxTQ58bYBl2n2Iv6TnjYXyn9psJQwbDc9LrBghbGrrFPwN81I94eN3n_EScq23HPjAWBB156jJiS1eTaR3N3IOzPdyKvclVGgvABzChbXluZH",
+      "publisher": "国家应急广播 / 中央气象台",
+      "published_at": "2026-04-26"
+    },
+    {
+      "title": "贵州省安顺市关岭县气象台发布雷雨强风黄色预警信号",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF85AUBoy_BCgh39ZNU7bhuExGOsRAZ_k1fJn8405w7ASkBQuINPDUIPk4GjfQIF3xgI3uEkTWtfLoO3mti3w1L3QM-NsBg_O1DzhEp_D-R3rQybypMMQgM7S0JNnuAJKLwtBSCXlRJ1r-2TrUAmZmcUtY=",
+      "publisher": "中央气象台 / 新浪网",
+      "published_at": "2026-04-26"
+    },
+    {
+      "title": "贵州省关岭布依族苗族自治县发布大风蓝色预警",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7KiJqRjERZHHV11U5awD87tjIR537s_1MXazrsGDR3NmqkR_sHx0StXQr2VTex8r2hYfqpcPP8djpKQvidknx-jmRW38iqA-whFM0ZEvkxEenOQ0-N5Ler4xLjufnsO4c",
+      "publisher": "国家预警信息发布中心 / 腾讯新闻",
+      "published_at": "2026-04-26"
+    }
+  ],
+  "uncertainties": [
+    "样本所述“17时31分发布雷电黄色预警”与权威气象台发布的预警类型（17时24分冰雹橙色预警、18时03分雷雨强风黄色预警）存在名称与时间冲突",
+    "抖音等社交平台样本帖发布时间覆盖11时48分、17时35分及次日，存在自动搬运模板导致的混淆失真"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:18"
+}

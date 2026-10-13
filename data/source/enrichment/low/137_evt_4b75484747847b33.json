@@ -1,0 +1,68 @@
+{
+  "event_id": "evt_4b75484747847b33",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "辽宁省十四届人大常委会第二十三次会议决定任命白英为辽宁省人民政府副省长",
+  "factual_description": "2026年5月29日，辽宁省第十四届人民代表大会常务委员会第二十三次会议在辽宁省沈阳市举行。会议表决通过人事任免事项，决定任命白英为辽宁省人民政府副省长。白英出生于1969年3月，曾任辽宁省纪委监委驻省政府办公厅纪检监察组组长、本溪市委常委、市纪委书记、铁岭市委副书记、辽阳市市长等职务，2023年2月任辽阳市委书记，履新副省长前已出任辽宁省政府党组成员。输入背景中所谓2023年任命系年份误传，实际任命时间为2026年5月29日。",
+  "event_time": {
+    "start": "2026-05-29",
+    "end": "2026-05-29",
+    "precision": "day",
+    "evidence": "新华网、中国新闻网及辽宁日报报道均证实，辽宁省第十四届人大常委会第二十三次会议于2026年5月29日决定该项任命。"
+  },
+  "locations": [
+    "中国/辽宁省/沈阳市"
+  ],
+  "aliases": [
+    "白英任辽宁省副省长",
+    "白英任辽宁省人民政府副省长",
+    "辽宁省十四届人大常委会第二十三次会议任命白英",
+    "辽宁省人大常委会决定任命白英为副省长"
+  ],
+  "retrieval_queries": [
+    "白英 辽宁省副省长",
+    "白英 辽宁省人民政府副省长",
+    "辽宁省第十四届人大常委会第二十三次会议 白英",
+    "白英 辽阳市委书记 任命副省长",
+    "2026年5月29日 白英 辽宁"
+  ],
+  "must_match_facts": [
+    "主体为时任辽阳市委书记、辽宁省政府党组成员白英",
+    "由辽宁省第十四届人民代表大会常务委员会第二十三次会议决定任命",
+    "任命职务为辽宁省人民政府副省长",
+    "决定通过时间为2026年5月29日"
+  ],
+  "exclude_if": [
+    "2023年2月白英出任中共辽阳市委书记的任职报道",
+    "2021年至2022年白英任辽阳市代市长、市长的任免事件",
+    "辽宁省人大常委会对其他省政府副省长（如顾军、李强等）的任免"
+  ],
+  "source_evidence": [
+    {
+      "title": "白英任辽宁省人民政府副省长",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvdgrmo8UQCbxqwf5eWIHUrWMrReRHdick4fUF883ZdqWadQeIvsD-31AjcpJzPNok6wLUHOTktV2-ntYRwBpKP_2nagfPfA3tFy0TFcT7RTs4_lKhlYda-gMiaO7ophdadN4Fg5W39i8hTeSncnHbDIbQRsiR94TrVBslW-A-wg==",
+      "publisher": "新华网",
+      "published_at": "2026-05-29"
+    },
+    {
+      "title": "白英任辽宁省副省长",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtbyyQAoSq33Qtbk6pTaJ8fOduRZz6jQ0Xb_njdh86UIjl-NGgSnx_sL2SyUsK4ly703ZiGhJEvMzltdAzVgNNEo-I28VEpTMZc7ShEennB4CbgmChwztFacnzlyW_uobCHY0N3jrkCsoFWRVJPWy1Qw==",
+      "publisher": "中国新闻网",
+      "published_at": "2026-05-29"
+    }
+  ],
+  "uncertainties": [
+    "现有描述将任命年份误记为2023年（辽宁省十四届人大常委会第二十三次会议实际于2026年召开）"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:34"
+}

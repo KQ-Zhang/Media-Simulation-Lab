@@ -1,0 +1,77 @@
+{
+  "event_id": "evt_24a27f70909c6342",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "月之暗面开源2.8万亿参数大模型Kimi K3",
+  "factual_description": "2026年7月27日晚，北京月之暗面科技有限公司（Moonshot AI）正式开启“Kimi K3 开放日”，对外全面开源其旗舰大模型Kimi K3。该模型总参数规模达2.8万亿（激活参数约1040亿），是当时全球参数规模最大的开源大模型。本次开源内容包括完整的模型权重、技术报告，以及支撑该模型训练的三项关键底层基础设施技术（Infra）：高性能通信库MoonEP、注意力算子FlashKDA和智能体沙箱环境AgentEnv。Kimi K3采用混合专家（MoE）架构与Kimi Delta Attention（KDA）等技术，支持100万token上下文窗口并原生支持多模态视觉理解。开源后，模型在Hugging Face等开源社区引发广泛关注，并在首日获得多家国内外AI基础设施与硬件平台的适配支持。",
+  "event_time": {
+    "start": "2026-07-27",
+    "end": "2026-07-27",
+    "precision": "day",
+    "evidence": "月之暗面官方于2026年7月27日晚正式发布Kimi K3开放日公告，同步放出模型权重、技术报告及训练Infra技术。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "国产大模型Kimi K3全量开源",
+    "全球参数规模最大的大模型全量开源",
+    "Kimi K3正式开源",
+    "月之暗面Kimi K3开源",
+    "Kimi K3开放日"
+  ],
+  "retrieval_queries": [
+    "月之暗面 Kimi K3 开源",
+    "Kimi K3 全量开源",
+    "Kimi K3 2.8万亿",
+    "全球最大开源模型 Kimi K3",
+    "Kimi K3 开放日 技术报告",
+    "MoonEP FlashKDA AgentEnv 开源",
+    "月之暗面 7月27日 K3 开源",
+    "Kimi K3 完整模型权重"
+  ],
+  "must_match_facts": [
+    "发布主体为北京月之暗面科技有限公司（Moonshot AI）",
+    "开源对象为旗舰大模型Kimi K3",
+    "模型总参数规模达到2.8万亿，为当时全球最大参数开源模型",
+    "开源发生时间为2026年7月27日晚",
+    "同步开源模型权重、技术报告及MoonEP、FlashKDA、AgentEnv三项底层技术"
+  ],
+  "exclude_if": [
+    "2026年7月16日Kimi K3首次公布但尚未开源模型权重的预告报道",
+    "2026年9月Kimi上线K2.8 Preview模型的发布事件",
+    "涉及DeepSeek、Qwen、Llama等其他厂商大模型的开源发布事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键Infra 技术同步开放",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZWN5vGxOijdLd6rudE9o0sG6YQxQB1eZxyGMjN19CDsoPzuur6ch_5zYpGYLJAFg2pUUmzfyrNT0l2X-xpJT64pqe8edWKlUxjZPS6pDlBk9K_O7rQA2h3ZkK5A83xckfAvA=",
+      "publisher": "月之暗面（Moonshot AI）官方",
+      "published_at": "2026-07-27"
+    },
+    {
+      "title": "刚刚，Kimi K3开源，2.8万亿参数砸向全球，硅谷巨头看傻了",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGidFRYZYduUF6ndWaRWO476LXQcn_qw54-80o_WIfu-HBlKiL5U01WdNb9CGg8nswcguDwuGymjdnJln1U02qo2UiOPiLG9-TD4jzyXJsYgsaLwgMWABqbKuMg",
+      "publisher": "36氪（智东西）",
+      "published_at": "2026-07-27"
+    },
+    {
+      "title": "Kimi K3正式开源，阿里、华为等厂商Day0适配",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhG3SrgFPnMUxOl_ZoS7a7aaKuc8zJyK8B6ysow12RvbvZV262VtpEjLSmoM_O59HrTbBKQfgSqyWJjkS18wtmpaw_NNmBn2vRZe0fpdFsRNd2d3ZJC9JjjbvIz8RQEv3nGh_zR3k=",
+      "publisher": "证券时报",
+      "published_at": "2026-07-28"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:57:16"
+}

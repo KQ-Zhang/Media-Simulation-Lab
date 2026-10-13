@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_93070f26f7eb9e78",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2025-2026赛季CBA季后赛山东男篮负于上海男篮及赛后高校助威团拉横幅支持事件",
+  "factual_description": "2026年5月9日晚，在2025-2026赛季中国男子篮球职业联赛（CBA）季后赛1/4决赛（八进四）第二回合比赛中，山东高速男篮坐镇济南主场山东高速篮球馆迎战常规赛冠军上海久事男篮。比赛中山东男篮开局落后较多，最终以68比96大比分不敌上海男篮，在三场两胜制的系列赛中总比分0比2被横扫淘汰，止步八强。比赛结束后，看台上的山东高速男篮高校助威团大学生球迷拉出横幅支持球队，表达了与主队不离不弃的陪伴与支持。济南时报·新黄河等媒体记者王春鹏现场记录并发布了该赛后互动短视频。",
+  "event_time": {
+    "start": "2026-05-09",
+    "end": "2026-05-09",
+    "precision": "day",
+    "evidence": "大众新闻、体坛加等多家媒体报道，2025-2026赛季CBA季后赛1/4决赛第二回合山东男篮主场对阵上海男篮的比赛于2026年5月9日晚打响。"
+  },
+  "locations": [
+    "中国/山东省/济南市/历下区/山东省体育中心体育馆（山东高速篮球馆）"
+  ],
+  "aliases": [
+    "2026年5月9日CBA季后赛山东男篮对阵上海",
+    "2025-2026赛季CBA季后赛山东男篮负于上海男篮",
+    "山东男篮大比分负于上海赛后高校助威团拉出横幅",
+    "CBA八强战山东男篮0比2不敌上海出局"
+  ],
+  "retrieval_queries": [
+    "山东男篮 上海男篮 高校助威团",
+    "山东男篮大比分负于上海 横幅",
+    "山东男篮 68：96 上海",
+    "山东高速男篮 高校助威团 王春鹏",
+    "CBA季后赛 山东 上海 高校助威团",
+    "明年再来 高速男篮68 96不敌上海"
+  ],
+  "must_match_facts": [
+    "发生于2026年5月9日晚2025-2026赛季CBA季后赛1/4决赛第二场（G2）",
+    "对阵双方为山东高速男篮与上海久事男篮，比赛在山东男篮济南主场进行",
+    "比赛结果为山东男篮以68:96负于上海男篮，总比分0:2遭横扫淘汰止步八强",
+    "赛后看台上的高校助威团拉出横幅支持球队，表达不离不弃"
+  ],
+  "exclude_if": [
+    "2026年5月6日CBA季后赛1/4决赛首回合在上海体育馆进行的比赛",
+    "2024-2025赛季常规赛期间高校助威团的求婚或常规助威活动",
+    "山东男篮对阵辽宁男篮等其他对手的季后赛场次"
+  ],
+  "source_evidence": [
+    {
+      "title": "明年再来！高速男篮68：96不敌上海，止步季后赛八强",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF08HZyiNjHKUn_IZ5Xtcb-lMf6idI-ZeutTh3EUZDdJA8I1J_i-_1vrLck3MckJyjdposttZscTR_A90A0AjctKGZpdUOQ8i46L43MDxk7BhsWvndRsIOwnoQres99fyUBJwNkaBgb1SkbjPGVNfKbsEVa0TUirVM=",
+      "publisher": "大众新闻",
+      "published_at": "2026-05-09"
+    },
+    {
+      "title": "上海男篮大胜28分！2比0淘汰山东挺进半决赛",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb5NNGnXoFUaFJYDjH9Ls8qKEo1bieU9SBdP6zDRB3ujgGMy1v06TqrJO5B-W4g2aLumnKQN3EAqyQr61_r-unzCqbv4-kISczzkSAWy_su7JNAdulN5EiwsMNWV-uySOQN2cBQ8rftafcokzVn8ag2txWDNww9NczHmEd4jG8",
+      "publisher": "体坛+",
+      "published_at": "2026-05-09"
+    }
+  ],
+  "uncertainties": [
+    "横幅上除表达与主队不离不弃含义外的确切全文语句未在图文报道正文中逐字公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:13"
+}

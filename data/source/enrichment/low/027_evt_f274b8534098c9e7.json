@@ -1,0 +1,82 @@
+{
+  "event_id": "evt_f274b8534098c9e7",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026年3月21日古巴全国大停电",
+  "factual_description": "当地时间2026年3月21日傍晚（约18时32分至18时38分），古巴国家电力系统（SEN）完全断开，导致全岛陷入全国性大断电。古巴电力联盟（UNE）与古巴能源和矿业部随即启动恢复供电应急程序。官方后续通报指出，此次电网全面崩溃由卡马圭省努埃维塔斯火电厂一台发电机组发生意外故障引发机组连锁反应所致，能源部随即启动发电机组“微型岛”优先保障医院和供水等关键设施。这是古巴继2026年3月16日全国大停电后，在不到一周时间内发生的第二次全国性大停电，也是当月第三次严重电力崩溃。事件背景受古巴电网基础设施严重老化、持续电力缺口，以及外部燃料封锁导致的长期燃料短缺等多重因素影响。",
+  "event_time": {
+    "start": "2026-03-21",
+    "end": "2026-03-22",
+    "precision": "day",
+    "evidence": "古巴电力联盟与能源与矿业部通报当地时间2026年3月21日18时38分（部分报道记为18时32分）国家电力系统完全断开并启动抢修。"
+  },
+  "locations": [
+    "古巴",
+    "古巴哈瓦那",
+    "古巴卡马圭省努埃维塔斯"
+  ],
+  "aliases": [
+    "古巴一周内两次全国大停电",
+    "古巴3·21全国断电事件",
+    "古巴2026年3月21日大停电",
+    "古巴三月第三次全国大断电",
+    "古巴电网全面崩溃事件"
+  ],
+  "retrieval_queries": [
+    "古巴 3月21日 全国断电",
+    "古巴 3月21日 国家电力系统完全断开",
+    "古巴电力联盟 18时38分 断电",
+    "古巴 一周内两次全国性大停电",
+    "Cuba blackout March 21 2026",
+    "Cuba power grid collapse March 21",
+    "Nuevitas thermoelectric plant blackout Cuba",
+    "古巴 能源与矿业部 恢复供电 3月21日"
+  ],
+  "must_match_facts": [
+    "发生于当地时间2026年3月21日傍晚（18时30分许）",
+    "主体为古巴国家电力系统（SEN）完全断开并致全国性停电",
+    "发布通报机构为古巴电力联盟（UNE）和古巴能源和矿业部",
+    "距此前2026年3月16日全国大停电不到一周"
+  ],
+  "exclude_if": [
+    "2024年10月古巴全国大停电",
+    "2026年3月16日古巴全国大停电独立事件",
+    "2026年3月4日安东尼奥·吉特拉斯电厂故障导致的局部停电",
+    "2026年7月或8月的古巴电网崩溃事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "Cuba suffers 3rd countrywide blackout this month amid U.S. oil blockade",
+      "url": "https://www.cbc.ca/news/world/cuba-blackout-energy-crisis-1.7489812",
+      "publisher": "CBC News / Associated Press",
+      "published_at": "2026-03-21"
+    },
+    {
+      "title": "古巴电网第三次崩溃，导致大面积断电",
+      "url": "https://power.in-en.com/html/power-2460297.shtml",
+      "publisher": "国际电力网",
+      "published_at": "2026-03-23"
+    },
+    {
+      "title": "古巴发生全面断电",
+      "url": "https://finance.sina.com.cn/jjxw/2026-03-22/doc-ineuqyvh3587002.shtml",
+      "publisher": "新浪财经",
+      "published_at": "2026-03-22"
+    }
+  ],
+  "uncertainties": [
+    "输入样本描述误记为2024年，经多源权威报道核实其实际发生时间为2026年3月21日",
+    "具体断网时间在各官方和媒体报道中存在18时32分与18时38分的细微差异"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:38"
+}

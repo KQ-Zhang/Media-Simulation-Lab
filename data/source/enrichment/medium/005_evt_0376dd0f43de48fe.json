@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_0376dd0f43de48fe",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "伊朗官方披露最高领袖穆杰塔巴在2026年2月空袭中受轻伤且已康复",
+  "factual_description": "2026年5月8日，伊朗法尔斯通讯社报道，伊朗最高领袖办公室官员赛义德·马扎赫尔·侯赛尼在集会讲话中披露，伊朗最高领袖穆杰塔巴·哈梅内伊在2026年2月28日美军及以色列的空袭打击中受轻伤。据侯赛尼介绍，事发时穆杰塔巴在返回住所途中遭遇爆炸波冲击摔倒，导致膝盖、背部及耳后轻度受伤，经过治疗现已基本痊愈，身体状态非常健康。侯赛尼呼吁民众保持耐心，表示敌人正企图获取穆杰塔巴的影音资料以便开展针对行动，穆杰塔巴会在适当时机公开发声。该消息核实了此前外界关于穆杰塔巴在2月28日空袭中受伤的长期传闻，纠正了网传样本中将年份误写为2024年的错误。",
+  "event_time": {
+    "start": "2026-02-28",
+    "end": "2026-05-08",
+    "precision": "day",
+    "evidence": "2026年2月28日穆杰塔巴在首日空袭中被爆炸波波及受伤；2026年5月8日伊朗法尔斯通讯社引述领袖办公室官员侯赛尼公开通报其受伤与康复情况。"
+  },
+  "locations": [
+    "伊朗/德黑兰"
+  ],
+  "aliases": [
+    "伊朗官员披露穆杰塔巴伤情",
+    "伊朗最高领袖遭爆炸波冲击摔倒",
+    "穆杰塔巴美军空袭受伤康复",
+    "伊朗证实穆杰塔巴2月28日空袭受伤"
+  ],
+  "retrieval_queries": [
+    "穆杰塔巴 爆炸波 摔倒 康复",
+    "穆杰塔巴 2月28日 袭击 受伤",
+    "伊朗最高领袖 穆杰塔巴 伤情披露",
+    "马扎赫尔 侯赛尼 穆杰塔巴 伤情",
+    "Mojtaba Khamenei injured February 28 blast"
+  ],
+  "must_match_facts": [
+    "涉事主体为伊朗最高领袖穆杰塔巴·哈梅内伊",
+    "受轻伤时间为2026年2月28日针对德黑兰的军事空袭行动",
+    "受伤原因为返回住所途中遭遇爆炸波冲击摔倒，伤及膝盖、背部或耳后",
+    "伊朗最高领袖办公室官员侯赛尼于2026年5月证实其已基本痊愈"
+  ],
+  "exclude_if": [
+    "涉及2024年时任伊朗总统莱希直升机事故相关报道",
+    "涉及阿里·哈梅内伊生前其他年份遇刺或就医的早期历史事件",
+    "未经官方证实的所谓穆杰塔巴病危或深度昏迷虚假传闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "伊朗最高领袖穆杰塔巴伤情披露：遭爆炸波冲击摔倒，膝盖、背部及耳朵受伤 - 新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-09/doc-ineytcma4207908.shtml",
+      "publisher": "新浪财经（转自伊朗法尔斯通讯社）",
+      "published_at": "2026-05-09"
+    },
+    {
+      "title": "伊朗官员证实最高领袖穆杰塔巴此前受伤但已康复",
+      "url": "https://www.zaobao.com.sg/realtime/world/story20260510-6302488",
+      "publisher": "联合早报",
+      "published_at": "2026-05-10"
+    },
+    {
+      "title": "Mojtaba Khamenei was hurt in strike that killed his father, Iran's Cyprus ambassador confirms",
+      "url": "https://www.theguardian.com/world/2026/mar/11/mojtaba-khamenei-injured-attack-father-ali-khamenei-iran-ambassador",
+      "publisher": "The Guardian",
+      "published_at": "2026-03-11"
+    }
+  ],
+  "uncertainties": [
+    "空袭行动的具体主导方在各方通报中存在美军单独打击或美以联合空袭的表述差异",
+    "穆杰塔巴摔倒受伤的具体街区坐标伊朗官方未予以公开"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:09"
+}

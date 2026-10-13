@@ -1,0 +1,71 @@
+{
+  "event_id": "evt_26db9fda382091fe",
+  "verification_status": "verified",
+  "confidence": "0.98",
+  "canonical_event_name": "上交所对天合光能及董秘吴群予以监管警示",
+  "factual_description": "2026年2月13日，上海证券交易所科创板公司管理部出具自律监管措施决定书（上证科创公监函〔2026〕0015号），对天合光能股份有限公司及时任董事会秘书吴群予以监管警示。经上交所查明，2026年2月5日，天合光能在上证e互动平台回复投资者提问时表示“公司曾与SpaceX在其火箭发射场的地面光伏电站有合作关系”；经监管督促后，公司于当晚披露说明公告，澄清实际仅于2010年至2018年期间向北美区域客户Tesla Motors及其前身SolarCity累计供应775MW组件，此后未再开展合作，且截至当时未与SpaceX开展任何合作、未签署框架或正式协议、无在手订单。上交所认定天合光能在互动平台的回复内容与事实明显背离，未能如实反映实际情况，信息披露不完整、不准确，且未充分提示风险；时任董秘吴群未能勤勉尽责，对违规行为负有责任。",
+  "event_time": {
+    "start": "2026-02-13",
+    "end": "2026-02-13",
+    "precision": "day",
+    "evidence": "上海证券交易所于2026年2月13日发布监管警示决定书（上证科创公监函〔2026〕0015号）"
+  },
+  "locations": [
+    "中国/上海市/浦东新区/上海证券交易所",
+    "中国/江苏省/常州市/天合光能股份有限公司"
+  ],
+  "aliases": [
+    "上交所对天合光能及有关责任人予以监管警示",
+    "天合光能及董秘吴群收上交所监管警示函",
+    "天合光能因SpaceX合作误导性回复被监管警示"
+  ],
+  "retrieval_queries": [
+    "天合光能 上交所 监管警示 吴群",
+    "天合光能 SpaceX 上证e互动 警示",
+    "上交所 天合光能股份有限公司 监管警示",
+    "上证科创公监函 2026 0015号 天合光能"
+  ],
+  "must_match_facts": [
+    "监管实施机构为上海证券交易所（科创板公司管理部）",
+    "处理对象包括天合光能股份有限公司及公司时任董事会秘书吴群",
+    "监管措施类别为监管警示",
+    "起因系2026年2月5日在上证e互动回复涉及与SpaceX合作的内容与实际情况明显背离"
+  ],
+  "exclude_if": [
+    "双良节能等其他光伏企业被上交所监管警示的事件",
+    "天合光能2022年及更早之前的监管工作函或监管问询函",
+    "涉及天合光能下属子公司的生态环保或海关行政处罚事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "关于对天合光能股份有限公司及有关责任人予以监管警示的决定",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN547lt4SahWxwhSnqNwc0aSzGy3ArAiZR6Te8CDIS-VjmrW0eAGhLeLive4CKqhNoAGjYpiesCzKAiYCpGxEvn_isdVZETy16JpobyThi2jmIebnonfgXB99MJCPbKqeuPb77FFt3UzERPJpdNDeHCI86Rh833q__M1mKzRzh42XidiLfvsuF3Z77hnwXK4VoAqAaGIYT5q7ZbbihZ6Uu_gWFKeLpCR0mcE4-7YxBvWVelg==",
+      "publisher": "上海证券交易所",
+      "published_at": "2026-02-13"
+    },
+    {
+      "title": "天合光能及董秘被上交所予以监管警示",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnM0G68Ph_qXWSs2Xwv8omgulvI4Z-sfT9-kN_IaOMTTDnzBPKz8NfInPabLJxpuhn8RTM6_QWjCr9xYKlUWp0m93k9VlMcTHaLPhMZIm8hBNgG5ivaqe86dVliLwYExBX4JQBbNHEitmxfScZqsR-KWippfVZUnGGH1Y=",
+      "publisher": "新浪财经",
+      "published_at": "2026-02-13"
+    },
+    {
+      "title": "天合光能被监管警示A股募166亿2025年预亏最高75亿",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGatWaiUMANKZVuO_POaDJJeioLJ4r2UGM3WhWrotwN-wBc2eFg6Xpd0A6dJFGhTcZ44MekSaILJQ5WgOzTeeWj-TXJbnBaZa8oOdm7ITZID5efGFVGMLi6ykwtmRV1g18-R0d4AWEICqQK-kmMRB9UWJLbF6iS",
+      "publisher": "中国经济网",
+      "published_at": "2026-02-22"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:06"
+}

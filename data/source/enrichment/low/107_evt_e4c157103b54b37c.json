@@ -1,0 +1,87 @@
+{
+  "event_id": "evt_e4c157103b54b37c",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "2026年珠江淮河等全国多流域春季禁渔期启动",
+  "factual_description": "2026年3月1日0时，我国多地重点内陆流域正式进入春季禁渔期。据农业农村部统一部署及相关通知，珠江、淮河、钱塘江、闽江及海南省内陆水域于2026年3月1日0时至6月30日24时实行春季禁渔期制度，为期4个月；在此期间，除娱乐性垂钓和休闲渔业外，禁止所有捕捞作业。与此同时，浙江省钱塘江等六大流域以及新疆巴音郭楞蒙古自治州博斯腾湖（我国最大内陆淡水湖，禁渔112天至6月20日）等水域也自同日起同步开启禁渔，旨在让水生生物在繁殖和生长季节休养生息，养护内陆水生生物资源。",
+  "event_time": {
+    "start": "2026-03-01",
+    "end": "2026-06-30",
+    "precision": "day",
+    "evidence": "农业农村部长江流域渔政监督管理办公室及地方通知明确，珠江、淮河、钱塘江、闽江及海南省内陆水域禁渔时间为2026年3月1日0时至6月30日24时。"
+  },
+  "locations": [
+    "中国",
+    "珠江流域",
+    "淮河流域",
+    "钱塘江流域",
+    "闽江流域",
+    "海南省",
+    "浙江省",
+    "新疆维吾尔自治区巴音郭楞蒙古自治州博斯腾湖"
+  ],
+  "aliases": [
+    "多流域今起开始春季禁渔 为期四个月",
+    "2026年多流域春季禁渔期",
+    "珠江淮河钱塘江闽江进入禁渔期",
+    "浙江八大水系禁渔",
+    "博斯腾湖进入全面禁渔期"
+  ],
+  "retrieval_queries": [
+    "多流域 3月1日 春季禁渔 为期四个月",
+    "珠江 淮河 钱塘江 闽江 禁渔期 2026",
+    "农业农村部 春季禁渔 3月1日 6月30日",
+    "浙江 钱塘江 八大流域 禁渔期 3月1日",
+    "博斯腾湖 禁渔期 3月1日 112天"
+  ],
+  "must_match_facts": [
+    "发生于2026年3月1日0时启动的内陆水域春季禁渔",
+    "核心水域包括珠江、淮河、钱塘江、闽江及海南省内陆水域",
+    "禁渔期限主要为期4个月（3月1日0时至6月30日24时）",
+    "禁渔期内禁止除娱乐性垂钓/休闲渔业外的所有捕捞作业"
+  ],
+  "exclude_if": [
+    "长江干流及重要支流常年实行的“十年禁渔”阶段性回顾",
+    "每年5月1日开始的海洋伏季休渔期（南海、东海、黄渤海休渔）",
+    "每年4月1日启动的黄河流域禁渔期",
+    "2025年及更早年份的历年春季禁渔历史报道"
+  ],
+  "source_evidence": [
+    {
+      "title": "珠江、淮河、钱塘江、闽江及海南内陆水域今起进入春季禁渔期",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXi9SnPl-_fP4ByeAz6m6dUWHifG0CFEbbe1CZ-AxrdVXjz4SZs0QD2vIeuC5mdPvpXZbzAbWAXpJjGRt2f6V79EjzHcl7EBbDZ1Mh6ypnguStKShgO_ASdjbupv5zZC8K3BZvAslKwO94EhY9WwLzM6ppXUnM",
+      "publisher": "央广网",
+      "published_at": "2026-03-01"
+    },
+    {
+      "title": "珠江、淮河、钱塘江、闽江及海南省内陆水域进入春季禁渔期",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP-CMHGNQ5c0aYfrNsBzqoVsOLdXTvb3CFNEhPj1XyVzt6IQps_a0_hjSF-m_aGcYIIsYoSytdrEWprOOcOsYKSlCfu9Jo_2aKQBMNwE92ZWbppenleqckpOBRx8GUtehylt-orjc7pHYZvoyMqvPbMREQ",
+      "publisher": "人民网",
+      "published_at": "2026-03-02"
+    },
+    {
+      "title": "[共同关注]多流域今起开始春季禁渔为期四个月",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4xdQKgzNj-O8RiwBDS7L9dDXNggnO7RmAH-FJrRTCX2n5QURKG8UIoCwd0F9Av3mQRuyjgKTCeKpDFv9B4GFm888LXQEuoofktGq9zN8ZaDDXrShpg8FUfyd2jH180E1oQoXKomVYBIW5GyVr3rR-6byRswIZQDu2",
+      "publisher": "央视网（CCTV-13）",
+      "published_at": "2026-03-01"
+    },
+    {
+      "title": "我国最大内陆淡水湖进入新一年禁渔期",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmzLGscWCXcgwaqi2-A1swWdMLFlfhVmpebrXHYpwl2Mtc1QTIXZcOQ3uQm5EtL-6pTKhbWWTgKtaeYHKznRB_aKfFhEIeM6M_mX1dsYdDlhipd2JMX1X2c80SgFW-JAB9bpY3veam6mnBwNJr7FWB-uv2mXYWC6EV88TzKrLmDQ==",
+      "publisher": "新华网",
+      "published_at": "2026-03-01"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:52"
+}

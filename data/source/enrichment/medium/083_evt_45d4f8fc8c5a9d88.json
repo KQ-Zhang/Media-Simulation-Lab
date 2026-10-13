@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_45d4f8fc8c5a9d88",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "2026年7月4日云南大理州宾川县连续发生地震",
+  "factual_description": "2026年7月4日下午，云南省大理白族自治州宾川县在约一个半小时内接连发生多次地震。据中国地震台网正式测定，当天17时00分宾川县发生3.4级地震（震源深度10千米）；17时33分发生4.4级地震（震源深度10千米）；18时07分发生4.3级地震（震源深度10千米）；18时28分再次发生4.3级地震（震源深度10千米）。其中1小时内接连发生3次4级以上地震，当地震感明显。地震发生后，中国地震局启动地震四级应急响应，调度云南省地震局等部门开展应急处置与会商研判；中国铁路昆明局集团有限公司启动应急响应，对大理东至洱海、洱海至西邑等区间实施线路设备巡查封锁，造成途经大理往返昆明、丽江、香格里拉方向的部分旅客列车出现不同程度晚点。",
+  "event_time": {
+    "start": "2026-07-04",
+    "end": "2026-07-04",
+    "precision": "day",
+    "evidence": "中国地震台网正式测定，2026年7月4日17时00分至18时28分期间接连测定3.4级、4.4级、4.3级、4.3级地震"
+  },
+  "locations": [
+    "中国/云南省/大理白族自治州/宾川县"
+  ],
+  "aliases": [
+    "云南宾川1小时发生3次四级以上地震",
+    "云南大理宾川连发4次地震",
+    "7·4大理宾川地震",
+    "大理州宾川县4.4级地震",
+    "云南宾川震群"
+  ],
+  "retrieval_queries": [
+    "云南 宾川 1小时 3次 地震",
+    "大理 宾川 4.4级地震 4.3级",
+    "宾川 7月4日 地震 中国地震局 四级应急响应",
+    "大理 宾川 17时33分 4.4级"
+  ],
+  "must_match_facts": [
+    "发生时间为2026年7月4日傍晚（17时至18时许）",
+    "发生地点位于云南省大理州宾川县（震源深度约10千米）",
+    "1小时内接连发生3次4级以上地震（包括1次4.4级和2次4.3级地震，此前还有一次3.4级地震）",
+    "中国地震局启动地震四级应急响应",
+    "国铁昆明局启动应急响应并封锁大理相关区间巡检导致列车晚点"
+  ],
+  "exclude_if": [
+    "2021年5月云南大理州漾濞县6.4级地震",
+    "2013年3月云南大理州洱源县地震",
+    "发生在四川、新疆等其他省份的连续地震",
+    "年份明确为2023年或其他年份的宾川历史地震"
+  ],
+  "source_evidence": [
+    {
+      "title": "云南大理州宾川县发生4.4级地震，震源深度10千米",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-bDsJlE89y-sHidpBnK6en8St18LkURBYmdjvoUwq0Q0G-S9ik-_LRZU9mFmbdmv_ZscwEYiRQF8G3yZ2i9LqwOtx1C61HDXLxhYv0pJNb_SmXRfJvYqDa2xQrq03Pqq6coqNEUnpG7N_2gNgDU6dTnyglDYifAurK3g=",
+      "publisher": "央视网",
+      "published_at": "2026-07-04"
+    },
+    {
+      "title": "云南宾川1小时发生3次四级以上地震，影响如何？最新情况",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFnJlgpaO-gF9SNVJXbkcZ1SzoqKbeP1V3WaB0IYBLmzDzven07DN-fH84rnWJOgLyIR9V8SdUAH325Pwwd1riZvn2r4mlcP5kCLu39g6UO__CllHHeMR6R2tmX90iSTs1IT5f4Gd14glw67DHD3w=",
+      "publisher": "中国新闻网",
+      "published_at": "2026-07-04"
+    },
+    {
+      "title": "突发！一小时内3次地震！云南大理连发4.4级、4.3级",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5vgrhFwID2q2-cvdx8u2MBLOFjRWFDPxwOTagz-zrkpJ1ZWPVy6PEc6jpJnbfOwWeYPybOKSwC5_xHYS3UihoCtgYuRrlwHJXaoNZkyDSGaaW4SPmvr7YN7A6z7ZOo7qmvZNtD7HLbQ==",
+      "publisher": "新湖南（引自人民日报、中国地震台网）",
+      "published_at": "2026-07-04"
+    }
+  ],
+  "uncertainties": [
+    "输入样本的现有描述将发生年份误写为2023年7月4日，经官方台网及主流媒体报道核实，实际发生时间为2026年7月4日"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:10"
+}

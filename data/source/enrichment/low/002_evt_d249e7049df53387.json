@@ -1,0 +1,75 @@
+{
+  "event_id": "evt_d249e7049df53387",
+  "verification_status": "verified",
+  "confidence": "0.95",
+  "canonical_event_name": "2026北京仲夏电影嘉年华启动仪式",
+  "factual_description": "2026年8月1日晚，作为第38届大众电影百花奖重要配套活动的“京彩百花 全城绽放——2026北京仲夏电影嘉年华”在北京市东城区隆福寺南广场正式启动。北京市委宣传部副部长兼北京市电影局局长霍志静、东城区委常委兼宣传部部长王智勇、中国影协副主席尹力等人出席并致辞。嘉年华旨在迎接大众电影百花奖重回首届举办地北京，通过全市16区与北京经济技术开发区全域联动展开40余项光影活动。活动联合猫眼和淘票票两大平台发放2000万元夏季惠民观影补贴；在隆福寺、798艺术园区、蓝色港湾等12个核心场地推出53场露天电影放映并增设深夜场次；在全市设置16个百花奖“超现场”点位；联动40余个商圈与1100余家商户发展票根经济，并打造隆福潮集等13个光影特色市集。启动仪式当晚还举办了经典影片《我的九月》映前交流活动及嘉年华首场露天放映。",
+  "event_time": {
+    "start": "2026-08-01",
+    "end": "2026-08-01",
+    "precision": "day",
+    "evidence": "2026年8月1日晚，“京彩百花 全城绽放——2026北京仲夏电影嘉年华”在东城区隆福寺南广场正式启动。"
+  },
+  "locations": [
+    "中国/北京市/东城区/隆福寺南广场"
+  ],
+  "aliases": [
+    "京彩百花 全城绽放——2026北京仲夏电影嘉年华启动仪式",
+    "2026北京仲夏电影嘉年华开幕",
+    "北京仲夏电影嘉年华启动仪式"
+  ],
+  "retrieval_queries": [
+    "2026北京仲夏电影嘉年华",
+    "京彩百花 全城绽放 启动仪式",
+    "北京仲夏电影嘉年华 隆福寺",
+    "第38届大众电影百花奖 仲夏电影嘉年华",
+    "霍志静 2026北京仲夏电影嘉年华",
+    "隆福寺南广场 露天电影 2026",
+    "百花奖 2000万元 惠民观影补贴"
+  ],
+  "must_match_facts": [
+    "时间为2026年8月1日晚，地点在北京市东城区隆福寺南广场",
+    "活动全称包含‘京彩百花 全城绽放——2026北京仲夏电影嘉年华’",
+    "为第38届大众电影百花奖在北京举办的配套惠民文化活动",
+    "宣布联合猫眼、淘票票投入2000万元夏季惠民观影补贴",
+    "现场举办经典电影《我的九月》映前交流及首场露天电影放映"
+  ],
+  "exclude_if": [
+    "2026年8月10日第38届大众电影百花奖颁奖典礼暨闭幕式主体活动",
+    "2024年于成都举行的第37届大众电影百花奖",
+    "北京国际电影节相关活动",
+    "北京世界公园或园博园举办的京彩新春彩灯嘉年华"
+  ],
+  "source_evidence": [
+    {
+      "title": "“京彩百花全城绽放——2026北京仲夏电影嘉年华”正式启动",
+      "url": "https://static.bjd.com.cn/dams-res/editing/image/202608/02/6a6eb9fad5de2b42091e266b.jpg",
+      "publisher": "北京日报客户端",
+      "published_at": "2026-08-02"
+    },
+    {
+      "title": "京彩百花全城绽放——2026北京仲夏电影嘉年华活动指南",
+      "url": "https://www.bjdyj.gov.cn/zwxx/hyzx/4ca0c75acd2349bcb81c7cea36d725d6/8ccb5c35fc3a46fab17ca6f9e9a2a774.png",
+      "publisher": "北京市电影局",
+      "published_at": "2026-08-09"
+    },
+    {
+      "title": "“京彩百花全城绽放——2026北京仲夏电影嘉年华”启动",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhtzjC_zJCxpgYLgO6wfcAdDt-9UNf5e0xKKqCNPsvV4MBmTjZx9FnOafm1DZlgFOlZq7yEeLfeDTfph_up8Jn9KKR3-WZ4CQs_7E698XL2OhUv_HXgQe8LWE0Zii4lzYx",
+      "publisher": "央广网",
+      "published_at": "2026-08-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:54:11"
+}

@@ -1,0 +1,69 @@
+{
+  "event_id": "evt_1ec1129e2782fb2c",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "“十五五”规划纲要草案提出鼓励对3岁以下婴幼儿父母实行弹性工作制",
+  "factual_description": "2026年3月5日，十四届全国人大四次会议在北京开幕，《中华人民共和国国民经济和社会发展第十五个五年规划纲要（草案）》（“十五五”规划纲要草案）提请大会审查。新华社、人民日报等主流媒体同日公布该草案要点。在部署完善生育支持政策章节中，草案明确提出：发挥育儿补贴和婴幼儿照护、子女教育个人所得税专项附加扣除政策作用，探索建立补贴标准动态调整机制；扩大生育保险制度覆盖面，合理提升产前检查医疗费用保障水平，基本实现政策范围内住院分娩个人“无自付”，将适宜的分娩镇痛项目纳入保障范围；全面落实生育休假制度，鼓励用人单位对3岁以下婴幼儿父母职工实行弹性工作制。该内容公布后迅速在全网引发热议，全国两会代表委员也围绕弹性工作制的政策落地、企业成本分担等话题展开深入研讨呼吁。",
+  "event_time": {
+    "start": "2026-03-05",
+    "end": "2026-03-13",
+    "precision": "day",
+    "evidence": "2026年3月5日，“十五五”规划纲要草案提请十四届全国人大四次会议审查，媒体于当日发布草案中关于鼓励对3岁以下婴幼儿父母实行弹性工作制等部署；3月13日新华社受权发布纲要全文。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "十五五规划纲要草案鼓励婴幼儿父母弹性工作制",
+    "建议推行婴幼儿父母弹性上下班",
+    "鼓励对3岁以下婴幼儿父母实行弹性工作制"
+  ],
+  "retrieval_queries": [
+    "十五五 规划纲要草案 3岁以下婴幼儿父母 弹性工作制",
+    "鼓励用人单位对3岁以下婴幼儿父母职工实行弹性工作制",
+    "十五五规划草案 生育支持 弹性工作制",
+    "十四届全国人大四次会议 规划纲要草案 婴幼儿父母"
+  ],
+  "must_match_facts": [
+    "事件发生于2026年3月全国两会期间",
+    "载体为提请全国人大审查的“十五五”规划纲要草案",
+    "适用对象为3岁以下婴幼儿父母职工",
+    "政策举措包含全面落实生育休假制度并鼓励用人单位实行弹性工作制"
+  ],
+  "exclude_if": [
+    "2026年以前“十四五”规划时期或更早出台的地方性常规弹性工作制政策",
+    "仅讨论某单一地方省份或企业单独设立妈妈岗、育儿假且不涉及十五五规划纲要草案的新闻"
+  ],
+  "source_evidence": [
+    {
+      "title": "鼓励对3岁以下婴幼儿父母实行弹性工作制！“十五五”规划纲要草案提出",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-rtvnszw711aGIpyoUzzQ2v6fTLUPjyLC9ha176nVYm1SsDGkTn2nLmvopwqPny9gWJnQm-4guxou4qNA008jWpoGYpdtbesYj0iE_poG9HDlCRt4sVrcaBlad05j1ex8IhsHVZzGX50se9ezpxT962jkChmv",
+      "publisher": "人民日报（泉州网转载）",
+      "published_at": "2026-03-05"
+    },
+    {
+      "title": "两会受权发布丨中华人民共和国国民经济和社会发展第十五个五年规划纲要",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHf4oXTQ5oKt75TQMGNvG-Vs4KINDHyeQQxt2LRCS1kqWeyqX99PwRAIIGf2TSZjVSMWIXMjZ_nH7OTpmzEGsCwLZ9WbmZ-bEg8U-vVvLDjQY-VMSu_AmQRX870PVrqFEEiH6N7eoBSfXWJ8DKsj4TlUNU3eGXMYn-t8jx5ONW3ICUOvA==",
+      "publisher": "新华网",
+      "published_at": "2026-03-13"
+    },
+    {
+      "title": "“十五五”规划纲要草案提出：鼓励单位对3岁以下婴幼儿父母实行弹性工作制！涉生育支持、免费教育等",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjVYtSqZg64xTSQjtmfpVNtkNuH3yHzSRGOJ5tealBqrkjxQ_8gm50wKlNqxK4IU8P6U0ElLXyo2-Iv4ZC3gXpGDpM-w6Ij1uz0yPhiqOOSrIHhKhAYyNlsy2b",
+      "publisher": "川观新闻",
+      "published_at": "2026-03-05"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:10"
+}

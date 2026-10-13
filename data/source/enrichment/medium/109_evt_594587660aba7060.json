@@ -1,0 +1,76 @@
+{
+  "event_id": "evt_594587660aba7060",
+  "verification_status": "verified",
+  "confidence": 0.98,
+  "canonical_event_name": "新修订《中华人民共和国行政复议法实施条例》公布施行并明确开除学籍退学等纳入复议范围",
+  "factual_description": "2026年4月17日，国务院第83次常务会议修订通过《中华人民共和国行政复议法实施条例》，4月29日由国务院总理李强签署第836号国务院令予以公布，自2026年7月1日起正式施行。2026年5月20日，央视新闻等媒体针对该条例中涉及高校学生权益救济的重点条款进行解读报道，引发社会广泛关注。该条例第九条系统细化了行政复议受理范围，明确将‘对教育行政部门就学校开除学籍和退学处理决定作出的申诉处理决定不服’以及‘对学位授予单位不受理学位申请、不授予学位或者撤销学位行为不服’正式纳入行政复议范围；同时首次确立了相关程序规则，规定对学生开除学籍和退学处理的，应当先由学校作出决定，学生不服的可向教育行政部门提出申诉，对教育行政部门作出的申诉处理决定仍不服的，才可依法申请行政复议，从而建立了学校自主管理、教育行政部门监督与行政复议救济相衔接的制度规则。",
+  "event_time": {
+    "start": "2026-04-29",
+    "end": "2026-07-01",
+    "precision": "day",
+    "evidence": "2026年4月29日李强签署第836号国务院令公布条例，2026年5月8日全文播发，5月20日央视新闻重点报道引发热议，条例自2026年7月1日起施行。"
+  },
+  "locations": [
+    "中国/北京市"
+  ],
+  "aliases": [
+    "行政复议法实施条例修订公布施行",
+    "学校开除学籍退学纳入行政复议新规",
+    "行政复议法实施条例第九条修改",
+    "开除学籍退学不授予学位纳入复议范围",
+    "新修订行政复议法实施条例7月1日起施行"
+  ],
+  "retrieval_queries": [
+    "行政复议法实施条例 开除学籍",
+    "国务院令第836号 行政复议法实施条例",
+    "学校开除学生学籍 行政复议",
+    "不授予学位 撤销学位 行政复议",
+    "行政复议法实施条例 7月1日起施行",
+    "开除学籍 退学处理 申诉 行政复议"
+  ],
+  "must_match_facts": [
+    "国务院总理李强签署第836号国务院令公布修订后的《中华人民共和国行政复议法实施条例》",
+    "条例于2026年7月1日起正式施行",
+    "条例明确对教育行政部门就学校开除学籍和退学处理决定作出的申诉处理决定不服可申请行政复议",
+    "条例明确对学位授予单位不受理学位申请、不授予学位或者撤销学位行为不服可申请行政复议",
+    "确立对学生开除学籍退学处理经校内决定、教育行政部门申诉后再申请行政复议的程序规则"
+  ],
+  "exclude_if": [
+    "2023年全国人大常委会修订《中华人民共和国行政复议法》的立法审议事件",
+    "2007年原《中华人民共和国行政复议法实施条例》初次公布施行",
+    "《中小学教育惩戒规则（试行）》等具体学校惩戒规范出台事件",
+    "学生起诉高校不授予学位或开除学籍的个案司法审判案件"
+  ],
+  "source_evidence": [
+    {
+      "title": "受权发布丨中华人民共和国国务院令第836号",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx6up8NwOXd7Z3qKPktoGy3aZpfgxggVg7e65PNJZHezjoL-hv8Z2_EVlGhyI9UBSmVjRw-crFPrHtdW3D98tP6cVg94rhw1vLadLixmJ_4CcxoFhyV6nTDeI_-Rkh3Okp8mRWYEBJvezBlo3GolJ7gYKOKTOLGR35SA==",
+      "publisher": "新华网",
+      "published_at": "2026-05-08"
+    },
+    {
+      "title": "李强签署国务院令公布修订后的《中华人民共和国行政复议法实施条例》",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWYmEiDTExF1FDkzHG62nabpMEkF1zdCJf-9HD4-phkdc8_QdHscqn6LKN5XfVJ7wT_UjHQ5qUYnHKdcMqk5N4f-Phh9DIuMctjwza8ytFlndtM5rKKf1q6mSpb0_X8-M9gfQha9QEKv50jRTT7o4WuFUdmja7MafEHabnlDW0AjN5nGxXHw==",
+      "publisher": "中华人民共和国司法部",
+      "published_at": "2026-05-08"
+    },
+    {
+      "title": "7月1日起，学校开除学生学籍等行为将被纳入可行政复议范围",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6RX2wtiY8uXmrqY2eQVGKtCMK5I2Hfb43dyzQ6CDEPOqr2DO3qbLnSPv37mTLPpgBw0LVA-10LgSTwYq4LsK0h-4LNwyN3qk6jVjUx_sft4EaJm9qukt3w7qDLWDY-AxtuewJWXIlRE7ILL6tJUHepnxi2JlvdpUkf7Q=",
+      "publisher": "央视新闻",
+      "published_at": "2026-05-20"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:56:54"
+}

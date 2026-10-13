@@ -1,0 +1,73 @@
+{
+  "event_id": "evt_3ba82be0f85e73ce",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "“千金之家——马王堆汉墓的生活美学及养成”国宝艺术大展在上海中华艺术宫开展",
+  "factual_description": "2026年7月3日，第37届上海旅游节暑期旅游季文博遗韵板块重磅展览“千金之家——马王堆汉墓的生活美学及养成”国宝艺术大展在中华艺术宫（上海美术馆）正式启幕并对公众开放，展期持续至10月7日。该展由上海市文化和旅游局、湖南省文化和旅游厅等指导，上海美术馆、湖南省博物馆、《旅游时报》社联合主办。此次展览是马王堆汉墓考古发掘50余年来湖南省外展出规模最大、等级规格最高的一次精品大展，共甄选195件（套）展品（合计472件），其中一级文物31件（套），包含马王堆一号墓T形帛画、油彩双层长方形漆妆奁、帛书《周易》（局部）等禁止出国（境）展览顶级国宝。展出期间，马王堆一号墓T形帛画与三号墓T形帛画采取前后接力形式亮相，同时多件珍贵织绣、漆器属首次展出或首次离开湖南外展。",
+  "event_time": {
+    "start": "2026-07-03",
+    "end": "2026-10-07",
+    "precision": "day",
+    "evidence": "展览于2026年7月3日在中华艺术宫（上海美术馆）正式开幕并对公众开放，展期持续至2026年10月7日。"
+  },
+  "locations": [
+    "中国/上海市/浦东新区/中华艺术宫（上海美术馆）"
+  ],
+  "aliases": [
+    "千金之家——马王堆汉墓的生活美学及养成",
+    "中华艺术宫马王堆国宝艺术大展",
+    "上海美术馆马王堆大展",
+    "马王堆汉墓生活美学大展上海站",
+    "马王堆国宝帛画上海首展"
+  ],
+  "retrieval_queries": [
+    "千金之家 马王堆汉墓的生活美学及养成",
+    "马王堆 中华艺术宫 2026",
+    "马王堆大展 上海美术馆 7月3日",
+    "千金之家 国宝艺术大展 上海",
+    "马王堆 帛画原件 上海首展"
+  ],
+  "must_match_facts": [
+    "展览名称为“千金之家——马王堆汉墓的生活美学及养成”国宝艺术大展",
+    "展出地点位于中华艺术宫（上海美术馆）",
+    "展览开幕时间为2026年7月3日，闭幕时间为2026年10月7日",
+    "展出马王堆汉墓出土文物195件（套），包含一号墓和三号墓T形帛画等重磅国宝"
+  ],
+  "exclude_if": [
+    "非中华艺术宫（上海美术馆）举办的马王堆主题展览",
+    "2026年以前在上海其他展馆（如上海博物馆等）举办的马王堆文物展",
+    "仅在湖南博物院本馆举行的常设或临时展出"
+  ],
+  "source_evidence": [
+    {
+      "title": "上海：“马王堆大展”亮相中华艺术宫",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcYRIO1EuwmYXHbhjX7i9TzxUtAYloi8kALHJ8TIV2NhWbcWdLbYbakxNMoKWlZOacGR7toGSZkMo7Pf-bi_buBqU-TtrYQErX1yTjq1mvmL9h7QqCW1Cp6vr72-nbM5OvLt-3pOH4JiDOv44VrlQFiLpnDohV2UtS9Cn66g==",
+      "publisher": "中国日报网",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "马王堆汉墓规模最大、等级规格最高省外展出“千金之家”邀你体验汉韵美学",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHT34H-yqyzatkzPYfSpQjehBpVrTf2xU_5mibDRM7QMewFF-qpbAd7SxGR_itc9IYbR2H-UlAScG8QaKExyizbouDRsMHVULs_k2acUQyVac6dbGEu8_REPwY2B0tbBg5vOGRabO1wpU4BsUvfenloMvEQ5WN1LL637coBq9xWEHjzLkqHdw==",
+      "publisher": "上海市人民政府（转自解放日报）",
+      "published_at": "2026-07-03"
+    },
+    {
+      "title": "“千金之家”马王堆大展登陆上海，西汉美学沉浸式体验启幕",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyhWa9F2mhHTXdsZz6z-lDjCbZHZaoQh7jTqgObrCUpP9_DJAq_SHRPwsNCKTmhL8roCddgMQgxyU-eN5gNvuw9lncK7VD4Qy5GIxgRfgvYRo0Giza9wt14EDGrPd1FviPuic=",
+      "publisher": "上观新闻",
+      "published_at": "2026-07-03"
+    }
+  ],
+  "uncertainties": [],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:55:21"
+}

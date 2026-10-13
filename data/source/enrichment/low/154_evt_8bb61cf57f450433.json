@@ -1,0 +1,78 @@
+{
+  "event_id": "evt_8bb61cf57f450433",
+  "verification_status": "verified",
+  "confidence": 0.95,
+  "canonical_event_name": "中国足球小将参加2026年荷兰ISR精英杯并获第四名",
+  "factual_description": "2026年6月5日至7日，第4届荷兰ISR精英杯U16国际足球邀请赛在荷兰兹沃勒举行，共有12支欧洲及亚洲俱乐部青少年梯队参赛。董路创办并率领的民间青训项目“中国足球小将”（由2009/2010年龄段球员混编组成）受邀参赛。在短赛制（每场约30分钟）对抗中，中国足球小将小组赛取得3胜2平且0失球，以小组头名晋级；在六强循环赛中分别战平葡萄牙本菲卡与捷克布拉格斯巴达，实现前7场比赛常规时间零封并闯入四强。在随后的淘汰赛中，中国足球小将半决赛以0比1惜败于荷甲阿尔克马尔，在季军争夺战中以1比2不敌本菲卡，最终获得赛事第四名（殿军）。赛后，中国足球小将官方及董路通过社交媒体发文总结，表示“中国孩子也能在世界舞台上挺直腰板踢球”，并宣布球队随后启程前往巴西与墨西哥继续拉练。",
+  "event_time": {
+    "start": "2026-06-05",
+    "end": "2026-06-07",
+    "precision": "day",
+    "evidence": "维基百科赛事记录及《北京青年报》等报道显示，该届荷兰ISR精英杯于2026年6月5日至7日举行，中国足球小将全部赛程于6月7日结束。"
+  },
+  "locations": [
+    "荷兰/上艾瑟尔省/兹沃勒/ZAC球场"
+  ],
+  "aliases": [
+    "中国足球小将获荷兰U16精英杯第四名",
+    "中国足球小将荷兰ISR精英杯获殿军",
+    "中国足球小将荷兰杯第四名",
+    "中国足球小将7战0失球晋级荷兰杯四强"
+  ],
+  "retrieval_queries": [
+    "中国足球小将 荷兰精英杯",
+    "中国足球小将 荷兰 ISR",
+    "中国足球小将 荷兰杯 第四名",
+    "董路 荷兰U16精英杯",
+    "中国足球小将 阿尔克马尔 荷兰杯",
+    "中国足球小将 7战0失球 荷兰",
+    "中国足球小将 挺直腰板踢球 荷兰",
+    "ISR Elite U-16 Cup 中国足球小将"
+  ],
+  "must_match_facts": [
+    "参赛主体为董路创办并率领的中国足球小将（09/10混编梯队）",
+    "赛事为在荷兰举办的ISR精英杯（U16邀请赛）",
+    "事件发生于2026年6月上旬",
+    "中国足球小将最终取得第四名（殿军）",
+    "半决赛中国足球小将以0-1负于阿尔克马尔"
+  ],
+  "exclude_if": [
+    "中国足球小将参加意大利SIGISMONDI杯（U12组夺冠）",
+    "中国U16国家男子足球队在呼和浩特参加国际锦标赛",
+    "2025年及之前年份的中国足球小将荷兰拉练事件"
+  ],
+  "source_evidence": [
+    {
+      "title": "中国足球小将获荷兰精英杯第四名，转战巴西继续锻炼队伍",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx2sel8Hj8ycRC_3QTNIAD5kc0xGbGM3wNVvhHU_WuP6aj95RvXIXrlnL6zn8Hf9Pb7V0iEsAZ9TRl85sN3cvCnaLUKOB8FRBZxPD0f6ThYf85fSlTsDk9wV5-VPx1KbLMh5yCwwn0C24=",
+      "publisher": "北京青年报（北青网）",
+      "published_at": "2026-06-08"
+    },
+    {
+      "title": "两天270分钟鏖战，中国足球小将荷兰ISR杯获殿军",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxzpA4omnqdalkkLFZFjrRR0Uax_95yJrTBy1hNhSoEeyuelo0z-pruZXfTuYeK3200jw2Q352qa53uHvcr-s4qc3GP1upg-Zh-41IDQ4PmEjHhysMwsn_OOYI60Yi_KM=",
+      "publisher": "腾讯新闻",
+      "published_at": "2026-06-07"
+    },
+    {
+      "title": "2026年ISR精英U-16杯",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHODGYlnSqTyYelo9mkpsfkxMyOGxv4Rpd9hSfDqY7fUukWWHA_LUjHSgNUEVGxw2D1aU5nCytBHdYog3VYObb3vGl70GRA35eltwmVgYWuBOhlvSNKcO47nLxJtiuc49gFHTn1V3Fmlkje2upP4hN1dJU60AUqkGGajcPfgTk8MdaG",
+      "publisher": "维基百科",
+      "published_at": "2026-06-07"
+    }
+  ],
+  "uncertainties": [
+    "失球数据统计存在早期报道表述差异：部分媒体在半决赛后概括称“9场比赛仅失1球”，实际战报显示前7场零封，半决赛0-1阿尔克马尔，三四名决赛1-2本菲卡，赛事总失球应为3球。"
+  ],
+  "reporting_time_range": {},
+  "people": [],
+  "organizations": [],
+  "trigger": "",
+  "key_actions": [],
+  "outcome_and_status": "",
+  "timeline": [],
+  "optional_supporting_facts": [],
+  "distinctive_entities": [],
+  "api_model": "gemini-3.8-flash",
+  "generated_at": "2026-09-18 03:58:01"
+}
